@@ -1,160 +1,395 @@
-%%%  TeX-engine: xetex
-
-\documentclass[UTF8]{ctexart}
+\documentclass[answers]{exam}
+\usepackage{xeCJK}
+\usepackage{amsmath}
+\usepackage{amssymb}
 \usepackage{ulem}
 \usepackage{tikz}
-
+\usepackage{tkz-euclide}
 \title{七年级上数学错题整理}
 
 \newcommand\degree{^\circ}
+\renewcommand{\solutiontitle}{\noindent\textbf{解：}\par\noindent}
+\everymath{\displaystyle}
+\usetkzobj{all}
 
 \begin{document}
 \maketitle
-\tableofcontents
 
 \section{重要考试}
 
+\subsection{七年级阶段性诊断1}
+
+\begin{questions}
+\question
+下列说法中，正确的有\fillin
+  
+\begin{oneparchoices}
+  \choice $\frac{3 \pi xy}{5}$的系数是$\frac{3}{5}$；
+  \correctchoice $-2^2ab^2$的次数是$5$；
+  \choice 多项式$mn^2+2mn-3n-1$的次数是$3$；
+  \choice $\pi - b$和$\frac{xy}{2}$都是整式。
+\end{oneparchoices}
+
+\question
+阅读理解题
+
+定义:
+如果一个数的平方等于$-1$,记为$i^2=-1$,这个数叫做虚数单位。
+那么和我们所学的实数对应起来就叫做复数,表示为$a+bi$(a,b为实数),$a$叫这个复数的实部,$b$叫做这个复数的虚部,
+它的加,减,乘法运算与整式的加,减,乘法运算类似。
+
+例如计算: $(2+i) + (3-4i)=5-3i$
+
+\begin{parts}
+\part
+填空: $i^3=$\fillin[$-i$]，$i^4=$\fillin[$1$]
+
+\part
+
+  
+\end{parts}
+
+\end{questions}
+
 \subsection{七年级期中} 
 
-\begin{enumerate}
-\item 如果关于x的不等式组$\begin{cases} m-4x>4 \\ x-\frac{11}{2}<3(x+\frac{1}{2}) \end{cases} $有且仅有三个奇数解，且关于x的方程式$\frac{2-mx}{2-x}-\frac{30}{x-12}=13$有非负数解，则符合条件的所有整数m的和是（     )
+\begin{questions}
+\question
+如果关于x的不等式组$ \begin{cases} m-4x>4 \\ x-\frac{11}{2}<3(x+\frac{1}{2}) \end{cases} $有且仅有三个奇数解，
+且关于x的方程式$ \frac{2-mx}{2-x}-\frac{30}{x-12}=13$有非负数解，
+则符合条件的所有整数m的和是\fillin
 
-   A. 15
-   B. 27
-   C. 29
-   D. 42
+\begin{oneparchoices}
+  \choice 15
+  \choice 27
+  \correctchoice 29
+  \choice 42
+\end{oneparchoices}
 
-\item 若$ 2^m=a,32^n=b $ , m、n为正整数，则$2^{3m-10n}$=\underline{\quad\quad}
+\question
+若$ 2^m=a,32^n=b $ , m、n为正整数，则$ 2^{3m-10n}$=\fillin[$ \frac{a^3}{b^2}$]
 
-\item A是关于x的二次整式，且二次项系数为1，A与多项式$(x+2)$相乘后的结果为两项的多项式，则A=\underline{\quad}
+\question
+A是关于x的二次整式，且二次项系数为1，A与多项式$(x+2)$相乘后的结果为两项的多项式，则A=\fillin[$x^2-2x$或$x^2$或$x^2-2x+4$]
 
-\item 若关于x的方程$\frac{2x+m}{x-1}=3$的解为正整数，则m的取值范围是\underline{\quad\quad\quad}
+\question
+若关于x的方程$\frac{2x+m}{x-1}=3$的解为正整数，则m的取值范围是\fillin[$m>-3$且$m \neq -2$]
 
-\item 我们知道，同底数幂的乘法为:$a^ma^n=a^{m+n}(其中a \neq 0, m,n为正整数)$，类似地我们规定关于任意正整数m，n的一种新运算：$h(m+n)=h(m)h(n)$，请根据这种新运算填空:
-   (1) 若$h(1)=\frac{2}{3}$，则$h{2}$=\underline{\quad\quad\quad}；
-   (2) 若$h(1)=k(k \neq 0)$，那么$h(n) \cdot h(2017)$=\underline{\quad\quad\quad}（用含n和k的代数式表示，其中n为正整数）。
+\question
+我们知道，同底数幂的乘法为:$a^ma^n=a^{m+n}(其中a \neq 0, m,n为正整数)$，
+类似地我们规定关于任意正整数m，n的一种新运算：$h(m+n)=h(m)h(n)$，请根据这种新运算填空:
+\begin{parts}
+  \part 若$h(1)=\frac{2}{3}$，则$h{2}$=\fillin；
+  \part 若$h(1)=k(k \neq 0)$，那么$h(n) \cdot h(2017)$=\fillin（用含n和k的代数式表示，其中n为正整数）。
+\end{parts}
 
-\item 已知a、b、c、n是互不相等的正整数，且$\frac{1}{a}+\frac{1}{b}+\frac{1}{c}+\frac{1}{n}$也是整数，则n的最大值是\underline{\quad\quad\quad\quad}
+\question
+已知$a$、$b$、$c$、$n$是互不相等的正整数，且$\frac{1}{a}+\frac{1}{b}+\frac{1}{c}+\frac{1}{n}$也是整数，则$n$的最大值是\fillin[42]
 
-\item 若一个自然数t能写成$t=x^2-y^2(x,y均为正整数，且x \neq y)$，则称t为“万象数”，x、y为t的一个万象分解，在t的所有万象分解中，若$\frac{x-y}{x+y}$最小，则称
+\question
+若一个自然数t能写成$t=x^2-y^2$($x$,$y$均为正整数，且$x \neq y$)，则称$t$为“万象数”，
+$x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{x-y}{x+y}$最小，则称$x$,$y$为$t$的一个万象分解，
+在$t$的所有万象分解中，若$\frac{x-y}{x+y}$最小，则称$x$，$y$为$t$的绝对万象分解，此时$F(t)=\frac{x}{y}$。
+例如：$32=9^2-7^2=6^2-2^2$，因为$\frac{9-7}{9+7}=\frac{1}{8}$,$\frac{6-2}{6+2}=\frac{1}{2}$,$\frac{1}{8}<\frac{1}{2}$，
+所以$9$和$7$为$32$的绝对万象分解，此时$F(32)=\frac{9}{7}$。
+若一个四位正整数，它的千位数字与个位数字相同，百位数字与十位数字相同，但四个数字不全相同，则称这个四位数位“博雅数”。例如$2001$，$4554$均为“博雅数”。
+若一个四位正整数$m$是“万象数”且能被$13$整除，“博雅书” $n$ 的前两位数字组成的两位数与后两位数字组成的两位数恰好是$m$的一个万象分解，
+则所有满足条件的数$m$中$F(m)$的最大值为\fillin[$\frac{64}{48}$]。
 
-\end{enumerate}
+\question
+把一张长方形纸先左右对折，再上下对折（记为对折 $2$ 次），然后再折叠着的角上剪刀，将纸展开后，纸的中间就剪出了一个洞。
+把一张纸按“先左右、再上下”的顺序对折$6$次后，再在折叠着的角上剪一刀，将这张纸展开，请动手操作，纸上会出现\fillin[16]个洞。
+
+\question
+因式分解：$16(6x-1)(2x-1)(3x+1)(x-1)+25$
+
+\begin{solution}
+  \[
+    \begin{aligned}
+      \mbox{原式}
+      & = 16(12x^2-8x+1)(3x^2-2X-1)+25{} \\
+      & = 16(4t+1)(t-1)+25 \\
+      & = 16(4t^2-3t=1)+25 \\
+      & = 64t^2-48t+9 \\
+      & = (8t-3)^2 \\
+      & = (24x^2 - 16x -3)^2
+    \end{aligned}
+  \]
+\end{solution}
+
+\question
+初中数学学习阶段,我们常常会利用一些变形技巧来化简式子,解答问题。
+
+材料一:在解决分式问题时,倒数法是常用的变形技巧之一,所谓倒数法,即把式子变成其倒数形式,从而运用约分化简,以达到计算的目的
+
+例,已知:$\frac{x}{(x^2+1)}=\frac{1}{4}$求代数式$x^2+\frac{1}{x^2}$的值。
+
+解:
+\[ Q \frac{x}{x^2+1}=\frac{1}{4},
+  \therefore \frac{x^2+1}{x}=4 \mbox{即} \frac{x^2}{x}+\frac{1}{x}=4,
+  \therefore x+\frac{1}{x}=4,
+  \therefore x^2+\frac{1}{x^2}=(x+\frac{1}{x})^2-2=14
+\]
+
+材料二:在解决某些连等是问题问题时,通常可以引入参数“k”,将连等式变成几个值为k的等式,
+这样就可以通过适当变形解决问题的值
+
+例:若$2x=3y=4z$,且$xyz \neq 0$,求$\frac{x}{y+x}$的值。
+
+解:
+\[
+  \mbox{令} 2x=3y=4z=k(k≠0),
+  \mbox{则} x=\frac{k}{2},y=\frac{k}{3},z=\frac{k}{4},
+  \therefore \frac{x}{y+z}=\frac{\frac{1}{2}k}{\frac{1}{3}k + \frac{1}{4}k}=\frac{\frac{1}{2}}{\frac{7}{12}}=\frac{7}{6}
+\]
+
+根据材料回答问题:
+
+\begin{parts}
+
+  \part
+  已知$\frac{x}{x^2-x+1}=\frac{1}{2}$，则$x+\frac{1}{x}=$\fillin[3]
+
+  \part
+  若$\frac{yz}{bz+cy}=\frac{zx}{cx+az}=\frac{xy}{ay+bx}=\frac{x^2+y^2+z^2}{a^2+b^2+c^2}$，$x \neq 0$，$y \neq 0$，$z \neq 0$，且$abc=5$，
+  求$xyz$的值
+
+  \begin{solution}
+    \[
+    \begin{split}
+      \frac{y}{bz+cy}=\frac{x}{cx+az} \\
+      \therefore \frac{bz+cy}{y}=\frac{cx+az}{x} \\
+      \therefore \frac{bz}{y}=\frac{az}{y}
+    \end{split}
+  \]
+  \end{solution}
+
+\end{parts}
+
+\end{questions}
 
 \subsection{七年级阶段性诊断2}
 
-\begin{enumerate}
+\begin{questions}
 
-\item 计算: $(x+y)(-x-y)$=\underline{\quad\quad\quad}
+\question
+计算: $(x+y)(-x-y)$=\fillin[$-x^2-2xy-y^2$]
 
-\item 解方程: $\frac{2x+2}{x+3}-\frac{5}{7}=\frac{x}{x+3}$
-   <br>
-   <br>
-   <br>
+\question
+解方程: $\frac{2x+2}{x+3}-\frac{5}{7}=\frac{x}{x+3}$
 
-\item 2019年下半年受各种因素的影响，猪肉市场价格不断上升。据调查10月份猪肉的价格是9月份猪肉价格的1.25倍。小英妈妈用50元钱在10月份购得的猪肉比在9月份购得的猪肉少0.4斤，求2019年9月份的每斤猪肉价格
-   <br>
-   <br>
-   <br>
-   <br>
+\begin{solution}
+\[
+\begin{aligned}
+  14x+14-5x-15 &= 7x \\
+  9x - 1 &= 7x \\
+  x &= \frac{1}{2} \\
+\end{aligned}
+\]
+经验算$x = \frac{1}{2}$为原方程的解
+\end{solution}
 
-\item 如图，在直角三角形$ABC$中,$\angle B=90^\circ$,点M、N分别在边BA、BC上，且$BM=BN$。
-   （1）画出直角三角形ABC关于直线MN堆成的三角形$A^`,B^`,C^`$；
-   （2）如果$AB=a,BC=b,BM=x$ 用a、b、x的代数式分别表示三角形$AMA^`$的面积$S_1$和四边形$AA^`C^`C$的面积$S$，并简化。
-   <br>
-   <br>
-   <br>
-   <br>
+\question
+2019年下半年受各种因素的影响，猪肉市场价格不断上升。
+据调查10月份猪肉的价格是9月份猪肉价格的1.25倍。
+小英妈妈用50元钱在10月份购得的猪肉比在9月份购得的猪肉少0.4斤，求2019年9月份的每斤猪肉价格
 
- \end{enumerate}
+\begin{solution}
+  \[
+\begin{aligned}
+  & \mbox{设9月每斤猪肉$x$元，则10月为$1.25x$元。} \\
+  & \begin{aligned}
+  \frac{50}{1.25x}+0.4 &= \frac{50}{x} \\
+  40 + 0.4x &= 50 \\
+  0.4x &= 10 \\
+  x &= 25 \\
+  \therefore \mbox{原方程的解为} x = 25
+  \end{aligned} \\
+  & \mbox{答: 9月份每斤猪肉为25元} \\
+  & \mbox{经验算，}x=25\mbox{为原方程的解，且符合题意}
+\end{aligned}
+\]
+\end{solution}
+
+\question 
+如图，在直角三角形$ABC$中,$\angle B=90^{\degree}$,点M、N分别在边BA、BC上，且$BM=BN$。
+  
+\begin{parts}
+\part 画出直角三角形ABC关于直线MN堆成的三角形$A'B'C'$；
+\part 如果$AB=a,BC=b,BM=x$ 用$a$、$b$、$x$的代数式分别表示三角形$AMA'$的面积$S_1$和四边形$AA'C'C$的面积$S$，并简化。
+\end{parts}
+
+\begin{center}
+\begin{tikzpicture}
+  \tkzDefPoint[label=$A$](0,4){A}
+  \tkzDefPoint[label=left:$B$](0,0){B}
+  \tkzDefPoint[label=right:$C$](2,0){C}
+  \tkzDefPoint[label=left:$N$](0,1){N}
+  \tkzDefPoint[label=below:$M$](1,0){M}
+  \tkzDrawPolygon(A,B,C)
+  \tkzDrawPoints[](A,B,C,M,N)
+\end{tikzpicture}
+\end{center}
+
+\begin{solution}
+  
+\begin{parts}
+\part
+如$\triangle A'B'C'$就是所需要的三角形
+
+\part
+\[
+\begin{aligned}
+  &
+  \begin{aligned}
+  S_{\triangle AMA}' &= \frac{ah}{2} \\
+  &= \frac{(a-x)^2}{2} \\
+  &= \frac{a^2-2ax+x^2}{2}
+  \end{aligned} \\
+  &
+  \begin{aligned}
+    S_{\Box AA'C'C} &= S_{\triangle AA'M} + S_{\triangle CNC'}+2S_{\triangle ABC}-S_{\Box MBNB'} \\
+    &= \frac{(a-x)^2}{2} + \frac{(b-x)^2}{2} + ab - x^2 \\
+    &= \frac{a^2 + 2x^2 + b^2 - 2x^2 +2ab - 2ax - 2bx}{2} \\
+    &= a^2 + b^2 +2ab - 2ax - 2bx
+  \end{aligned}
+\end{aligned}
+\]
+
+\end{parts}
+
+\end{solution}
+
+\end{questions}
 
 \section{预习导航}
 
 \subsection{16.1 二次根式预习导航}
 
-\begin{enumerate}
+\begin{questions}
 
-\item 当x\underline{\quad\quad}时，$\frac{\sqrt{x-1}}{\sqrt{x}}$有意义;
-   当x\underline{\quad\quad}时，$\frac{3\sqrt{x}}{1-\sqrt{x}}$有意义;
-   当x\underline{\quad\quad}时，$\frac{1}{\sqrt{x}-2}$有意义;
-   已知$\sqrt{a^2-2ab+b^2}=b-a$，则a\underline{\quad}b；
-   当x满足\underline{\quad\quad}时，$\frac{\sqrt{1-3x}}{| x | - 3} $ 有意义。
+\question
+当$x$\fillin[$ \ge 1$]时，$\frac{\sqrt{x-1}}{\sqrt{x}}$有意义；
+当$x$\fillin[$\ne 1 \mbox{且} x \ge 0$]时，$\frac{3\sqrt{x}}{1-\sqrt{x}}$有意义；
+当$x$\fillin[$\ge 0 \mbox{且} x \ne 4$]时，$\frac{1}{\sqrt{x}-2}$有意义；
+已知$\sqrt{a^2-2ab+b^2}=b-a$，则$a$\fillin[$\le$]$b$；
+当x满足\fillin[$x \le \frac{1}{3} \mbox{且} x \ne 3$]时，$\frac{\sqrt{1-3x}}{| x | - 3} $ 有意义。
 
-\item 简化二次根式 $a\sqrt{-\frac{a+1}{a^2}}$的结果是\underline{\quad\quad}
+\question
+简化二次根式 $a\sqrt{-\frac{a+1}{a^2}}$的结果是\fillin
 
-    A. $\sqrt{-a-a}$
-    B. $-\sqrt{-a-1}$
-    C. $\sqrt{a+1}$
-    D. $-\sqrt{-a+1}$
+  \begin{choices}
+  \choice $\sqrt{-a-a}$
+  \correctchoice $-\sqrt{-a-1}$
+  \choice $\sqrt{a+1}$
+  \choice $-\sqrt{-a+1}$
+  \end{choices}
     
-\item 化简 $x \sqrt{\frac{y}{x}} + y \sqrt{\frac{x}{y}}$
+\question 化简 $x \sqrt{\frac{y}{x}} + y \sqrt{\frac{x}{y}}$
 
-\end{enumerate}
-   
+\begin{solution}
+  \[
+    \begin{aligned}
+      \mbox{原式}
+      & = x \sqrt{\frac{xy}{x^2}} + y \sqrt{\frac{xy}{y^2}} \\
+      & = x \frac{\sqrt{xy}}{|x|} + y \frac{\sqrt{xy}}{|y|}
+    \end{aligned}
+      \begin{split}
+      \because xy \ge 0 \\
+      \therefore
+      \begin{cases}
+        x \ge 0, y \ge 0 \quad \mbox{原式} = 2 \sqrt{xy} \\
+        x \le 0, y \le 0 \quad \mbox{原式} = - 2 \sqrt{xy}
+      \end{cases}
+    \end{split} 
+\]
+\end{solution}  
+
+\end{questions}
+
 \subsection{16.2(1) 最简二次根式预习导航}
 
-\begin{enumerate}
-    
-\item 化简 $a\sqrt{\frac{1}{a^2}-\frac{1}{b^2}}$
+\begin{questions}
+  
+\question 化简 $a\sqrt{\frac{1}{a^2}-\frac{1}{b^2}}$
 
-\end{enumerate}
+\end{questions}
 
 \subsection{16.2(2) 最简二次根式预习导航}
 
-1. 下面说法正确的是
+\begin{questions}
 
-    A. 被开方数相同的二次根式是同类二次根式
-    B. $\sqrt{8}$与$\sqrt{80}$是同类二次根式
-    C. $\sqrt{2}$与$\sqrt{\frac{1}{50}}$不是同类二次根式
-    D. 同类二次根式是根指数为2的根式
-    
+\question 下面说法正确的是
+  \begin{choices}
+  \choice 被开方数相同的二次根式是同类二次根式
+  \choice $\sqrt{8}$与$\sqrt{80}$是同类二次根式
+  \choice $\sqrt{2}$与$\sqrt{\frac{1}{50}}$不是同类二次根式
+  \choice 同类二次根式是根指数为2的根式
+  \end{choices}
+
+\end{questions}
+
 \subsection{16.3(2) 二次根式的运算预习导航（乘除）}
 
-\begin{enumerate}
-\item 计算：$3 \sqrt{5a} \cdot 2 \sqrt{10b}$=\underline{\quad\quad\quad\quad}
-\item 使等式$\sqrt{(x+1)(x-1)}=\sqrt{x-1} \cdot \sqrt{x+1}$成立的条件是\underline{\quad\quad\quad}
-\end{enumerate}
+\begin{questions}
+\question
+计算：$3 \sqrt{5a} \cdot 2 \sqrt{10b}$=\fillin
+
+\question
+使等式$\sqrt{(x+1)(x-1)}=\sqrt{x-1} \cdot \sqrt{x+1}$成立的条件是\fillin
+
+\end{questions}
+
 \subsection{16.3(3) 二次根式的混合运算预习导航}
 
-\begin{enumerate}
+\begin{questions}
 
-\item 已知$x=\frac{\sqrt{3}-\sqrt{2}}{\sqrt{3}+\sqrt{2}},y=\frac{\sqrt{3}+\sqrt{2}}{\sqrt{3}-\sqrt{2}}$,则$x^2+y^2$的值为\underline{\quad\quad}
+\question
+已知$x=\frac{\sqrt{3}-\sqrt{2}}{\sqrt{3}+\sqrt{2}},y=\frac{\sqrt{3}+\sqrt{2}}{\sqrt{3}-\sqrt{2}}$,则$x^2+y^2$的值为\underline{\quad\quad}
 
-\item 化简$(\sqrt{\frac{x}{y}-2\sqrt{\frac{y}{x}}}) \cdot \sqrt{xy} \cdot \frac{x+y}{x-2y}$=\underline{\quad\quad\quad\quad}
+\question
+化简$(\sqrt{\frac{x}{y}-2\sqrt{\frac{y}{x}}}) \cdot \sqrt{xy} \cdot \frac{x+y}{x-2y}$=\underline{\quad\quad\quad\quad}
 
-\item 解答$[\frac{4}{(\sqrt{a}+\sqrt{b})(\sqrt{a}-\sqrt{b})} + \frac{\sqrt{a}+\sqrt{b}}{\sqrt{ab}(\sqrt{b}-\sqrt{a})}] \div \frac{\sqrt{a}-\sqrt{b}}{\sqrt{ab}}$，其中$a=4,b=4$
+\question
+解答$[\frac{4}{(\sqrt{a}+\sqrt{b})(\sqrt{a}-\sqrt{b})} + \frac{\sqrt{a}+\sqrt{b}}{\sqrt{ab}(\sqrt{b}-\sqrt{a})}] \div \frac{\sqrt{a}-\sqrt{b}}{\sqrt{ab}}$，其中$a=4,b=4$
+  ~\\
+  ~\\
+  ~\\
 
-\end{enumerate}   
+\end{questions}   
 
 \section{新竹}
 
 \subsection{16.1(1) 二次根式}
 
-\begin{enumerate}
+\begin{questions}
 
-\item 如果$\sqrt{1-2a}$有意义，那么a的取值范围是\underline{\quad\quad}
+\question 如果$\sqrt{1-2a}$有意义，那么a的取值范围是\underline{\quad\quad}
 
-\item 化简: $\sqrt{x^2-6x+9} + |1-x|(1<x<3)$
+\question 化简: $\sqrt{x^2-6x+9} + \left| 1-x \right| (1<x<3)$
+  ~\\
+  ~\\
 
-\end{enumerate}
+\end{questions}
 
 \subsection{16.1(2) 二次根式}
 
-\begin{enumerate}
+\begin{questions}
 
-\item 写出使下列等式成立的x的取值范围: $\sqrt{x^2(3-x)}=x \sqrt{3-x}$
+  \question
+  写出使下列等式成立的$x$的取值范围: $\sqrt{x^2(3-x)}=x \sqrt{3-x}$
 
-\item 求下列各式成立时，x的取值范围: $\sqrt{\frac{2x-1}{3x+2}}=\frac{\sqrt{2x-1}}{\sqrt{3x+2}}$
-   
-\item 已知$\sqrt{a^3+3a^2}=-a\sqrt{a+3}$，求a的取值范围。
+  \question
+  求下列各式成立时，$x$的取值范围: $\sqrt{\frac{2x-1}{3x+2}}=\frac{\sqrt{2x-1}}{\sqrt{3x+2}}$
+  
+  \question
+  已知$\sqrt{a^3+3a^2}=-a\sqrt{a+3}$，求$a$的取值范围。
 
-\item $\sqrt{\frac{3-y}{3+y}}=\frac{\sqrt{3-y}}{\sqrt{3+y}}$成立的条件是\underline{\quad\quad}
+  \question
+  $\sqrt{\frac{3-y}{3+y}}=\frac{\sqrt{3-y}}{\sqrt{3+y}}$成立的条件是\underline{\quad\quad}
 
-\item 已知实数满足$|1-x|=1+|x|$，化简$\sqrt{x^2(x-1)^2}$.
+\question 已知实数满足$|1-x|=1+|x|$，化简$\sqrt{x^2(x-1)^2}$.
 
-\end{enumerate}
-
-\begin{tikzpicture}
-  \draw (1,0) -- (0,0) -- (0,1);
-\end{tikzpicture}
+\end{questions}
 
 \end{document}

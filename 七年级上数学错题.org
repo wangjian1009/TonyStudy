@@ -1,39 +1,36 @@
-\documentclass[answers]{exam} %[answers]
-\usepackage{xeCJK}
-\usepackage{amsmath}
-\usepackage{amssymb}
-\usepackage{polynom}
-\usepackage{ulem}
-\usepackage{tikz}
-\usepackage{tkz-euclide}
-\title{七年级上数学错题整理}
+#+TITLE: 七年级上数学错题
+#+STARTUP: overview
+#+LATEX_CLASS: exam
+#+LATEX_HEADER: \usepackage{xeCJK}
+#+LATEX_HEADER: \usepackage{amsmath}
+#+LATEX_HEADER: \usepackage{amssymb}
+#+LATEX_HEADER: \usepackage{polynom}
+#+LATEX_HEADER: \usepackage{ulem}
+#+LATEX_HEADER: \usepackage{tikz}
+#+LATEX_HEADER: \usepackage{tkz-euclide}
+#+LATEX_HEADER: \newcommand\epart{\part}
+#+LATEX_HEADER: \newcommand\degree{^\circ}
+#+LATEX_HEADER: \renewcommand{\solutiontitle}{\noindent\textbf{解：}\par\noindent}
+#+LATEX_HEADER: \everymath{\displaystyle}
+#+LATEX_HEADER: \usetkzobj{all}
 
-\newcommand\epart{\part}
+#+LATEX_CLASS_OPTIONS: [answers]
 
-\newcommand\degree{^\circ}
-\renewcommand{\solutiontitle}{\noindent\textbf{解：}\par\noindent}
-\everymath{\displaystyle}
-\usetkzobj{all}
-
-\begin{document}
-\maketitle
-
-\section{重要考试}
-
-\subsection{七年级阶段性诊断1}
-
-\begin{questions}
-\question
+* 重要考试
+** 七年级阶段性诊断1
+#+LATEX: \begin{questions}
+*** 原3
 下列说法中，正确的有\fillin
   
-\begin{oneparchoices}
+\begin{choices}
   \choice $\frac{3 \pi xy}{5}$的系数是$\frac{3}{5}$；
   \correctchoice $-2^2ab^2$的次数是$5$；
   \choice 多项式$mn^2+2mn-3n-1$的次数是$3$；
   \choice $\pi - b$和$\frac{xy}{2}$都是整式。
-\end{oneparchoices}
+\end{choices}
 
-\question
+*** 原30
+#+BEGIN_EXPORT latex
 阅读理解题
 
 定义:
@@ -110,15 +107,15 @@
 
 \end{parts}
 
-\end{questions}
+#+END_EXPORT
+#+LATEX: \end{questions}
 
-\subsection{七年级期中} 
-
-\begin{questions}
-\question
-如果关于x的不等式组$ \begin{cases} m-4x>4 \\ x-\frac{11}{2}<3(x+\frac{1}{2}) \end{cases} $有且仅有三个奇数解，
-且关于x的方程式$ \frac{2-mx}{2-x}-\frac{30}{x-12}=13$有非负数解，
-则符合条件的所有整数m的和是\fillin
+** 七年级期中
+#+LATEX: \begin{questions}
+*** 原4
+如果关于 $x$ 的不等式组 $\begin{cases} m-4x>4 \\ x-\frac{11}{2}<3(x+\frac{1}{2}) \end{cases}$ 有且仅有三个奇数解，
+且关于 $x$ 的方程式 $\frac{2-mx}{2-x}-\frac{30}{x-12}=13$ 有非负数解，
+则符合条件的所有整数 $m$ 的和是 \fillin
 
 \begin{oneparchoices}
   \choice 15
@@ -127,44 +124,46 @@
   \choice 42
 \end{oneparchoices}
 
-\question
-若$ 2^m=a,32^n=b $ , m、n为正整数，则$ 2^{3m-10n}$=\fillin[$ \frac{a^3}{b^2}$]
+*** 原7
+若 $2^m=a,32^n=b$, $m$ 、$n$ 为正整数，则 $2^{3m-10n}$ = \fillin[$\frac{a^3}{b^2}$]
 
-\question
-A是关于x的二次整式，且二次项系数为1，A与多项式$(x+2)$相乘后的结果为两项的多项式，则A=\fillin[$x^2-2x$或$x^2$或$x^2-2x+4$]
+*** 原9
+$A$ 是关于 $x$ 的二次整式，且二次项系数为1，$A$ 与多项式 $(x+2)$ 相乘后的结果为两项的多项式，则 $A$ =\fillin[$x^2-2x$ 或 $x^2$ 或 $x^2-2x+4$]
 
-\question
-若关于x的方程$\frac{2x+m}{x-1}=3$的解为正整数，则m的取值范围是\fillin[$m>-3$且$m \neq -2$]
+*** 原11
+若关于 $x$ 的方程 $\frac{2x+m}{x-1}=3$ 的解为正整数，则 $m$ 的取值范围是 \fillin[$m>-3 \mbox{且} m \neq -2$]
 
-\question
-我们知道，同底数幂的乘法为:$a^ma^n=a^{m+n}(其中a \neq 0, m,n为正整数)$，
-类似地我们规定关于任意正整数m，n的一种新运算：$h(m+n)=h(m)h(n)$，请根据这种新运算填空:
+*** 原16
+我们知道，同底数幂的乘法为: $a^ma^n=a^{m+n}$ (其中 $a \neq 0$, $m$ 、 $n$ 为正整数)，
+类似地我们规定关于任意正整数 $m$ 、 $n$ 的一种新运算: $h(m+n)=h(m)h(n)$, 请根据这种新运算填空:
+
 \begin{parts}
-  \epart 若$h(1)=\frac{2}{3}$，则$h{2}$=\fillin；
-  \epart 若$h(1)=k(k \neq 0)$，那么$h(n) \cdot h(2017)$=\fillin（用含n和k的代数式表示，其中n为正整数）。
+  \epart 若$h(1)=\frac{2}{3}$，则$h{2}$=\fillin[$\frac{4}{9}$];
+  \epart 若$h(1)=k(k \neq 0)$，那么$h(n) \cdot h(2017)$=\fillin[$k^{n-2017}$] （用含$n$和$k$的代数式表示，其中$n$为正整数）。
 \end{parts}
 
-\question
-已知$a$、$b$、$c$、$n$是互不相等的正整数，且$\frac{1}{a}+\frac{1}{b}+\frac{1}{c}+\frac{1}{n}$也是整数，则$n$的最大值是\fillin[42]
+*** 原17
+已知 $a$ 、$b$ 、$c$ 、$n$ 是互不相等的正整数，且 $\frac{1}{a}+\frac{1}{b}+\frac{1}{c}+\frac{1}{n}$ 也是整数，则 $n$ 的最大值是 \fillin[42]
 
-\question
-若一个自然数t能写成$t=x^2-y^2$($x$,$y$均为正整数，且$x \neq y$)，则称$t$为“万象数”，
-$x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{x-y}{x+y}$最小，则称$x$,$y$为$t$的一个万象分解，
-在$t$的所有万象分解中，若$\frac{x-y}{x+y}$最小，则称$x$，$y$为$t$的绝对万象分解，此时$F(t)=\frac{x}{y}$。
-例如：$32=9^2-7^2=6^2-2^2$，因为$\frac{9-7}{9+7}=\frac{1}{8}$,$\frac{6-2}{6+2}=\frac{1}{2}$,$\frac{1}{8}<\frac{1}{2}$，
-所以$9$和$7$为$32$的绝对万象分解，此时$F(32)=\frac{9}{7}$。
-若一个四位正整数，它的千位数字与个位数字相同，百位数字与十位数字相同，但四个数字不全相同，则称这个四位数位“博雅数”。例如$2001$，$4554$均为“博雅数”。
-若一个四位正整数$m$是“万象数”且能被$13$整除，“博雅书” $n$ 的前两位数字组成的两位数与后两位数字组成的两位数恰好是$m$的一个万象分解，
-则所有满足条件的数$m$中$F(m)$的最大值为\fillin[$\frac{64}{48}$]。
+*** 原18
+若一个自然数 $t$ 能写成 $t=x^2-y^2$ ($x$, $y$ 均为正整数，且 $x \neq y$ )，则称 $t$ 为“万象数”,
+$x$ 、$y$ 为 $t$ 的一个万象分解，在t的所有万象分解中，若 $\frac{x-y}{x+y}$ 最小，则称$x$,$y$为$t$的一个万象分解,
+在 $t$ 的所有万象分解中，若 $\frac{x-y}{x+y}$ 最小，则称 $x$ ， $y$ 为 $t$ 的绝对万象分解，此时 $F(t)=\frac{x}{y}$ .
+例如: $32=9^2-7^2=6^2-2^2$, 因为 $\frac{9-7}{9+7}=\frac{1}{8}$, $\frac{6-2}{6+2}=\frac{1}{2}$, $\frac{1}{8}<\frac{1}{2}$,
+所以 $9$ 和 $7$ 为 $32$ 的绝对万象分解，此时 $F(32)=\frac{9}{7}$.
+若一个四位正整数，它的千位数字与个位数字相同，百位数字与十位数字相同，但四个数字不全相同，则称这个四位数位“博雅数”。例如 $2001$, $4554$ 均为“博雅数”.
+若一个四位正整数 $m$ 是“万象数”且能被 $13$ 整除，“博雅书” $n$ 的前两位数字组成的两位数与后两位数字组成的两位数恰好是 $m$ 的一个万象分解，
+则所有满足条件的数 $m$ 中 $F(m)$ 的最大值为 \fillin[$\frac{64}{48}$].
 
-\question
+*** TODO 原19 
 把一张长方形纸先左右对折，再上下对折（记为对折 $2$ 次），然后再折叠着的角上剪刀，将纸展开后，纸的中间就剪出了一个洞。
-把一张纸按“先左右、再上下”的顺序对折$6$次后，再在折叠着的角上剪一刀，将这张纸展开，请动手操作，纸上会出现\fillin[16]个洞。
+把一张纸按“先左右、再上下”的顺序对折 $6$ 次后，再在折叠着的角上剪一刀，将这张纸展开，请动手操作，纸上会出现 \fillin[$16$] 个洞。
 
-\question
+*** 原22
 因式分解：$16(6x-1)(2x-1)(3x+1)(x-1)+25$
-
 \vspace*{1in}
+
+#+BEGIN_EXPORT latex
 \begin{solution}
   \[
     \begin{aligned}
@@ -178,46 +177,46 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
     \end{aligned}
   \]
 \end{solution}
+#+END_EXPORT
 
-\question
+*** 原28
 初中数学学习阶段,我们常常会利用一些变形技巧来化简式子,解答问题。
 
 材料一:在解决分式问题时,倒数法是常用的变形技巧之一,所谓倒数法,即把式子变成其倒数形式,从而运用约分化简,以达到计算的目的
 
-例,已知:$\frac{x}{(x^2+1)}=\frac{1}{4}$求代数式$x^2+\frac{1}{x^2}$的值。
+例,已知: $\frac{x}{(x^2+1)}=\frac{1}{4}$ 求代数式 $x^2+\frac{1}{x^2}$ 的值。
 
 解:
-\[ Q \frac{x}{x^2+1}=\frac{1}{4},
+$$ Q \frac{x}{x^2+1}=\frac{1}{4},
   \therefore \frac{x^2+1}{x}=4 \mbox{即} \frac{x^2}{x}+\frac{1}{x}=4,
   \therefore x+\frac{1}{x}=4,
   \therefore x^2+\frac{1}{x^2}=(x+\frac{1}{x})^2-2=14
-\]
+$$
 
 材料二:在解决某些连等是问题问题时,通常可以引入参数“k”,将连等式变成几个值为k的等式,
 这样就可以通过适当变形解决问题的值
 
-例:若$2x=3y=4z$,且$xyz \neq 0$,求$\frac{x}{y+x}$的值。
+例:若$2x=3y=4z$,且$xyz \neq 0$,求 $\frac{x}{y+x}$ 的值。
 
 解:
-\[
+$$
   \mbox{令} 2x=3y=4z=k(k≠0),
   \mbox{则} x=\frac{k}{2},y=\frac{k}{3},z=\frac{k}{4},
   \therefore \frac{x}{y+z}=\frac{\frac{1}{2}k}{\frac{1}{3}k + \frac{1}{4}k}=\frac{\frac{1}{2}}{\frac{7}{12}}=\frac{7}{6}
-\]
+$$
 
 根据材料回答问题:
 
-\begin{parts}
+#+LATEX: \begin{parts}
+\epart
+已知 $\frac{x}{x^2-x+1}=\frac{1}{2}$, 则 $x+\frac{1}{x}=$ \fillin[$3$]
 
-  \epart
-  已知$\frac{x}{x^2-x+1}=\frac{1}{2}$，则$x+\frac{1}{x}=$\fillin[3]
-
-  \epart
-  若$\frac{yz}{bz+cy}=\frac{zx}{cx+az}=\frac{xy}{ay+bx}=\frac{x^2+y^2+z^2}{a^2+b^2+c^2}$，$x \neq 0$，$y \neq 0$，$z \neq 0$，且$abc=5$，
-  求$xyz$的值
-
-  \vspace*{1in}
+\epart
+若 $\frac{yz}{bz+cy}=\frac{zx}{cx+az}=\frac{xy}{ay+bx}=\frac{x^2+y^2+z^2}{a^2+b^2+c^2}$, $x \neq 0$, $y \neq 0$, $z \neq 0$, 且 $abc=5$,
+求 $xyz$ 的值
+\vspace*{1in}
   
+#+BEGIN_EXPORT latex
   \begin{solution}
     \[
     \begin{split}
@@ -227,22 +226,21 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
     \end{split}
   \]
   \end{solution}
+#+END_EXPORT
 
-\end{parts}
+#+LATEX: \end{parts}
+#+LATEX: \end{questions}
 
-\end{questions}
+** 七年级阶段性诊断2
+#+LATEX: \begin{questions}
+*** 原6
+计算: $(x+y)(-x-y)$ = \fillin[$-x^2-2xy-y^2$]
 
-\subsection{七年级阶段性诊断2}
-
-\begin{questions}
-
-\question
-计算: $(x+y)(-x-y)$=\fillin[$-x^2-2xy-y^2$]
-
-\question
+*** 原21
 解方程: $\frac{2x+2}{x+3}-\frac{5}{7}=\frac{x}{x+3}$
-
 \vspace*{1in}
+
+#+BEGIN_EXPORT latex
 \begin{solution}
 \[
 \begin{aligned}
@@ -253,13 +251,14 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
 \]
 经验算$x = \frac{1}{2}$为原方程的解
 \end{solution}
+#+END_EXPORT
 
-\question
-2019年下半年受各种因素的影响，猪肉市场价格不断上升。
-据调查10月份猪肉的价格是9月份猪肉价格的1.25倍。
+*** 原27
+2019年下半年受各种因素的影响，猪肉市场价格不断上升。据调查10月份猪肉的价格是9月份猪肉价格的1.25倍。
 小英妈妈用50元钱在10月份购得的猪肉比在9月份购得的猪肉少0.4斤，求2019年9月份的每斤猪肉价格
-
 \vspace*{1in}
+
+#+BEGIN_EXPORT latex
 \begin{solution}
   \[
 \begin{aligned}
@@ -276,15 +275,19 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
 \end{aligned}
 \]
 \end{solution}
+#+END_EXPORT
 
-\question 
-如图，在直角三角形$ABC$中,$\angle B=90^{\degree}$,点$M$、$N$分别在边$BA$、$BC$上，且$BM=BN$。
+*** 原29
+如图，在直角三角形$ABC$中,$\angle B=90^{\degree}$,点 $M$, $N$ 分别在边 $BA$,$BC$ 上,且 $BM=BN$ 。
   
+#+BEGIN_EXPORT latex
 \begin{parts}
 \epart 画出直角三角形ABC关于直线MN堆成的三角形$A'B'C'$；
 \epart 如果$AB=a,BC=b,BM=x$ 用$a$、$b$、$x$的代数式分别表示三角形$AMA'$的面积$S_1$和四边形$AA'C'C$的面积$S$，并简化。
 \end{parts}
+#+END_EXPORT
 
+#+BEGIN_EXPORT latex
 \begin{center}
 \begin{tikzpicture}
   \tkzDefPoint[label=$A$](0,4){A}
@@ -296,8 +299,11 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
   \tkzDrawPoints[](A,B,C,M,N)
 \end{tikzpicture}
 \end{center}
+#+END_EXPORT
 
 \vspace*{1in}
+
+#+BEGIN_EXPORT latex
 \begin{solution}
   
 \begin{parts}
@@ -326,15 +332,17 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
 \end{parts}
 
 \end{solution}
+#+END_EXPORT
 
-\end{questions}
+#+LATEX: \end{questions}
 
-\subsection{数学达人赛}
+** 数学达人赛
+#+LATEX: \begin{questions}
+*** 原8
+已知 $a^2-4a-1=0$, 则 $a^4+\frac{1}{a^4}=$ \fillin[$322$]
+\vspace*{1in}
 
-\begin{questions}
-\question
-  已知$a^2-4a-1=0$，则$a^4+\frac{1}{a^4}=$\fillin[322]
-  \vspace*{1in}
+#+BEGIN_EXPORT latex
   \begin{solution}
     \[
       \begin{aligned}
@@ -348,11 +356,13 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
       \end{aligned}
     \]
   \end{solution}
+#+END_EXPORT
 
-\question
-  设$f(x) = (2x - 1)^5$，且展开式$f(x)=a_0 + a_1x + a_2x^2 + a_3x^3 +
-  a_4x^4 + a_5x^5$，试求$\frac{2}{3}(a_1 + a_3)=$\fillin[$\frac{244}{3}$]
-  \vspace*{1in}
+*** 原12
+设 $f(x) = (2x - 1)^5$, 且展开式 $f(x)=a_0 + a_1x + a_2x^2 + a_3x^3 + a_4x^4 + a_5x^5$，试求$\frac{2}{3}(a_1 + a_3)=$ \fillin[$\frac{244}{3}$]
+\vspace*{1in}
+
+#+BEGIN_EXPORT latex
   \begin{solution}
     \[
       \begin{aligned}
@@ -367,11 +377,13 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
       \end{aligned}
     \]
   \end{solution}
+#+END_EXPORT
 
-\question
-  已知$2^{(x-1)}+2^{(x-2)}+2^{(x-3)}=448$，则$x=$\fillin[9]
+*** 原13
+已知 $2^{(x-1)}+2^{(x-2)}+2^{(x-3)}=448$, 则 $x=$ \fillin[9]
+\vspace*{1in}
 
-  \vspace*{1in}
+#+BEGIN_EXPORT latex
   \begin{solution}
     \[
       \begin{aligned}
@@ -381,20 +393,23 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
       \end{aligned}
     \]
   \end{solution}
+#+END_EXPORT
 
-\question
-  从左到右的变形，时因式分解的为
-  \begin{choices}
-    \choice $ma+mb-c=m(a+b)-c$
-    \choice $(a-b)(a^2+ab+b^2)=a^3-b^3$
-    \choice $a^2-4ab+4b^2-1=a(a-4b)+(2b+1)(2b-1)$
-    \choice $4x^2-25y^2=(2x+5y)(2x-5y)$
-  \end{choices}
+*** 原16
+从左到右的变形，时因式分解的为
 
-\question
-  计算: $(-\frac{1}{2}x + 3)^2(-\frac{1}{2}x-3)^2-2(x-5)(x-2)$
+\begin{choices}
+  \choice $ma+mb-c=m(a+b)-c$
+  \choice $(a-b)(a^2+ab+b^2)=a^3-b^3$
+  \choice $a^2-4ab+4b^2-1=a(a-4b)+(2b+1)(2b-1)$
+  \choice $4x^2-25y^2=(2x+5y)(2x-5y)$
+\end{choices}
 
-  \vspace*{1in}
+*** 原21
+计算: $(-\frac{1}{2}x + 3)^2(-\frac{1}{2}x-3)^2-2(x-5)(x-2)$
+\vspace*{1in}
+
+#+BEGIN_EXPORT latex
   \begin{solution}
     \[
       \begin{aligned}
@@ -404,12 +419,13 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
       \end{aligned}
     \]
   \end{solution}
+#+END_EXPORT
 
-\question
-  已知$2^{10}=a^2=4^b$，先化简再求职：$(\frac{1}{4}a +
-  \frac{1}{5}b)(\frac{1}{4}a-\frac{1}{5}b)-(\frac{1}{4}a+\frac{1}{5}b)^2$
+*** 原24
+已知 $2^{10}=a^2=4^b$, 先化简再求值: $(\frac{1}{4}a + \frac{1}{5}b)(\frac{1}{4}a-\frac{1}{5}b)-(\frac{1}{4}a+\frac{1}{5}b)^2$
+\vspace*{1in}
 
-  \vspace*{1in}
+#+BEGIN_EXPORT latex
   \begin{solution}
     错在哪里？
     \[
@@ -436,12 +452,13 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
       \end{aligned}
     \]
   \end{solution}
+#+END_EXPORT
 
-\question
-  已知：$x^4 + 6x^2 + x + 12$有一个因式是$x^2 + ax + 4$，求$a$值和这个
-  多项式的其他因式。
+*** 原26
+已知: $x^4 + 6x^2 + x + 12$ 有一个因式是 $x^2 + ax + 4$, 求 $a$ 值和这个多项式的其他因式。
+\vspace*{1in}
 
-  \vspace*{1in}
+#+BEGIN_EXPORT latex
   \begin{solution}
     \[
       \begin{aligned}
@@ -463,15 +480,15 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
       \end{aligned}
     \]
   \end{solution}
-\end{questions}
+#+END_EXPORT
 
-\section{周测}
+#+LATEX: \end{questions}
 
-\subsection{周测一}
-
-\begin{questions}
-
-\question
+* 周测
+** 周测一
+#+LATEX: \begin{questions}
+*** 原4
+#+BEGIN_EXPORT latex
   如果$a^{n^2}=(a^n)^x$($n$为正整数)，那么$x$等于
   
   \begin{choices}
@@ -481,13 +498,16 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
   \choice $a^2$
   \end{choices}
 
-\question
-  若$2x+5y-3=0$，则$4^x \cdot 32^y$的值为\fillin[8]
+#+END_EXPORT
 
-\question
-  因式分解 $x^4-2(a^2+b^2)x^2+(a^2-b^2)^2$
+*** 原8
+若 $2x+5y-3=0$, 则 $4^x \cdot 32^y$ 的值为 \fillin[8]
 
-  \vspace*{1in}
+*** 原16
+因式分解 $x^4-2(a^2+b^2)x^2+(a^2-b^2)^2$
+\vspace*{1in}
+
+#+BEGIN_EXPORT latex
   \begin{solution}
     \[
       \begin{aligned}
@@ -500,53 +520,61 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
       \end{aligned}
     \]
   \end{solution}
+#+END_EXPORT
 
-\question
-  因式分解 $(x^2+3x-2)(x^2+3x+4)-16$
+*** 原18
+因式分解 $(x^2+3x-2)(x^2+3x+4)-16$
+\vspace*{1in}
 
-  \vspace*{1in}
-  \begin{solution}
-\[
-  \begin{aligned}
-    \mbox{令} x^2+3x-2\mbox{为}a \\
-    \mbox{原式} &= a(a+6)-16 \\
-    &= (a-2)(a+8) \\
-    &= (x^2+3x-4)(x^2+3x+6) \\
-    &= (x - 1)(x + 4)(x^2 + 3x + 6)
-  \end{aligned}
-\]
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      \mbox{令} x^2+3x-2\mbox{为}a \\
+      \mbox{原式} &= a(a+6)-16 \\
+      &= (a-2)(a+8) \\
+      &= (x^2+3x-4)(x^2+3x+6) \\
+      &= (x - 1)(x + 4)(x^2 + 3x + 6)
+    \end{aligned}
+  \]
 \end{solution}
+#+END_EXPORT
 
-\question
-  因式分解 $(xy+1)(x+1)(y+1)+xy$
+*** 原20
+因式分解 $(xy+1)(x+1)(y+1)+xy$
+\vspace*{1in}
 
-  \vspace*{1in}
-  \begin{solution}
-\[
-\begin{aligned}
-  \mbox{原式} &= (xy+1)(xy+1+x+y)+xy \\
-  &= t(t+x+y)+xy \\
-  &= t^2+t(x+y)+xy \\
-  &= (t+x)(t+y) \\
-  &= (xy + 1 + x)(xy + 1 + y)
-\end{aligned}
-\]
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      \mbox{原式} &= (xy+1)(xy+1+x+y)+xy \\
+      &= t(t+x+y)+xy \\
+      &= t^2+t(x+y)+xy \\
+      &= (t+x)(t+y) \\
+      &= (xy + 1 + x)(xy + 1 + y)
+    \end{aligned}
+  \]
 \end{solution}
+#+END_EXPORT
 
-\question
-  已知$(2000-a)(1998-a)=1999$，求$(2000-a^2)+(1998-a)^2$的值.
+*** 原22
+已知 $(2000-a)(1998-a)=1999$, 求 $(2000-a^2)+(1998-a)^2$ 的值.
+\vspace*{1in}
 
-  \vspace*{1in}
-  \begin{solution}
-\[
-\begin{aligned}
-  \mbox{设} 2000 - a = m \quad 1998-a = n \\
-  \begin{cases} m \cdot n =1999 \\ m - n = 2 \end{cases} \\
-\end{aligned}
-\]
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      \mbox{设} 2000 - a = m \quad 1998-a = n \\
+      \begin{cases} m \cdot n =1999 \\ m - n = 2 \end{cases} \\
+    \end{aligned}
+  \]
 \end{solution}
+#+END_EXPORT
 
-\question
+*** 原24
+#+BEGIN_EXPORT latex
   已知正有理数$a$、$b$、$c$满足方程
   $
     \begin{cases}
@@ -572,8 +600,10 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
     \end{aligned}
   \]
 \end{solution}
+#+END_EXPORT
 
-\question
+*** 原25
+#+BEGIN_EXPORT latex
   对于多项式$x^3-5x^2+x+10$, 我们吧$x=2$代入多项式，发现$x=2$能使多项
   式$x^3-5x^2+x+10$的值为0，由此可以断定多项式$x^3-5x^2+x+10$中有因式
   $(x-2)$[注：把$x=a$代入多项式，能使多项式的值为0，则多项式一定含有因
@@ -620,33 +650,33 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
   \]
 \end{parts}
 \end{solution}
-  
-\end{questions}
+#+END_EXPORT
 
-\subsection{周测二}
+#+LATEX: \end{questions}
 
-\begin{questions}
-\question
-  因式分解：$(m^2 + 3m)^2 - 8(m^2 + 3m) - 20=$\fillin[$(m-2)(m+2)(m-1)(m+5)$]
+** 周测二
+#+LATEX: \begin{questions}
+*** 原13
+因式分解: $(m^2 + 3m)^2 - 8(m^2 + 3m) - 20=$ \fillin[$(m-2)(m+2)(m-1)(m+5)$]
 
-\question
-  下列因式分解中正确的有
-  \begin{itemize}
-  \item $-2x^3-3xy^3+xy=-xy(2x^2-3y^2+1)$
-  \item $-x^2 - y^2 = -(x+y)(x-y)$
-  \item $16x^2 + 4y^2 - 16xy = 4(2x - y)^2$
-  \item $x^2y + 2xy + 4y = y(x + 2)^2$
-  \item $\frac{1}{2}x - y + x^2 - 4y^2 = \frac{1}{2}(x - 2y)(1 + 2x + 4y)$
-  \end{itemize}
+*** 原20
+下列因式分解中正确的有
 
-  \begin{oneparchoices}
-    \choice 0 \choice 1 \correctchoice 2 \choice 3
-  \end{oneparchoices}
+- $-2x^3-3xy^3+xy=-xy(2x^2-3y^2+1)$
+- $-x^2 - y^2 = -(x+y)(x-y)$
+- $16x^2 + 4y^2 - 16xy = 4(2x - y)^2$
+- $x^2y + 2xy + 4y = y(x + 2)^2$
+- $\frac{1}{2}x - y + x^2 - 4y^2 = \frac{1}{2}(x - 2y)(1 + 2x + 4y)$
 
-\question
-  计算: $\frac{2x^2}{x - 1} - x - 1$
+\begin{oneparchoices}
+  \choice 0 \choice 1 \correctchoice 2 \choice 3
+\end{oneparchoices}
 
-  \vspace*{1in}
+*** 原 21.(1)
+计算: $\frac{2x^2}{x - 1} - x - 1$
+\vspace*{1in}
+
+#+BEGIN_EXPORT latex
   \begin{solution}
     \[
       \begin{aligned}
@@ -655,8 +685,10 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
       \end{aligned}
     \]
   \end{solution}
+#+END_EXPORT
 
-\question
+*** 原 21.(3)
+#+BEGIN_EXPORT latex
   计算:
   $\frac{3}{(x + 1)(x + 3)} + \frac{3}{(x + 3)(x + 5)}
   + \frac{3}{(x + 5)(x + 7)} + \dots + \frac{3}{(x + 99)(x + 101)}
@@ -672,11 +704,13 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
       \end{aligned}
     \]
   \end{solution}
+#+END_EXPORT
 
-\question
-  因式分解: $(x^2 - y^2)^2 - 8(x^2 + y^2) + 16$
+*** 原 22.(3)
+因式分解: $(x^2 - y^2)^2 - 8(x^2 + y^2) + 16$
+\vspace*{1in}
 
-  \vspace*{1in}
+#+BEGIN_EXPORT latex
   \begin{solution}
     \[
       \begin{aligned}
@@ -688,12 +722,13 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
       \end{aligned}
     \]
   \end{solution}
+#+END_EXPORT
 
-\question
-  已知$\frac{1}{a^2} + \frac{1}{b^2} = \frac{4}{a^2 + b^2}$，求
-  $(\frac{b}{a})^{2013} - (\frac{a}{b})^{2014}$的值？
+*** 原 26
+已知 $\frac{1}{a^2} + \frac{1}{b^2} = \frac{4}{a^2 + b^2}$, 求 $(\frac{b}{a})^{2013} - (\frac{a}{b})^{2014}$ 的值？
+\vspace*{1in}
 
-  \vspace*{1in}
+#+BEGIN_EXPORT latex
   \begin{solution}
     \[
       \begin{aligned}
@@ -712,8 +747,11 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
       \end{aligned}
     \]
   \end{solution}
+#+END_EXPORT
 
-\question
+*** 原27
+
+#+BEGIN_EXPORT latex
   定义: 如果一个分式能化成一个整式与一个分子为常数的分式的和的形式，则
   称这个分式为“和谐分式”。如
   $\frac{x+1}{x-1}
@@ -762,33 +800,29 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
     \end{solution}
     
   \end{parts}
-  
-\end{questions}
+#+END_EXPORT
 
-\subsection{周测三}
+#+LATEX: \end{questions}
 
-\begin{questions}
+** 周测三
+#+LATEX: \begin{questions}
+*** 原7
+$4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 
-\question
-  $4x^3 - 8x^2$，$2x^2 - 8$，$4x^2 - 4x - 8$中的公因式为
-  \fillin[$2(x-2)$]
+*** 原10
+用黑白两种颜色的正方形纸片，按黑色纸片数量逐次加$1$的规律拼成一列图案:
 
-\question
-  用黑白两种颜色的正方形纸片，按黑色纸片数量逐次加$1$的规律拼成一列图
-  案:
+第 $n$ 个图案还有白色纸片\fillin[$(3n+1)$]张.
 
-  第$n$个图案还有白色纸片\fillin[$(3n+1)$]张.
+*** 原14
+若 $x^2 + xy + y = 16$ 且 $y^2 + xy + x = 28$, 则$x+y$的值为 \fillin[$6 \mbox{或} -7$]
 
-\question
-  若$x^2 + xy + y = 16$ 且 $y^2 + xy + x = 28$，则$x+y$的值为
-  \fillin[$6 \mbox{或} -7$]
+*** 原17
+计算: $\frac{(y-x)(z-x)}{(x - 2y + z)(x + y - 2z)} + \frac{(z-y)(x-y)}{(x + y -2z)}  + \frac{(x-z)(y-z)}{(y + z - 2x)(x - 2y + z)}$
 
-\question
-  计算: $ \frac{(y-x)(z-x)}{(x - 2y + z)(x + y - 2z)}
-  + \frac{(z-y)(x-y)}{(x + y -2z)}
-  + \frac{(x-z)(y-z)}{(y + z - 2x)(x - 2y + z)}$
+\vspace*{1in}
 
-  \vspace*{1in}
+#+BEGIN_EXPORT latex
   \begin{solution}
     \[
       \begin{aligned}
@@ -819,10 +853,12 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
     \]
   \end{solution}
 
-\question
-  分解因式：$xy(x^2-y^2) + yz(y^2 - z^2) + zx(z^2 - x^2)$
+#+END_EXPORT
+*** 原20
+分解因式: $xy(x^2-y^2) + yz(y^2 - z^2) + zx(z^2 - x^2)$
+\vspace*{1in}
 
-  \vspace*{1in}
+#+BEGIN_EXPORT latex
   \begin{solution}
     \[
       \begin{aligned}
@@ -840,18 +876,210 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
       \end{aligned}
     \]
   \end{solution}
+#+END_EXPORT
 
-\question
-  如果$a+\frac{1}{b}=1$，$b+\frac{2}{c}=1$，求$c+\frac{2}{a}$的值
+*** 原22
+如果 $a+\frac{1}{b}=1$, $b+\frac{2}{c}=1$, 求 $c+\frac{2}{a}$ 的值
+\vspace*{1in}
 
-\end{questions}
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      b &= 1 - \frac{2}{c} \\
+      a + \frac{1}{\frac{c - 2}{c}} &= 1 \\
+      a + \frac{c}{c - 2} &= 1 \\
+      \frac{ac - 2a + c}{c - 2} &= 1 \\
+    \end{aligned}
+  \]
+\end{solution}
 
-\section{预习导航}
+#+END_EXPORT
 
-\subsection{16.1 二次根式预习导航}
+*** 原24
+已知 $a^3 + 2a^2 + a + 2 = 0$, 求 $a^{2012} - 2a^{2010} + 4a^{2009}$ 的值
+\vspace*{1in}
 
-\begin{questions}
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+    & \begin{aligned}
+      a^3 + 2a^2 + a + 2 &= 0 \\
+      (a + 2)(a^2 + 1) &= 0 \\
+       & \Downarrow \\
+       a &= -2 \\
+      \end{aligned} \\
+    & \therefore \mbox{原式} = a^{2009} (a^3 - 2a + 4) = 0 \\
+    \end{aligned}\\
+  \]
+\end{solution}
+#+END_EXPORT
 
+*** 原25
+已知 $abc \neq 0$, $a + b + c = 0$ 求 $\frac{1}{b^2 + c^2 - a^2} + \frac{1}{c^2 + a^2 - b^2} + \frac{1}{a^2 + b^2 - c^2}$ 的值
+\vspace*{1in}
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      & \because \begin{cases}
+        b + c = -a \quad \Rightarrow \quad b^2 + 2bc + c^2 = a^2 \quad \Rightarrow \quad b^2 + c^2 - a^2 = -2bc \\
+        a + b = -c \quad \Rightarrow \quad a^2 + 2ab + b^2 = c^2 \quad \Rightarrow \quad a^2 + b^2 - c^2 = -2ab \\
+        c + a = -b \quad \Rightarrow \quad c^2 + 2ca + a^2 = b^2 \quad \Rightarrow \quad c^2 + a^2 - b^2 = -2ca
+      \end{cases} \\
+      & \therefore \begin{aligned}
+      \mbox{原式} &= \frac{1}{-2bc} + \frac{1}{-2ab} + \frac{1}{-2ca} \\
+      &= \frac{a+b+c}{-2abc} \\
+      &= 0
+      \end{aligned}
+    \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
+#+LATEX: \end{questions}
+
+** 周测四
+#+LATEX: \begin{questions}
+*** 原3
+分式 $\frac{x + y}{2xy}$ 中的 $x$ 和 $y$ 都扩大3倍，那么分式的值为
+
+\begin{oneparchoices}
+    \choice 扩大3倍 \choice 不变 \correctchoice 缩小3倍 \choice 缩小6倍
+\end{oneparchoices}
+
+*** 原6
+小明通常上学时走上坡路，通常的速度为 $m$ 千米/时，放学回家时，沿原路返回，通常的速度为 $n$ 千米/时，则小明上学和放学路上的平均速度为 \fillin 千米/时
+
+\begin{oneparchoices}
+    \choice $\frac{m + n}{2}$ \choice $\frac{mn}{m + n}$ \correctchoice $\frac{2mn}{m + n}$ \choice $\frac{m + n}{mn}$
+\end{oneparchoices}
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+  \frac{2s}{\frac{s}{m} + \frac{s}{n}} = \frac{2s}{\frac{s(m + n)}{mn}} = \frac{2s \times mn }{s(m + n)} = \frac{2mn}{m + n}
+  \]
+\end{solution}
+#+END_EXPORT
+
+*** 原9
+如图a时长方形纸带 $\angle DEF=20 \degree$, 将纸带沿 $EF$ 折叠成图b, 再沿 $BF$ 折叠成图c, 则图c中 $\angle CFE$ 的度数是 \fillin[$120 \degree$]
+
+#+BEGIN_EXPORT latex
+
+#+END_EXPORT
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[360 - 40 - 90 \times 2 = 120 \degree\]
+\end{solution}
+#+END_EXPORT
+
+*** 原11
+已知 $x=\frac{2y - 3}{3y + 1}$, 则 $x$ 的取值范围是 \fillin[$x \neq \frac{2}{3}$]
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      & \begin{aligned}
+        (3y + 1)x &= 2y - 3 \\
+        3xy +x &= 2y - 3 \\
+        (3x - 2)y &= -x - 3 \\
+        y &= \frac{-x - 3}{3x - 2} \\
+      \end{aligned} \\
+      & \begin{aligned}
+        \therefore 3x - 2 &\neq 0 \\
+        x &l\neq \frac{2}{3} \\
+      \end{aligned}
+    \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
+
+*** 原20
+计算: $\frac{1}{(x + 1)(x - 1)} + \frac{1}{(x - 1)(x - 3)} + \frac{1}{(x - 3)(x - 5)} + \frac{1}{(x - 5)(x - 7)}$
+\vspace*{1in}
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      \mbox{原式} &= \frac{1}{2} ( \frac{1}{x-1} - \frac{1}{x+1}
+                                 + \frac{1}{x-3} - \frac{1}{x-1}
+                                 + \frac{1}{x-5} - \frac{1}{x-3}
+                                 + \frac{1}{x-7} - \frac{1}{x-5}
+                                 ) \\
+      &= \frac{1}{2} (\frac{1}{x - 7} - \frac{1}{x + 1}) \\           
+      &= \frac{1}{2} \cdot \frac{7 + 1}{(x + 1)(x - 7)} \\
+      &= \frac{4}{(x + 1)(x - 7)}
+    \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
+
+*** 原21
+因式分解: $15x^2 - 20xy -x + 8y - 2$
+\vspace*{1in}
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      \mbox{原式} &= 15x^2 - (20y + 1)x + 2(4y - 1) \\
+      &= (5x - 2)[3x - (4y - 1)] \\
+      &= (5x - 2)(3x - 4y + 1)
+    \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
+
+*** 原23
+解方程: $\frac{5x - 96}{x - 19} + \frac{x - 8}{x - 9} = \frac{4x - 19}{x - 6} + \frac{2x - 21}{x - 8}$
+\vspace*{1in}
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      5 - \frac{1}{x - 19} + 1 + \frac{1}{x - 9} &= 4 + \frac{5}{x - 6} + 2 - \frac{5}{x - 8}\\
+      - \frac{1}{x - 19} + \frac{1}{x - 9} &=  \frac{5}{x - 6} - \frac{5}{x - 8}\\
+      \frac{10}{(x - 19)(x - 9)} &= 5 \frac{2}{(x - 6)(x - 8)} \\
+      \frac{1}{(x - 19)(x - 9)} &= \frac{1}{(x - 6)(x - 8)} \\
+      (x - 6)(x - 8) &= (x - 19)(x - 9) \\
+      x^2 - 14x + 48 &= x^2 - 28x + 171 \\
+      14x &= 123 \\
+      x &= \frac{123}{14}
+    \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
+
+*** 原27
+小丽和小明两次到同一家公司购买原料，两次购买原料的单价不同，小丽购买的是定量购买:每次买回10吨原料:小明购买的方式是定额购买:每次买回价值10万元的原料。
+问小丽和小明的购买方式哪种更经济?
+\vspace*{1in}
+
+
+#+LATEX: \end{questions}
+
+** 周测五
+#+LATEX: \begin{questions}
+
+*** 1
+#+LATEX: \end{questions}
+
+** 周测六
+#+LATEX: \begin{questions}
+*** 1
+#+LATEX: \end{questions}
+
+* 预习导航
+** 16.1 二次根式预习导航
+#+LATEX: \begin{questions}
+#+BEGIN_EXPORT latex
 \question
 当$x$\fillin[$ \ge 1$]时，$\frac{\sqrt{x-1}}{\sqrt{x}}$有意义；
 当$x$\fillin[$\ne 1 \mbox{且} x \ge 0$]时，$\frac{3\sqrt{x}}{1-\sqrt{x}}$有意义；
@@ -859,6 +1087,8 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
 已知$\sqrt{a^2-2ab+b^2}=b-a$，则$a$\fillin[$\le$]$b$；
 当x满足\fillin[$x \le \frac{1}{3} \mbox{且} x \ne 3$]时，$\frac{\sqrt{1-3x}}{| x | - 3} $ 有意义。
 
+#+END_EXPORT
+#+BEGIN_EXPORT latex
 \question
 简化二次根式 $a\sqrt{-\frac{a+1}{a^2}}$的结果是\fillin
 
@@ -869,6 +1099,8 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
   \choice $-\sqrt{-a+1}$
   \end{choices}
     
+#+END_EXPORT
+#+BEGIN_EXPORT latex
 \question 化简 $x \sqrt{\frac{y}{x}} + y \sqrt{\frac{x}{y}}$
 
   \vspace*{1in}
@@ -890,20 +1122,19 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
 \]
 \end{solution}  
 
-\end{questions}
+#+END_EXPORT
+#+LATEX: \end{questions}
 
-\subsection{16.2(1) 最简二次根式预习导航}
-
-\begin{questions}
-  
+** 16.2(1) 最简二次根式预习导航
+#+LATEX: \begin{questions}
+#+BEGIN_EXPORT latex
 \question 化简 $a\sqrt{\frac{1}{a^2}-\frac{1}{b^2}}$
+#+END_EXPORT
+#+LATEX: \end{questions}
 
-\end{questions}
-
-\subsection{16.2(2) 最简二次根式预习导航}
-
-\begin{questions}
-
+** 16.2(2) 最简二次根式预习导航
+#+LATEX: \begin{questions}
+#+BEGIN_EXPORT latex
 \question 下面说法正确的是
   \begin{choices}
   \choice 被开方数相同的二次根式是同类二次根式
@@ -912,77 +1143,83 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
   \choice 同类二次根式是根指数为2的根式
   \end{choices}
 
-\end{questions}
+#+END_EXPORT
+#+LATEX: \end{questions}
 
-\subsection{16.3(2) 二次根式的运算预习导航（乘除）}
-
-\begin{questions}
+** 16.3(2) 二次根式的运算预习导航（乘除）
+#+LATEX: \begin{questions}
+#+BEGIN_EXPORT latex
 \question
 计算：$3 \sqrt{5a} \cdot 2 \sqrt{10b}$=\fillin
 
+#+END_EXPORT
+#+BEGIN_EXPORT latex
 \question
 使等式$\sqrt{(x+1)(x-1)}=\sqrt{x-1} \cdot \sqrt{x+1}$成立的条件是\fillin
 
-\end{questions}
+#+END_EXPORT
+#+LATEX: \end{questions}
 
-\subsection{16.3(3) 二次根式的混合运算预习导航}
-
-\begin{questions}
-
+** 16.3(3) 二次根式的混合运算预习导航
+#+LATEX: \begin{questions}
+#+BEGIN_EXPORT latex
 \question
 已知$x=\frac{\sqrt{3}-\sqrt{2}}{\sqrt{3}+\sqrt{2}},y=\frac{\sqrt{3}+\sqrt{2}}{\sqrt{3}-\sqrt{2}}$,则$x^2+y^2$的值为\underline{\quad\quad}
 
+#+END_EXPORT
+#+BEGIN_EXPORT latex
 \question
 化简$(\sqrt{\frac{x}{y}-2\sqrt{\frac{y}{x}}}) \cdot \sqrt{xy} \cdot \frac{x+y}{x-2y}$=\underline{\quad\quad\quad\quad}
 
+#+END_EXPORT
+#+BEGIN_EXPORT latex
 \question
 解答$[\frac{4}{(\sqrt{a}+\sqrt{b})(\sqrt{a}-\sqrt{b})} + \frac{\sqrt{a}+\sqrt{b}}{\sqrt{ab}(\sqrt{b}-\sqrt{a})}] \div \frac{\sqrt{a}-\sqrt{b}}{\sqrt{ab}}$，其中$a=4,b=4$
-  ~\\
-  ~\\
-  ~\\
 
-\end{questions}   
+#+END_EXPORT
+#+LATEX: \end{questions}
 
-\section{新竹}
-
-\subsection{16.1(1) 二次根式}
-
-\begin{questions}
-
+* 新竹
+** 16.1(1) 二次根式
+#+LATEX: \begin{questions}
+#+BEGIN_EXPORT latex
 \question 如果$\sqrt{1-2a}$有意义，那么a的取值范围是\underline{\quad\quad}
 
+#+END_EXPORT
+#+BEGIN_EXPORT latex
 \question 化简: $\sqrt{x^2-6x+9} + \left| 1-x \right| (1<x<3)$
-  ~\\
-  ~\\
 
-\end{questions}
+#+END_EXPORT
+#+LATEX: \end{questions}
 
-\subsection{16.1(2) 二次根式}
+** 16.1(2) 二次根式
+#+LATEX: \begin{questions}
+#+BEGIN_EXPORT latex
+\question
+写出使下列等式成立的$x$的取值范围: $\sqrt{x^2(3-x)}=x \sqrt{3-x}$
 
-\begin{questions}
-
-  \question
-  写出使下列等式成立的$x$的取值范围: $\sqrt{x^2(3-x)}=x \sqrt{3-x}$
-
-  \question
-  求下列各式成立时，$x$的取值范围: $\sqrt{\frac{2x-1}{3x+2}}=\frac{\sqrt{2x-1}}{\sqrt{3x+2}}$
-  
-  \question
-  已知$\sqrt{a^3+3a^2}=-a\sqrt{a+3}$，求$a$的取值范围。
-
-  \question
-  $\sqrt{\frac{3-y}{3+y}}=\frac{\sqrt{3-y}}{\sqrt{3+y}}$成立的条件是\underline{\quad\quad}
-
+#+END_EXPORT
+#+BEGIN_EXPORT latex
+\question
+求下列各式成立时，$x$的取值范围: $\sqrt{\frac{2x-1}{3x+2}}=\frac{\sqrt{2x-1}}{\sqrt{3x+2}}$
+#+END_EXPORT
+#+BEGIN_EXPORT latex
+\question
+已知$\sqrt{a^3+3a^2}=-a\sqrt{a+3}$，求$a$的取值范围。
+#+END_EXPORT
+#+BEGIN_EXPORT latex
+\question
+$\sqrt{\frac{3-y}{3+y}}=\frac{\sqrt{3-y}}{\sqrt{3+y}}$成立的条件是\underline{\quad\quad}
+#+END_EXPORT
+#+BEGIN_EXPORT latex
 \question 已知实数满足$|1-x|=1+|x|$，化简$\sqrt{x^2(x-1)^2}$.
+#+END_EXPORT
+#+LATEX: \end{questions}
 
-\end{questions}
-
-\section{十每}
-
-\subsection{12月17}
-
-\begin{questions}
-
+* 十每
+** 12月17
+#+LATEX: \begin{questions}
+#+BEGIN_EXPORT latex
 \question
   $\frac{1}{3}\sqrt{75a} - 10 \sqrt{ab^4} - \frac{2}{a}\sqrt{3a^3} + ab^2 \sqrt{\frac{121}{a}} $
 
@@ -995,7 +1232,8 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
       \end{aligned}
     \]
   \end{solution}
-
+#+END_EXPORT
+#+BEGIN_EXPORT latex
 \question
   先化简，再求值： 已知
   $x = \frac{ 2 - \sqrt{3} }{ 2 + \sqrt{3} }$，
@@ -1020,6 +1258,8 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
   \]
   \end{solution}
 
+#+END_EXPORT
+#+BEGIN_EXPORT latex
 \question
   如图，已知并排方式的正方形$ABCD$和正方形$BEFG$的变长分别为$m$、$n$
   $(m > n)$，$A$、$B$、$E$三点在一直线上，且正方形$ABCD$和正方形$BEFG$
@@ -1069,12 +1309,12 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
   \end{solution}
   
 \end{parts}
+#+END_EXPORT
+#+LATEX: \end{questions}
 
-\end{questions}
-
-\subsubsection{12月18}
-
-\begin{questions}
+** 12月18
+#+LATEX: \begin{questions}
+#+BEGIN_EXPORT latex
 \question
   如图，已知$\triangle ABC$，将$\triangle ABC$沿直线$BC$平移得到
   $\triangle A_1B_1C_1$（其中 $A$、$B$、$C$ 分别与 $A_1$、$B_1$、$C_1$
@@ -1128,18 +1368,36 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
     \end{enumerate}
   \end{solution}
 
-\end{questions}
+#+END_EXPORT
+#+LATEX: \end{questions}
 
-\subsubsection{21月19}
-
-\begin{questions}
-\question
+** 21月19
+#+LATEX: \begin{questions}
+*** 原4
   小明家到公园的路程为$38$千米，一天小明8点10分从家出发到公园游玩,他先步行
-  了$1.5$千米然后换乘坐公交车,下车后又步行了$0.5$千米,9点40分到达公园.
+  了 $1.5$ 千米然后换乘坐公交车,下车后又步行了 $0.5$ 千米,9点40分到达公园.
   已知公交车的速度是小明步行速度的9倍,求小明步行的速度。
 
-\question
-  已知:如图所示,在$\triangle ABC$中
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      & \mbox{设他步行每小时行} x \mbox{千米} \\
+      & \begin{aligned}
+        \frac{2}{x} + \frac{36}{9x} &= 1.5 \\
+        \frac{6}{x} &= 1.5 \\
+        1.5x &= 6 \\
+        x &= 4 \\
+      \end{aligned} \\
+      & \mbox{经验证} x = 4 \mbox{为原方程的解，且符合题意} \\
+      & \therefore \mbox{原方程的解为} x = 4
+    \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
+*** 原5
+#+BEGIN_EXPORT latex
+已知:如图所示,在 $\triangle ABC$ 中
 
   \begin{parts}
     \epart 如果将$\triangle ABC$绕点$C$按顺时针方向旋转$90^{\degree}$
@@ -1188,10 +1446,30 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
   \end{parts}
 \end{solution}
 
-\subsubsection{21月20}
+#+END_EXPORT
+#+LATEX: \end{questions}
 
-\begin{questions}
-\question
+** 21月20
+#+LATEX: \begin{questions}
+*** 原5
+化简 $\frac{x \sqrt{y} - y \sqrt{x}}{x \sqrt{y} + y \sqrt{x}} - \frac{y \sqrt{x} + x \sqrt{y}}{y \sqrt{x} - x \sqrt{y}}$
+\vspace*{1in}
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      \mbox{原式} &=  \frac{(\sqrt{x} - \sqrt{y}) \sqrt{xy}}{(\sqrt{x} + \sqrt{y}) \sqrt{xy}}
+                      - \frac{\sqrt{xy}(\sqrt{x} + \sqrt{y})}{\sqrt{xy}(\sqrt{x} - \sqrt{y})} \\
+      &=\frac{(\sqrt{x} - \sqrt{y})^2 + (\sqrt{x} + \sqrt{y})^2}{(\sqrt{x} + \sqrt{y})(\sqrt{x} - \sqrt{y})} \\
+      &=\frac{x - 2 \sqrt{x} \sqrt{y} + y + x + 2 \sqrt{x} \sqrt{y} + y}{x - y} \\
+      &=\frac{2x + 2y}{x - y}
+    \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
+
+*** 原4
   甲乙两人玩“托球赛跑”游戏,商定:用球拍托着乒乓球从起跑线$L$起跑,到达
   $P$点后再返回起跑线为结束(如图所示);途中乒乓球掉下时须捡起并回到掉球
   处继续赛跑,所用时间少的人获胜。结果:甲同学由于心急,掉了球,浪费了6秒
@@ -1199,6 +1477,7 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
   同学说:“不算掉球那段时间,我的速度是乙的1.2倍”,根据图文信息,请通过计
   算判定哪位同学获胜?
 
+#+BEGIN_EXPORT latex
 \begin{center}
 \begin{tikzpicture}[scale=2.0]
   % \tkzDefPoints{0/0/C}
@@ -1210,8 +1489,11 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
   % \tkzLabelPoint[below](C){$C$}
 \end{tikzpicture}
 \end{center}
+#+END_EXPORT
 
 \vspace*{1in}
+
+#+BEGIN_EXPORT latex
 \begin{solution}
   \[
     \begin{aligned}
@@ -1233,11 +1515,7 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
   \]
 \end{solution}
 
-\end{questions}
+#+END_EXPORT
+#+LATEX: \end{questions}
 
-\end{questions}
 
-\end{document}
-
-%%% Local Variables:
-%%% End:

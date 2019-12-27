@@ -1,4 +1,20 @@
 #+STARTUP: content
+#+OPTIONS: LaTeX:t
+#+LATEX_CLASS: exam
+#+LATEX_HEADER: \usepackage{xeCJK}
+#+LATEX_HEADER: \usepackage{amsmath}
+#+LATEX_HEADER: \usepackage{amssymb}
+#+LATEX_HEADER: \usepackage{polynom}
+#+LATEX_HEADER: \usepackage{ulem}
+#+LATEX_HEADER: \usepackage{tikz}
+#+LATEX_HEADER: \usepackage{tkz-euclide}
+#+LATEX_HEADER: \newcommand\epart{\part}
+#+LATEX_HEADER: \newcommand\degree{^\circ}
+#+LATEX_HEADER: \renewcommand{\solutiontitle}{\noindent\textbf{解：}\par\noindent}
+#+LATEX_HEADER: \everymath{\displaystyle}
+#+LATEX_HEADER: \usetkzobj{all}
+
+#+LATEX_CLASS_OPTIONS: [answers]
 
 * 重要考试
 ** 七年级阶段性诊断1
@@ -817,30 +833,23 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
 
 ** 周测三
 #+LATEX: \begin{questions}
-#+BEGIN_EXPORT latex
-\question
-  $4x^3 - 8x^2$，$2x^2 - 8$，$4x^2 - 4x - 8$中的公因式为
-  \fillin[$2(x-2)$]
-#+END_EXPORT
-#+BEGIN_EXPORT latex
-\question
-  用黑白两种颜色的正方形纸片，按黑色纸片数量逐次加$1$的规律拼成一列图
-  案:
+*** 原7
+$4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 
-  第$n$个图案还有白色纸片\fillin[$(3n+1)$]张.
-#+END_EXPORT
-#+BEGIN_EXPORT latex
-\question
-  若$x^2 + xy + y = 16$ 且 $y^2 + xy + x = 28$，则$x+y$的值为
-  \fillin[$6 \mbox{或} -7$]
-#+END_EXPORT
-#+BEGIN_EXPORT latex
-\question
-  计算: $ \frac{(y-x)(z-x)}{(x - 2y + z)(x + y - 2z)}
-  + \frac{(z-y)(x-y)}{(x + y -2z)}
-  + \frac{(x-z)(y-z)}{(y + z - 2x)(x - 2y + z)}$
+*** 原10
+用黑白两种颜色的正方形纸片，按黑色纸片数量逐次加$1$的规律拼成一列图案:
 
-  \vspace*{1in}
+第 $n$ 个图案还有白色纸片\fillin[$(3n+1)$]张.
+
+*** 原14
+若 $x^2 + xy + y = 16$ 且 $y^2 + xy + x = 28$, 则$x+y$的值为 \fillin[$6 \mbox{或} -7$]
+
+*** 原17
+计算: $\frac{(y-x)(z-x)}{(x - 2y + z)(x + y - 2z)} + \frac{(z-y)(x-y)}{(x + y -2z)}  + \frac{(x-z)(y-z)}{(y + z - 2x)(x - 2y + z)}$
+
+\vspace*{1in}
+
+#+BEGIN_EXPORT latex
   \begin{solution}
     \[
       \begin{aligned}
@@ -872,11 +881,11 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
   \end{solution}
 
 #+END_EXPORT
-#+BEGIN_EXPORT latex
-\question
-  分解因式：$xy(x^2-y^2) + yz(y^2 - z^2) + zx(z^2 - x^2)$
+*** 原20
+分解因式: $xy(x^2-y^2) + yz(y^2 - z^2) + zx(z^2 - x^2)$
+\vspace*{1in}
 
-  \vspace*{1in}
+#+BEGIN_EXPORT latex
   \begin{solution}
     \[
       \begin{aligned}
@@ -894,13 +903,11 @@ $x$、$y$为$t$的一个万象分解，在t的所有万象分解中，若$\frac{
       \end{aligned}
     \]
   \end{solution}
-
 #+END_EXPORT
-#+BEGIN_EXPORT latex
-\question
-  如果$a+\frac{1}{b}=1$，$b+\frac{2}{c}=1$，求$c+\frac{2}{a}$的值
 
-#+END_EXPORT
+*** 原22
+如果 $a+\frac{1}{b}=1$, $b+\frac{2}{c}=1$, 求 $c+\frac{2}{a}$ 的值
+
 #+LATEX: \end{questions}
 
 * 预习导航
@@ -1309,18 +1316,3 @@ $\sqrt{\frac{3-y}{3+y}}=\frac{\sqrt{3-y}}{\sqrt{3+y}}$成立的条件是\underli
 #+END_EXPORT
 #+LATEX: \end{questions}
 
-#+LATEX_CLASS: exam
-#+LATEX_HEADER: \usepackage{xeCJK}
-#+LATEX_HEADER: \usepackage{amsmath}
-#+LATEX_HEADER: \usepackage{amssymb}
-#+LATEX_HEADER: \usepackage{polynom}
-#+LATEX_HEADER: \usepackage{ulem}
-#+LATEX_HEADER: \usepackage{tikz}
-#+LATEX_HEADER: \usepackage{tkz-euclide}
-#+LATEX_HEADER: \newcommand\epart{\part}
-#+LATEX_HEADER: \newcommand\degree{^\circ}
-#+LATEX_HEADER: \renewcommand{\solutiontitle}{\noindent\textbf{解：}\par\noindent}
-#+LATEX_HEADER: \everymath{\displaystyle}
-#+LATEX_HEADER: \usetkzobj{all}
-
-#+LATEX_CLASS_OPTIONS: [answers]

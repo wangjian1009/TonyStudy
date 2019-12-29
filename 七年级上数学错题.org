@@ -1,6 +1,7 @@
 #+TITLE: 七年级上数学错题
 #+STARTUP: overview
 #+STARTUP: noptag
+#+STARTUP: hideblocks
 #+TAGS: no_answer(a) \n no_pic(p)
 #+LATEX_CLASS: exam
 #+LATEX_HEADER: \usepackage{xeCJK}
@@ -209,8 +210,7 @@ $$
 例:若$2x=3y=4z$,且$xyz \neq 0$,求 $\frac{x}{y+x}$ 的值。
 
 解:
-$$
-  \mbox{令} 2x=3y=4z=k(k≠0),
+$$ \mbox{令} 2x=3y=4z=k(k≠0),
   \mbox{则} x=\frac{k}{2},y=\frac{k}{3},z=\frac{k}{4},
   \therefore \frac{x}{y+z}=\frac{\frac{1}{2}k}{\frac{1}{3}k + \frac{1}{4}k}=\frac{\frac{1}{2}}{\frac{7}{12}}=\frac{7}{6}
 $$
@@ -498,17 +498,14 @@ $$
 ** 周测一
 #+LATEX: \begin{questions}
 *** 原4
-#+BEGIN_EXPORT latex
-  如果$a^{n^2}=(a^n)^x$($n$为正整数)，那么$x$等于
+如果 $a^{n^2}=(a^n)^x$ ( $n$ 为正整数)，那么 $x$ 等于
   
-  \begin{choices}
-  \correctchoice $n$
-  \choice $2$
-  \choice $a^n$
-  \choice $a^2$
-  \end{choices}
-
-#+END_EXPORT
+\begin{choices}
+\correctchoice $n$
+\choice $2$
+\choice $a^n$
+\choice $a^2$
+\end{choices}
 
 *** 原8
 若 $2x+5y-3=0$, 则 $4^x \cdot 32^y$ 的值为 \fillin[8]
@@ -518,18 +515,18 @@ $$
 \vspace*{1in}
 
 #+BEGIN_EXPORT latex
-  \begin{solution}
-    \[
-      \begin{aligned}
-        \mbox{原式} &= x^4-2(a^2+b^2)x^2+[(a+b)(a-b)]^2 \\
-        &= (x^2)^2 - 2(a^2+b^2)x^2+(a+b)^2(a-b)^2 \\
-        &= (x^2)^2-(2a^2+2b^2)x^2+(a^2+2ab+b^2)(a^2-2ab+b^2) \\
-        &= [x^2-(a^2+2ab+b^2)] \cdot [x^2-(a^2-2ab+b^2)] \\
-        &= [x^2-(a+b)^2] \cdot [x^2-(a-b)^2] \\
-        &= (x+a+b)(x-a-b)(x+a-b)(x-a+b)
-      \end{aligned}
-    \]
-  \end{solution}
+\begin{solution}
+  \[
+    \begin{aligned}
+      \mbox{原式} &= x^4-2(a^2+b^2)x^2+[(a+b)(a-b)]^2 \\
+      &= (x^2)^2 - 2(a^2+b^2)x^2+(a+b)^2(a-b)^2 \\
+      &= (x^2)^2-(2a^2+2b^2)x^2+(a^2+2ab+b^2)(a^2-2ab+b^2) \\
+      &= [x^2-(a^2+2ab+b^2)] \cdot [x^2-(a^2-2ab+b^2)] \\
+      &= [x^2-(a+b)^2] \cdot [x^2-(a-b)^2] \\
+      &= (x+a+b)(x-a-b)(x+a-b)(x-a+b)
+    \end{aligned}
+  \]
+\end{solution}
 #+END_EXPORT
 
 *** 原18
@@ -584,19 +581,19 @@ $$
 #+END_EXPORT
 
 *** 原24
-#+BEGIN_EXPORT latex
-  已知正有理数$a$、$b$、$c$满足方程
-  $
-    \begin{cases}
-      a + b^2 + 2ac = 29 \quad\textcircled{1}\\
-      b + c^2 + 2ab = 17 \quad\textcircled{2}\\
-      c + a^2 + 2bc = 26 \quad\textcircled{3}\\
-    \end{cases} 
-  $
-  求$a+b+c$的值
+已知正有理数 $a$ 、 $b$ 、 $c$ 满足方程
+$$ \begin{cases}
+    a + b^2 + 2ac = 29 \quad\textcircled{1}\\
+    b + c^2 + 2ab = 17 \quad\textcircled{2}\\
+    c + a^2 + 2bc = 26 \quad\textcircled{3}\\
+  \end{cases} 
+$$
+求 $a+b+c$ 的值
 
-  \vspace*{1in}
-  \begin{solution}
+\vspace*{1in}
+
+#+BEGIN_EXPORT latex
+\begin{solution}
   \[
     \begin{aligned}
       & \mbox{由} \textcircled{1} + \textcircled{2} + \textcircled{3} \mbox{得} \\
@@ -613,21 +610,21 @@ $$
 #+END_EXPORT
 
 *** 原25
-#+BEGIN_EXPORT latex
-  对于多项式$x^3-5x^2+x+10$, 我们吧$x=2$代入多项式，发现$x=2$能使多项
-  式$x^3-5x^2+x+10$的值为0，由此可以断定多项式$x^3-5x^2+x+10$中有因式
-  $(x-2)$[注：把$x=a$代入多项式，能使多项式的值为0，则多项式一定含有因
-  式$(x-a)$]，于是我们可以把多项式写成$x^3-5x^2+x+10=(x-2)(x^2+mx+n)$，
-  分别求出$m$，$n$后再代入$x^3-5x^2+x+10=(x-2)(x^2+mx+n)$，就可以把多
-  项式$x^3-5x^2+x+10$因式分解。
-  \begin{parts}
-    \epart 求式子中$m$，$n$的值。
-    \epart 以上这种因式分解的方法叫“试根法”，用“试跟法”分解多项式
-    $x^3+5^2+8x+4$。
-  \end{parts}
+对于多项式 $x^3-5x^2+x+10$, 我们吧 $x=2$ 代入多项式，发现 $x=2$ 能使多项
+式 $x^3-5x^2+x+10$ 的值为 $0$，由此可以断定多项式 $x^3-5x^2+x+10$ 中有因式
+$(x-2)$ [注：把 $x=a$ 代入多项式，能使多项式的值为0，则多项式一定含有因式 $(x-a)$ ],
+于是我们可以把多项式写成 $x^3-5x^2+x+10=(x-2)(x^2+mx+n)$,
+分别求出 $m$, $n$后再代入 $x^3-5x^2+x+10=(x-2)(x^2+mx+n)$, 就可以把多项式$x^3-5x^2+x+10$因式分解。
 
-  \vspace*{1in}
-  \begin{solution}
+#+LATEX: \begin{parts}
+\epart 求式子中$m$，$n$的值。
+\epart 以上这种因式分解的方法叫“试根法”，用“试跟法”分解多项式 $x^3+5^2+8x+4$.
+#+LATEX: \end{parts}
+
+\vspace*{1in}
+
+#+BEGIN_EXPORT latex
+\begin{solution}
 \begin{parts}
   \epart
   \[
@@ -698,22 +695,25 @@ $$
 #+END_EXPORT
 
 *** 原 21.(3)
-#+BEGIN_EXPORT latex
-  计算:
-  $\frac{3}{(x + 1)(x + 3)} + \frac{3}{(x + 3)(x + 5)}
-  + \frac{3}{(x + 5)(x + 7)} + \dots + \frac{3}{(x + 99)(x + 101)}
-  $
+计算:  
 
-  \vspace*{1in}
-  \begin{solution}
-    \[
-      \begin{aligned}
-        \mbox{原式} &= 3 * \frac{1}{2} ( \frac{1}{x + 1} - \frac{1}{x + 3} + \frac{1}{x + 3} \dots - \frac{1}{x + 101}) \\
-        &= 3 * \frac{1}{2} * \frac{100}{(x + 1)(x + 101)} \\
-        &= \frac{150}{(x + 1)(x + 101)}
-      \end{aligned}
-    \]
-  \end{solution}
+\begin{equation}
+ \frac{3}{(x + 1)(x + 3)} + \frac{3}{(x + 3)(x + 5)}
+  + \frac{3}{(x + 5)(x + 7)} + \dots + \frac{3}{(x + 99)(x + 101)}
+\end{equation}
+
+\vspace*{1in}
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      \mbox{原式} &= 3 * \frac{1}{2} ( \frac{1}{x + 1} - \frac{1}{x + 3} + \frac{1}{x + 3} \dots - \frac{1}{x + 101}) \\
+      &= 3 * \frac{1}{2} * \frac{100}{(x + 1)(x + 101)} \\
+      &= \frac{150}{(x + 1)(x + 101)}
+    \end{aligned}
+  \]
+\end{solution}
 #+END_EXPORT
 
 *** 原 22.(3)
@@ -760,57 +760,61 @@ $$
 #+END_EXPORT
 
 *** 原27
-
-#+BEGIN_EXPORT latex
-  定义: 如果一个分式能化成一个整式与一个分子为常数的分式的和的形式，则
-  称这个分式为“和谐分式”。如
-  $\frac{x+1}{x-1}
+定义: 如果一个分式能化成一个整式与一个分子为常数的分式的和的形式，则称这个分式为“和谐分式”。
+如
+$$ \frac{x+1}{x-1}
   =\frac{x - 1 + 2}{x - 1}
   =\frac{x - 1}{x - 1} + \frac{2}{x - 1}
-  =1 + \frac{2}{x - 1}$，
-  $\frac{2x- 3}{x + 1}
+  =1 + \frac{2}{x - 1}
+$$ ,
+$$ \frac{2x- 3}{x + 1}
   = \frac{2x + 2 - 5}{x + 1}
   = \frac{2x + 2}{x + 1} + \frac{-5}{x + 1}
-  = 2 + \frac{-5}{x + 1}$，
-  则$\frac{x+1}{x-1}$和$\frac{2x-3}{x+1}$都是“和谐分式”。
+  = 2 + \frac{-5}{x + 1}
+$$,
+则 $\frac{x+1}{x-1}$ 和 $\frac{2x-3}{x+1}$ 都是“和谐分式”。
 
-  \begin{parts}
-    \epart 下列分式中，属于“和谐分式的是” \fillin[\textcircled{1},
-    \textcircled{2},\textcircled{4}]（填序号）;
+#+LATEX: \begin{parts}
+\epart
+ 下列分式中，属于“和谐分式的是” \fillin[ \textcircled{1}, \textcircled{2},\textcircled{4}]（填序号）;
 
-    \textcircled{1}$\frac{x+1}{x}$;
-    \textcircled{2}$\frac{2+x}{2}$;
-    \textcircled{3}$\frac{x+2}{x+1}$;
-    \textcircled{4}$\frac{y^2+1}{y^2}$.
+\textcircled{1} $\frac{x+1}{x}$;
+\textcircled{2} $\frac{2+x}{2}$;
+\textcircled{3} $\frac{x+2}{x+1}$;
+\textcircled{4} $\frac{y^2+1}{y^2}$.
 
-    \epart 将“和谐分式”$\frac{a^2-2a+3}{a-1}$化成一个整式与一个分子为
-    常数的分式的和的形式为:$\frac{a^2-2a+3}{a-1}=$\fillin[$a -
-    1$]$+$\fillin[$\frac{2}{a-1}$];
+\epart
+ 将“和谐分式” $\frac{a^2-2a+3}{a-1}$ 化成一个整式与一个分子为常数的分式的和的形式为: 
+$\frac{a^2-2a+3}{a-1}=$ \fillin[ $a - 1$ ] $+$ \fillin[ $\frac{2}{a-1}$ ];
 
-    \epart 应用：先化简$
+\epart 应用：先化简
+$$ 
     \frac{3x+6}{x+1}-\frac{x-1}{x}
-    \div \frac{x^2-1}{x^2+2x}$,并求$x$取什么整数时，该式的值为整数。
-    
-    \vspace*{1in}
-    \begin{solution}
-      \[
-        \begin{aligned}
-        & \begin{aligned}
-          \mbox{原式} &= 3 + \frac{3}{x+1} - \frac{x-1}{x} * \frac{x(x+2)}{(x+1)(x-1)} \\
-          &= 3 + \frac{3}{x+1} - \frac{x+2}{x+1} \\
-          &= 3 + \frac{1-x}{x+1} \\
-          &= 2 + \frac{2}{x+1}
-        \end{aligned} \\
-        & \therefore x + 1 = 2 \mbox{或} 1 \mbox{或} -1 \mbox{或} -2 \\
-        & \therefore x = 1 \mbox{或} 0 \mbox{或} -2 \mbox{或} -3 \\
-        & \mbox{代入原式验算} x = 0, x = -1, x = -2 \mbox{时无意义} \\
-        & \therefore x \mbox{的取值为} -3
-        \end{aligned}
-      \]
-    \end{solution}
-    
-  \end{parts}
+    \div \frac{x^2-1}{x^2+2x}
+$$,
+并求 $x$ 取什么整数时，该式的值为整数。
+\vspace*{1in}
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+    & \begin{aligned}
+      \mbox{原式} &= 3 + \frac{3}{x+1} - \frac{x-1}{x} * \frac{x(x+2)}{(x+1)(x-1)} \\
+      &= 3 + \frac{3}{x+1} - \frac{x+2}{x+1} \\
+      &= 3 + \frac{1-x}{x+1} \\
+      &= 2 + \frac{2}{x+1}
+    \end{aligned} \\
+    & \therefore x + 1 = 2 \mbox{或} 1 \mbox{或} -1 \mbox{或} -2 \\
+    & \therefore x = 1 \mbox{或} 0 \mbox{或} -2 \mbox{或} -3 \\
+    & \mbox{代入原式验算} x = 0, x = -1, x = -2 \mbox{时无意义} \\
+    & \therefore x \mbox{的取值为} -3
+    \end{aligned}
+  \]
+\end{solution}
 #+END_EXPORT
+    
+#+LATEX: \end{parts}
 
 #+LATEX: \end{questions}
 
@@ -822,7 +826,7 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 *** 原10
 用黑白两种颜色的正方形纸片，按黑色纸片数量逐次加$1$的规律拼成一列图案:
 
-第 $n$ 个图案还有白色纸片\fillin[$(3n+1)$]张.
+第 $n$ 个图案还有白色纸片\fillin[ $(3n+1)$ ]张.
 
 *** [#A] 原14
 若 $x^2 + xy + y = 16$ 且 $y^2 + xy + x = 28$, 则$x+y$的值为 \fillin[$6 \mbox{或} -7$]
@@ -970,7 +974,10 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 分式 $\frac{x + y}{2xy}$ 中的 $x$ 和 $y$ 都扩大3倍，那么分式的值为
 
 \begin{oneparchoices}
-    \choice 扩大3倍 \choice 不变 \correctchoice 缩小3倍 \choice 缩小6倍
+\choice 扩大3倍
+\choice 不变
+\correctchoice 缩小3倍
+\choice 缩小6倍
 \end{oneparchoices}
 
 *** 原6
@@ -988,7 +995,7 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 \end{solution}
 #+END_EXPORT
 
-*** 原9
+*** 原9                                                              :no_pic:
 如图a时长方形纸带 $\angle DEF=20 \degree$, 将纸带沿 $EF$ 折叠成图b, 再沿 $BF$ 折叠成图c, 则图c中 $\angle CFE$ 的度数是 \fillin[$120 \degree$]
 
 #+BEGIN_EXPORT latex
@@ -1145,7 +1152,7 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 \end{solution}
 #+END_EXPORT
 
-*** 原25                                                             :no_pic:
+*** 原26                                                             :no_pic:
 在下列 4x4 的正方形网格中的定点 $A$ 、 $B$ 、 $C$ 都在格点上（格点即为每个小正方形的定点）。
 
 #+LATEX: \begin{parts}
@@ -1153,12 +1160,36 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
  （每图只画一种情况，至少画出4种情况）
 
 #+BEGIN_EXPORT latex
+\begin{center}
+\begin{tikzpicture}
+  \foreach \i in { 0 , ... , 3 } {
+      \draw[step=0.5,help lines,dashed] ( \i * 2.5 , 0 ) grid (\i * 2.5 + 2, 2);
+      \tkzDefPoint[label=below:$A$](\i * 2.5 + 1.5, 0){A}
+      \tkzDefPoint[label=above left:$B$](\i * 2.5 + 0.5, 1){B}
+      \tkzDefPoint[label=above right:$C$](\i * 2.5 + 1, 1){C}
+      \tkzDrawPolygon(A,B,C)
+      \tkzDrawPoints[](A,B,C)
+  }
+\end{tikzpicture}
+\end{center}
 #+END_EXPORT
 
 \epart 如果以格点 $A$ 、$B$ 、$C$ 、$D$ 、$E$ 为定点的图形是中心对称图形，请在下列备用图中确定可能符合条件的格点 $D$ 、 $E$ 并画出相应图形
  （每图只画一种情况，至少画出6种情况）
 
 #+BEGIN_EXPORT latex
+\begin{center}
+\begin{tikzpicture}
+  \foreach \i in { 0 , ... , 6 } {
+      \draw[step=0.5,help lines,dashed] ( \i * 2.5 , 0 ) grid (\i * 2.5 + 2, 2);
+      \tkzDefPoint[label=below:$A$](\i * 2.5 + 1.5, 0){A}
+      \tkzDefPoint[label=above left:$B$](\i * 2.5 + 0.5, 1){B}
+      \tkzDefPoint[label=above right:$C$](\i * 2.5 + 1, 1){C}
+      \tkzDrawPolygon(A,B,C)
+      \tkzDrawPoints[](A,B,C)
+  }
+\end{tikzpicture}
+\end{center}
 #+END_EXPORT
 
 #+LATEX: \end{parts}
@@ -1189,12 +1220,62 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 若 $y = \sqrt{a + 16} - \sqrt{36 - a} + \sqrt{-a^2}$ 则 $y=$ \fillin[$-2$].
 
 *** 原15
+已知在 $\triangle ABC$ 中 $AB=6$, $CD$ 是边 $AB$ 边上的高, 将 $\triangle ACD$ 沿 $CD$ 折叠, 点 $A$ 落在直线 $AB$ 上的点 $A'$, $A'B = 2$, 
+那么 $BD$ 的长是 \fillin[ $2$ 或 $4$ ].
 
-*** 原17
+*** 原16
+如图， 正方形 $ABCD$ 在边 $AB$ 在数轴上，数轴上的点 $A$ 表示的数为 $-1$, 正方形 $ABCD$ 的面积为 $a^2 \quad ( a > 1 )$.
+将正方形 $ABCD$ 在数轴上水平移动， 移动后的正方形 $A'B'C'D'$ 与原正方形 $ABCD$ 重叠部分图形的面积标记为 $S$.
+当 $S=a$ 时, 数轴上点 $A'$ 表示的数是 \fillin[ $-a$ 或 $-2 + a$ ]. (用含 $a$ 的代数式表示)
 
-*** 原18
+#+BEGIN_EXPORT latex
+\begin{center}
+\begin{tikzpicture}
+  \tkzInit[xmin=-3,xmax=3,ymax=4]
+  \tkzDrawX[noticks]
+  \tkzDefPoints{-0.7/0/B, 0.7/0/A, -0.7/1.4/C, 0.7/1.4/D}
+  \tkzDrawPolygon(A,B,C,D)
+  \tkzLabelPoint[below](A){$A$}
+  \tkzLabelPoint[below](B){$B$}
+  \tkzLabelPoint[above](C){$C$}
+  \tkzLabelPoint[above](D){$D$}
+\end{tikzpicture}
+\end{center}
+#+END_EXPORT
 
-*** 原19
+*** 原17                                                   :no_answer:no_pic:
+如图，一块含有 $30 \degree$ 角( $\angle BAC = 30 \degree$ )的直角板 $ABC$, 绕着它的一个锐角定点 $A$ 旋转后它的直角定点落到原斜边上，那么旋转角是 \fillin[]
+
+#+BEGIN_EXPORT latex
+\begin{center}
+\begin{tikzpicture}
+  \tkzDefPoints{-0.7/0/B, 0.7/0/A, -0.7/1.4/C}
+  \tkzDrawPolygon(A,B,C)
+\end{tikzpicture}
+\end{center}
+#+END_EXPORT
+
+*** 原18                                                          :no_answer:
+在长方形 $ABCD$ 中， $AB = 2cm$, $BC=3cm$, $E$ 、 $F$ 分别是 $AD$ 、 $BC$ 的重点，
+如果长方形 $ABFE$ 绕点 $F$ 顺时针旋转 $90 \degree$, 则旋转后的长方形 $CDEF$ 重叠部分的面积是 \fillin[] $cm^2$.
+
+#+BEGIN_EXPORT latex
+\begin{center}
+\begin{tikzpicture}
+  \tkzDefPoints{0/1/A, 0/0/B, 2/0/C, 2/1/D, 1/1/E, 1/0/F}
+  \tkzDrawPolygon(A,B,C,D)
+  \tkzDrawLines(E,F)
+  \tkzLabelPoint[above left](A){$A$}
+  \tkzLabelPoint[below left](B){$B$}
+  \tkzLabelPoint[below right](C){$C$}
+  \tkzLabelPoint[above right](D){$D$}
+  \tkzLabelPoint[above](E){$E$}
+  \tkzLabelPoint[below](F){$F$}
+\end{tikzpicture}
+\end{center}
+#+END_EXPORT
+
+*** 原19                                                          :no_answer:
 计算: $\sqrt{(1 - \sqrt{2})^2} + \sqrt{3} \times (\sqrt{27} - \sqrt{ \frac{2}{3} })$
 \vspace*{1in}
 
@@ -1214,9 +1295,10 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 已知等边三角形 $ABC$ (等边三角形的三条边相等且三个角都为60°)，三角形 $ABC$ 绕点 $C$ 顺时针旋转 $a (0 \degree < a < 120 \degree)$ 得到三角形 $CDE$
 
 #+LATEX: \begin{parts}
-\epart 当 $a=30 \degree$ 时，请问 $\angle ACD$ 与 $\angle BCE$ 的和等于 \fillin[$120 \degree$];
+\epart 当 $a=30 \degree$ 时，请问 $\angle ACD$ 与 $\angle BCE$ 的和等于 \fillin[ $120 \degree$ ];
 
-\epart 当旋转角为 $a (0 \degree < a \leq 60 \degree)$ 时，请你猜想 (1) 中的结论是否还成立?请说明理由。
+\epart 当旋转角为 $a (0 \degree < a \leq 60 \degree)$ 时，请你猜想 (1) 中的结论是否还成立?请说明理由.
+
 \vspace*{1in}
 
 #+BEGIN_EXPORT latex
@@ -1230,23 +1312,25 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 
 \epart 当旋转角为 $a (60 \degree < a < 120 \degree)$ 时,请根据题意画出图形,且回答 (1) 中的结论是否还成立?若成立, 请说明理由;
 若不成立, $\angle ACD$ 与$\angle BCE$ 是否存在其它数量关系?
+#+LATEX: \end{parts}
 
 *** TODO 原24
-如图M，长方片ABCD(ADA)，点O位于边BC上，点E位手边AB上，点F位下边AD上，将纸片沿OE、OF折叠，点B、C，D的对点分别为B，C，D
+如图 $M$ ，长方片 $ABCD \quad (AD > AB)$ 点 $O$ 位于边 $BC$ 上, 点 $E$ 位于边 $AB$ 上, 点 $F$ 位于边 $AD$ 上, 将纸片沿 $OE$, $OF$ 折叠, 
+点 $B$ 、 $C$ 、 $D$ 的对应点分别为 $B'$ 、 $C'$ 、 $D'$
 
 #+LATEX: \begin{parts}
 \epart
-将长方形片ABCD图O示的方式折登，若点B在OC上，则∠EOF的度数为(直接填写答案)
+将长方形纸片 $ABCD$ 按图\textcircled{1} 示的方式折登, 若点 $B'$ 在 $OC$ 上, 则 $\angle EOF$ 的度数为 \fillin[]; (直接填写答案)
 
 \epart
-将长方形纸片ABCD按图②所示的方式折，若∠BC-20”，求∠EOF的度数(写出必要解题步)
+将长方形纸片 $ABCD$ 按图\textcircled{2} 所示的方式折, 若 $\angle B'OC' = 20 \degree$, 求 $\angle EOF$ 的度数(写出必要解题步)
 
 \epart
-将长方形纸片ABCD按图③所示的方式折叠，若∠EOF＝x2，求∠BOC的度数(写出必要解题步骤)
+将长方形纸片 $ABCD$ 按图\textcircled{3} 所示的方式折叠, 若 $\angle EOF = x^2$, 求 $\angle B'OC'$ 的度数(写出必要解题步骤)
 
 #+LATEX: \end{parts}
 
-*** 原25
+*** TODO 原25
 已知: $AB$ 、$CD$ 是圆的两条直径, 且 $\angle AOD = a ( 0＜ a ＜ 90 \degree )$, 点 $p$ 是扇形 $AOD$ 内任意一点,
 点 $P$ 将 $AB$ 、$CD$ 所在直线依次轮流作为对称轴翻折, 将点 $P$ 关于 $AB$ 对称的点记为点 $P_1$,
 点 $P$ 关于 $CD$ 对称的点记为点 $P_2$, 点关于 $AB$ 对称的点记为点 $P_3$, \cdots .
@@ -1257,7 +1341,7 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 
 \epart
 分别联结 $OP$ 、 $OP_1$ 、 $OP_2$, 那么线段 $OP$ 、 $OP_1$ 、 $OP_2$ 之间的数量关系是:
- $OP$ \fillin[ $=$ ] $OP_1$ \fillin[ $=$ ] $OP_2$ (填空,不要求写出过程)
+$OP$ \fillin[ $=$ ] $OP_1$ \fillin[ $=$ ] $OP_2$ (填空,不要求写出过程)
 
 \epart
 由(1)、(2)可知,点 $P$ 绕点 $O$ 旋转可以到达点 $P$ 的位置, 如果 $a＝60 \degree$, $OP＝a$

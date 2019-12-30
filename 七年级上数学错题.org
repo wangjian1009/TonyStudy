@@ -1354,6 +1354,110 @@ $OP$ \fillin[ $=$ ] $OP_1$ \fillin[ $=$ ] $OP_2$ (填空,不要求写出过程)
 
 #+LATEX: \end{questions}
 
+** 周测七
+#+LATEX: \begin{questions}
+*** 原8
+已知 $\sqrt{1.234} \approx 1.111$, $\sqrt{12.34} \approx 3.513$, $x^2 = 0.1234$ 则 $x$ 的取值范围是 \fillin[ $\pm 0.33513$ ]
+
+*** 原11
+若 $0 < a < 1$, 且$a + \frac{1}{a}=6$, 则 $\sqrt{a} - \frac{1}{\sqrt{a}}$ 的值为 \fillin[ $\pm2$ ]
+
+*** 原13                                                          :no_answer:
+如图， 在 $\triangle ABC$ 中, $\angle ACB = 90 \degree$, $AC=3$, $BC=4$, 点 $D$ 是边 $AB$ 的中点, 
+将 $\triangle ABC$ 沿着 $AB$ 平移到 $\triangle DEF$ 处, 则四边形 $ACFB$ 的面积 \fillin[ ].
+
+*** 原15                                                          :no_answer:
+在实数 $3.14$, $\frac{2}{5}$, $3.3333 \cdots$, $\sqrt{3}$, $0.412$, $0.10110111011110 \cdots$, $\pi$, $- \sqrt{356}$ 中, 有 \fillin[] 个无理数.
+
+\begin{oneparchoices}
+\choice $2$ 个
+\correctchoice $3$ 个
+\choice $4$ 个
+\choice $5$ 个
+\end{oneparchoices}
+
+*** 原18                                                          :no_answer:
+若分式 $\frac{2}{-x^2 + 4x -m}$ 不论 $x$ 取何数时总有意义, 满足要求的最小整数 $m$ 为 \fillin
+
+\begin{oneparchoices}
+\choice $-4$ 个
+\choice $-3$ 个
+\choice $4$ 个
+\choice $5$ 个
+\end{oneparchoices}
+
+*** 原21                                                          :no_answer:
+解方程: $\frac{7}{x^2 + x} - \frac{3}{x - x^2} = 1 + \frac{7 - x^2}{x^2 - 1}$
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      \frac{7}{x(x+1)} - \frac{3}{x(x-1)} &= 1 + \frac{7-x^2}{(x - 1)(x + 1)} \\
+      7(x-1) - 3(x+1) &= x[(x - 1)(x + 1) + 7 - x^2] \\
+      7x - 7 - 3x - 3 &= 6x \\
+      4x - 10 &= 6x \\
+      x &= -5
+    \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
+
+*** 原23
+已知实数 $x$, $y$ 满足 $x^2 + 4y^2 = 2x + 4y - 2$, 求 $\sqrt[n]{x + 2y}$ 的值. ( $n$ 是大于 $1$ 的整数 )
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      & \begin{aligned}
+        x^2 + 4y^2 &= 2x + 4y - 2 \\
+        (4y^2 - 4y + 1) + (x^2 - 2x + 1) &= 0 \\
+      \end{aligned} \\
+      & \because \mbox{非负性} \\
+      & \therefore \begin{aligned}
+        \begin{aligned}
+          2y - 1 &= 0  \\
+          y &= \frac{1}{2}
+        \end{aligned}
+        \qquad
+        \begin{aligned}
+          x - 1 &= 0\\
+          x &= 1
+        \end{aligned}
+      \end{aligned} \\
+      & \therefore \begin{aligned}
+        &\sqrt[n]{x + 2y} \\
+        =& \sqrt[n]{2}
+      \end{aligned}
+    \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
+
+*** 原24                                                          :no_answer:
+如图， 在直角三角形 $ABC$ 中, $\angle B = 90 \degree$, $AB=4cm$, $BC=3cm$, $AC=5cm$.
+
+#+LATEX: \begin{parts}
+\epart 将三角形 $ABC$ 沿射线 $AB$ 方向平移 $3cm$, 得到三角形 $DEF$, 画出三角形 $DEF$, 并求出三角形在平移过程中三角形 $ABC$ 扫过的面积?
+
+#+BEGIN_EXPORT latex
+\begin{center}
+\begin{tikzpicture}
+  \tkzDefPoints{0/0/A, 4/0/B, 4/3/C}
+  \tkzDrawPolygon(A,B,C)
+  \tkzLabelPoint[below left](A){$A$}
+  \tkzLabelPoint[below right](B){$B$}
+  \tkzLabelPoint[above](C){$C$}
+\end{tikzpicture}
+\end{center}
+#+END_EXPORT
+
+\epart 三角形纸片 ABC 是由一张纸对折后（折痕两旁能够完成重合）得到的，展开这张纸后可以得到原式的图形，则原始图形的周长为 \fillin[]
+
+#+LATEX: \end{parts}
+
+#+LATEX: \end{questions}
 * 预习导航
 ** 16.1 二次根式预习导航
 #+LATEX: \begin{questions}
@@ -1645,16 +1749,16 @@ $\sqrt{\frac{3-y}{3+y}}=\frac{\sqrt{3-y}}{\sqrt{3+y}}$成立的条件是\underli
       \]
     \end{enumerate}
   \end{solution}
-
 #+END_EXPORT
+
 #+LATEX: \end{questions}
 
 ** 21月19
 #+LATEX: \begin{questions}
 *** 原4
-  小明家到公园的路程为$38$千米，一天小明8点10分从家出发到公园游玩,他先步行
-  了 $1.5$ 千米然后换乘坐公交车,下车后又步行了 $0.5$ 千米,9点40分到达公园.
-  已知公交车的速度是小明步行速度的9倍,求小明步行的速度。
+小明家到公园的路程为 $38$ 千米，一天小明8点10分从家出发到公园游玩,
+他先步行了 $1.5$ 千米然后换乘坐公交车,下车后又步行了 $0.5$ 千米, 9点40分到达公园.
+已知公交车的速度是小明步行速度的9倍,求小明步行的速度。
 
 #+BEGIN_EXPORT latex
 \begin{solution}
@@ -1748,12 +1852,12 @@ $\sqrt{\frac{3-y}{3+y}}=\frac{\sqrt{3-y}}{\sqrt{3+y}}$成立的条件是\underli
 #+END_EXPORT
 
 *** 原4                                                              :no_pic:
-  甲乙两人玩“托球赛跑”游戏,商定:用球拍托着乒乓球从起跑线$L$起跑,到达
-  $P$点后再返回起跑线为结束(如图所示);途中乒乓球掉下时须捡起并回到掉球
-  处继续赛跑,所用时间少的人获胜。结果:甲同学由于心急,掉了球,浪费了6秒
-  钟,乙同学则顺利跑完。事后,乙同学说:“我俩所用的全部时间的和为50秒”甲
-  同学说:“不算掉球那段时间,我的速度是乙的1.2倍”,根据图文信息,请通过计
-  算判定哪位同学获胜?
+甲乙两人玩“托球赛跑”游戏,商定:用球拍托着乒乓球从起跑线 $L$ 起跑,到达 $P$ 点后再返回起跑线为结束(如图所示);
+途中乒乓球掉下时须捡起并回到掉球处继续赛跑,所用时间少的人获胜。
+结果:甲同学由于心急,掉了球,浪费了 $6$ 秒钟,乙同学则顺利跑完。
+事后,乙同学说:“我俩所用的全部时间的和为 $50$ 秒”
+甲同学说:“不算掉球那段时间,我的速度是乙的 $1.2$ 倍”,
+根据图文信息,请通过计算判定哪位同学获胜?
 
 #+BEGIN_EXPORT latex
 \begin{center}
@@ -1862,5 +1966,112 @@ $\frac{1}{(x+1)(x-2)} + \frac{1}{(x - 2)(x - 5)} + \frac{1}{(x - 5)(x - 8)}$
 ** 周测错题
 #+LATEX: \begin{questions}
 *** 原30
+$x$ 是 $(-\sqrt{27})^2$ 的立方根, $\sqrt{y^2} = 2$, 则 $x+y$ 的平方根为 \fillin[ $\pm \sqrt{5}$ 或 $\pm 1$ ]
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      & \therefore x=3 \qquad y = \pm 2 \\
+      & x + y = 5 \mbox{或} 1 \\
+      & \therefore x+y\mbox{的平方根为} \pm \sqrt{5} \mbox{或} \pm 1
+    \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
+
+#+LATEX: \end{questions}
+
+** 十美错题
+#+LATEX: \begin{questions}
+*** 原3
+若 $(x^3 - 3 + \frac{1}{x^2})^2 + \sqrt{a - x - \frac{1}{x}} = 0$, 求 $\sqrt{(a - 2)^2}$ 的值 \fillin[ $\sqrt{5} - 2$ 或 $\sqrt{5} + 2$ ]
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      & \therefore \begin{cases}
+        x^2 + \frac{1}{x^2} = 3 \\
+        x + \frac{1}{x} = a
+      \end{cases} \\
+      & x^2 + 2 + \frac{1}{x^2} = a^2 \\
+      & x^2 + \frac{1}{x^2} = a^2 - 2 \\
+      & a^2 = 5 \\
+      & \therefore \mbox{原始} &= | \sqrt{5} - 2 | \\
+    \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
+
+*** 原4
+$7 ( 8 \sqrt{xy^3} - 3x \sqrt{\frac{y}{x}} ) - (4y \sqrt{\frac{x}{y}} - \frac{7}{x} \sqrt{x^3y})(x < 0, y < 0)=$ \fillin[ $18 \sqrt{xy} - 56y \sqrt{xy}$ ]
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      \mbox{原式} &= 56 \sqrt{xy^3} - 21x \sqrt{\frac{y}{x}} - 4y \sqrt{\frac{x}{y}} + \frac{7}{x} \sqrt{x^3y} \\
+      &= - 56y \sqrt{xy} + 21 \sqrt{xy} + 4 \sqrt{xy} - 7 \sqrt{xy} \\
+      &= 18 \sqrt{xy} - 56y \sqrt{xy}
+    \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
+
+*** 原10
+在实数范围内, 设 $a=(\frac{4x}{x + 1} + \frac{\sqrt{ | x | - 2} + \sqrt{2 - | x |}}{| 2 - x |})^{2006}$, 则 $a$ 的个位数字是 \fillin[ $2^{2009}$ ]
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      & \because \mbox{有意义} \\
+      & \therefore 2 = | x | = 0 \\
+      & x = \pm 2 \\
+      & \mbox{又} 2 - x \neq 0 \\
+      & \therefore x = -2 \\
+      & a = 8^{2006}
+    \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
+
+*** 原19
+$m=\frac{1}{2}$, $n=\frac{1}{8}$, 先化简, 求
+$\frac{m - n}{\sqrt{m} - \sqrt{n}} + \frac{m + 9n - 6 \sqrt{mn}}{\sqrt{m} - 3 \sqrt{n}} - \frac{m \sqrt{m} + n \sqrt{n}}{m - \sqrt{mn} + n}$
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      \mbox{原式} &= \sqrt{m} + \sqrt{n} + \sqrt{m} - 3 \sqrt{n} - \frac{m \sqrt{m} + n \sqrt{n}}{m - \sqrt{mn} + n} \\
+      &= 2 \sqrt{m} - 2 \sqrt{n} - \frac{m \sqrt{m} + n \sqrt{n}}{m - \sqrt{mn} + n} \\
+      &= \sqrt{2} - \frac{1}{2} - \frac{\frac{\sqrt{2}}{4} + \frac{\sqrt{2}}{32} }{\frac{1}{2} - \frac{1}{4} + \frac{1}{8}} \\
+      &= \sqrt{2} - \frac{1}{2} - \frac{3 \sqrt{2}}{4} \\
+      &= \frac{\sqrt{2}}{4} - \frac{1}{2}
+    \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
+
+*** 原21
+设等式 $\sqrt{a(x - a)} + \sqrt{a(y-a)} = \sqrt{x - a} - \sqrt{a - y}$ 在实数范围内成立, 其中 $a$ 、 $x$ 、 $y$ 是两两不相等的实数,
+求 $\frac{3x^2 + xy - y^2}{x^2 - xy + y^2}$
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      & \begin{cases}
+        a(x - a) \ge 0 \\
+        a(y - a) \ge 0 \\
+        x - a \ge 0 \\
+        a - y \ge 0
+      \end{cases}
+    \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
 
 #+LATEX: \end{questions}

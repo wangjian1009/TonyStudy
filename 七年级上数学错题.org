@@ -130,14 +130,14 @@
 *** 原7
 若 $2^m=a,32^n=b$, $m$ 、$n$ 为正整数，则 $2^{3m-10n}$ = \fillin[$\frac{a^3}{b^2}$]
 
-*** [#C] 原9
+*** [#B] 原9
 $A$ 是关于 $x$ 的二次整式，且二次项系数为1，$A$ 与多项式 $(x+2)$ 相乘后的结果为两项的多项式，则 $A$ =\fillin[$x^2-2x$ 或 $x^2$ 或 $x^2-2x+4$]
 
 :错误:
 $x^2$ 或 $x - 2$
 :END:
 
-*** [#C] 原11
+*** [#B] 原11
 若关于 $x$ 的方程 $\frac{2x+m}{x-1}=3$ 的解为正整数，则 $m$ 的取值范围是 \fillin[$m>-3 \mbox{且} m \neq -2$]
 
 :错误:
@@ -157,13 +157,13 @@ $x^2$ 或 $x - 2$
 已知 $a$ 、$b$ 、$c$ 、$n$ 是互不相等的正整数，且 $\frac{1}{a}+\frac{1}{b}+\frac{1}{c}+\frac{1}{n}$ 也是整数，则 $n$ 的最大值是 \fillin[$42$]
 
 *** 原18
-若一个自然数 $t$ 能写成 $t=x^2-y^2$ ($x$, $y$ 均为正整数，且 $x \neq y$ )，则称 $t$ 为“万象数”,
-$x$ 、$y$ 为 $t$ 的一个万象分解，在t的所有万象分解中，若 $\frac{x-y}{x+y}$ 最小，则称$x$,$y$为$t$的一个万象分解,
+若一个自然数 $t$ 能写成 $t=x^2-y^2$ ($x$, $y$ 均为正整数，且 $x \neq y$ )，则称 $t$ 为“万象数”, $x$ 、$y$ 为 $t$ 的一个万象分解,
 在 $t$ 的所有万象分解中，若 $\frac{x-y}{x+y}$ 最小，则称 $x$ ， $y$ 为 $t$ 的绝对万象分解，此时 $F(t)=\frac{x}{y}$ .
 例如: $32=9^2-7^2=6^2-2^2$, 因为 $\frac{9-7}{9+7}=\frac{1}{8}$, $\frac{6-2}{6+2}=\frac{1}{2}$, $\frac{1}{8}<\frac{1}{2}$,
 所以 $9$ 和 $7$ 为 $32$ 的绝对万象分解，此时 $F(32)=\frac{9}{7}$.
-若一个四位正整数，它的千位数字与个位数字相同，百位数字与十位数字相同，但四个数字不全相同，则称这个四位数位“博雅数”。例如 $2001$, $4554$ 均为“博雅数”.
-若一个四位正整数 $m$ 是“万象数”且能被 $13$ 整除，“博雅书” $n$ 的前两位数字组成的两位数与后两位数字组成的两位数恰好是 $m$ 的一个万象分解，
+若一个四位正整数, 它的千位数字与个位数字相同, 百位数字与十位数字相同, 但四个数字不全相同, 则称这个四位数位“博雅数”。
+例如 $2001$, $4554$ 均为“博雅数”.
+若一个四位正整数 $m$ 是“万象数”且能被 $13$ 整除, “博雅数” $n$ 的前两位数字组成的两位数与后两位数字组成的两位数恰好是 $m$ 的一个万象分解,
 则所有满足条件的数 $m$ 中 $F(m)$ 的最大值为 \fillin[$\frac{64}{48}$].
 
 *** 原19                                                             :no_pic:
@@ -243,7 +243,7 @@ $$
 
 ** 七年级阶段性诊断2
 #+LATEX: \begin{questions}
-*** 原6
+*** [#B] 原6
 计算: $(x+y)(-x-y)$ = \fillin[$-x^2-2xy-y^2$]
 
 *** 原21
@@ -287,7 +287,7 @@ $$
 \end{solution}
 #+END_EXPORT
 
-*** 原29
+*** [#B] 原29
 如图，在直角三角形$ABC$中,$\angle B=90^{\degree}$,点 $M$, $N$ 分别在边 $BA$,$BC$ 上,且 $BM=BN$ 。
   
 #+BEGIN_EXPORT latex
@@ -369,7 +369,8 @@ $$
 #+END_EXPORT
 
 *** 原12
-设 $f(x) = (2x - 1)^5$, 且展开式 $f(x)=a_0 + a_1x + a_2x^2 + a_3x^3 + a_4x^4 + a_5x^5$，试求$\frac{2}{3}(a_1 + a_3)=$ \fillin[$\frac{244}{3}$]
+设 $f(x) = (2x - 1)^5$, 且展开式 $f(x)=a_0 + a_1x + a_2x^2 + a_3x^3 + a_4x^4$, 
+试求 $\frac{2}{3}(a_1 + a_3)=$ \fillin[ $\frac{244}{3}$ ]
 \vspace*{1in}
 
 #+BEGIN_EXPORT latex
@@ -412,7 +413,7 @@ $$
   \choice $ma+mb-c=m(a+b)-c$
   \choice $(a-b)(a^2+ab+b^2)=a^3-b^3$
   \choice $a^2-4ab+4b^2-1=a(a-4b)+(2b+1)(2b-1)$
-  \choice $4x^2-25y^2=(2x+5y)(2x-5y)$
+  \correctchoice $4x^2-25y^2=(2x+5y)(2x-5y)$
 \end{choices}
 
 *** 原21
@@ -824,12 +825,12 @@ $$,
 $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 
 *** 原10
-用黑白两种颜色的正方形纸片，按黑色纸片数量逐次加$1$的规律拼成一列图案:
+用黑白两种颜色的正方形纸片，按黑色纸片数量逐次加 $1$ 的规律拼成一列图案:
 
 第 $n$ 个图案还有白色纸片\fillin[ $(3n+1)$ ]张.
 
-*** [#A] 原14
-若 $x^2 + xy + y = 16$ 且 $y^2 + xy + x = 28$, 则$x+y$的值为 \fillin[$6 \mbox{或} -7$]
+*** 原14
+若 $x^2 + xy + y = 14$ 且 $y^2 + xy + x = 28$, 则 $x+y$ 的值为 \fillin[$6 \mbox{或} -7$]
 
 #+BEGIN_EXPORT latex
 \begin{solution}
@@ -845,8 +846,8 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
   \]
 \end{solution}
 #+END_EXPORT
-*** 原17
-计算: $\frac{(y-x)(z-x)}{(x - 2y + z)(x + y - 2z)} + \frac{(z-y)(x-y)}{(x + y -2z)}  + \frac{(x-z)(y-z)}{(y + z - 2x)(x - 2y + z)}$
+*** [#B] 原17
+计算: $\frac{(y-x)(z-x)}{(x - 2y + z)(x + y - 2z)} + \frac{(z-y)(x-y)}{(x + y -2z)(y + z -2x)}  + \frac{(x-z)(y-z)}{(y + z - 2x)(x - 2y + z)}$
 
 \vspace*{1in}
 
@@ -924,7 +925,7 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 
 #+END_EXPORT
 
-*** 原24
+*** [#B] 原24
 已知 $a^3 + 2a^2 + a + 2 = 0$, 求 $a^{2012} - 2a^{2010} + 4a^{2009}$ 的值
 \vspace*{1in}
 
@@ -944,7 +945,7 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 \end{solution}
 #+END_EXPORT
 
-*** 原25
+*** [#B] 原25
 已知 $abc \neq 0$, $a + b + c = 0$ 求 $\frac{1}{b^2 + c^2 - a^2} + \frac{1}{c^2 + a^2 - b^2} + \frac{1}{a^2 + b^2 - c^2}$ 的值
 \vspace*{1in}
 
@@ -980,7 +981,7 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 \choice 缩小6倍
 \end{oneparchoices}
 
-*** 原6
+*** [#B] 原6
 小明通常上学时走上坡路，通常的速度为 $m$ 千米/时，放学回家时，沿原路返回，通常的速度为 $n$ 千米/时，则小明上学和放学路上的平均速度为 \fillin 千米/时
 
 \begin{oneparchoices}
@@ -1008,7 +1009,7 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 \end{solution}
 #+END_EXPORT
 
-*** 原11
+*** [#B] 原11
 已知 $x=\frac{2y - 3}{3y + 1}$, 则 $x$ 的取值范围是 \fillin[$x \neq \frac{2}{3}$]
 
 #+BEGIN_EXPORT latex
@@ -1067,7 +1068,7 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 \end{solution}
 #+END_EXPORT
 
-*** 原23
+*** [#B] 原23
 解方程: $\frac{5x - 96}{x - 19} + \frac{x - 8}{x - 9} = \frac{4x - 19}{x - 6} + \frac{2x - 21}{x - 8}$
 \vspace*{1in}
 
@@ -1088,7 +1089,7 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 \end{solution}
 #+END_EXPORT
 
-*** 原27                                                          :no_answer:
+*** 原27
 小丽和小明两次到同一家公司购买原料，两次购买原料的单价不同，小丽购买的是定量购买:每次买回10吨原料:小明购买的方式是定额购买:每次买回价值10万元的原料。
 问小丽和小明的购买方式哪种更经济?
 \vspace*{1in}
@@ -1097,8 +1098,25 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 \begin{solution}
   \[
     \begin{aligned}
-      & \mbox{平均价} = \frac{\mbox{总费用}}{\mbox{总数量}} = \frac{\mbox{总费用}}{\mbox{第一次数量} + \mbox{第二次数量}} \\
-      & \mbox{小丽}: \frac{}{}
+      & \begin{aligned}
+        & \mbox{平均价} = \frac{\mbox{总费用}}{\mbox{总数量}} = \frac{\mbox{总费用}}{\mbox{第一次数量} + \mbox{第二次数量}} \\
+        & \mbox{小丽}: \frac{}{}
+      \end{aligned} \\
+      & \\
+      & \begin{aligned}
+        & \mbox{设第一次购买每吨 $x$ 万元，第二次购买每吨 $y$ 万元} \\
+        & \mbox{小丽}: \frac{10x + 10y}{20} = \frac{x + y}{2} \\
+        & \mbox{小明}: \frac{10 + 10}{\frac{10}{x} + \frac{10}{y}} = \frac{2xy}{x + y} \\
+        & \begin{aligned}
+          \mbox{小丽 $-$ 小明} &= \frac{x + y}{2} - \frac{2xy}{x + y} \\
+          &= \frac{x^2 + 2xy + y^2 - 4xy}{2(x+y)} \\
+          &= \frac{x^2 - 2xy + y^2}{2(x+y)} \\
+          &= \frac{(x - y)^2}{2(x + y)} \\
+        \end{aligned} \\
+        & \because x + y > 0 \mbox{且} \quad \mbox{平方} \geq 0 \\
+        & \therefore \mbox{原式为正} \\
+        & \therefore \mbox{小丽更经济} \\
+      \end{aligned} \\
     \end{aligned}
   \]
 \end{solution}
@@ -1152,7 +1170,7 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 \end{solution}
 #+END_EXPORT
 
-*** 原26                                                             :no_pic:
+*** 原26                                                             :no_answer:
 在下列 4x4 的正方形网格中的定点 $A$ 、 $B$ 、 $C$ 都在格点上（格点即为每个小正方形的定点）。
 
 #+LATEX: \begin{parts}
@@ -1198,10 +1216,10 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 
 ** 周测六
 #+LATEX: \begin{questions}
-*** 原9                                                           :no_answer:
-若 $\sqrt{x^3 + 2x^2} = -x \sqrt{x + 2}$, 则 $x$ 的取值范围是 \fillin[].
+*** [#B] 原9
+若 $\sqrt{x^3 + 2x^2} = -x \sqrt{x + 2}$, 则 $x$ 的取值范围是 \fillin[ $-2 \leq x \leq 0$ ].
 
-*** 原13
+*** [#B] 原13
 已知 $x^{\frac{1}{2}} - \frac{1}{x^2} = 4$, 则 $x + x^{-1}$ 的值是 \fillin[18].
 
 #+BEGIN_EXPORT latex
@@ -1275,7 +1293,7 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 \end{center}
 #+END_EXPORT
 
-*** 原19                                                          :no_answer:
+*** 原19
 计算: $\sqrt{(1 - \sqrt{2})^2} + \sqrt{3} \times (\sqrt{27} - \sqrt{ \frac{2}{3} })$
 \vspace*{1in}
 
@@ -1314,7 +1332,7 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 若不成立, $\angle ACD$ 与$\angle BCE$ 是否存在其它数量关系?
 #+LATEX: \end{parts}
 
-*** TODO 原24
+*** 原24                                                             :no_pic:
 如图 $M$ ，长方片 $ABCD \quad (AD > AB)$ 点 $O$ 位于边 $BC$ 上, 点 $E$ 位于边 $AB$ 上, 点 $F$ 位于边 $AD$ 上, 将纸片沿 $OE$, $OF$ 折叠, 
 点 $B$ 、 $C$ 、 $D$ 的对应点分别为 $B'$ 、 $C'$ 、 $D'$
 
@@ -1330,7 +1348,7 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 
 #+LATEX: \end{parts}
 
-*** TODO 原25
+*** 原25                                                             :no_pic:
 已知: $AB$ 、$CD$ 是圆的两条直径, 且 $\angle AOD = a ( 0＜ a ＜ 90 \degree )$, 点 $p$ 是扇形 $AOD$ 内任意一点,
 点 $P$ 将 $AB$ 、$CD$ 所在直线依次轮流作为对称轴翻折, 将点 $P$ 关于 $AB$ 对称的点记为点 $P_1$,
 点 $P$ 关于 $CD$ 对称的点记为点 $P_2$, 点关于 $AB$ 对称的点记为点 $P_3$, \cdots .
@@ -1357,7 +1375,7 @@ $OP$ \fillin[ $=$ ] $OP_1$ \fillin[ $=$ ] $OP_2$ (填空,不要求写出过程)
 ** 周测七
 #+LATEX: \begin{questions}
 *** 原8
-已知 $\sqrt{1.234} \approx 1.111$, $\sqrt{12.34} \approx 3.513$, $x^2 = 0.1234$ 则 $x$ 的取值范围是 \fillin[ $\pm 0.33513$ ]
+已知 $\sqrt{1.234} \approx 1.111$, $\sqrt{12.34} \approx 3.513$, $x^2 = 0.1234$ 则 $x$ 的取值范围是 \fillin[ $\pm 0.3513$ ]
 
 *** 原11
 若 $0 < a < 1$, 且$a + \frac{1}{a}=6$, 则 $\sqrt{a} - \frac{1}{\sqrt{a}}$ 的值为 \fillin[ $\pm2$ ]
@@ -1386,18 +1404,22 @@ $OP$ \fillin[ $=$ ] $OP_1$ \fillin[ $=$ ] $OP_2$ (填空,不要求写出过程)
 \choice $5$ 个
 \end{oneparchoices}
 
-*** 原21                                                          :no_answer:
+*** 原21
 解方程: $\frac{7}{x^2 + x} - \frac{3}{x - x^2} = 1 + \frac{7 - x^2}{x^2 - 1}$
 
 #+BEGIN_EXPORT latex
 \begin{solution}
   \[
     \begin{aligned}
-      \frac{7}{x(x+1)} - \frac{3}{x(x-1)} &= 1 + \frac{7-x^2}{(x - 1)(x + 1)} \\
-      7(x-1) - 3(x+1) &= x[(x - 1)(x + 1) + 7 - x^2] \\
-      7x - 7 - 3x - 3 &= 6x \\
-      4x - 10 &= 6x \\
-      x &= -5
+      & \begin{aligned}
+        \frac{7}{x(x+1)} - \frac{3}{x(x-1)} &= 1 + \frac{7-x^2}{(x - 1)(x + 1)} \\
+        7(x-1) - 3(x+1) &= x[(x - 1)(x + 1) + 7 - x^2] \\
+        7x - 7 - 3x - 3 &= 6x \\
+        4x - 10 &= 6x \\
+        x &= -5
+      \end{aligned}
+      & \mbox{经检验, $x=-1$ 为原方程的解} \\
+      & \therefore \mbox{原方程的解为} x=-5
     \end{aligned}
   \]
 \end{solution}
@@ -1405,6 +1427,7 @@ $OP$ \fillin[ $=$ ] $OP_1$ \fillin[ $=$ ] $OP_2$ (填空,不要求写出过程)
 
 *** 原23
 已知实数 $x$, $y$ 满足 $x^2 + 4y^2 = 2x + 4y - 2$, 求 $\sqrt[n]{x + 2y}$ 的值. ( $n$ 是大于 $1$ 的整数 )
+\vspace*{1in}
 
 #+BEGIN_EXPORT latex
 \begin{solution}
@@ -1753,7 +1776,7 @@ $\sqrt{\frac{3-y}{3+y}}=\frac{\sqrt{3-y}}{\sqrt{3+y}}$成立的条件是\underli
 
 #+LATEX: \end{questions}
 
-** 21月19
+** 12月19
 #+LATEX: \begin{questions}
 *** 原4
 小明家到公园的路程为 $38$ 千米，一天小明8点10分从家出发到公园游玩,
@@ -1777,7 +1800,7 @@ $\sqrt{\frac{3-y}{3+y}}=\frac{\sqrt{3-y}}{\sqrt{3+y}}$成立的条件是\underli
   \]
 \end{solution}
 #+END_EXPORT
-*** 原5
+*** [#B] 原5
 #+BEGIN_EXPORT latex
 已知:如图所示,在 $\triangle ABC$ 中
 
@@ -1911,7 +1934,7 @@ $\sqrt{\frac{3-y}{3+y}}=\frac{\sqrt{3-y}}{\sqrt{3+y}}$成立的条件是\underli
 *** 原8
 已知 $1 + x + x^2 + \cdots + x^{2004} + x^{2005} + x^{2006} = 0$, 则 $x^{2007}$ = \fillin[ $1$ ].
 
-*** 原14
+*** [#B] 原14
 已知, $m^2 = n + 2, n^2 = m + 2, ( m \neq n )$, 则 $m^3 - 2mn + n^3=$ \fillin[ $-2$ ].
 
 #+BEGIN_EXPORT latex
@@ -1937,7 +1960,7 @@ $\sqrt{\frac{3-y}{3+y}}=\frac{\sqrt{3-y}}{\sqrt{3+y}}$成立的条件是\underli
 #+END_EXPORT
 
 *** 原15
-已知二次三项式 $x^2 - px - 16$ 能在有理数范围内分解因式, 求整数 $p$ 的所有可能值 \fillin[ $15$, $-15$, $6$, $6$ ].
+已知二次三项式 $x^2 - px - 16$ 能在有理数范围内分解因式, 求整数 $p$ 的所有可能值 \fillin[ $15$, $-15$, $6$, $-6$ ].
 
 #+LATEX: \end{questions}
 
@@ -1961,6 +1984,158 @@ $\frac{1}{(x+1)(x-2)} + \frac{1}{(x - 2)(x - 5)} + \frac{1}{(x - 5)(x - 8)}$
   \]
 \end{solution}
 #+END_EXPORT
+#+LATEX: \end{questions}
+
+** 实数和二次根式
+#+LATEX: \begin{questions}
+
+*** 原 一.2
+如果 $x^{2}=81$, 那么 $x$ 的立方根为 \fillin
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+  \pm \sqrt[3]{9}
+  \]
+\end{solution}
+#+END_EXPORT
+
+*** 原 一.3
+$\sqrt{74}$ 的平方根是 \fillin[ $\pm 2 \sqrt{2}$ ]
+
+*** 原 一.4
+化简 $( \sqrt[3]{\sqrt[6]{a^5}} )^2 \cdot ( \sqrt[6]{ \sqrt[9]{a^3} } )^4$ 的结果是 \fillin[ $a^{\frac{7}{9}}$ ]
+
+*** 原 一.9
+已知 $\sqrt{11 - x^3} + \sqrt{2+x^3} = 5$, 则 $\sqrt{11 - x^3} - \sqrt{2 + x^3}$ = \fillin[ $1$ ]
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      & \begin{cases}
+        11 - x^3 + 2 + x^3 + 2 \cdot \sqrt{11 - x^3} \cdot \sqrt{2 + x^3} = 25 \qquad \textcircled{1}\\
+        11 - x^3 + 2 + x^3 - 2 \cdot \sqrt{11 - x^3} \cdot \sqrt{2 + x^2} = m^2 \qquad \textcircled{2}\\
+      \end{cases}
+      & \mbox{由} \textcircled{1} + \textcircled{2} \mbox{得} \\
+      & 26 = 25 + m^2 \\
+      & m = \pm 1      
+  \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
+
+*** 原 一.12
+若 $(\sqrt{1 - x} - 1)^{-1}$ 有意义, 则 $x$ 的取值范围是 \fillin[
+$x \geq 1$ 且 $x \neq 0$ 
+]
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      & \because \begin{cases}
+        1 + x \geq 0 \\
+        \sqrt{1 - x} - 1 \neq 0
+      \end{cases}
+      & \therefore x \geq 1 \mbox{且} x \neq 0
+    \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
+
+*** 原 三.(1)
+${0.064}^\frac{1}{3} - [(1 - \sqrt{2})^2]^{\frac{1}{2}} \times 4^{\frac{1}{4}} - [(- \frac{1}{3})^3]^{\frac{1}{3}} \div (\frac{27}{64})^{- \frac{1}{3}}$
+\vspace*{1in}
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      \mbox{原式} &= \frac{5}{2} - (\sqrt{2} - 1) \sqrt{2} + \frac{1}{3} \cdot \frac{3}{4} \\
+      &= \frac{5}{2} - 2 + \sqrt{2} + \frac{1}{4} \\
+      &= \frac{3}{4} + \sqrt{2}
+    \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
+
+*** 原 三.(3)
+$\frac{2 \sqrt{3}}{3 + \sqrt{3}} + \sqrt{12} - (\sqrt{3} + 1)^2 + 4\sqrt{\frac{3}{4}} \div \sqrt{5 \frac{1}{3}}$
+\vspace*{1in}
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      \mbox{原式} &= \frac{2 \sqrt{3} ( 3 - \sqrt{3}) }{6} + 2 \sqrt{3} - 3 - 1 - 2 \sqrt{3} + 4 \sqrt{\frac{3}{4} \times \frac{3}{16}} \\
+      &= \sqrt{3} - 1 - 4 \times \frac{3}{4} \\
+      &= \frac{3}{2} - 5 + \sqrt{3} \\
+      &= - \frac{7}{2} + \sqrt{3}
+    \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
+
+*** 原 三.(4)
+$\frac{2}{b} \sqrt{ab^5} \times (- \frac{3}{2} \sqrt{a^3b}) \times 3 \sqrt{\frac{a}{b}} \qquad (a < 0, b < 0)$
+\vspace*{1in}
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      \mbox{原式} &= 2 b \sqrt{ab} \cdot \frac{3}{2} a \sqrt{ab} \cdot - \frac{3 \sqrt{ab}}{b} \\
+      &= -9 a^2 b \sqrt{ab}
+    \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
+
+*** 原 四.1
+已知: $\sqrt{x} = \sqrt{a} + \frac{1}{\sqrt{a}} \qquad (0 < a < 1)$,
+求代数式 $\frac{x^2 + x - 6}{x} \div \frac{x + 3}{x^2 - 2x} - \frac{x - 2 + \sqrt{x^2 - 4x}}{x - 2 - \sqrt{x^2 - 4x}}$ 的值
+\vspace*{1in}
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      \sqrt{x} &= \sqrt{a} + \frac{1}{\sqrt{a}} \\
+      x &= a + \frac{1}{a} + 2 \\
+      \therefore x - 2 &= \frac{1}{a} + a
+    \end{aligned}
+    \begin{aligned}
+      \mbox{原式} &= \frac{(x - 2)(x + 3)}{x} \cdot \frac{x(x-2)}{x + 3}
+                     - \frac{\frac{1}{a} + a + |a - \frac{1}{a}|}{\frac{1}{a} + a - |a - \frac{1}{a}|} \\
+      &= (a + \frac{1}{a})^2 - \frac{\frac{1}{a} + a + \frac{1}{a} - a}{a + \frac{1}{a} + a - \frac{1}{a}} \\
+      &= a^2 + \frac{1}{a^2} + 2 - \frac{2}{a^2} \\
+      &= a^2 + 2
+    \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
+
+*** 原 四.4
+若 $m = \frac{1 + \sqrt{5}}{2}$, $n=\frac{1 - \sqrt{5}}{2}$, 求 $m^4 + n^4$ 的值
+\vspace*{1in}
+
+#+BEGIN_EXPORT latex
+\begin{solution}
+  \[
+    \begin{aligned}
+      & m + n = \frac{1 + \sqrt{5} + 1 - \sqrt{5}}{2} = 1 \\
+      & mn = \frac{(1 + \sqrt{5})(1 - \sqrt{5})}{4} = -1 \\
+      \therefore & (m + n)^2 = 1^2 \\
+      & m^2 + n^2 + 2mn = 1 \\
+      & m^2 + n^2 = 3 \\
+      & (m^2 + n^2) ^2 = 9 \\
+      \therefore & m^4 + n^4 = 7
+    \end{aligned}
+  \]
+\end{solution}
+#+END_EXPORT
+
 #+LATEX: \end{questions}
 
 ** 周测错题
@@ -2020,7 +2195,7 @@ $7 ( 8 \sqrt{xy^3} - 3x \sqrt{\frac{y}{x}} ) - (4y \sqrt{\frac{x}{y}} - \frac{7}
 #+END_EXPORT
 
 *** 原10
-在实数范围内, 设 $a=(\frac{4x}{x + 1} + \frac{\sqrt{ | x | - 2} + \sqrt{2 - | x |}}{| 2 - x |})^{2006}$, 则 $a$ 的个位数字是 \fillin[ $2^{2009}$ ]
+在实数范围内, 设 $a=(\frac{4x}{x + 1} + \frac{\sqrt{ | x | - 2} + \sqrt{2 - | x |}}{| 2 - x |})^{2006}$, 则 $a$ 的个位数字是 \fillin[ $4$ ]
 
 #+BEGIN_EXPORT latex
 \begin{solution}
@@ -2037,7 +2212,7 @@ $7 ( 8 \sqrt{xy^3} - 3x \sqrt{\frac{y}{x}} ) - (4y \sqrt{\frac{x}{y}} - \frac{7}
 \end{solution}
 #+END_EXPORT
 
-*** 原19
+*** [#B] 原19
 $m=\frac{1}{2}$, $n=\frac{1}{8}$, 先化简, 求
 $\frac{m - n}{\sqrt{m} - \sqrt{n}} + \frac{m + 9n - 6 \sqrt{mn}}{\sqrt{m} - 3 \sqrt{n}} - \frac{m \sqrt{m} + n \sqrt{n}}{m - \sqrt{mn} + n}$
 
@@ -2055,7 +2230,7 @@ $\frac{m - n}{\sqrt{m} - \sqrt{n}} + \frac{m + 9n - 6 \sqrt{mn}}{\sqrt{m} - 3 \s
 \end{solution}
 #+END_EXPORT
 
-*** 原21
+*** [#B] 原21
 设等式 $\sqrt{a(x - a)} + \sqrt{a(y-a)} = \sqrt{x - a} - \sqrt{a - y}$ 在实数范围内成立, 其中 $a$ 、 $x$ 、 $y$ 是两两不相等的实数,
 求 $\frac{3x^2 + xy - y^2}{x^2 - xy + y^2}$
 

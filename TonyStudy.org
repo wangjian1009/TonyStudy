@@ -1,0 +1,20 @@
+#+TITLE: 牛牛学校相关工作安排
+:PROPERTIES:
+#+SEQ_TODO: TODO(t!) NEXT(n) WAITTING(w) SOMEDAY(s) INPROGRESS(p) | DONE(d@/!) ABORT(a@/!)
+#+TAGS:
+#+TAGS: REFINE
+#+TAGS: PROJECT(p)
+#+STARTUP: content
+#+STARTUP: hidestars
+#+STARTUP: indent
+#+ARCHIVE: Archive/%s::
+#+CATEGORY: 牛牛学习
+:END:
+
+* 近期工作                                                           :REFINE:
+** 给牛牛做一个历年成绩记录
+249 14 139 B
+[2020-01-16 Thu 10:07]
+
+* 下一步                                                             :REFINE:
+* 将来/也许                                                          :REFINE:

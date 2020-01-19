@@ -344,7 +344,7 @@ SCHEDULED: <2020-01-19 Sun>
 南宋 赵师秀
 黄梅时节家家雨，青草池塘处处蛙。有约不来过夜半，闲敲棋子落灯花。
 
-* [2/21] 数学作业
+* [2/27] 数学作业
 :PROPERTIES:
 :ID:       FA77F583-A811-4954-969A-3B673A20AD3E
 :COOKIE_DATA: todo recursive
@@ -382,10 +382,14 @@ SCHEDULED: <2020-01-19 Sun>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 22:21]
 :END:
-** 预习7下全部和八上19.1和19.2
+** [2/17] 预习7下全部和八上19.1和19.2
 :PROPERTIES:
 :ID:       ABDFF9B7-51C0-4783-B66D-D3C8AAB2DDD2
 :END:
+- 要求
+  - 教科书书本上的例题一定要做完之后再对照每一步（可以写上章节和题号不抄题），严格按照书上步骤不断完善。
+  - 千万不能抄例题，每个孩子要自觉一点；
+  - 教科书书本上的课后练习也要完全模仿例题的格式和步骤书写。
 *** DONE 数学预习-1
 :PROPERTIES:
 :ID:       68184C26-B28A-4A33-9EDF-27544D5B092D
@@ -517,9 +521,51 @@ SCHEDULED: <2020-01-28 Tue>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 22:27]
 :END:
-** 完成A班作业 12页
+** [0/6] 完成A班作业 12页
 :PROPERTIES:
 :ID:       1149CBFA-E822-44E2-B49E-BFF16964716D
+:END:
+*** TODO 数学A班作业 1-2 页
+:PROPERTIES:
+:ID:       1E6D31A4-8B9D-4B21-A39B-9D46D9133448
+:END:
+:LOGBOOK:
+- State "TODO"       from              [2020-01-19 Sun 09:41]
+:END:
+*** TODO 数学A班作业 3-4 页
+:PROPERTIES:
+:ID:       BE4F0522-3A93-4ECC-9775-A89979725FA0
+:END:
+:LOGBOOK:
+- State "TODO"       from              [2020-01-19 Sun 09:41]
+:END:
+*** TODO 数学A班作业 5-6 页
+:PROPERTIES:
+:ID:       E5C41C5F-9C6C-4075-B530-C1F480C79EE0
+:END:
+:LOGBOOK:
+- State "TODO"       from              [2020-01-19 Sun 09:41]
+:END:
+*** TODO 数学A班作业 7-8 页
+:PROPERTIES:
+:ID:       727F9642-9A02-4EC9-85F8-B5016644E200
+:END:
+:LOGBOOK:
+- State "TODO"       from              [2020-01-19 Sun 09:41]
+:END:
+*** TODO 数学A班作业 9-10 页
+:PROPERTIES:
+:ID:       B830FB87-BD2A-4AB2-B04A-D90EA8635C6E
+:END:
+:LOGBOOK:
+- State "TODO"       from              [2020-01-19 Sun 09:41]
+:END:
+*** TODO 数学A班作业 11-12 页
+:PROPERTIES:
+:ID:       615DEC32-8615-403F-BEEA-595E38F62919
+:END:
+:LOGBOOK:
+- State "TODO"       from              [2020-01-19 Sun 09:41]
 :END:
 * [4/31] 英语作业
 :PROPERTIES:
@@ -760,7 +806,7 @@ SCHEDULED: <2020-01-19 Sun>
 :END:
 要求：熟练背诵，自设2个问题，自问自答
 *** DONE The happy farmer and his wife (P32)
-SCHEDULED: <2020-01-27 Mon>
+SCHEDULED: <2020-01-17 Fri>
 :PROPERTIES:
 :ID:       F9D4752F-A33C-4959-97A1-DE5D0C1FA9AF
 :END:
@@ -769,7 +815,7 @@ SCHEDULED: <2020-01-27 Mon>
 - State "TODO"       from              [2020-01-18 Sat 20:56]
 :END:
 *** DONE poem (P38)
-SCHEDULED: <2020-02-03 Mon>
+SCHEDULED: <2020-01-18 Sat>
 :PROPERTIES:
 :ID:       DA4C7889-8FB2-4748-92F8-348C4F6C1172
 :END:
@@ -778,7 +824,7 @@ SCHEDULED: <2020-02-03 Mon>
 - State "TODO"       from              [2020-01-18 Sat 20:56]
 :END:
 *** DONE Mr.Sun and Mr.Wind (P60)
-SCHEDULED: <2020-02-10 Mon>
+SCHEDULED: <2020-01-18 Sat>
 :PROPERTIES:
 :ID:       16A9BB54-4A46-4A36-8EAA-126840BBFEEE
 :END:
@@ -787,7 +833,7 @@ SCHEDULED: <2020-02-10 Mon>
 - State "TODO"       from              [2020-01-18 Sat 20:56]
 :END:
 *** DONE The Airport Express (P77)
-SCHEDULED: <2020-02-17 Mon>
+SCHEDULED: <2020-01-18 Sat>
 :PROPERTIES:
 :ID:       264D6635-2FBB-412F-A871-3A64AFE87F0D
 :END:
@@ -795,6 +841,64 @@ SCHEDULED: <2020-02-17 Mon>
 - State "DONE"       from "TODO"       [2020-01-18 Sat 20:58]
 - State "TODO"       from              [2020-01-18 Sat 20:56]
 :END:
+* [1/6] 物理作业
+:PROPERTIES:
+:ID:       F8F2312A-63D7-47BA-9D1A-750FD163CFD7
+:COOKIE_DATA: todo recursive
+:END:
+** [1/3] 物理个性化作业 11页
+:PROPERTIES:
+:ID:       C69C311D-311C-4F48-BA7B-22A870983A32
+:END:
+*** DONE 物理个性化作业 1-4 页
+SCHEDULED: <2020-01-18 Sat>
+:PROPERTIES:
+:ID:       F7A9F8F4-B006-42F7-B9E2-F0E5E7A031F6
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-01-19 Sun 09:39]
+- State "TODO"       from              [2020-01-19 Sun 09:38]
+:END:
+*** TODO 物理个性化作业 5-8 页
+:PROPERTIES:
+:ID:       18F5DFA0-B91D-4591-A21A-A4018794564C
+:END:
+:LOGBOOK:
+- State "TODO"       from              [2020-01-19 Sun 09:38]
+:END:
+*** TODO 物理个性化作业 9-11 页
+:PROPERTIES:
+:ID:       893B7572-F4ED-4D02-852B-D63EC84B88D3
+:END:
+:LOGBOOK:
+- State "TODO"       from              [2020-01-19 Sun 09:38]
+:END:
+** [0/3] 物理预习3章
+:PROPERTIES:
+:ID:       1D780DAA-D9C1-4737-A730-F048F5498EBD
+:END:
+*** TODO 物理预习3章 1/3
+:PROPERTIES:
+:ID:       5D7D2BB6-82DA-4495-990E-AAE89FD8CF23
+:END:
+:LOGBOOK:
+- State "TODO"       from              [2020-01-19 Sun 09:39]
+:END:
+*** TODO 物理预习3章 2/3
+:PROPERTIES:
+:ID:       EF841929-B0B9-46BB-93E2-00882233144E
+:END:
+:LOGBOOK:
+- State "TODO"       from              [2020-01-19 Sun 09:39]
+:END:
+*** TODO 物理预习3章 3/3
+:PROPERTIES:
+:ID:       D8E92ABB-FA3D-4585-BF99-723165E10CC3
+:END:
+:LOGBOOK:
+- State "TODO"       from              [2020-01-19 Sun 09:39]
+:END:
+
 * [1/5] 实践作业
 :PROPERTIES:
 :ID:       464DA630-796C-4E03-BAFF-89F907364AAE
@@ -849,6 +953,26 @@ SCHEDULED: <2020-01-21 Tue>
 :END:
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 12:30]
+:END:
+* 寒假英语
+:PROPERTIES:
+:ID:       D4D973B9-9721-4DC8-A085-901C2FB424E9
+:END:
+** TODO 主修课 5.4.4 - Discovering Insects
+SCHEDULED: <2020-01-19 Sun 20:30-21:00>
+:PROPERTIES:
+:ID:       6A251090-8AF1-4224-9149-66BB649E069F
+:END:
+:LOGBOOK:
+- State "TODO"       from              [2020-01-19 Sun 09:22]
+:END:
+** TODO 主修课 5.4.3 - Discovering Insects
+SCHEDULED: <2020-01-19 Sun 16:30-17:00>
+:PROPERTIES:
+:ID:       080AA984-2B6A-4F75-B981-F1B2633D7C42
+:END:
+:LOGBOOK:
+- State "TODO"       from              [2020-01-19 Sun 09:20]
 :END:
 * 收件箱
 :PROPERTIES:

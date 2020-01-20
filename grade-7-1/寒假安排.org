@@ -834,10 +834,25 @@ SCHEDULED: <2020-01-21 Tue>
 - State "TODO"       from              [2020-01-18 Sat 22:54]
 :END:
 *** TODO 中考英语词汇手册-词组默写-4
+:PROPERTIES:
+:ID:       888AE6F3-73DA-4721-9104-65803D213BB2
+:END:
 *** TODO 中考英语词汇手册-词组默写-5
+:PROPERTIES:
+:ID:       466AF4C9-B291-4AA7-A1F4-FDF09EE9A4AE
+:END:
 *** TODO 中考英语词汇手册-词组默写-6
+:PROPERTIES:
+:ID:       5C4B5C0F-2F0D-4FC1-9CF3-4DCCC0F169C3
+:END:
 *** TODO 中考英语词汇手册-词组默写-7
+:PROPERTIES:
+:ID:       FE4E315B-854F-42CF-8CAA-37393C089F41
+:END:
 *** TODO 中考英语词汇手册-词组默写-8
+:PROPERTIES:
+:ID:       3180CB17-277A-4889-A668-EAA1CDD35610
+:END:
 ** [4/4] 背诵打卡7B课本中的4篇文章
 :PROPERTIES:
 :ID:       7DCD9A99-7428-40BA-BE53-9E52B47F9D62
@@ -965,6 +980,9 @@ SCHEDULED: <2020-01-19 Sun 19:00-20:00>
 - State "TODO"       from              [2020-01-18 Sat 12:28]
 :END:
 *** TODO 雏鹰活动成果提交
+:PROPERTIES:
+:ID:       51355A38-C134-4EB3-8F32-2F7FB1265997
+:END:
 - 提交要求
   1. 在大文件名上标明自己的名字
   2. 在大文件里添加两个小文件，分别也标明名字和活动编号（比如：刘储阁 活动1/刘储阁 活动2）

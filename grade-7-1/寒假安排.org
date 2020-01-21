@@ -73,7 +73,7 @@ DEADLINE: <2020-02-17 Mon>
 :COOKIE_DATA: todo recursive
 :ID:       75E80F08-43B9-47ED-A9B9-50689BC75786
 :END:
-** [5/28] 语文作业
+** [6/28] 语文作业
 :PROPERTIES:
 :ID:       53C971E6-F0E9-4CDC-B89E-6EC874BB6FC8
 :COOKIE_DATA: todo recursive
@@ -113,7 +113,7 @@ SCHEDULED: <2020-01-21 Tue>
 :PROPERTIES:
 :ID:       59207515-1FFD-4D74-A031-DC1B3F7E9F41
 :END:
-**** TODO 《西游记》阅读 3-1
+**** INPROGRESS 《西游记》阅读 3-1
 SCHEDULED: <2020-01-22 Wed>
 :PROPERTIES:
 :ID:       28CC199E-32E6-4CB1-AF28-B681D9934925
@@ -143,7 +143,7 @@ SCHEDULED: <2020-01-25 Sat>
 制作个人朗诵视频一个有感情地朗诵经典古诗文或现代诗文（选段）
 3分钟以内
 发班级群
-*** [1/19] 背诵并默写七下古诗和文言文背诵篇目                     :PROJECT:
+*** [2/19] 背诵并默写七下古诗和文言文背诵篇目                     :PROJECT:
 :PROPERTIES:
 :ID:       1ACBA26E-2A81-4CEC-9723-1EC6AFE8C177
 :END:
@@ -180,23 +180,18 @@ SCHEDULED: <2020-01-21 Tue>
 归来见天子，天子坐明堂。策勋十二转，赏赐百千强。 可汗问所欲， 木兰不用尚书郎，愿驰千里足，送儿还故乡。 
 爷娘闻女来，出郭相扶将；阿姊闻妹来，当户理红妆；小弟闻姊来，磨刀霍霍向猪羊。开我东阁门，坐我西阁床； 脱我战时袍，著（zhuó)我旧时裳。当窗理云鬓(bìn)，对镜帖花黄。 出门看火伴，火伴皆惊忙：同行十二年，不知木兰是女郎。 
 雄兔脚扑朔，雌兔眼迷离；双兔傍地走，安能辨我是雄雌？
-**** TODO 七下课内 12课《卖油翁》
-SCHEDULED: <2020-01-22 Wed>
+**** DONE 七下课内 12课《卖油翁》
+SCHEDULED: <2020-01-20 Mon>
 :PROPERTIES:
 :ID:       ACC369DC-48CE-4AFC-8C15-3CF2B9A01F19
-:END:
-:LOGBOOK:
-- State "TODO"       from              [2020-01-18 Sat 21:32]
 :END:
 《归田录》    欧阳修 (北宋)
 陈康肃公善射，当世无双 ，公亦以此自矜。尝射于家圃，有卖油翁释担而立，睨之久而不去。见其发矢十中八九，但微颔之。
 康肃问曰：“汝亦知射乎？吾射不亦精乎？”翁曰：“无他， 但手熟尔。”康肃忿然曰：“尔安敢轻吾射！”翁曰：“以我酌油知之。”乃取一葫芦置于地，以钱覆其口，徐以杓酌油沥之，自钱孔入，而钱不湿。因曰：“我亦无他，惟手熟尔。”康肃笑而遣之。
-**** TODO 七下课内 16课-1《陋室铭》
+**** INPROGRESS 七下课内 16课-1《陋室铭》
+SCHEDULED: <2020-01-22 Wed>
 :PROPERTIES:
 :ID:       FDDA31CE-4797-4623-8026-83C0A63181E2
-:END:
-:LOGBOOK:
-- State "TODO"       from              [2020-01-18 Sat 21:34]
 :END:
 《刘禹锡集》  刘禹锡（唐）
 山不在高，有仙则名。水不在深，有龙则灵。
@@ -206,12 +201,10 @@ SCHEDULED: <2020-01-22 Wed>
 无丝竹之乱耳，无案牍之劳形。
 南阳诸葛庐，西蜀子云亭。
 孔子云：何陋之有？
-**** TODO 七下课内 16课-2《爱莲说》
+**** INPROGRESS 七下课内 16课-2《爱莲说》
+SCHEDULED: <2020-01-22 Wed>
 :PROPERTIES:
 :ID:       20DF5E82-0646-456B-9789-FF974CEC0DF4
-:END:
-:LOGBOOK:
-- State "TODO"       from              [2020-01-18 Sat 21:35]
 :END:
 《周敦颐集》 周敦颐（北宋）
 水陆草木之花，可爱者甚蕃。
@@ -224,17 +217,11 @@ SCHEDULED: <2020-01-22 Wed>
 :PROPERTIES:
 :ID:       FF291542-49BA-48B0-AD2E-D97EBD786CE5
 :END:
-:LOGBOOK:
-- State "TODO"       from              [2020-01-18 Sat 21:40]
-:END:
 《陈子昂集》 陈子昂 (唐)
 前不见古人，后不见来者。念天地之悠悠，独怆然而涕下！
 **** TODO 七下课内 20课-2《望岳》
 :PROPERTIES:
 :ID:       1EE018A5-A6CF-4109-9D66-BD121370EDC7
-:END:
-:LOGBOOK:
-- State "TODO"       from              [2020-01-18 Sat 21:40]
 :END:
 《杜诗详注》  杜甫 (唐)
 岱宗夫如何？齐鲁青未了。造化钟神秀，阴阳割昏晓。
@@ -243,27 +230,18 @@ SCHEDULED: <2020-01-22 Wed>
 :PROPERTIES:
 :ID:       D8742D6F-CC66-4280-A396-D0910E6C8A2C
 :END:
-:LOGBOOK:
-- State "TODO"       from              [2020-01-18 Sat 21:40]
-:END:
 《王荆文公诗笺注》  王安石 (北宋)
 飞来山上千寻塔，闻说鸡鸣见日升。不畏浮云遮望眼，自缘身在最高层。
 **** TODO 七下课内 20课-4《游山西村》
 :PROPERTIES:
 :ID:       4425EFD1-D7CE-4749-B5B0-6DBF56701060
 :END:
-:LOGBOOK:
-- State "TODO"       from              [2020-01-18 Sat 21:40]
-:END:
 《剑南诗稿校注》  陆游 (南宋)
 莫笑农家腊酒浑，丰年留客足鸡豚。山重水复疑无路，柳暗花明又一村。
 箫鼓追随春社近，衣冠简朴古风存。从今若许闲乘月，拄杖无时夜叩门。
-**** TODO 七下课内 20课-4《己亥杂诗（其五）》
+**** TODO 七下课内 20课-5《己亥杂诗（其五）》
 :PROPERTIES:
 :ID:       7457FAD2-894B-4EB5-AD95-4F93AB6FDF11
-:END:
-:LOGBOOK:
-- State "TODO"       from              [2020-01-18 Sat 21:40]
 :END:
 《龚自珍全集》 龚自珍（清）
 浩荡离愁白日斜， 吟鞭东指即天涯。落红不是无情物， 化作春泥更护花。
@@ -465,7 +443,7 @@ SCHEDULED: <2020-01-21 Tue>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 22:27]
 :END:
-**** TODO 数学预习-9
+**** INPROGRESS 数学预习-9
 SCHEDULED: <2020-01-22 Wed>
 :PROPERTIES:
 :ID:       10BB96FF-9BDB-4FBC-8968-7B2B81827D40
@@ -473,7 +451,7 @@ SCHEDULED: <2020-01-22 Wed>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 22:27]
 :END:
-**** TODO 数学预习-10
+**** INPROGRESS 数学预习-10
 SCHEDULED: <2020-01-22 Wed>
 :PROPERTIES:
 :ID:       CEAFF6D1-AEBA-4B46-A903-C8C194EBBF89
@@ -643,7 +621,7 @@ SCHEDULED: <2020-01-21 Tue>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 22:17]
 :END:
-**** TODO SSP寒假合订本 7/14
+**** INPROGRESS SSP寒假合订本 7/14
 SCHEDULED: <2020-01-22 Wed>
 :PROPERTIES:
 :ID:       B07EC9B2-F81B-4F44-8B22-F57C0969BF36
@@ -651,7 +629,7 @@ SCHEDULED: <2020-01-22 Wed>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 22:17]
 :END:
-**** TODO SSP寒假合订本 8/14
+**** INPROGRESS SSP寒假合订本 8/14
 SCHEDULED: <2020-01-22 Wed>
 :PROPERTIES:
 :ID:       02E9045B-8A51-4D38-B0F9-34D91150D27C
@@ -749,7 +727,7 @@ SCHEDULED: <2020-01-21 Tue>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 20:49]
 :END:
-**** TODO 中考英语词汇手册-单词默写-P29-35
+**** INPROGRESS 中考英语词汇手册-单词默写-P29-35
 SCHEDULED: <2020-01-22 Wed>
 :PROPERTIES:
 :ID:       1CC70C94-1926-42E0-B958-001BF3C5513D
@@ -757,7 +735,7 @@ SCHEDULED: <2020-01-22 Wed>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 20:49]
 :END:
-**** TODO 中考英语词汇手册-单词默写-P37-42
+**** INPROGRESS 中考英语词汇手册-单词默写-P37-42
 SCHEDULED: <2020-01-22 Wed>
 :PROPERTIES:
 :ID:       85569D5A-3FE3-433D-A81E-0C6D2B5241B2
@@ -835,12 +813,12 @@ SCHEDULED: <2020-01-21 Tue>
 :PROPERTIES:
 :ID:       888AE6F3-73DA-4721-9104-65803D213BB2
 :END:
-**** TODO 中考英语词汇手册-词组默写-5
+**** INPROGRESS 中考英语词汇手册-词组默写-5
 SCHEDULED: <2020-01-22 Wed>
 :PROPERTIES:
 :ID:       466AF4C9-B291-4AA7-A1F4-FDF09EE9A4AE
 :END:
-**** TODO 中考英语词汇手册-词组默写-6
+**** INPROGRESS 中考英语词汇手册-词组默写-6
 SCHEDULED: <2020-01-22 Wed>
 :PROPERTIES:
 :ID:       5C4B5C0F-2F0D-4FC1-9CF3-4DCCC0F169C3
@@ -1018,7 +996,7 @@ SCHEDULED: <2020-01-21 Tue>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 12:30]
 :END:
-* [4/13] 寒假英语
+* [6/13] 寒假英语
 :PROPERTIES:
 :ID:       D4D973B9-9721-4DC8-A085-901C2FB424E9
 :END:
@@ -1057,12 +1035,12 @@ SCHEDULED: <2020-01-22 Wed 09:30-10:00>
 :PROPERTIES:
 :ID:       0E5E6D74-6E33-4D79-8750-D541C288E0D6
 :END:
-** TODO 主修课 5.4.7 - Where Do Insects Live?
+** DONE 主修课 5.4.7 - Where Do Insects Live?
 SCHEDULED: <2020-01-21 Tue 14:30-15:00>
 :PROPERTIES:
 :ID:       440BA271-D4BC-47AF-BD8C-DAFBB4FACF08
 :END:
-** TODO 主修课 5.4.6 - Discovering Insects
+** DONE 主修课 5.4.6 - Discovering Insects
 SCHEDULED: <2020-01-21 Tue 09:30-10:00>
 :PROPERTIES:
 :ID:       70F248B7-491C-4232-8AF6-3306ADF7A739

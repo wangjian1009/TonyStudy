@@ -73,7 +73,7 @@ DEADLINE: <2020-02-17 Mon>
 :COOKIE_DATA: todo recursive
 :ID:       75E80F08-43B9-47ED-A9B9-50689BC75786
 :END:
-** [6/28] 语文作业
+** [5/28] 语文作业
 :PROPERTIES:
 :ID:       53C971E6-F0E9-4CDC-B89E-6EC874BB6FC8
 :COOKIE_DATA: todo recursive
@@ -104,7 +104,7 @@ SCHEDULED: <2020-01-18 Sat>
 :END:
 <2020-01-19 Sun 12:00-14:45>
 **** DONE 《西游记》阅读 2-1
-SCHEDULED: <2020-01-20 Mon>
+SCHEDULED: <2020-01-20 Mon 13:45-16:45>
 :PROPERTIES:
 :ID:       24A6785A-ED66-4AF0-892B-12E6E8A695C6
 :END:
@@ -143,13 +143,13 @@ SCHEDULED: <2020-01-25 Sat>
 制作个人朗诵视频一个有感情地朗诵经典古诗文或现代诗文（选段）
 3分钟以内
 发班级群
-*** [2/19] 背诵并默写七下古诗和文言文背诵篇目                     :PROJECT:
+*** [1/19] 背诵并默写七下古诗和文言文背诵篇目                     :PROJECT:
 :PROPERTIES:
 :ID:       1ACBA26E-2A81-4CEC-9723-1EC6AFE8C177
 :END:
 请按照背-默-批-签-订的顺序完成（默写在默写本上，家长签名）
 **** DONE 七下课内 4课《孙权劝学》
-SCHEDULED: <2020-01-20 Mon>
+SCHEDULED: <2020-01-20 Mon 20:15-21:00>
 :PROPERTIES:
 :ID:       24F595F6-6E1D-4023-BF65-6249EE000E00
 :END:
@@ -180,8 +180,8 @@ SCHEDULED: <2020-01-21 Tue>
 归来见天子，天子坐明堂。策勋十二转，赏赐百千强。 可汗问所欲， 木兰不用尚书郎，愿驰千里足，送儿还故乡。 
 爷娘闻女来，出郭相扶将；阿姊闻妹来，当户理红妆；小弟闻姊来，磨刀霍霍向猪羊。开我东阁门，坐我西阁床； 脱我战时袍，著（zhuó)我旧时裳。当窗理云鬓(bìn)，对镜帖花黄。 出门看火伴，火伴皆惊忙：同行十二年，不知木兰是女郎。 
 雄兔脚扑朔，雌兔眼迷离；双兔傍地走，安能辨我是雄雌？
-**** DONE 七下课内 12课《卖油翁》
-SCHEDULED: <2020-01-20 Mon>
+**** TODO 七下课内 12课《卖油翁》
+SCHEDULED: <2020-01-22 Wed>
 :PROPERTIES:
 :ID:       ACC369DC-48CE-4AFC-8C15-3CF2B9A01F19
 :END:
@@ -434,7 +434,7 @@ SCHEDULED: <2020-01-19 Sun 15:30-16:00>
 - State "TODO"       from              [2020-01-18 Sat 22:27]
 :END:
 **** DONE 数学预习-5
-SCHEDULED: <2020-01-20 Mon>
+SCHEDULED: <2020-01-20 Mon 19:15-19:45>
 :PROPERTIES:
 :ID:       723F08F7-266E-452A-AD0B-5E32C26A44EB
 :END:
@@ -442,7 +442,7 @@ SCHEDULED: <2020-01-20 Mon>
 - State "TODO"       from              [2020-01-18 Sat 22:27]
 :END:
 **** DONE 数学预习-6
-SCHEDULED: <2020-01-20 Mon>
+SCHEDULED: <2020-01-20 Mon 19:45-20:15>
 :PROPERTIES:
 :ID:       DC943331-33BB-4710-BE32-780A25DEF261
 :END:

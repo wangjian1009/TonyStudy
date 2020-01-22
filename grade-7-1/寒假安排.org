@@ -68,12 +68,12 @@ DEADLINE: <2020-02-17 Mon>
 :PROPERTIES:
 :ID:       CFEE5B29-59BD-4474-8AB5-F759FCC1626A
 :END:
-* [39/103] 寒假作业
+* [45/103] 寒假作业
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :ID:       75E80F08-43B9-47ED-A9B9-50689BC75786
 :END:
-** [8/28] 语文作业
+** [10/28] 语文作业
 :PROPERTIES:
 :ID:       53C971E6-F0E9-4CDC-B89E-6EC874BB6FC8
 :COOKIE_DATA: todo recursive
@@ -82,7 +82,7 @@ DEADLINE: <2020-02-17 Mon>
 :PROPERTIES:
 :ID:       CFB6ADA7-285A-4BFB-A3D4-5001980BA1DD
 :END:
-*** [4/8] 完成名著《西游记》的阅读                                :PROJECT:
+*** [5/8] 完成名著《西游记》的阅读                                :PROJECT:
 :PROPERTIES:
 :ID:       90395CD8-DA6D-48E8-9298-79801D9E82AD
 :END:
@@ -113,12 +113,12 @@ SCHEDULED: <2020-01-21 Tue 12:00-14:30>
 :PROPERTIES:
 :ID:       59207515-1FFD-4D74-A031-DC1B3F7E9F41
 :END:
-**** INPROGRESS 《西游记》阅读 3-1
-SCHEDULED: <2020-01-22 Wed>
+**** DONE 《西游记》阅读 3-1
+SCHEDULED: <2020-01-22 Wed 09:15-13:15>
 :PROPERTIES:
 :ID:       28CC199E-32E6-4CB1-AF28-B681D9934925
 :END:
-**** TODO 《西游记》阅读 3-2
+**** INPROGRESS 《西游记》阅读 3-2
 SCHEDULED: <2020-01-23 Thu>
 :PROPERTIES:
 :ID:       1B2C7F73-3D60-4ADD-B657-85071BF92920
@@ -143,7 +143,7 @@ SCHEDULED: <2020-01-25 Sat>
 制作个人朗诵视频一个有感情地朗诵经典古诗文或现代诗文（选段）
 3分钟以内
 发班级群
-*** [3/19] 背诵并默写七下古诗和文言文背诵篇目                     :PROJECT:
+*** [4/19] 背诵并默写七下古诗和文言文背诵篇目                     :PROJECT:
 :PROPERTIES:
 :ID:       1ACBA26E-2A81-4CEC-9723-1EC6AFE8C177
 :END:
@@ -188,8 +188,8 @@ SCHEDULED: <2020-01-20 Mon 18:00-19:15>
 《归田录》    欧阳修 (北宋)
 陈康肃公善射，当世无双 ，公亦以此自矜。尝射于家圃，有卖油翁释担而立，睨之久而不去。见其发矢十中八九，但微颔之。
 康肃问曰：“汝亦知射乎？吾射不亦精乎？”翁曰：“无他， 但手熟尔。”康肃忿然曰：“尔安敢轻吾射！”翁曰：“以我酌油知之。”乃取一葫芦置于地，以钱覆其口，徐以杓酌油沥之，自钱孔入，而钱不湿。因曰：“我亦无他，惟手熟尔。”康肃笑而遣之。
-**** INPROGRESS 七下课内 16课-1《陋室铭》
-SCHEDULED: <2020-01-22 Wed>
+**** DONE 七下课内 16课-1《陋室铭》
+SCHEDULED: <2020-01-22 Wed 13:30-14:15>
 :PROPERTIES:
 :ID:       FDDA31CE-4797-4623-8026-83C0A63181E2
 :END:
@@ -202,7 +202,7 @@ SCHEDULED: <2020-01-22 Wed>
 南阳诸葛庐，西蜀子云亭。
 孔子云：何陋之有？
 **** INPROGRESS 七下课内 16课-2《爱莲说》
-SCHEDULED: <2020-01-22 Wed>
+SCHEDULED: <2020-01-23 Thu>
 :PROPERTIES:
 :ID:       20DF5E82-0646-456B-9789-FF974CEC0DF4
 :END:
@@ -329,7 +329,7 @@ SCHEDULED: <2020-01-22 Wed>
 南宋 赵师秀
 黄梅时节家家雨，青草池塘处处蛙。有约不来过夜半，闲敲棋子落灯花。
 
-** [9/27] 数学作业
+** [10/27] 数学作业
 :PROPERTIES:
 :ID:       FA77F583-A811-4954-969A-3B673A20AD3E
 :COOKIE_DATA: todo recursive
@@ -371,7 +371,7 @@ SCHEDULED: <2020-01-22 Wed>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 22:21]
 :END:
-*** [8/17] 预习7下全部和八上19.1和19.2
+*** [9/17] 预习7下全部和八上19.1和19.2
 :PROPERTIES:
 :ID:       ABDFF9B7-51C0-4783-B66D-D3C8AAB2DDD2
 :END:
@@ -443,8 +443,8 @@ SCHEDULED: <2020-01-21 Tue 20:00-20:45>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 22:27]
 :END:
-**** INPROGRESS 数学预习-9
-SCHEDULED: <2020-01-22 Wed>
+**** DONE 数学预习-9
+SCHEDULED: <2020-01-22 Wed 12:00-21:45>
 :PROPERTIES:
 :ID:       10BB96FF-9BDB-4FBC-8968-7B2B81827D40
 :END:
@@ -452,14 +452,14 @@ SCHEDULED: <2020-01-22 Wed>
 - State "TODO"       from              [2020-01-18 Sat 22:27]
 :END:
 **** INPROGRESS 数学预习-10
-SCHEDULED: <2020-01-22 Wed>
+SCHEDULED: <2020-01-23 Thu>
 :PROPERTIES:
 :ID:       CEAFF6D1-AEBA-4B46-A903-C8C194EBBF89
 :END:
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 22:27]
 :END:
-**** TODO 数学预习-11
+**** INPROGRESS 数学预习-11
 SCHEDULED: <2020-01-23 Thu>
 :PROPERTIES:
 :ID:       9F5D0904-B455-40D6-ABDC-1F2BB5719DE6
@@ -468,7 +468,7 @@ SCHEDULED: <2020-01-23 Thu>
 - State "TODO"       from              [2020-01-18 Sat 22:27]
 :END:
 **** TODO 数学预习-12
-SCHEDULED: <2020-01-23 Thu>
+SCHEDULED: <2020-01-24 Fri>
 :PROPERTIES:
 :ID:       F37BA0C1-89B1-48B9-A304-61D046B58FBA
 :END:
@@ -561,12 +561,12 @@ SCHEDULED: <2020-01-26 Sun>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-19 Sun 09:41]
 :END:
-** [16/36] 英语作业
+** [19/36] 英语作业
 :PROPERTIES:
 :ID:       BEE8C0DC-AFF0-4150-86AE-A6131DAF13D0
 :COOKIE_DATA: todo recursive
 :END:
-*** [4/14] SSP寒假合订本14天                                      :PROJECT:
+*** [5/14] SSP寒假合订本14天                                      :PROJECT:
 :PROPERTIES:
 :ID:       699AE975-6CC9-432D-9F2E-653F8D3443EA
 :END:
@@ -605,8 +605,8 @@ SCHEDULED: <2020-01-20 Mon 12:45-13:30>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 22:17]
 :END:
-**** INPROGRESS SSP寒假合订本 5/14
-SCHEDULED: <2020-01-22 Wed>
+**** DONE SSP寒假合订本 5/14
+SCHEDULED: <2020-01-22 Wed 20:30-12:00>
 :PROPERTIES:
 :ID:       8888C70B-7E00-41CD-9681-94CF98123FBF
 :END:
@@ -614,14 +614,14 @@ SCHEDULED: <2020-01-22 Wed>
 - State "TODO"       from              [2020-01-18 Sat 22:17]
 :END:
 **** INPROGRESS SSP寒假合订本 6/14
-SCHEDULED: <2020-01-22 Wed>
+SCHEDULED: <2020-01-23 Thu>
 :PROPERTIES:
 :ID:       E1BA19AF-E73A-4F48-A264-6680C1FA661D
 :END:
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 22:17]
 :END:
-**** TODO SSP寒假合订本 7/14
+**** INPROGRESS SSP寒假合订本 7/14
 SCHEDULED: <2020-01-23 Thu>
 :PROPERTIES:
 :ID:       B07EC9B2-F81B-4F44-8B22-F57C0969BF36
@@ -630,7 +630,7 @@ SCHEDULED: <2020-01-23 Thu>
 - State "TODO"       from              [2020-01-18 Sat 22:17]
 :END:
 **** TODO SSP寒假合订本 8/14
-SCHEDULED: <2020-01-23 Thu>
+SCHEDULED: <2020-01-24 Fri>
 :PROPERTIES:
 :ID:       02E9045B-8A51-4D38-B0F9-34D91150D27C
 :END:
@@ -685,7 +685,7 @@ SCHEDULED: <2020-01-26 Sun>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 22:17]
 :END:
-*** [4/10] B本选默中考英语词汇手册P1-66单词部分                   :PROJECT:
+*** [5/10] B本选默中考英语词汇手册P1-66单词部分                   :PROJECT:
 :PROPERTIES:
 :ID:       27D00B92-A45A-4215-BD80-C3ECF4364285
 :END:
@@ -727,8 +727,8 @@ SCHEDULED: <2020-01-21 Tue 18:15-18:45>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 20:49]
 :END:
-**** INPROGRESS 中考英语词汇手册-单词默写-P29-35
-SCHEDULED: <2020-01-22 Wed>
+**** DONE 中考英语词汇手册-单词默写-P29-35
+SCHEDULED: <2020-01-22 Wed 14:30-15:15>
 :PROPERTIES:
 :ID:       1CC70C94-1926-42E0-B958-001BF3C5513D
 :END:
@@ -736,14 +736,14 @@ SCHEDULED: <2020-01-22 Wed>
 - State "TODO"       from              [2020-01-18 Sat 20:49]
 :END:
 **** INPROGRESS 中考英语词汇手册-单词默写-P37-42
-SCHEDULED: <2020-01-22 Wed>
+SCHEDULED: <2020-01-23 Thu>
 :PROPERTIES:
 :ID:       85569D5A-3FE3-433D-A81E-0C6D2B5241B2
 :END:
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 20:49]
 :END:
-**** TODO 中考英语词汇手册-单词默写-P43-49
+**** INPROGRESS 中考英语词汇手册-单词默写-P43-49
 SCHEDULED: <2020-01-23 Thu>
 :PROPERTIES:
 :ID:       866DC77D-B0B0-4A8B-A702-48043C0D7554
@@ -752,7 +752,7 @@ SCHEDULED: <2020-01-23 Thu>
 - State "TODO"       from              [2020-01-18 Sat 20:49]
 :END:
 **** TODO 中考英语词汇手册-单词默写-P50-56
-SCHEDULED: <2020-01-23 Thu>
+SCHEDULED: <2020-01-24 Fri>
 :PROPERTIES:
 :ID:       B25317AE-3E83-46C8-A339-281108F96A74
 :END:
@@ -775,7 +775,7 @@ SCHEDULED: <2020-01-24 Fri>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 20:49]
 :END:
-*** [4/8] B本全默中考英语词汇手册P67-72词组部分
+*** [5/8] B本全默中考英语词汇手册P67-72词组部分
 :PROPERTIES:
 :ID:       1F103231-9A02-486A-8664-465964F32570
 :END:
@@ -813,23 +813,23 @@ SCHEDULED: <2020-01-21 Tue 10:30-11:00>
 :PROPERTIES:
 :ID:       888AE6F3-73DA-4721-9104-65803D213BB2
 :END:
-**** INPROGRESS 中考英语词汇手册-词组默写-5
-SCHEDULED: <2020-01-22 Wed>
+**** DONE 中考英语词汇手册-词组默写-5
+SCHEDULED: <2020-01-22 Wed 15:15-16:00>
 :PROPERTIES:
 :ID:       466AF4C9-B291-4AA7-A1F4-FDF09EE9A4AE
 :END:
 **** INPROGRESS 中考英语词汇手册-词组默写-6
-SCHEDULED: <2020-01-22 Wed>
+SCHEDULED: <2020-01-23 Thu>
 :PROPERTIES:
 :ID:       5C4B5C0F-2F0D-4FC1-9CF3-4DCCC0F169C3
 :END:
-**** TODO 中考英语词汇手册-词组默写-7
+**** INPROGRESS 中考英语词汇手册-词组默写-7
 SCHEDULED: <2020-01-23 Thu>
 :PROPERTIES:
 :ID:       FE4E315B-854F-42CF-8CAA-37393C089F41
 :END:
 **** TODO 中考英语词汇手册-词组默写-8
-SCHEDULED: <2020-01-23 Thu>
+SCHEDULED: <2020-01-24 Fri>
 :PROPERTIES:
 :ID:       3180CB17-277A-4889-A668-EAA1CDD35610
 :END:
@@ -926,7 +926,7 @@ SCHEDULED: <2020-01-21 Tue 16:30-17:00>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-19 Sun 09:39]
 :END:
-**** TODO 物理预习3章 3/3
+**** INPROGRESS 物理预习3章 3/3
 SCHEDULED: <2020-01-23 Thu>
 :PROPERTIES:
 :ID:       D8E92ABB-FA3D-4585-BF99-723165E10CC3

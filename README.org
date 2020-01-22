@@ -1,4 +1,13 @@
 #+TITLE: 牛牛相关学习情况记录
+:PROPERTIES:
+#+SEQ_TODO: TODO(t) INPROGRESS(p) | DONE(d) ABORT(a@/!)
+#+TAGS:
+#+STARTUP: logdrawer
+#+STARTUP: showall
+#+STARTUP: hidestars
+#+STARTUP: indent
+#+CATEGORY: 牛牛
+:END:
 
 * 历年成绩
 
@@ -8,3 +17,4 @@
   - [[./grade-7-1寒假安排.org][2020寒假安排]]
   - [[./grade-7-1/禁赛-科创大赛.org][科创大赛]]
   - [[./grade-7-1/竞赛-明日科技之星.org][浦东新区第十八届明日科技之星]]
+  - [[./external/X7/寒春课程安排.org][X7寒春课程安排]]

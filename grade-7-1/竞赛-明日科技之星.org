@@ -22,7 +22,7 @@
 :PROPERTIES:
 :ID:       94D9C407-7170-452C-AC0B-A5E366C0BABB
 :END:
-** [1/2] 学生网上申报 (2019年12月25日 ~ 2020年1月30日)
+** [2/2] 学生网上申报 (2019年12月25日 ~ 2020年1月30日)
 :PROPERTIES:
 :ID:       97C5EC62-EB0E-40B7-AF3F-D8A3D8982634
 :END:
@@ -34,7 +34,7 @@
 - State "ABORT"      from "TODO"       [2020-01-20 Mon 14:29] \\
   和张老师沟通，没有这个阶段，可以直接网上填报
 :END:
-*** TODO 网上填写《学校推荐表》
+*** DONE 网上填写《学校推荐表》
 DEADLINE: <2020-01-23 Thu>
 :PROPERTIES:
 :ID:       B0DD917A-BA66-4409-81D2-1C792ECBF8B7

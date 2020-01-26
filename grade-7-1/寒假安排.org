@@ -1008,21 +1008,37 @@ SCHEDULED: <2020-01-21 Tue>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 12:30]
 :END:
-* [10/13] 寒假英语
+* [11/21] 寒假英语
 :PROPERTIES:
 :ID:       D4D973B9-9721-4DC8-A085-901C2FB424E9
 :END:
-** TODO 主修课 5.4.12 - Where Do Insects Live?
+** TODO 主修课 5.5.4 - Plants we eat
+SCHEDULED: <2020-02-02 Sun 09:30-10:00>
+** TODO 主修课 5.5.4 - Plants we eat
+SCHEDULED: <2020-02-01 Sat 19:30-20:00>
+** TODO 主修课 5.5.3 - Plants we eat
 SCHEDULED: <2020-02-01 Sat 09:30-10:00>
+** TODO 精品公开课 41-4 - The New Playground 设计新操场
+SCHEDULED: <2020-01-31 Fri 20:00-20:30>
+** TODO 主修课 5.5.2 - Plants we eat
+SCHEDULED: <2020-01-31 Fri 09:30-10:00>
+** TODO 主修课 5.5.1 - Plants we eat
+SCHEDULED: <2020-01-30 Thu 09:30-10:00>
+** TODO 主修课 5.4.12 - Where Do Insects Live?
+SCHEDULED: <2020-01-29 Wed 09:30-10:00>
 :PROPERTIES:
 :ID:       251376A2-692D-47BB-AE39-E96DAF45D02B
 :END:
+** TODO 分级阅读 4.1.7 - I Love Animals
+SCHEDULED: <2020-01-27 Mon 09:30-10:00>
+** TODO 分级阅读 4.1.8 - I Love Animals
+SCHEDULED: <2020-01-28 Tue 09:30-10:00>
 ** INPROGRESS 分级阅读 4.1.6 - Make-believe
 SCHEDULED: <2020-01-26 Sun 14:30-15:00>
 :PROPERTIES:
 :ID:       781327C5-37C6-40EE-94AC-2D5BFD88B886
 :END:
-** INPROGRESS 分级阅读 4.1.5 - Make-believe
+** DONE 分级阅读 4.1.5 - Make-believe
 SCHEDULED: <2020-01-26 Sun 09:30-10:00>
 :PROPERTIES:
 :ID:       11C395C7-0A56-44BD-873E-37F7ACF51808

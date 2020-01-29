@@ -48,12 +48,12 @@ DEADLINE: <2020-02-17 Mon>
 :PROPERTIES:
 :ID:       CFEE5B29-59BD-4474-8AB5-F759FCC1626A
 :END:
-* [85/107] 寒假作业
+* [95/107] 寒假作业
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :ID:       75E80F08-43B9-47ED-A9B9-50689BC75786
 :END:
-** [26/30] 语文作业
+** [30/30] 语文作业
 :PROPERTIES:
 :ID:       53C971E6-F0E9-4CDC-B89E-6EC874BB6FC8
 :COOKIE_DATA: todo recursive
@@ -133,7 +133,7 @@ SCHEDULED: <2020-01-26 Sun 12:30-14:00>
 制作个人朗诵视频一个有感情地朗诵经典古诗文或现代诗文（选段）
 3分钟以内
 发班级群
-*** [15/19] 背诵并默写七下古诗和文言文背诵篇目                    :PROJECT:
+*** [19/19] 背诵并默写七下古诗和文言文背诵篇目                    :PROJECT:
 :PROPERTIES:
 :ID:       1ACBA26E-2A81-4CEC-9723-1EC6AFE8C177
 :END:
@@ -292,8 +292,8 @@ SCHEDULED: <2020-01-27 Mon 10:45-11:00>
 :END:
 唐   韩愈
 草树知春不久归，百般红紫斗芳菲。杨花榆荚无才思，惟解漫天作雪飞。
-**** INPROGRESS 七下课外古诗词诵读 第六单元-1 《泊秦淮》
-SCHEDULED: <2020-01-28 Tue>
+**** DONE 七下课外古诗词诵读 第六单元-1 《泊秦淮》
+SCHEDULED: <2020-01-28 Tue 14:00-14:45>
 :PROPERTIES:
 :ID:       8BECCDD2-B45B-4C6C-9E81-191B28850111
 :END:
@@ -302,8 +302,8 @@ SCHEDULED: <2020-01-28 Tue>
 :END:
 唐   杜牧
 烟笼寒水月笼沙，夜泊秦淮近酒家。商女不知亡国恨，隔江犹唱后庭花。
-**** INPROGRESS 七下课外古诗词诵读 第六单元-2 《贾生》
-SCHEDULED: <2020-01-28 Tue>
+**** DONE 七下课外古诗词诵读 第六单元-2 《贾生》
+SCHEDULED: <2020-01-28 Tue 14:00-14:45>
 :PROPERTIES:
 :ID:       579BFE87-BC51-4363-8BC9-F856A9273F35
 :END:
@@ -312,8 +312,8 @@ SCHEDULED: <2020-01-28 Tue>
 :END:
 唐  李商隐
 宣室求贤访逐臣，贾生才调更无伦。可怜夜半虚前席，不问苍生问鬼神。
-**** INPROGRESS 七下课外古诗词诵读 第六单元-3 《过松源晨炊漆公店》
-SCHEDULED: <2020-01-28 Tue>
+**** DONE 七下课外古诗词诵读 第六单元-3 《过松源晨炊漆公店》
+SCHEDULED: <2020-01-28 Tue 14:00-14:45>
 :PROPERTIES:
 :ID:       997B46EE-F4BC-4652-A8CC-901E91908EB7
 :END:
@@ -322,8 +322,8 @@ SCHEDULED: <2020-01-28 Tue>
 :END:
 南宋 杨万里
 莫言下岭便无难，赚得行人错喜欢。政入万山围子里，一山放出一山拦。
-**** INPROGRESS 七下课外古诗词诵读 第六单元-4 《约客》
-SCHEDULED: <2020-01-28 Tue>
+**** DONE 七下课外古诗词诵读 第六单元-4 《约客》
+SCHEDULED: <2020-01-28 Tue 14:00-14:45>
 :PROPERTIES:
 :ID:       24D84536-94B3-4159-AB5E-8F89B2D896D8
 :END:
@@ -333,12 +333,12 @@ SCHEDULED: <2020-01-28 Tue>
 南宋 赵师秀
 黄梅时节家家雨，青草池塘处处蛙。有约不来过夜半，闲敲棋子落灯花。
 
-** [18/27] 数学作业
+** [21/27] 数学作业
 :PROPERTIES:
 :ID:       FA77F583-A811-4954-969A-3B673A20AD3E
 :COOKIE_DATA: todo recursive
 :END:
-*** [2/4] 完成个性化作业 16页
+*** [3/4] 完成个性化作业 16页
 :PROPERTIES:
 :ID:       5B61412A-8254-475F-B7A9-2BA9465B0FE5
 :END:
@@ -361,22 +361,23 @@ SCHEDULED: <2020-01-28 Tue>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 22:21]
 :END:
-**** INPROGRESS 数学个性化作业 P9-12
-SCHEDULED: <2020-01-28 Tue>
+**** DONE 数学个性化作业 P9-12
+SCHEDULED: <2020-01-28 Tue 10:45-11:30>
 :PROPERTIES:
 :ID:       F984ADC6-0F52-43C7-A2AD-779D410015DD
 :END:
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 22:21]
 :END:
-**** TODO 数学个性化作业 P13-16
+**** INPROGRESS 数学个性化作业 P13-16
+SCHEDULED: <2020-01-29 Wed>
 :PROPERTIES:
 :ID:       B9EBEE99-31E1-469A-BBF0-D20478B35E3F
 :END:
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 22:21]
 :END:
-*** [15/17] 预习7下全部和八上19.1和19.2
+*** [16/17] 预习7下全部和八上19.1和19.2
 :PROPERTIES:
 :ID:       ABDFF9B7-51C0-4783-B66D-D3C8AAB2DDD2
 :END:
@@ -504,15 +505,15 @@ SCHEDULED: <2020-01-27 Mon 14:15-14:30>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 22:27]
 :END:
-**** INPROGRESS 数学预习-16
-SCHEDULED: <2020-01-28 Tue>
+**** DONE 数学预习-16
+SCHEDULED: <2020-01-28 Tue 13:00-13:30>
 :PROPERTIES:
 :ID:       F4CC9D08-4E28-4613-8E5E-E3B1B7410720
 :END:
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 22:27]
 :END:
-**** TODO 数学预习-17
+**** INPROGRESS 数学预习-17
 SCHEDULED: <2020-01-29 Wed>
 :PROPERTIES:
 :ID:       A6D92E0B-234D-47FC-93F6-F21AE39B22D1
@@ -520,7 +521,7 @@ SCHEDULED: <2020-01-29 Wed>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 22:27]
 :END:
-*** [1/6] 完成A班作业 12页
+*** [2/6] 完成A班作业 12页
 :PROPERTIES:
 :ID:       1149CBFA-E822-44E2-B49E-BFF16964716D
 :END:
@@ -532,15 +533,16 @@ SCHEDULED: <2020-01-27 Mon 12:30-13:15>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-19 Sun 09:41]
 :END:
-**** INPROGRESS 数学A班作业 3-4 页
-SCHEDULED: <2020-01-28 Tue>
+**** DONE 数学A班作业 3-4 页
+SCHEDULED: <2020-01-28 Tue 12:15-13:00>
 :PROPERTIES:
 :ID:       BE4F0522-3A93-4ECC-9775-A89979725FA0
 :END:
 :LOGBOOK:
 - State "TODO"       from              [2020-01-19 Sun 09:41]
 :END:
-**** TODO 数学A班作业 5-6 页
+**** INPROGRESS 数学A班作业 5-6 页
+SCHEDULED: <2020-01-29 Wed>
 :PROPERTIES:
 :ID:       E5C41C5F-9C6C-4075-B530-C1F480C79EE0
 :END:
@@ -568,12 +570,12 @@ SCHEDULED: <2020-01-28 Tue>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-19 Sun 09:41]
 :END:
-** [34/38] 英语作业
+** [35/38] 英语作业
 :PROPERTIES:
 :ID:       BEE8C0DC-AFF0-4150-86AE-A6131DAF13D0
 :COOKIE_DATA: todo recursive
 :END:
-*** [10/14] SSP寒假合订本14天                                     :PROJECT:
+*** [11/14] SSP寒假合订本14天                                     :PROJECT:
 :PROPERTIES:
 :ID:       699AE975-6CC9-432D-9F2E-653F8D3443EA
 :END:
@@ -660,15 +662,15 @@ SCHEDULED: <2020-01-27 Mon 13:15-13:45>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 22:17]
 :END:
-**** INPROGRESS SSP寒假合订本 11/14
-SCHEDULED: <2020-01-28 Tue>
+**** DONE SSP寒假合订本 11/14
+SCHEDULED: <2020-01-28 Tue 13:30-14:00>
 :PROPERTIES:
 :ID:       705E0609-CA9A-4BCC-9781-5847CC7602D1
 :END:
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 22:17]
 :END:
-**** TODO SSP寒假合订本 12/14
+**** INPROGRESS SSP寒假合订本 12/14
 SCHEDULED: <2020-01-29 Wed>
 :PROPERTIES:
 :ID:       75E9029C-AF01-4DCB-8BED-019CC3DA5BE8
@@ -888,12 +890,12 @@ SCHEDULED: <2020-01-18 Sat>
 - State "DONE"       from "TODO"       [2020-01-18 Sat 20:58]
 - State "TODO"       from              [2020-01-18 Sat 20:56]
 :END:
-** [5/6] 物理作业
+** [6/6] 物理作业
 :PROPERTIES:
 :ID:       F8F2312A-63D7-47BA-9D1A-750FD163CFD7
 :COOKIE_DATA: todo recursive
 :END:
-*** [2/3] 物理个性化作业 11页
+*** [3/3] 物理个性化作业 11页
 :PROPERTIES:
 :ID:       C69C311D-311C-4F48-BA7B-22A870983A32
 :END:
@@ -914,8 +916,8 @@ SCHEDULED: <2020-01-27 Mon 13:45-14:15>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-19 Sun 09:38]
 :END:
-**** INPROGRESS 物理个性化作业 9-11 页
-SCHEDULED: <2020-01-28 Tue>
+**** DONE 物理个性化作业 9-11 页
+SCHEDULED: <2020-01-28 Tue 10:00-10:45>
 :PROPERTIES:
 :ID:       893B7572-F4ED-4D02-852B-D63EC84B88D3
 :END:
@@ -1012,7 +1014,7 @@ SCHEDULED: <2020-01-21 Tue>
 :LOGBOOK:
 - State "TODO"       from              [2020-01-18 Sat 12:30]
 :END:
-* [13/21] 寒假英语
+* [14/21] 寒假英语
 :PROPERTIES:
 :ID:       D4D973B9-9721-4DC8-A085-901C2FB424E9
 :END:
@@ -1046,12 +1048,12 @@ SCHEDULED: <2020-01-30 Thu 09:30-10:00>
 :PROPERTIES:
 :ID:       8827DC12-6B60-4B0E-81D0-60973701856C
 :END:
-** TODO 主修课 5.4.12 - Where Do Insects Live?
+** INPROGRESS 主修课 5.4.12 - Where Do Insects Live?
 SCHEDULED: <2020-01-29 Wed 09:30-10:00>
 :PROPERTIES:
 :ID:       251376A2-692D-47BB-AE39-E96DAF45D02B
 :END:
-** INPROGRESS 分级阅读 4.1.8 - I Love Animals
+** DONE 分级阅读 4.1.8 - I Love Animals
 SCHEDULED: <2020-01-28 Tue 09:30-10:00>
 :PROPERTIES:
 :ID:       7A6F6AB5-E498-4308-AC6A-EA1CFED7C293

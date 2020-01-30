@@ -8,7 +8,7 @@
 #+STARTUP: content
 #+STARTUP: hidestars
 #+STARTUP: indent
-#+CATEGORY: 牛牛
+#+CATEGORY: 牛牛:明日之星
 :END:
 
 * 信息收集
@@ -20,7 +20,7 @@
   1. 科学研究论文
   2. 发明创造作品
 
-* 进度安排 [3/8]
+* 进度安排 [4/25]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :ID:       94D9C407-7170-452C-AC0B-A5E366C0BABB
@@ -43,39 +43,60 @@ DEADLINE: <2020-01-23 Thu>
 :ID:       B0DD917A-BA66-4409-81D2-1C792ECBF8B7
 :END:
 
-** [1/6] 开发产品
+** [2/23] 开发产品
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :ID:       36AD53B7-8197-48B9-9C0F-F20CE2C7D0CB
 :END:
-*** 用户能够注册账号                                          :REQUIREMENT:
+*** [0/4] 用户能够注册账号                                    :REQUIREMENT:
 :PROPERTIES:
 :ID:       6EC80689-0B1B-450C-8CB3-A4427FC9A83C
 :END:
-**** INPROGRESS 点击注册按钮能够弹出注册界面                        :Tony:
+**** INPROGRESS [#A] 点击注册按钮能够弹出注册界面                   :Tony:
 :PROPERTIES:
 :ID:       C6EFFE73-C34D-4BCF-A4E8-1A9F70275C61
 :END:
-**** TODO 这册界面能够输入用户名、密码并调用登录接口登录
+**** TODO [#A] 这册界面能够输入用户名、密码并调用登录接口登录       :Tony:
+SCHEDULED: <2020-01-31 Fri>
 :PROPERTIES:
 :ID:       0E3563CB-9A02-40C9-9DD4-E8F9ED3199C3
 :END:
-**** TODO 服务器支持注册接口
+**** TODO [#A] 服务器支持用户注册                                   :Loki:
 :PROPERTIES:
 :ID:       B6C241BA-7794-4652-8FC0-DE3AB1DB4E65
 :END:
-*** 用户能够登录系统                                          :REQUIREMENT:
+**** TODO [#B] 注册失败的信息能够在界面合理展现                     :Loki:
+:PROPERTIES:
+:ID:       0801F20D-BBF9-4D8D-B6EC-169D452370DE
+:END:
+*** [1/4] 用户能够登录系统                                    :REQUIREMENT:
 :PROPERTIES:
 :ID:       008BDF35-00DA-4B77-9ABA-4CF12A7A9817
 :END:
-**** TODO [#A] 用户可以在登录界面输入用户名、密码登录               :Tony:
+**** DONE [#A] 用户可以在登录界面输入用户名、密码登录               :Tony:
 :PROPERTIES:
 :ID:       48592320-F761-4A50-91FA-9E4567F57894
 :END:
-
-*** 用户登录系统以后能够创建考试                              :REQUIREMENT:
+**** TODO [#A] 服务器支持用户登录                                   :Loki:
+:PROPERTIES:
+:ID:       2255AEB9-F567-47AE-AA69-5E5664F1D354
+:END:
+**** TODO [#A] 登录失败信息合理展现到界面                           :Tony:
+:PROPERTIES:
+:ID:       11BC4180-80C7-459A-B7CF-2728C64E0C18
+:END:
+*** [1/9] 用户能够创建试卷                                    :REQUIREMENT:
 :PROPERTIES:
 :ID:       DB357DA1-51D7-4B1C-8CBD-D2D7A70E3299
+:END:
+**** INPROGRESS [#A] 用户能够初始化已有试卷和题目                   :Loki:
+SCHEDULED: <2020-01-30 Thu>
+:PROPERTIES:
+:ID:       B16E7197-F8FF-4CCA-8649-969FF611BE78
+:END:
+**** TODO [#A] 客户端能够从服务器拉取到试卷和题目                   :Loki:
+:PROPERTIES:
+:ID:       2C43B926-3DA1-4992-A87E-B672DB285F40
 :END:
 **** DONE [#A] 点击创建考试按钮弹出对话框，输入试卷名字后创建试卷   :Tony:
 SCHEDULED: <2020-01-30 Thu>
@@ -86,7 +107,70 @@ SCHEDULED: <2020-01-30 Thu>
 :PROPERTIES:
 :ID:       8D42C628-6672-4BC9-8645-97B647670221
 :END:
-
+**** TODO [#A] 用户能够选择题目添加到正在创建中的考试               :Loki:
+:PROPERTIES:
+:ID:       B8DE0060-D3CB-4291-ADB5-0B7C5FA75CB7
+:END:
+**** TODO [#A] 用户能够将已经添加进去的题目移除                     :Loki:
+:PROPERTIES:
+:ID:       7220D5E2-CAD2-4651-A172-11B0B5F12D45
+:END:
+**** TODO [#A] 用户能够提交试卷为正在进行中的状态                   :Loki:
+:PROPERTIES:
+:ID:       E903398B-0D14-4189-94F8-A075D1B262BA
+:END:
+**** TODO [#A] 服务器支持提交提交试卷并进行保存                     :Loki:
+:PROPERTIES:
+:ID:       BC16A145-01ED-4B0E-8198-D087D74F9126
+:END:
+**** TODO [#A] 创建后的试卷能够提交到服务器保存起来                 :Loki:
+:PROPERTIES:
+:ID:       BD378AF7-2FCF-4C5F-B4A4-5CA32E51760C
+:END:
+*** [0/5] 用户能够提交试卷结果                                :REQUIREMENT:
+:PROPERTIES:
+:ID:       F4D9C673-E472-418E-B45E-12F3E1E42545
+:END:
+**** TODO [#A] 用户能够看到以后试卷的列表并选择指定试卷             :Loki:
+:PROPERTIES:
+:ID:       3ABB15C3-1CFE-49A4-9543-28519847E78C
+:END:
+**** TODO [#A] 用户选择到没有提交答案的试卷能够填写结果并提交       :Loki:
+:PROPERTIES:
+:ID:       32B10469-4F34-42BB-97D1-B809E58D8BBD
+:END:
+**** TODO [#A] 服务器支持保存试卷结果                               :Loki:
+:PROPERTIES:
+:ID:       90068FA4-7B96-4700-97AF-5C97A4F1E7D0
+:END:
+**** TODO [#B] 提交试卷时，如果有没有答案的题目，能在界面上直观的感受到 :Loki:
+:PROPERTIES:
+:ID:       58E0C641-BF4C-432B-B611-836BE1260A60
+:END:
+**** TODO [#B] 选择考试的界面能够分科目展现                         :Loki:
+:PROPERTIES:
+:ID:       E820AFE6-A9BB-4F94-B5A8-92A86A9441BC
+:END:
+*** [0/2] 用户能够下载试卷                                    :REQUIREMENT:
+:PROPERTIES:
+:ID:       4E1F06C3-3307-4602-9C88-5CC1917A8C09
+:END:
+**** TODO 服务器能够生成指定的试卷                                  :Loki:
+:PROPERTIES:
+:ID:       6FD2EFBE-1CC2-4439-863F-BBC9E4C217A9
+:END:
+**** TODO 用户在界面点击下载以后能够从服务器下载到生成的试卷        :Loki:
+:PROPERTIES:
+:ID:       3E09EDE1-784C-4D6B-87EC-269B3581D861
+:END:
+*** 用户能够在系统中看到题目的详情                            :REQUIREMENT:
+:PROPERTIES:
+:ID:       CFF728FD-A6D3-4FEB-B5EC-35BD34540108
+:END:
+*** 用户能够分学期进行操作                                    :REQUIREMENT:
+:PROPERTIES:
+:ID:       8E69FD8E-8D1A-49CA-9EFF-AE6690536015
+:END:
 * 收件箱                                                             :REFINE:
 :PROPERTIES:
 :ID:       886F71D5-00C3-45A7-8377-A9BA83345B42

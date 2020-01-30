@@ -1,7 +1,9 @@
 #+TITLE: 浦东新区第十八届明日科技之星
 :PROPERTIES:
-#+SEQ_TODO: TODO(t) INPROGRESS(p) | DONE(d) ABORT(a@/!)
+#+SEQ_TODO: TODO(t) INPROGRESS(p) WAITTING(w@/!) | DONE(d) ABORT(a@/!)
 #+TAGS:
+#+TAGS: Loki(l) Tony(t)
+#+TAGS: PROJECT(p) REQUIREMENT(r) BUG(b)
 #+STARTUP: logdrawer
 #+STARTUP: content
 #+STARTUP: hidestars
@@ -18,15 +20,16 @@
   1. 科学研究论文
   2. 发明创造作品
 
-* 进度安排 [0/0]
+* 进度安排 [3/8]
 :PROPERTIES:
+:COOKIE_DATA: todo recursive
 :ID:       94D9C407-7170-452C-AC0B-A5E366C0BABB
 :END:
 ** [2/2] 学生网上申报 (2019年12月25日 ~ 2020年1月30日)
 :PROPERTIES:
 :ID:       97C5EC62-EB0E-40B7-AF3F-D8A3D8982634
 :END:
-*** ABORT 经学校审核通过
+**** ABORT 经学校审核通过
 :PROPERTIES:
 :ID:       CA28E005-A726-40AD-98B2-4A89F9994750
 :END:
@@ -34,14 +37,57 @@
 - State "ABORT"      from "TODO"       [2020-01-20 Mon 14:29] \\
   和张老师沟通，没有这个阶段，可以直接网上填报
 :END:
-*** DONE 网上填写《学校推荐表》
+**** DONE 网上填写《学校推荐表》
 DEADLINE: <2020-01-23 Thu>
 :PROPERTIES:
 :ID:       B0DD917A-BA66-4409-81D2-1C792ECBF8B7
 :END:
 
+** [1/6] 开发产品
+:PROPERTIES:
+:COOKIE_DATA: todo recursive
+:ID:       36AD53B7-8197-48B9-9C0F-F20CE2C7D0CB
+:END:
+*** 用户能够注册账号                                          :REQUIREMENT:
+:PROPERTIES:
+:ID:       6EC80689-0B1B-450C-8CB3-A4427FC9A83C
+:END:
+**** INPROGRESS 点击注册按钮能够弹出注册界面                        :Tony:
+:PROPERTIES:
+:ID:       C6EFFE73-C34D-4BCF-A4E8-1A9F70275C61
+:END:
+**** TODO 这册界面能够输入用户名、密码并调用登录接口登录
+:PROPERTIES:
+:ID:       0E3563CB-9A02-40C9-9DD4-E8F9ED3199C3
+:END:
+**** TODO 服务器支持注册接口
+:PROPERTIES:
+:ID:       B6C241BA-7794-4652-8FC0-DE3AB1DB4E65
+:END:
+*** 用户能够登录系统                                          :REQUIREMENT:
+:PROPERTIES:
+:ID:       008BDF35-00DA-4B77-9ABA-4CF12A7A9817
+:END:
+**** TODO [#A] 用户可以在登录界面输入用户名、密码登录               :Tony:
+:PROPERTIES:
+:ID:       48592320-F761-4A50-91FA-9E4567F57894
+:END:
 
-* 收件箱
+*** 用户登录系统以后能够创建考试                              :REQUIREMENT:
+:PROPERTIES:
+:ID:       DB357DA1-51D7-4B1C-8CBD-D2D7A70E3299
+:END:
+**** DONE [#A] 点击创建考试按钮弹出对话框，输入试卷名字后创建试卷   :Tony:
+SCHEDULED: <2020-01-30 Thu>
+:PROPERTIES:
+:ID:       876BFF2D-2577-487F-811A-B3B3AAE0098D
+:END:
+**** TODO [#B] 在创建考试界面能够选择科目                           :Loki:
+:PROPERTIES:
+:ID:       8D42C628-6672-4BC9-8645-97B647670221
+:END:
+
+* 收件箱                                                             :REFINE:
 :PROPERTIES:
 :ID:       886F71D5-00C3-45A7-8377-A9BA83345B42
 :END:

@@ -1006,17 +1006,17 @@ SCHEDULED: <2020-01-21 Tue>
   不需要提交了
 - State "TODO"       from              [2020-01-18 Sat 12:30]
 :END:
-* [0/4] 寒假附加作业
+* [2/6] 寒假附加作业
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :ID:       665C7DA0-1136-4620-B13E-678A06185467
 :END:
-** [1/6] 语文
+** [2/6] 语文
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :ID:       C87F16DC-1041-4855-91AB-C56F2AF04E39
 :END:
-*** [1/3] 语文刷模卷
+*** [2/3] 语文刷模卷
 :PROPERTIES:
 :ID:       A3CD8C46-8900-44FF-9C5C-94CB21A95ADD
 :COOKIE_DATA: todo recursive
@@ -1029,18 +1029,17 @@ SCHEDULED: <2020-01-21 Tue>
 :PROPERTIES:
 :ID:       D1108DE6-281C-41B9-BF1B-7728C4442A19
 :END:
-
-**** [1/2] 模2 《2017年徐汇区中考语文质量抽查试卷》
+**** [2/2] 模2 《2017年徐汇区中考语文质量抽查试卷》
 :PROPERTIES:
 :ID:       07EF5FF2-E031-49D2-8476-46FB8E2CC2C6
 :END:
-***** DONE 11-25题 (40分钟)
-SCHEDULED: <2020-01-31 Fri 14:15-16:15>
+***** DONE 模2 . 2017-徐汇 . 11-25题 (40分钟)
+SCHEDULED: <2020-01-31 Fri 14:15-15:15>
 :PROPERTIES:
 :ID:       8B9491DB-8721-41AA-BD13-774FD79130F9
 :END:
-***** INPROGRESS 作文：这一刻，我很…… (40分钟)
-SCHEDULED: <2020-01-31 Fri>
+***** DONE 模2 . 2017-徐汇 . 作文：这一刻，我很…… (40分钟)
+SCHEDULED: <2020-01-31 Fri 15:15-16:00>
 :PROPERTIES:
 :ID:       F88AFF40-7968-4C86-A619-ED3213DE395F
 :END:

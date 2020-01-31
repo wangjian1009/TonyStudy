@@ -20,12 +20,12 @@
   1. 科学研究论文
   2. 发明创造作品
 
-* 进度安排 [4/25]
+* 进度安排 [9/29]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :ID:       94D9C407-7170-452C-AC0B-A5E366C0BABB
 :END:
-** [2/2] 学生网上申报 (2019年12月25日 ~ 2020年1月30日)
+** [2/3] 学生网上申报 (2019年12月25日 ~ 2020年1月30日)
 :PROPERTIES:
 :ID:       97C5EC62-EB0E-40B7-AF3F-D8A3D8982634
 :END:
@@ -42,14 +42,19 @@ DEADLINE: <2020-01-23 Thu>
 :PROPERTIES:
 :ID:       B0DD917A-BA66-4409-81D2-1C792ECBF8B7
 :END:
-
-** [2/23] 开发产品
+**** TODO 重新完成网上提交
+SCHEDULED: <2020-01-31 Fri>
+:PROPERTIES:
+:ID:       805D293C-36E4-49FD-869F-ADC30011CB9B
+:END:
+** [7/26] 开发产品
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :ID:       36AD53B7-8197-48B9-9C0F-F20CE2C7D0CB
 :END:
 *** [0/4] 用户能够注册账号                                    :REQUIREMENT:
 :PROPERTIES:
+:COOKIE_DATA: todo recursive
 :ID:       6EC80689-0B1B-450C-8CB3-A4427FC9A83C
 :END:
 **** INPROGRESS [#A] 点击注册按钮能够弹出注册界面                   :Tony:
@@ -85,37 +90,35 @@ SCHEDULED: <2020-01-31 Fri>
 :PROPERTIES:
 :ID:       11BC4180-80C7-459A-B7CF-2728C64E0C18
 :END:
-*** [1/9] 用户能够创建试卷                                    :REQUIREMENT:
+*** [5/9] 用户能够创建试卷                                    :REQUIREMENT:
 :PROPERTIES:
 :ID:       DB357DA1-51D7-4B1C-8CBD-D2D7A70E3299
 :END:
-**** INPROGRESS [#A] 用户能够初始化已有试卷和题目                   :Loki:
+**** DONE [#A] 用户能够初始化已有试卷和题目                         :Loki:
 SCHEDULED: <2020-01-30 Thu>
 :PROPERTIES:
 :ID:       B16E7197-F8FF-4CCA-8649-969FF611BE78
-:END:
-**** TODO [#A] 客户端能够从服务器拉取到试卷和题目                   :Loki:
-:PROPERTIES:
-:ID:       2C43B926-3DA1-4992-A87E-B672DB285F40
 :END:
 **** DONE [#A] 点击创建考试按钮弹出对话框，输入试卷名字后创建试卷   :Tony:
 SCHEDULED: <2020-01-30 Thu>
 :PROPERTIES:
 :ID:       876BFF2D-2577-487F-811A-B3B3AAE0098D
 :END:
-**** TODO [#B] 在创建考试界面能够选择科目                           :Loki:
+**** INPROGRESS [#B] 在创建考试界面能够选择科目                     :Tony:
+SCHEDULED: <2020-01-31 Fri>
 :PROPERTIES:
 :ID:       8D42C628-6672-4BC9-8645-97B647670221
 :END:
-**** TODO [#A] 用户能够选择题目添加到正在创建中的考试               :Loki:
+**** DONE [#A] 用户能够选择题目添加到正在创建中的考试               :Loki:
+SCHEDULED: <2020-01-31 Fri>
 :PROPERTIES:
 :ID:       B8DE0060-D3CB-4291-ADB5-0B7C5FA75CB7
 :END:
-**** TODO [#A] 用户能够将已经添加进去的题目移除                     :Loki:
+**** DONE [#A] 用户能够将已经添加进去的题目移除                     :Loki:
 :PROPERTIES:
 :ID:       7220D5E2-CAD2-4651-A172-11B0B5F12D45
 :END:
-**** TODO [#A] 用户能够提交试卷为正在进行中的状态                   :Loki:
+**** DONE [#A] 用户能够提交试卷为正在进行中的状态                   :Loki:
 :PROPERTIES:
 :ID:       E903398B-0D14-4189-94F8-A075D1B262BA
 :END:
@@ -127,15 +130,20 @@ SCHEDULED: <2020-01-30 Thu>
 :PROPERTIES:
 :ID:       BD378AF7-2FCF-4C5F-B4A4-5CA32E51760C
 :END:
-*** [0/5] 用户能够提交试卷结果                                :REQUIREMENT:
+**** TODO [#A] 客户端能够从服务器拉取到试卷和题目                   :Loki:
+:PROPERTIES:
+:ID:       2C43B926-3DA1-4992-A87E-B672DB285F40
+:END:
+*** [1/5] 用户能够提交试卷结果                                :REQUIREMENT:
 :PROPERTIES:
 :ID:       F4D9C673-E472-418E-B45E-12F3E1E42545
 :END:
-**** TODO [#A] 用户能够看到以后试卷的列表并选择指定试卷             :Loki:
+**** DONE [#A] 用户能够看到试卷的列表并选择指定试卷                 :Loki:
 :PROPERTIES:
 :ID:       3ABB15C3-1CFE-49A4-9543-28519847E78C
 :END:
-**** TODO [#A] 用户选择到没有提交答案的试卷能够填写结果并提交       :Loki:
+**** INPROGRESS [#A] 用户选择到没有提交答案的试卷能够填写结果并提交 :Loki:
+SCHEDULED: <2020-01-31 Fri>
 :PROPERTIES:
 :ID:       32B10469-4F34-42BB-97D1-B809E58D8BBD
 :END:
@@ -162,6 +170,26 @@ SCHEDULED: <2020-01-30 Thu>
 **** TODO 用户在界面点击下载以后能够从服务器下载到生成的试卷        :Loki:
 :PROPERTIES:
 :ID:       3E09EDE1-784C-4D6B-87EC-269B3581D861
+:END:
+*** [0/3] 用户体验严重问题
+:PROPERTIES:
+:ID:       F8444463-9444-46A7-AFEC-2AC42AA9D6F6
+:END:
+**** TODO 问题列表能够滑动                                           :BUG:
+:PROPERTIES:
+:ID:       3A2F1EAF-36F5-4D41-AB45-C2A9B752F88E
+:END:
+**** TODO 没有任何问题的试卷不允许创建完成                           :BUG:
+:PROPERTIES:
+:ID:       3B81F53E-C44D-414E-B49B-7FCCEF54A1D8
+:END:
+**** TODO 有没有答案的试卷不允许提交                                 :BUG:
+:PROPERTIES:
+:ID:       91EA581B-3535-4D14-B640-6B84C66B9155
+:END:
+*** [#C] 用户清楚的在界面上看到试卷的状态                     :REQUIREMENT:
+:PROPERTIES:
+:ID:       4AF789F3-EA8B-4101-BB6F-927A16C38BC8
 :END:
 *** 用户能够在系统中看到题目的详情                            :REQUIREMENT:
 :PROPERTIES:

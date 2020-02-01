@@ -20,12 +20,12 @@
   1. 科学研究论文
   2. 发明创造作品
 
-* 进度安排 [9/29]
+* 进度安排 [11/29]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :ID:       94D9C407-7170-452C-AC0B-A5E366C0BABB
 :END:
-** [2/3] 学生网上申报 (2019年12月25日 ~ 2020年1月30日)
+** [3/3] 学生网上申报 (2019年12月25日 ~ 2020年1月30日)
 :PROPERTIES:
 :ID:       97C5EC62-EB0E-40B7-AF3F-D8A3D8982634
 :END:
@@ -42,12 +42,12 @@ DEADLINE: <2020-01-23 Thu>
 :PROPERTIES:
 :ID:       B0DD917A-BA66-4409-81D2-1C792ECBF8B7
 :END:
-**** TODO 重新完成网上提交
+**** DONE 重新完成网上提交
 SCHEDULED: <2020-01-31 Fri>
 :PROPERTIES:
 :ID:       805D293C-36E4-49FD-869F-ADC30011CB9B
 :END:
-** [7/26] 开发产品
+** [8/26] 开发产品
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :ID:       36AD53B7-8197-48B9-9C0F-F20CE2C7D0CB
@@ -171,11 +171,11 @@ SCHEDULED: <2020-01-31 Fri>
 :PROPERTIES:
 :ID:       3E09EDE1-784C-4D6B-87EC-269B3581D861
 :END:
-*** [0/3] 用户体验严重问题
+*** [1/3] 用户体验严重问题
 :PROPERTIES:
 :ID:       F8444463-9444-46A7-AFEC-2AC42AA9D6F6
 :END:
-**** TODO 问题列表能够滑动                                           :BUG:
+**** DONE 问题列表能够滑动                                           :BUG:
 :PROPERTIES:
 :ID:       3A2F1EAF-36F5-4D41-AB45-C2A9B752F88E
 :END:

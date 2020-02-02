@@ -1008,7 +1008,7 @@ SCHEDULED: <2020-01-21 Tue>
   不需要提交了
 - State "TODO"       from              [2020-01-18 Sat 12:30]
 :END:
-* [8/31] 寒假附加作业
+* [8/34] 寒假附加作业
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :ID:       665C7DA0-1136-4620-B13E-678A06185467

@@ -47,7 +47,7 @@ SCHEDULED: <2020-01-31 Fri>
 :PROPERTIES:
 :ID:       805D293C-36E4-49FD-869F-ADC30011CB9B
 :END:
-** [8/26] 开发产品
+** [10/26] 开发产品
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :ID:       36AD53B7-8197-48B9-9C0F-F20CE2C7D0CB
@@ -90,7 +90,7 @@ SCHEDULED: <2020-01-31 Fri>
 :PROPERTIES:
 :ID:       11BC4180-80C7-459A-B7CF-2728C64E0C18
 :END:
-*** [5/9] 用户能够创建试卷                                    :REQUIREMENT:
+*** [6/9] 用户能够创建试卷                                    :REQUIREMENT:
 :PROPERTIES:
 :ID:       DB357DA1-51D7-4B1C-8CBD-D2D7A70E3299
 :END:
@@ -104,7 +104,7 @@ SCHEDULED: <2020-01-30 Thu>
 :PROPERTIES:
 :ID:       876BFF2D-2577-487F-811A-B3B3AAE0098D
 :END:
-**** INPROGRESS [#B] 在创建考试界面能够选择科目                     :Tony:
+**** DONE [#B] 在创建考试界面能够选择科目                           :Tony:
 SCHEDULED: <2020-01-31 Fri>
 :PROPERTIES:
 :ID:       8D42C628-6672-4BC9-8645-97B647670221
@@ -134,7 +134,7 @@ SCHEDULED: <2020-01-31 Fri>
 :PROPERTIES:
 :ID:       2C43B926-3DA1-4992-A87E-B672DB285F40
 :END:
-*** [1/5] 用户能够提交试卷结果                                :REQUIREMENT:
+*** [2/5] 用户能够提交试卷结果                                :REQUIREMENT:
 :PROPERTIES:
 :ID:       F4D9C673-E472-418E-B45E-12F3E1E42545
 :END:
@@ -142,7 +142,7 @@ SCHEDULED: <2020-01-31 Fri>
 :PROPERTIES:
 :ID:       3ABB15C3-1CFE-49A4-9543-28519847E78C
 :END:
-**** INPROGRESS [#A] 用户选择到没有提交答案的试卷能够填写结果并提交 :Loki:
+**** DONE [#A] 用户选择到没有提交答案的试卷能够填写结果并提交       :Loki:
 SCHEDULED: <2020-01-31 Fri>
 :PROPERTIES:
 :ID:       32B10469-4F34-42BB-97D1-B809E58D8BBD

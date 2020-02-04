@@ -10,34 +10,88 @@
 :END:
 
 * 时间安排
+:PROPERTIES:
+:ID:       E64BD454-DD8D-4C0F-AE80-AE7D3A14B833
+:END:
 1. 英语 08:00 - 10:00
 2. 数学 10:00 - 12:00
 3. 物理 13:00 - 15:00
 4. 语文 15:00 - 17:00
 
 * 讲义
+:PROPERTIES:
+:ID:       1F141C97-386C-4B12-9B82-E24553B1C6B0
+:END:
 ** 语文
+:PROPERTIES:
+:ID:       F4C69362-B517-406E-822F-1F8E6353F15C
+:END:
 *** [[./寒春课程/讲义-语文-01.pdf][第一讲]]
+:PROPERTIES:
+:ID:       48267B81-7C2B-44DB-8117-4C99CA3C0034
+:END:
 ** 数学
+:PROPERTIES:
+:ID:       C8DDC309-22EA-4E62-B093-F621795F921F
+:END:
 *** [[./寒春课程/讲义-数学-01 相交线.pdf][第一讲 相交线]]
+:PROPERTIES:
+:ID:       CFE4D2A9-68B3-41C2-8F6D-F3AF24760C00
+:END:
 ** 英语
+:PROPERTIES:
+:ID:       B9B5551B-11DA-4E0C-BAB7-EC31DEA31C25
+:END:
 *** [[./寒春课程/讲义-英语-01.pdf][第一讲]]
+:PROPERTIES:
+:ID:       124B9DF8-57B3-4040-8BCE-5FA81A7C851A
+:END:
 ** 物理
+:PROPERTIES:
+:ID:       DBC3981A-0A02-48DA-A534-0062FD9003CD
+:END:
 *** [[./寒春课程/讲义-物理-01 4-1-3 杠杆平衡的条件.pdf][4-1-3 杠杆平衡的条件]]
+:PROPERTIES:
+:ID:       4E385A4E-A69F-4317-8810-712DEBEDE749
+:END:
 *** [[./寒春课程/讲义-物理-03 4-1-4 杠杆的应用.pdf][4-1-4 杠杆的应用]]
+:PROPERTIES:
+:ID:       E7BD9596-3F7D-4963-81D5-BF981B5864F2
+:END:
 *** [[./寒春课程/讲义-物理-02 4-1-5 滑轮.pdf][4-1-5 滑轮]]
+:PROPERTIES:
+:ID:       C45B7096-7D0B-4410-8E8F-1CAB99E714CD
+:END:
 * [0/15] 课程安排
+:PROPERTIES:
+:ID:       9452EADB-CB14-4EEA-9371-6C0503532522
+:END:
 ** [0/4] X7寒春 - 1
 :PROPERTIES:
 :ID:       94055A23-4A9E-47E3-97A7-35880B3BA983
 :END:
-*** TODO [[./寒春课程/讲义-语文-01.pdf][预习语文讲义]]
+*** INPROGRESS [[./寒春课程/讲义-语文-01.pdf][预习语文讲义]]
 SCHEDULED: <2020-02-04 Tue>
-*** TODO [[./寒春课程/讲义-英语-01.pdf][预习英语讲义]]
+:PROPERTIES:
+:ID:       3B9DE189-B52F-43DD-AC3C-EBECDAE11B80
+:END:
+*** INPROGRESS X7 - 预习 - 英语 - 01
 SCHEDULED: <2020-02-04 Tue>
-*** TODO [[./寒春课程/讲义-数学-01 相交线.pdf][预习数学讲义]]
+:PROPERTIES:
+:ID:       72103301-01E7-437D-92BF-0CC5C4624E0B
+:END:
+[[https://github.com/wangjian1009/TonyStudy/raw/master/external/X7/寒春课程/讲义-英语-01.pdf][讲义下载]]
+*** INPROGRESS X7 - 预习 - 数学 - 01
 SCHEDULED: <2020-02-04 Tue>
-*** TODO [[./寒春课程/讲义-物理-01 4-1-3 杠杆平衡的条件.pdf][预习物理讲义]]
+:PROPERTIES:
+:ID:       6731AC4E-A157-4D10-B894-56B30170C2E6
+:END:
+[[https://github.com/wangjian1009/TonyStudy/raw/master/external/X7/寒春课程/讲义-数学-01%20相交线.pdf][讲义下载]]
+*** INPROGRESS [[./寒春课程/讲义-物理-01 4-1-3 杠杆平衡的条件.pdf][预习物理讲义]]
+SCHEDULED: <2020-02-04 Tue>
+:PROPERTIES:
+:ID:       A29536C3-7515-4DDD-83EB-09BBD3454D53
+:END:
 ** TODO X7寒春 - 2
 :PROPERTIES:
 :ID:       B1ADC318-F73E-4FBC-9B09-0B1735E2B998

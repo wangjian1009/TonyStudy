@@ -1008,17 +1008,17 @@ SCHEDULED: <2020-01-21 Tue>
   不需要提交了
 - State "TODO"       from              [2020-01-18 Sat 12:30]
 :END:
-* [11/34] 寒假附加作业
+* [19/38] 寒假附加作业
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :ID:       665C7DA0-1136-4620-B13E-678A06185467
 :END:
-** [11/34] 语文
+** [14/35] 语文
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :ID:       C87F16DC-1041-4855-91AB-C56F2AF04E39
 :END:
-*** [5/19] 每日背诵打卡
+*** [6/17] 每日背诵打卡
 :PROPERTIES:
 :ID:       5FBB0242-B534-4B8C-8DDA-FEFDDFE507D0
 :END:
@@ -1047,25 +1047,15 @@ SCHEDULED: <2020-02-02 Sun 10:15-10:45>
 :PROPERTIES:
 :ID:       E8260E46-B11D-4201-AD79-4062D554C518
 :END:
-**** INPROGRESS 背诵打卡 [[七下课内 20课-1《登幽州台歌》][《登幽州台歌》]]
-SCHEDULED: <2020-02-03 Mon>
+**** DONE 背诵打卡[[七下课内 20课-1《登幽州台歌》][《登幽州台歌》]][[七下课内 20课-2《望岳》][《望岳》]]
+SCHEDULED: <2020-02-03 Mon 18:15-19:00>
 :PROPERTIES:
 :ID:       A9CB5450-7455-4AED-BD50-060B14BF2047
 :END:
-**** TODO 背诵打卡 2.1.4.7
+**** INPROGRESS 背诵打卡 《登飞来峰》 (See section 2.1.4.8)《游山西村》 (See section 2.1.4.9)
 SCHEDULED: <2020-02-04 Tue>
 :PROPERTIES:
-:ID:       7F3FC195-CBD2-418E-84B0-4498609301EC
-:END:
-**** TODO 背诵打卡 [[七下课内 20课-3《登飞来峰》]]
-SCHEDULED: <2020-02-05 Wed>
-:PROPERTIES:
 :ID:       4BD5EEEA-31D7-43D6-BD1C-955DFDD0E117
-:END:
-**** TODO 背诵打卡 [[七下课内 20课-4《游山西村》]]
-SCHEDULED: <2020-02-06 Thu>
-:PROPERTIES:
-:ID:       9BE88595-011C-4CAC-A459-81266D5FA1B6
 :END:
 **** TODO 背诵打卡 [[七下课内 20课-5《己亥杂诗（其五）》]]
 SCHEDULED: <2020-02-07 Fri>
@@ -1117,7 +1107,7 @@ SCHEDULED: <2020-02-16 Sun>
 :PROPERTIES:
 :ID:       76F88788-A0DD-431E-9980-6792FB7BC692
 :END:
-*** [7/11] 语文刷模卷
+*** [11/13] 语文刷模卷
 :PROPERTIES:
 :ID:       A3CD8C46-8900-44FF-9C5C-94CB21A95ADD
 :COOKIE_DATA: todo recursive
@@ -1126,18 +1116,22 @@ SCHEDULED: <2020-02-16 Sun>
 - 现代文阅读
 - 课外文言文
 - 综合运用
-**** [0/2] 二模 《2017年闵行区中考语文质量抽查试卷》
+**** [2/2] 二模 《2017年闵行区中考语文质量抽查试卷》
 :PROPERTIES:
 :ID:       D1108DE6-281C-41B9-BF1B-7728C4442A19
 :END:
-***** INPROGRESS 二模 . 2017-闵行 . 11-27题 (40分钟)
-SCHEDULED: <2020-02-03 Mon>
+***** DONE 二模 . 2017-闵行 . 11-27题 (40分钟)
+SCHEDULED: <2020-02-03 Mon 14:30-15:30>
 :PROPERTIES:
 :ID:       EFA1400D-5E51-4EE4-95AE-E4E4108D81F0
 :END:
-***** TODO 二模 . 2017-闵行 . 作文: 渐渐的，我理解了…… (40分钟)
+***** DONE 二模 . 2017-闵行 . 作文: 渐渐的，我理解了…… (40分钟)
 :PROPERTIES:
-:ID:       F4EC91D9-3238-4550-BB47-F65E8C01B986
+:ID:       1CF536E5-A4A0-4888-8BD5-B45B825D82AF
+:END:
+<2020-02-03 Mon 16:45-17:45>
+:PROPERTIES:
+:ID:       216DF7A0-467E-11EA-9BDF-79EF9AA810F2
 :END:
 写作提醒🔔1、理解了什么；2、通过什么理解；3、写出过程性“渐渐地”；4、原先可能不“理解”，还要有对比性
 **** [2/2] 二模 《2017年徐汇区中考语文质量抽查试卷》
@@ -1197,21 +1191,40 @@ SCHEDULED: <2020-02-02 Sun 16:30-17:00>
 :PROPERTIES:
 :ID:       28547413-33B8-4EDF-9AA4-BF4DDA5F6AFD
 :END:
-**** [0/2] 二模 《2017年杨浦区中考语文二模试卷》
+**** [2/2] 二模 《2017年杨浦区中考语文二模试卷》
 :PROPERTIES:
 :ID:       E58F99A1-CF11-4573-BAD5-2B721CD0E417
 :END:
-***** INPROGRESS 二模 . 2017-杨浦 . 11-26题 (40分钟)
-SCHEDULED: <2020-02-03 Mon>
+***** DONE 二模 . 2017-杨浦 . 11-26题 (40分钟)
+SCHEDULED: <2020-02-03 Mon 09:45-10:45>
 :PROPERTIES:
 :ID:       34F4CFCA-9498-40D6-A739-2CD422561A23
 :END:
-***** INPROGRESS 二模 . 2017-杨浦 . 作文: 心中的那一丝牵挂 (40分钟)
-SCHEDULED: <2020-02-03 Mon>
+***** DONE 二模 . 2017-杨浦 . 作文: 心中的那一丝牵挂 (40分钟)
+SCHEDULED: <2020-02-03 Mon 10:45-11:45>
 :PROPERTIES:
 :ID:       14F7D752-FC81-43AC-9C51-8259944966B4
 :END:
 写作提醒🔔疫情当前，结合自己亲身经历、感受，重点写好“牵挂”，注意详略，多用描写，记得多分段，多点题，变化点题。
+**** [0/2] 二模 《2017年黄埔区中考语文二模试卷》
+:PROPERTIES:
+:ID:       5A793D7C-8708-4CF7-8A15-1D3673985DE3
+:END:
+***** INPROGRESS 二模 . 2017-黄埔 . 11-26题 (40分钟)
+SCHEDULED: <2020-02-04 Tue>
+:PROPERTIES:
+:ID:       7CB3F430-BC56-480C-B3CC-F7FA4D140BC5
+:END:
+***** INPROGRESS 二模 . 2017-黄埔 . 作文: 天晴了，真好 (40分钟)
+SCHEDULED: <2020-02-04 Tue>
+:PROPERTIES:
+:ID:       C4EA367D-20D0-4BF3-8E1B-EDEC11AFC28C
+:END:
+写作提醒
+1. 注意作文题目中的标点符号逗号，“天晴了”写好内在含义，“好”在哪里，这是主旨；
+2. 结合自己亲身经历、感受，改写前一天作文；
+3. 注意详略，记得多分段，多点题，变化点题。
+今天还是需要关注议论文阅读，连续第二篇了。
 *** [0/3] 准备三篇作文
 :PROPERTIES:
 :ID:       DF020F92-0D14-4A4A-B1F8-F1553DB6879C
@@ -1228,12 +1241,12 @@ SCHEDULED: <2020-02-03 Mon>
 :PROPERTIES:
 :ID:       9198F043-61C0-40D8-9023-3A990A2979ED
 :END:
-*** [1/4] 日常阅读
+*** [2/4] 日常阅读
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :ID:       73D94837-94D1-4A7A-908D-7C57895C2C49
 :END:
-**** [1/4] 《80天环游世界》
+**** [2/4] 《80天环游世界》
 :PROPERTIES:
 :ID:       D1769DF8-EE8A-420E-A404-7FB43AEE4FFB
 :END:
@@ -1242,12 +1255,12 @@ SCHEDULED: <2020-02-02 Sun 15:15-16:15>
 :PROPERTIES:
 :ID:       618A4935-57CD-4499-9D74-0E39ECB7D261
 :END:
-***** INPROGRESS 《80天环游世界》4-2
-SCHEDULED: <2020-02-03 Mon>
+***** DONE 《80天环游世界》4-2
+SCHEDULED: <2020-02-03 Mon 13:15-14:15>
 :PROPERTIES:
 :ID:       F937C4C5-B411-49A0-AD0C-341542836DA4
 :END:
-***** TODO 《80天环游世界》4-3
+***** INPROGRESS 《80天环游世界》4-3
 SCHEDULED: <2020-02-04 Tue>
 :PROPERTIES:
 :ID:       78098BE6-6148-4E19-8457-E67887165F30
@@ -1257,7 +1270,10 @@ SCHEDULED: <2020-02-05 Wed>
 :PROPERTIES:
 :ID:       37FAD5D8-90A4-4C7D-8863-A1CDA7AD5771
 :END:
-* [21/29] 寒假英语
+** [0/1] 英语磨耳朵
+*** INPROGRESS 安装注册“流利说”APP，并完成自测
+SCHEDULED: <2020-02-04 Tue>
+* [23/29] 寒假英语
 :PROPERTIES:
 :ID:       D4D973B9-9721-4DC8-A085-901C2FB424E9
 :END:
@@ -1266,8 +1282,8 @@ SCHEDULED: <2020-02-09 Sun 09:30-10:00>
 :PROPERTIES:
 :ID:       9D4F63C8-A7FB-4D5F-BC15-57CF7985515B
 :END:
-** INPROGRESS 主修课 5.5.12 展示项目成果
-SCHEDULED: <2020-02-03 Mon>
+** DONE 主修课 5.5.12 展示项目成果
+SCHEDULED: <2020-02-03 Mon 13:45-14:15>
 :PROPERTIES:
 :ID:       3A5F27F3-AAB0-4922-B89D-8B5E018AD080
 :END:
@@ -1291,13 +1307,13 @@ SCHEDULED: <2020-02-05 Wed 09:30-10:00>
 :PROPERTIES:
 :ID:       5D09BA6B-AA4B-4E28-9CCB-252D16143667
 :END:
-** TODO 主修课 5.5.7 - Plants we use to make things
+** INPROGRESS 主修课 5.5.7 - Plants we use to make things
 SCHEDULED: <2020-02-04 Tue 09:30-10:00>
 :PROPERTIES:
 :ID:       A6D23550-8A69-4582-AEE2-1FFD5AC009F5
 :END:
-** INPROGRESS 主修课 5.5.6 - Learning Cycle 1 Assessment
-SCHEDULED: <2020-02-03 Mon 16:00-16:30>
+** DONE 主修课 5.5.6 - Learning Cycle 1 Assessment
+SCHEDULED: <2020-02-03 Mon 15:45-16:15>
 :PROPERTIES:
 :ID:       07A70327-C1B1-4BEE-B2D4-6BF30BFA7500
 :END:

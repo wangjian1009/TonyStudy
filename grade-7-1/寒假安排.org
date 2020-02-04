@@ -1008,7 +1008,7 @@ SCHEDULED: <2020-01-21 Tue>
   不需要提交了
 - State "TODO"       from              [2020-01-18 Sat 12:30]
 :END:
-* [19/38] 寒假附加作业
+* [19/39] 寒假附加作业
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :ID:       665C7DA0-1136-4620-B13E-678A06185467
@@ -1279,6 +1279,12 @@ SCHEDULED: <2020-02-05 Wed>
 :PROPERTIES:
 :ID:       F9C940A5-BA9D-49B4-90FA-2D9C24B7D462
 :END:
+** INPROGRESS 每日篮球训练
+SCHEDULED: <2020-02-04 Tue 19:00-19:30 +1d>
+1. 每日饭后40分钟
+2. 2个球感练习和2个体能训练
+3. 录屏并上传打卡
+
 * [23/29] 寒假英语
 :PROPERTIES:
 :ID:       D4D973B9-9721-4DC8-A085-901C2FB424E9

@@ -29,7 +29,7 @@ DEADLINE: <2020-02-03 Mon>
 :ID:       BD4DE3F6-A904-4110-A745-F01FC0FCFAF0
 :END:
 ** 2月10日 - 英语第四次上传书面作业
-DEADLINE: <2020-02-10 Mon>
+DEADLINE: <2020-02-10 Mon 18:45-19:00>
 :PROPERTIES:
 :ID:       4442725C-C914-4CF3-AA1A-EDE89ADF0753
 :END:
@@ -1008,17 +1008,17 @@ SCHEDULED: <2020-01-21 Tue>
   不需要提交了
 - State "TODO"       from              [2020-01-18 Sat 12:30]
 :END:
-* [31/46] 寒假附加作业
+* [36/50] 寒假附加作业
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :ID:       665C7DA0-1136-4620-B13E-678A06185467
 :END:
-** [30/46] 语文
+** [45/53] 语文
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :ID:       C87F16DC-1041-4855-91AB-C56F2AF04E39
 :END:
-*** [9/19] 每日背诵打卡
+*** [14/19] 每日背诵打卡
 :PROPERTIES:
 :ID:       5FBB0242-B534-4B8C-8DDA-FEFDDFE507D0
 :END:
@@ -1067,28 +1067,28 @@ SCHEDULED: <2020-02-06 Thu 09:45-10:45>
 :PROPERTIES:
 :ID:       CA49D5C8-47B8-483B-846E-43086D819E19
 :END:
-**** INPROGRESS 背诵打卡 [[七下课内 20课-5《己亥杂诗（其五）》]]
-SCHEDULED: <2020-02-07 Fri>
+**** DONE 背诵打卡 [[七下课内 20课-5《己亥杂诗（其五）》]]
+SCHEDULED: <2020-02-07 Fri 17:00-17:45>
 :PROPERTIES:
 :ID:       3373702D-10E9-4FCF-AD28-472306FD00DB
 :END:
-**** TODO 背诵打卡 [[七下课内 24课《河中石兽》]]
-SCHEDULED: <2020-02-08 Sat>
+**** DONE 背诵打卡 [[七下课内 24课《河中石兽》]]
+SCHEDULED: <2020-02-08 Sat 13:45-14:00>
 :PROPERTIES:
 :ID:       370B75B3-6E15-43FC-93D4-D4B9DBA7B44A
 :END:
-**** TODO 背诵打卡 [[七下课外古诗词诵读 第三单元-1 《竹里馆》]]
-SCHEDULED: <2020-02-09 Sun>
+**** DONE 背诵打卡 [[七下课外古诗词诵读 第三单元-1 《竹里馆》]]
+SCHEDULED: <2020-02-09 Sun 17:45-18:15>
 :PROPERTIES:
 :ID:       B6043839-A623-4D87-BEFB-564AFFB7769C
 :END:
-**** TODO 背诵打卡 [[七下课外古诗词诵读 第三单元-2 《春夜洛城闻笛》]]
-SCHEDULED: <2020-02-10 Mon>
+**** DONE 背诵打卡 [[七下课外古诗词诵读 第三单元-2 《春夜洛城闻笛》]]
+SCHEDULED: <2020-02-10 Mon 18:15-18:45>
 :PROPERTIES:
 :ID:       D75AC9AD-56D6-4BBC-84AB-B950F40944DB
 :END:
-**** TODO 背诵打卡 [[七下课外古诗词诵读 第三单元-3 《逢入京使》]]
-SCHEDULED: <2020-02-11 Tue>
+**** DONE 背诵打卡 [[七下课外古诗词诵读 第三单元-3 《逢入京使》]]
+SCHEDULED: <2020-02-11 Tue 10:55-11:10>
 :PROPERTIES:
 :ID:       2D96536D-BE42-41AB-9B47-E870D7205097
 :END:
@@ -1117,7 +1117,7 @@ SCHEDULED: <2020-02-16 Sun>
 :PROPERTIES:
 :ID:       76F88788-A0DD-431E-9980-6792FB7BC692
 :END:
-*** [17/20] 语文刷模卷
+*** [27/27] 语文刷模卷
 :PROPERTIES:
 :ID:       A3CD8C46-8900-44FF-9C5C-94CB21A95ADD
 :END:
@@ -1234,7 +1234,7 @@ SCHEDULED: <2020-02-04 Tue 12:45-13:30>
 2. 结合自己亲身经历、感受，改写前一天作文；
 3. 注意详略，记得多分段，多点题，变化点题。
 今天还是需要关注议论文阅读，连续第二篇了。
-**** [2/3] 二模 . 2017-崇明
+**** [2/2] 二模 . 2017-崇明
 :PROPERTIES:
 :ID:       35901763-EE32-4C0D-861A-3ADCBFE97358
 :END:
@@ -1253,12 +1253,6 @@ SCHEDULED: <2020-02-05 Wed 10:45-11:30>
 1. 注意审题：相遇，与谁或什么相遇，相遇了发生什么改变……；
 2. 结合自己亲身经历、感受，表达真情实感；
 3. 注意详略，记得多分段，多点题，变化点题。
-***** INPROGRESS 议论文阅读回顾小结
-SCHEDULED: <2020-02-05 Wed>
-:PROPERTIES:
-:ID:       4DF9699D-BA19-4B6C-8BE4-2ACB05758FEB
-:END:
-今天还是需要关注议论文阅读，连续第三篇了，记得回顾小结哦，可以尝试梳理议论文解题方法（建议模仿说明文阅读）。
 **** [2/2] 二模 . 2017-普陀
 :PROPERTIES:
 :ID:       5B4E671C-62B7-42B0-A7A8-2C275EE768BE
@@ -1277,19 +1271,19 @@ SCHEDULED: <2020-02-06 Thu 13:00-13:45>
 1、此题与“难忘”相通；
 2、结合自己亲身经历、感受，表达真情实感；
 3、注意详略，记得多分段，多点题，变化点题。
-**** [0/2] 二模 . 2017-静安
+**** [2/2] 二模 . 2017-静安
 :PROPERTIES:
 :ID:       C6032FC5-EBBB-4704-B01B-308C92F0F2C7
 :END:
-***** TODO 二模 . 2017-静安 . 11-25题 (40分钟)
-SCHEDULED: <2020-02-07 Fri>
+***** DONE 二模 . 2017-静安 . 11-25题 (40分钟)
+SCHEDULED: <2020-02-07 Fri 10:00-10:45>
 :PROPERTIES:
 :ID:       6B47026F-EBC7-4EF8-A9F6-C420A4E6AC87
 :END:
 今天的说明文阅读，希望得满分。
 
-***** TODO 二模 . 2017-静安 . 作文: 答案 (40分钟)
-SCHEDULED: <2020-02-07 Fri>
+***** DONE 二模 . 2017-静安 . 作文: 答案 (40分钟)
+SCHEDULED: <2020-02-07 Fri 10:45-11:30>
 :PROPERTIES:
 :ID:       08390F2C-CB66-4A75-857C-A883CAFE7134
 :END:
@@ -1298,6 +1292,38 @@ SCHEDULED: <2020-02-07 Fri>
 2. 选材，结合自己亲身经历、感受，这并不难写；
 3. 注意详略，记得多分段，多点题，变化点题。
 
+**** [2/2] 二模 . 2017-松江
+:PROPERTIES:
+:ID:       D18B319A-F209-4C46-B744-F7BE442DC578
+:END:
+***** DONE 二模 . 2017-松江 . 11-26题 (40分钟)
+SCHEDULED: <2020-02-08 Sat 10:45-11:30>
+:PROPERTIES:
+:ID:       9490C239-003F-41E3-BA95-E26A45C76524
+:END:
+***** DONE 二模 . 2017-松江 . 作文: 它（他、她）开阔了我的视野 (40分钟)
+SCHEDULED: <2020-02-08 Sat 10:00-10:45>
+:PROPERTIES:
+:ID:       0E0CE971-9D8A-4412-8F5E-CB5617B1B494
+:END:
+1. 这篇作文和前面两篇都可以用阅读题材来写；
+2. 选材，结合自己亲身经历、感受，这并不难写；
+3. 注意详略，记得多分段，多点题，变化点题。a
+**** [2/2] 二模 . 2017-宝山
+***** DONE 二模 . 2017-宝山 . 11-26题 (40分钟)
+SCHEDULED: <2020-02-09 Sun 09:45-10:30>
+***** DONE 二模 . 2017-宝山 . 作文: 承诺 (40分钟)
+SCHEDULED: <2020-02-09 Sun 10:30-11:30>
+**** [2/2] 二模 . 2017-嘉定
+***** DONE 二模 . 2017-嘉定 . 11-26题
+SCHEDULED: <2020-02-10 Mon 09:15-10:15>
+***** DONE 二模 . 2017-嘉定 . 作文: 那天，我许下一个心愿（选写）
+SCHEDULED: <2020-02-10 Mon 10:15-11:00>
+**** [2/2] 二模 . 2017-浦东
+***** DONE 二模 . 2017-浦东 . 题目
+SCHEDULED: <2020-02-11 Tue 08:55-09:20>
+***** DONE 二模 . 2017-浦东 . 作文
+SCHEDULED: <2020-02-11 Tue 10:10-10:55>
 *** [0/3] 准备三篇作文
 :PROPERTIES:
 :ID:       DF020F92-0D14-4A4A-B1F8-F1553DB6879C
@@ -1352,13 +1378,14 @@ SCHEDULED: <2020-02-05 Wed 20:00-20:30>
 :PROPERTIES:
 :ID:       F9C940A5-BA9D-49B4-90FA-2D9C24B7D462
 :END:
-** INPROGRESS 每日篮球训练
-SCHEDULED: <2020-02-07 Fri 19:00-19:30 +1d>
+** TODO 每日篮球训练
+SCHEDULED: <2020-02-08 Sat 19:00-19:30 +1d>
 :PROPERTIES:
 :ID:       2B6120E7-4F3A-4D12-98E9-4B678FC5AEF4
-:LAST_REPEAT: [2020-02-06 Thu 22:17]
+:LAST_REPEAT: [2020-02-11 Tue 15:32]
 :END:
 :LOGBOOK:
+- State "DONE"       from "INPROGRESS" [2020-02-11 Tue 15:32]
 - State "DONE"       from "TODO"       [2020-02-06 Thu 22:17]
 - State "DONE"       from "INPROGRESS" [2020-02-05 Wed 21:44]
 - State "DONE"       from "INPROGRESS" [2020-02-05 Wed 07:31]
@@ -1367,7 +1394,7 @@ SCHEDULED: <2020-02-07 Fri 19:00-19:30 +1d>
 2. 2个球感练习和2个体能训练
 3. 录屏并上传打卡
 
-* [27/39] 寒假英语
+* [33/39] 寒假英语
 :PROPERTIES:
 :ID:       D4D973B9-9721-4DC8-A085-901C2FB424E9
 :END:
@@ -1396,27 +1423,27 @@ SCHEDULED: <2020-02-13 Thu 09:30-10:00>
 :PROPERTIES:
 :ID:       574B888F-2402-4056-B05E-7386280DDBEA
 :END:
-** TODO 主修课 5.6.3 - Birth Relations
+** INPROGRESS 主修课 5.6.3 - Birth Relations
 SCHEDULED: <2020-02-12 Wed 09:30-10:00>
 :PROPERTIES:
 :ID:       EB87678F-AF39-46AB-AE18-EC1D31193EBA
 :END:
-** TODO 主修课 5.6.2 - Birth Relations
+** DONE 主修课 5.6.2 - Birth Relations
 SCHEDULED: <2020-02-11 Tue 09:30-10:00>
 :PROPERTIES:
 :ID:       A1E7E065-42F0-4794-A35F-69FE9ADE91C7
 :END:
-** TODO 主修课 5.6.1 - Birth Relations
+** DONE 主修课 5.6.1 - Birth Relations
 SCHEDULED: <2020-02-10 Mon 15:00-15:30>
 :PROPERTIES:
 :ID:       1FCB3C3D-BFAE-4052-AE24-EA2ABBE7AF62
 :END:
-** TODO 精品公开课 66-5 - Why Do Camels Have Humps? 驼峰之迷
-SCHEDULED: <2020-02-09 Sun 18:30>
+** DONE 精品公开课 66-5 - Why Do Camels Have Humps? 驼峰之迷
+SCHEDULED: <2020-02-09 Sun 18:30-19:00>
 :PROPERTIES:
 :ID:       90F2D1D7-99FB-41AD-B0C0-2B97415029A7
 :END:
-** TODO 主修课 5.5.12 - Learning Cycle 2 Assessment
+** DONE 主修课 5.5.12 - Learning Cycle 2 Assessment
 SCHEDULED: <2020-02-09 Sun 09:30-10:00>
 :PROPERTIES:
 :ID:       9D4F63C8-A7FB-4D5F-BC15-57CF7985515B
@@ -1426,12 +1453,12 @@ SCHEDULED: <2020-02-03 Mon 13:45-14:15>
 :PROPERTIES:
 :ID:       3A5F27F3-AAB0-4922-B89D-8B5E018AD080
 :END:
-** TODO 主修课 5.5.11 - Plants we use to make things
+** DONE 主修课 5.5.11 - Plants we use to make things
 SCHEDULED: <2020-02-08 Sat 09:30-10:00>
 :PROPERTIES:
 :ID:       983D3682-BEB4-42B6-830C-ECE62B2FDB7F
 :END:
-** INPROGRESS 主修课 5.5.10 - Plants we use to make things
+** DONE 主修课 5.5.10 - Plants we use to make things
 SCHEDULED: <2020-02-07 Fri 09:30-10:00>
 :PROPERTIES:
 :ID:       210BCADD-FFBA-4D88-BFEE-4DC1BC848D36

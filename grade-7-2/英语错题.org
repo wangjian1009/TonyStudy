@@ -1,0 +1,527 @@
+#+TITLE: 七年级下英语错题
+:PROPERTIES:
+#+STARTUP: overview
+#+STARTUP: noptag
+#+STARTUP: hideblocks
+#+TAGS: no_answer(a) \n no_pic(p)
+#+LATEX_CLASS: exam
+#+LATEX_HEADER: \usepackage{xeCJK}
+#+LATEX_HEADER: \usepackage{amsmath}
+#+LATEX_HEADER: \usepackage{amssymb}
+#+LATEX_HEADER: \usepackage{polynom}
+#+LATEX_HEADER: \usepackage{ulem}
+#+LATEX_HEADER: \usepackage{tikz}
+#+LATEX_HEADER: \usepackage{tkz-euclide}
+#+LATEX_HEADER: \newcommand\epart{\part}
+#+LATEX_HEADER: \everymath{\displaystyle}
+:END:
+#+LATEX_CLASS_OPTIONS: [answers]
+
+* 单元测试
+** Exercise for U1 (A)
+#+LATEX: \begin{questions}
+*** I-5
+They all looked at the man surprisedly. No one knew what \fillin
+
+\begin{oneparchoices}
+  \choice where happening
+  \choice has happened
+  \correctchoice was happening
+  \choice have happend
+\end{oneparchoices}
+
+*** I-14
+Nowadays, a log of yong boys and girls go to \fillin college to learn knowledge.
+
+\begin{oneparchoices}
+  \choice a
+  \choice the
+  \correctchoice /
+  \choice other
+\end{oneparchoices}
+
+#+LATEX: \end{questions}
+
+** Exercise for U1 (B)
+#+LATEX: \begin{questions}
+*** I-9
+He was \underline{unaware} of the mistakes he made in the report. The undlined part means \fillin .
+
+\begin{oneparchoices}
+  \choice didn't think about
+  \choice didn't see
+  \correctchoice didn't known
+  \choice didn't want
+\end{oneparchoices}
+
+*** I-12
+-- May I open the window for a while? It's a bit warm inside. \\
+-- \fillin
+
+\begin{oneparchoices}
+  \choice Yes, I'd like to.
+  \choice Not at all.
+  \choice Don't mention it.
+  \correctchoice Yes. go ahead.
+\end{oneparchoices}
+
+*** I-14                                                          :no_answer:
+\fillin honest man in red works on a building site.
+
+\begin{oneparchoices}
+  \choice An
+  \choice The
+  \choice /
+  \choice A
+\end{oneparchoices}
+
+*** I-16
+Shirley \fillin a book about China last year but I don't known whether she has finished it.
+
+\begin{oneparchoices}
+  \choice has written
+  \choice wrote
+  \choice had written
+  \correctchoice was writing
+\end{oneparchoices}
+
+*** I-22
+The teacher asked \fillin[] students to do homework ourselves
+
+\begin{oneparchoices}
+  \choice the
+  \choice his
+  \choice some
+  \correctchoice us
+\end{oneparchoices}
+
+*** I-23
+Last month she \fillin a doctor
+
+\begin{oneparchoices}
+  \choice married with
+  \choice married to
+  \choice was married with
+  \correctchoice got married to
+\end{oneparchoices}
+
+*** I-24
+\fillin a year does your school have sports meeting? 
+Twice a year.
+
+\begin{oneparchoices}
+  \correctchoice How often
+  \choice How soon
+  \choice How long
+  \choice How many times
+\end{oneparchoices}
+
+*** II-5
+Ms White never seems \fillin[patiently]. She always answers every question carefully. (patient) 
+
+*** II-6
+A \fillin[lively] person is full of life and is always doing things. (live)
+
+#+LATEX: \end{questions}
+
+** Exercise for U4 -- 72
+#+LATEX: \begin{questions}
+*** I-5
+前进\fillin[go ahead]
+*** I-6
+从事\fillin[go in far]
+
+*** I-7
+怜悯\fillin[have pity on]
+
+*** I-8
+憋气\fillin[hold own's breath]
+
+*** I-9
+大量的\fillin[huge amounts of]
+
+*** I-14
+贸然断定 \fillin[jump to a conclusion]
+
+*** II-3
+I want to have a talk \fillin him \fillin his study
+
+\begin{oneparchoices}
+  \choice to, of
+  \choice with, to
+  \choice to, about
+  \correctchoice with, in
+\end{oneparchoices}
+
+*** II-5
+We all saw soldiers \fillin the Chinese national flag last Thursday.
+
+\begin{oneparchoices}
+  \choice rose
+  \choice raised
+  \choice rising
+  \correctchoice raising
+\end{oneparchoices}
+
+*** II-6
+\fillin Rocky Mountains ar in \fillin North America
+
+\begin{oneparchoices}
+  \choice The, the
+  \choice /, the
+  \choice /, /
+  \correctchoice The, /
+\end{oneparchoices}
+
+*** II-12
+This is an \fillin matter.
+
+\begin{oneparchoices}
+  \choice every day
+  \choice some day
+  \choice each day
+  \correctchoice everyday
+\end{oneparchoices}
+
+*** II-16
+Our earth is a good place for us to \fillin
+
+\begin{oneparchoices}
+  \choice live
+  \choice live in
+  \correctchoice live on
+  \choice live with
+\end{oneparchoices}
+
+*** II-22
+\fillin use ful idea!
+
+\begin{oneparchoices}
+  \correctchoice What a
+  \choice What an
+  \choice How
+  \choice How a
+\end{oneparchoices}
+
+*** II-24
+She doesn't known \fillin
+
+\begin{choices}
+  \choice what she can deal with it
+  \choice what to deal with it
+  \choice how to deal with it
+  \correctchoice how to deal with
+\end{choices}
+
+*** II-28
+There \fillin this evening.
+
+\begin{choices}
+  \choice is going to rain
+  \choice is going to be rainy
+  \correctchoice is going to be rain
+  \choice is going to rainy
+\end{choices}
+
+*** II-32
+About \fillin the students in our school have watched the football math.
+
+\begin{oneparchoices}
+  \choice three hundreds
+  \choice three hundred
+  \choice hundreds of
+  \correctchoice three hundred of
+\end{oneparchoices}
+
+*** II-38
+Could you tell me \fillin ?
+
+\begin{choices}
+  \correctchoice which school you are in
+  \choice where the nearest supermarket was
+  \choice when did you have the meeting
+  \choice is why didn't you come to school
+\end{choices}
+
+*** II-40
+Why not keep your mouth \fillin and your eyes \fillin ?
+
+\begin{oneparchoices}
+  \choice closing; opening
+  \choice close; open
+  \choice closed; opening
+  \correctchoice closed; open
+\end{oneparchoices}
+
+*** III-5
+There are a large number of famous tourist \fillin[attractions](attract).
+
+*** III-7
+She is a \fillin[magicion](magic).
+
+*** III-9
+You can learn much \fillin[knowledge] from the test book.(know)
+
+*** III-10
+The \fillin[driving] carelessness caused the traffic accident. (drive)
+
+*** III-11
+He told us that the experience in the mountain was truly \fillin[unforgetable]. (forget)
+
+*** IV-1
+Have you finished your homework yet? Mr: Zhao asked Ma Chao. (用宾语从句合二为一) \\
+Mr. Zhao asked Ma Chao \fillin[whether he have finished his hormwork].
+
+*** IV-6
+This hole is as deep as that one.(同义句) \\
+This hole is \fillin[the same depth as] that one
+
+*** IV-7
+This problem is too difficult for us to work out. (保持句意不变) \\
+This problem is \fillin[so difficult that we can't work it out]
+
+*** IV-9                                                          :no_answer:
+His uncle left this town then years ago. (用现在完成时改写) \\
+\fillin[His uncle ]
+
+*** IV-12
+Alice's had five English lessons since last week. (改为反意疑问句) \\
+Alice's had five English lessons since last week, \fillin[hasn't she]?
+
+*** IV-13
+She picked up the rubbish \underline{to keep the ground clean}. (对划线部分提问) \\
+\fillin[What did] she \fillin[pick] up the rubbish?
+
+*** IV-14                                                         :no_answer:
+This sign tells us \underline{not to park our car here}. (对划线部分提问) \\
+What does this sign tell us \fillin[]?
+
+#+LATEX: \end{questions}
+** Exercise for U5 -- 82
+#+LATEX: \begin{questions}
+***  I-9
+Your bedroom is very untidy. Please put your things away \fillin 
+  
+\begin{oneparchoices}
+  \correctchoice tidily
+  \choice tidy
+  \choice untidy
+  \choice untidily
+\end{oneparchoices}
+
+***  I-12
+We will stay in Beijing \fillin  the end of April.
+
+\begin{oneparchoices}
+  \choice at
+  \choice in
+  \choice on
+  \correctchoice until
+\end{oneparchoices}
+
+***  I-21
+It's careless \fillin me to make the floor dirty.
+
+\begin{oneparchoices}
+  \correctchoice of
+  \choice for
+  \choice with
+  \choice on
+\end{oneparchoices}
+
+*** II-3
+Mum, I have too many books. I need two more \filllin[shelves] (shelf)
+
+*** III-4
+-- \fillin[has] he \fillin[gone] to Beijing? \\
+-- Yes. He will stay there for a week.
+
+*** III-7
+Look! The rain \fillin[has stopped] now. Let's play outside. (stop)
+
+*** IV-1
+Mike lives in a flat \underline{with two bathrooms}.
+
+*** IV-6
+We realy don't known when we will start. (改为简单句)
+
+*** IV-9
+Her new flat is as big as her friend's. (同义句转换)
+Her new flat is the same \fillin[size as] her friend's.
+
+#+LATEX: \end{questions}
+** Exercise for U6 -- 66
+#+LATEX: \begin{questions}
+*** I-2
+We call people from Spain \fillin
+
+\begin{oneparchoices}
+  \choice Spanishs
+  \choice Spanishes
+  \correctchoice Spanish
+  \choice Spains
+\end{oneparchoices}
+
+*** I-9
+When they heard the good news, they looked at \underline{each other} happily. What does the underlined phrase mean?
+
+\begin{oneparchoices}
+  \choice one after another
+  \choice one by one
+  \correctchoice one another
+  \choice another by other
+\end{oneparchoices}
+
+*** I-10
+\fillin important computers are in our daily life!
+
+\begin{oneparchoices}
+  \choice What an
+  \choice How an
+  \choice What
+  \correctchoice How
+\end{oneparchoices}
+
+*** I-19
+-- It's too late, You'd better not go on working.
+-- \fillin
+
+\begin{oneparchoices}
+  \choice That's right.
+  \choice That's all right.
+  \choice I'm sorry.
+  \correctchoice All right.
+\end{oneparchoices}
+
+*** I-20                                                          :no_answer:
+This is the best flat for you to \fillin this town.
+
+\begin{oneparchoices}
+  \choice has been away from; was dead
+  \choice has been far away; died
+  \choice has been far away from; has died
+  \choice has been away from; died
+\end{oneparchoices}
+
+*** II-23
+He looked \fillin[surpriselly] at the broken glass. (suprise)
+
+*** II-28
+Help \fillin[yourselves] to the fish, everyone. (you)
+
+*** II-30
+They are shouting much \fillin[noisily](noise) outside now, what has happened?
+
+*** II-31
+The sea turtle eggs are \fillin[safity](safe) on the beach because some people will take and sell them.
+
+*** III-36                                                        :no_answer:
+I have a pen. I can write with it.(合并为一句) I have a pen \fillin[]
+
+
+#+LATEX: \end{questions}
+
+** Exercise for U7 -- 78
+
+* 期末复习
+** 7B期末复习卷1
+#+LATEX: \begin{questions}
+*** I-4
+Tu Youyou was awarded the Nobel Prize in her \fillin .
+
+\begin{oneparchoices}
+  \correctchoice eighties
+  \choice eighty
+  \choice eightieth
+  \choice eightieths
+\end{oneparchoices}
+
+*** I-8
+He raised his voice in order to make \fillin head.
+
+\begin{oneparchoices}
+  \choice he
+  \correctchoice himself
+  \choice him
+  \choice his
+\end{oneparchoices}
+
+*** I-13
+Nowadays the Great Wall \fillin many foreigners.
+
+\begin{oneparchoices}
+  \choice is familiar to
+  \correctchoice is famous for
+  \choice is afraid of
+  \choice is fond of
+\end{oneparchoices}
+
+*** I-18
+All the students will climb the mountain if it \fillin rain tomorrow.
+
+\begin{oneparchoices}
+  \correctchoice won't
+  \choice don't
+  \choice doesn't
+  \choice hasn't
+\end{oneparchoices}
+
+*** II-6
+There are \fillin[electric] lights but there is not any \fillin[electricity] in the small village. (electric)
+
+*** III-3
+They have finished their work \fillin[accurately](acurate) than I expected.
+
+*** III-5
+They are good \fillin[salesmen](sell) at the supermarket.
+
+*** III-7
+There will be a chess \fillin[competition] next week in our school. (complete)
+
+*** IV-1
+We must put the three straight in the hole. (变成被动语态) \\
+\fillin[The tree straight must be put in the hole by us.]
+
+*** IV-2
+The MP3 is so expensive that none of us can buy it. (改为简单句) \\
+\fillin[The MP3 is to expensive for any of us to buy it.]
+
+*** IV-6
+We didn't have much money to buy a flat in Shanghai. (保持原句意思) \\
+We \fillin[couldn't afford] to buy a flat in Shanghai.
+
+#+LATEX: \end{questions}
+
+** 7B期末复习卷2
+#+LATEX: \begin{questions}
+*** I-11
+Get some milk if they have \fillin .
+
+\begin{oneparchoices}
+  \correctchoice it
+  \choice them
+  \choice one
+  \choice many
+\end{oneparchoices}
+
+*** II-1
+We have received their \fillin[invitation] cards already. (invite)
+
+*** II-7
+It is \fillin[quicker] to go there by bus than by bike. (quick)
+
+*** II-4
+At the age of nineteen, he \fillin[learned](learn) about one hundered English sons.
+
+*** III-2
+I asked John, "when will you leave for Germany?" (改为宾语从句) \\
+I asked John when \fillin[he would] leave for Germany.
+
+*** III-6
+There is almost nothing in the bag, \fillin[is there]? (反意疑问句)
+
+*** IV-3                                                          :no_answer:
+这名男子匆忙登了船，这两名女游客跟在他后面。 \\
+\fillin[The man harried board, the two women touriest followed behind him]
+
+#+LATEX: \end{questions}

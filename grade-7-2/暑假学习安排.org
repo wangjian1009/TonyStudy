@@ -1,0 +1,907 @@
+#+TITLE: 2020年暑假安排
+:PROPERTIES:
+#+SEQ_TODO: TODO(t) INPROGRESS(p) | DONE(d) ABORT(a@/!)
+#+TAGS:
+#+TAGS: 待安排
+#+STARTUP: logdrawer
+#+STARTUP: content
+#+STARTUP: hidestars
+#+STARTUP: indent
+#+CATEGORY: 牛牛
+:END:
+
+* 整体安排
+** 晓黑板打卡第一次
+SCHEDULED: <2020-08-01 Sat>
+** 晓黑板打卡第二次
+SCHEDULED: <2020-08-08 Sat>
+** 晓黑板打卡第三次
+SCHEDULED: <2020-08-15 Sat>
+** 晓黑板打卡第四次
+SCHEDULED: <2020-08-22 Sat>
+* [0/8] Steam学习
+** TODO Steam网课 1
+SCHEDULED: <2020-07-15 Wed>
+** TODO Steam网课 2
+SCHEDULED: <2020-07-17 Fri>
+** TODO Steam网课 3
+SCHEDULED: <2020-07-22 Wed>
+** TODO Steam网课 4
+SCHEDULED: <2020-07-24 Fri>
+** TODO Steam网课 5
+SCHEDULED: <2020-07-29 Wed>
+** TODO Steam网课 6
+SCHEDULED: <2020-07-31 Fri>
+** TODO Steam网课 7
+SCHEDULED: <2020-08-05 Wed>
+** TODO Steam网课 8
+SCHEDULED: <2020-08-07 Fri>
+* [22/380] 暑假作业
+:PROPERTIES:
+:COOKIE_DATA: todo recursive
+:END:
+** [13/50] 语文作业
+*** [0/25] 八上古诗文背诵
+**** [0/6] 一、课内文言文背诵篇目
+***** TODO 三峡   郦道元
+SCHEDULED: <2020-07-14 Tue>
+自三峡七百里中，两岸连山，略无阙处。重岩叠嶂，隐天蔽日，自非亭午夜分，不见曦月。
+至于夏水襄陵，沿溯阻绝。或王命急宣，有时朝发白帝，暮到江陵，其间千二百里，虽乘奔御风，不以疾也。
+春冬之时，则素湍绿潭，回清倒影，绝巘多生怪柏，悬泉瀑布，飞漱其间，清荣峻茂，良多趣味。
+每至晴初霜旦，林寒涧肃，常有高猿长啸，属引凄异，空谷传响，哀转久绝。故渔者歌曰：“巴东三峡巫峡长，猿鸣三声泪沾裳。”
+(备注：巘，应写作“山献”，“山”为偏旁，输入法打不出来。)
+***** TODO 答谢中书书   陶弘景
+SCHEDULED: <2020-07-16 Thu>
+山川之美，古来共谈。高峰入云，清流见底。两岸石壁，五色交辉。青林翠竹，四时俱备。晓雾将歇，猿鸟乱鸣；夕日欲颓，沉鳞竞跃。实是欲界之仙都。自康乐以来，未复有能与其奇者。
+***** TODO 记承天寺夜游 苏轼
+SCHEDULED: <2020-07-18 Sat>
+元丰六年十月十二日夜，解衣欲睡，月色入户，欣然起行。念无与为乐者，遂至承天寺寻张怀民。怀民亦未寝，相与步于中庭。庭下如积水空明，水中藻、荇交横，盖竹柏影也。何夜无月？何处无竹柏？但少闲人如吾两人者耳。
+***** TODO 与朱元思书  吴均
+SCHEDULED: <2020-07-20 Mon>
+风烟俱净，天山共色。从流飘荡，任意东西。自富阳至桐庐一百许里，奇山异水，天下独绝。
+水皆缥碧，千丈见底。游鱼细石，直视无碍。急湍甚箭，猛浪若奔。
+夹岸高山，皆生寒树，负势竞上，互相轩邈，争高直指，千百成峰。泉水激石，泠泠作响；好鸟相鸣，嘤嘤成韵。蝉则千转不穷，猿则百叫无绝。鸢飞戾天者，望峰息心；经纶世务者，窥谷忘反。横柯上蔽，在昼犹昏；疏条交映，有时见日。
+***** TODO 《孟子》三章
+SCHEDULED: <2020-07-21 Tue>
+富贵不能淫
+景春曰:“公孙衍、张仪岂不诚大丈夫哉?一怒而诸侯惧,安居而天下熄。”
+孟子曰:“是焉得为大丈夫乎?子未学礼乎?丈夫之冠也,父命之；女子之嫁也,母命之,往送之门,戒之曰:‘往之女家,必敬必戒,无违夫子!’以顺为正者,妾妇之道也。居天下之广居,立天下之正位,行天下之大道。得志,与民由之；不得志,独行其道。富贵不能淫,贫贱不能移,威武不能屈。此之谓大丈夫。”
+
+得道者多助，失道者寡助
+天时不如地利，地利不如人和。三里之城，七里之郭，环而攻之而不胜。夫环而攻之，必有得天时者矣，然而不胜者，是天时不如地利也。城非不高也，池非不深也，兵革非不坚利也，米粟非不多也，委而去之，是地利不如人和也。故曰，域民不以封疆之界，固国不以山溪之险，威天下不以兵革之利。得道者多助，失道者寡助。寡助之至，亲戚畔之。多助之至，天下顺之。以天下之所顺，攻亲戚之所畔，故君子有不战，战必胜矣。
+
+生于忧患,死于安乐
+舜发于畎亩之中,傅说举于版筑之间,胶鬲举于鱼盐之中,管夷吾举于士,孙叔敖举于海,百里奚举于市。故天将降大任于是人也，必先苦其心志,劳其筋骨,饿其体肤,空乏其身,行拂乱其所为,所以动心忍性,曾益其所不能。
+人恒过,然后能改；困于心,衡于虑,而后作；征于色,发于声，而后喻。入则无法家拂士，出则无敌国外患者，国恒亡。然后知生于忧患而死于安乐也。
+***** TODO 愚公移山     《列子》
+SCHEDULED: <2020-07-25 Sat>
+太行、王屋二山,方七百里,高万仞,本在冀州之南,河阳之北。
+北山愚公者,年且九十,面山而居。惩山北之塞,出入之迂也,聚室而谋曰:“吾与汝毕力平险,指通豫南,达于汉阴,可乎?”杂然相许。其妻献疑曰:“以君之力,曾不能损魁父之丘,如太行、王屋何?且焉置土石?”杂曰:“投诸渤海之尾,隐土之北。”遂率子孙荷担者三夫,叩石垦壤,箕畚运于渤海之尾。邻人京城氏之孀妻有遗男,始龀,跳往助之。寒暑易节,始一反焉。
+河曲智叟笑而止之曰:“甚矣,汝之不惠!以残年余力,曾不能毁山之一毛,其如土石何?”北山愚公长息曰:“汝心之固,固不可彻，曾不若孀妻弱子。虽我之死,有子存焉。子又生孙,孙又生子；子又有子,子又有孙；子子孙孙无穷匮也,而山不加增,何苦而不平?”河曲智叟亡以应。
+操蛇之神闻之,惧其不已也,告之于帝。帝感其诚,命夸娥氏二子负二山,一厝朔东,一厝雍南。自此,冀之南,汉之阴,无陇断焉。
+**** [0/10] 二、课内诗词背诵篇目
+***** TODO 野望    王绩
+SCHEDULED: <2020-07-27 Mon>
+东皋薄暮望，徙倚欲何依。
+树树皆秋色，山山唯落晖。
+牧人驱犊返，猎马带禽归。
+相顾无相识，长歌怀采薇。
+***** TODO 黄鹤楼     崔颢
+SCHEDULED: <2020-07-28 Tue>
+昔人已乘黄鹤去，此地空余黄鹤楼。
+黄鹤一去不复返，白云千载空悠悠。
+晴川历历汉阳树，芳草萋萋鹦鹉洲。
+日暮乡关何处是？烟波江上使人愁。
+***** TODO 使至塞上   王维
+SCHEDULED: <2020-07-29 Wed>
+单车欲问边，属国过居延。
+征蓬出汉塞，归雁入胡天。
+大漠孤烟直，长河落日圆。
+萧关逢候骑，都护在燕然。
+***** TODO 渡荆门送别   李白
+SCHEDULED: <2020-07-30 Thu>
+渡远荆门外，来从楚国游。
+山随平野尽，江入大荒流。
+月下飞天镜，云生结海楼。
+仍怜故乡水，万里送行舟。
+***** TODO 钱塘湖春行   白居易
+SCHEDULED: <2020-07-31 Fri>
+孤山寺北贾亭西，水面初平云脚低。
+几处早莺争暖树，谁家新燕啄春泥。
+乱花渐欲迷人眼，浅草才能没马蹄。
+最爱湖东行不足，绿杨阴里白沙堤。
+
+***** TODO 饮酒(其五）  陶渊明
+SCHEDULED: <2020-08-01 Sat>
+结庐在人境,而无车马喧。
+问君何能尔?心远地自偏。
+采菊东篱下,悠然见南山。
+山气日夕佳,飞鸟相与还。
+此中有真意,欲辨已忘言。
+***** TODO 春望   杜甫
+SCHEDULED: <2020-08-03 Mon>
+国破山河在,城春草木深。
+感时花溅泪,恨别鸟惊心。
+烽火连三月,家书抵万金。
+白头搔更短,浑欲不胜簪。   
+***** TODO 雁门太守行  李贺
+SCHEDULED: <2020-08-04 Tue>
+黑云压城城欲摧,甲光向日金鳞开。
+角声满天秋色里,塞上燕脂凝夜紫。
+半卷红旗临易水,霜重鼓寒声不起。
+报君黄金台上意,提携玉龙为君死。
+
+***** TODO 赤壁   杜牧
+SCHEDULED: <2020-08-05 Wed>
+折戟沉沙铁未销,自将磨洗认前朝。
+东风不与周郎便,铜雀春深锁二乔。
+***** TODO 渔家傲   李清照
+SCHEDULED: <2020-08-06 Thu>
+天接云涛连晓雾,星河欲转千帆舞。仿佛梦魂归帝所,闻天语,殷勤问我归何处。
+我报路长嗟日暮,学诗谩有惊人句。九万里风鹏正举。风休住,蓬舟吹取三山去!
+**** [0/8] 三、课外诗词背诵篇目
+***** TODO 庭中有奇树  《古诗十九首》
+SCHEDULED: <2020-08-07 Fri>
+庭中有奇树，绿叶发华滋。
+攀条折其荣，将以遗所思。
+馨香盈怀袖，路远莫致之。
+此物何足贵？但感别经时。
+***** TODO 龟虽寿 曹操
+SCHEDULED: <2020-08-08 Sat>
+神龟虽寿，犹有竟时；
+腾蛇乘雾，终为土灰。
+老骥伏枥，志在千里；
+烈士暮年，壮心不已。
+盈缩之期，不但在天；
+养怡之福，可得永年。
+幸甚至哉，歌以咏志。
+***** TODO 赠从弟（其二）  刘桢
+SCHEDULED: <2020-08-10 Mon>
+亭亭山上松，瑟瑟谷中风。
+风声一何盛，松枝一何劲！
+冰霜正惨凄，终岁常端正。
+岂不罹凝寒？松柏有本性。
+***** TODO 梁甫行   曹植
+SCHEDULED: <2020-08-11 Tue>
+八方各异气，千里殊风雨。
+剧哉边海民，寄身于草野。
+妻子象禽兽，行止依林阻。
+柴门何萧条，狐兔翔我宇。
+***** TODO 浣溪沙    晏殊
+SCHEDULED: <2020-08-12 Wed>
+一曲新词酒一杯,去年天气旧亭台。夕阳西下几时回？
+无可奈何花落去,似曾相识燕归来。小园香径独徘徊。 
+***** TODO 采桑子   欧阳修
+SCHEDULED: <2020-08-13 Thu>
+轻舟短棹西湖好,绿水逶迤。芳草长堤,隐隐笙歌处处随。
+无风水面琉璃滑,不觉船移。微动涟漪，惊起沙禽掠岸飞。
+***** TODO 相见欢    朱敦儒
+SCHEDULED: <2020-08-14 Fri>
+金陵城上西楼,倚清秋。万里夕阳垂地大江。
+中原乱,簪缨散,几时收？试倩悲风吹泪过扬州。
+***** TODO 如梦令  李清照
+SCHEDULED: <2020-08-15 Sat>
+常记溪亭日暮,沉醉不知归路。兴尽晚回舟,误入藕花深处。争渡,争渡,惊起一滩鸥鹭。
+**** [0/1] 附：熟读课文
+***** TODO 23  周亚夫军细柳
+SCHEDULED: <2020-08-17 Mon>
+文帝之后六年,匈奴大入边。乃以宗正刘礼为将军,军霸上；祝兹
+侯徐厉为将军,军棘门；以河内守亚夫为将军,军细柳:以备胡。
+上自劳军。至霸上及棘门军,直驰入,将以下骑送迎。已而之细柳
+军,军士吏被甲,锐兵刃,彀弓弩,持满。天子先驱至,不得入。先驱曰:“天子且至!”军门都尉曰:“将军令曰‘军中闻将军令,不闻天子之
+诏’。”居无何,上至,又不得入。于是上乃使使持节诏将军:“吾欲入劳军。”亚夫乃传言开壁门。壁门士吏谓从属车骑曰:“将军约,军中不得驱驰。”于是天子乃按辔徐行。至营,将军亚夫持兵揖曰:“介胄之士不拜,请以军礼见。”天子为动,改容式车。使人称谢：“皇帝敬劳将军。”成礼而去。
+既出军门,群臣皆惊。文帝曰:“嗟乎,此真将军矣!曩者霸上、棘门军,若儿戏耳,其将固可袭而虏也。至于亚夫,可得而犯邪!”称善者久之。
+*** [10/10] 现代文阅读
+**** DONE 语文现代文阅读 17
+**** DONE 语文现代文阅读 18
+**** DONE 语文现代文阅读 19
+**** DONE 语文现代文阅读 21
+**** DONE 语文现代文阅读 23
+**** DONE 语文现代文阅读 27
+**** DONE 语文现代文阅读 28
+**** DONE 语文现代文阅读 30
+**** DONE 语文现代文阅读 31
+**** DONE 语文现代文阅读 36
+*** [0/10] 古诗文大赛（提高篇）36-45
+**** TODO 古诗文大赛36
+SCHEDULED: <2020-07-18 Sat>
+**** TODO 古诗文大赛37
+SCHEDULED: <2020-07-20 Mon>
+**** TODO 古诗文大赛38
+SCHEDULED: <2020-07-21 Tue>
+**** TODO 古诗文大赛39
+SCHEDULED: <2020-07-22 Wed>
+**** TODO 古诗文大赛40
+SCHEDULED: <2020-07-23 Thu>
+**** TODO 古诗文大赛41
+SCHEDULED: <2020-07-24 Fri>
+**** TODO 古诗文大赛42
+SCHEDULED: <2020-07-25 Sat>
+**** TODO 古诗文大赛43
+SCHEDULED: <2020-07-27 Mon>
+**** TODO 古诗文大赛44
+SCHEDULED: <2020-07-28 Tue>
+**** TODO 古诗文大赛45
+SCHEDULED: <2020-07-29 Wed>
+*** [1/2] 随笔两篇， 紫薯不少于700字
+**** DONE 《有一种甜味》
+SCHEDULED: <2020-07-12 Sun>
+**** TODO 《生活留痕》
+SCHEDULED: <2020-07-19 Sun>
+*** [2/3] 小思阅读
+**** TODO 《红岩》
+SCHEDULED: <2020-07-26 Sun>
+**** DONE 《银河帝国-基地》
+**** DONE 《哈利波特与死亡圣器》
+** [1/44] 数学
+*** [1/5] 完成暑假作业25天内容
+**** DONE 数学暑假作业1-5
+SCHEDULED: <2020-07-11 Sat>
+**** TODO 数学暑假作业6-10
+SCHEDULED: <2020-07-14 Tue>
+**** TODO 数学暑假作业11-15
+SCHEDULED: <2020-07-16 Thu>
+**** TODO 数学暑假作业16-20
+SCHEDULED: <2020-07-21 Tue>
+**** TODO 数学暑假作业21-25
+SCHEDULED: <2020-07-23 Thu>
+*** [0/10] 认真复习巩固七下几何，特别是三角形章节。
+**** TODO 数学巩固：相交线、平行线的判定
+SCHEDULED: <2020-07-12 Sun>
+**** TODO 数学巩固：平行线的性质
+SCHEDULED: <2020-07-16 Thu>
+**** TODO 数学巩固：平行线综合训练
+SCHEDULED: <2020-07-23 Thu>
+**** TODO 数学巩固：三角形的有关概念和性质
+SCHEDULED: <2020-07-26 Sun>
+**** TODO 数学巩固：全等三角形（1）
+SCHEDULED: <2020-07-30 Thu>
+**** TODO 数学巩固：全等三角形（2）
+SCHEDULED: <2020-08-02 Sun>
+**** TODO 数学巩固：全等三角形综合训练
+SCHEDULED: <2020-08-06 Thu>
+**** TODO 数学巩固：等腰三角形的性质与判定
+SCHEDULED: <2020-08-09 Sun>
+**** TODO 数学巩固：等腰三角形、等边三角形
+SCHEDULED: <2020-08-13 Thu>
+**** TODO 数学巩固：三角形综合训练
+SCHEDULED: <2020-08-16 Sun>
+*** [0/13] 预习一元二次方程的应用、函数
+**** TODO 17.4 一元二次方程的应用 (1)
+SCHEDULED: <2020-08-20 Thu>
+**** TODO 17.4 一元二次方程的应用 (2)
+SCHEDULED: <2020-08-20 Thu>
+**** TODO 18.1 函数的概念 (1)
+SCHEDULED: <2020-08-23 Sun>
+**** TODO 18.1 函数的概念 (2)
+SCHEDULED: <2020-08-23 Sun>
+**** TODO 18.2 正比例函数 (1)
+SCHEDULED: <2020-08-25 Tue>
+**** TODO 18.2 正比例函数 (2)
+SCHEDULED: <2020-08-25 Tue>
+**** TODO 18.2 正比例函数 (3)
+SCHEDULED: <2020-08-25 Tue>
+**** TODO 18.3 反比例函数 (1)
+SCHEDULED: <2020-08-27 Thu>
+**** TODO 18.3 反比例函数 (2)
+SCHEDULED: <2020-08-27 Thu>
+**** TODO 18.3 反比例函数 (3)
+SCHEDULED: <2020-08-27 Thu>
+**** TODO 18.4 函数的表示法 (1)
+SCHEDULED: <2020-08-30 Sun>
+**** TODO 18.4 函数的表示法 (2)
+SCHEDULED: <2020-08-30 Sun>
+**** TODO 18.4 函数的表示法 (3)
+SCHEDULED: <2020-08-30 Sun>
+*** [0/16] 《欣竹》中的计算题作为巩固练习按照自己的能力完成。
+**** TODO 《欣竹》二次根式一
+SCHEDULED: <2020-07-20 Mon>
+**** TODO 《欣竹》二次根式二
+SCHEDULED: <2020-07-27 Mon>
+**** TODO 《欣竹》最简二次根式和同类二次根式一
+SCHEDULED: <2020-07-28 Tue>
+**** TODO 《欣竹》最简二次根式和同类二次根式二
+SCHEDULED: <2020-07-30 Thu>
+**** TODO 《欣竹》二次根式的运算一
+SCHEDULED: <2020-08-03 Mon>
+**** TODO 《欣竹》二次根式的运算二
+SCHEDULED: <2020-08-04 Tue>
+**** TODO 《欣竹》二次根式的运算三
+SCHEDULED: <2020-08-06 Thu>
+**** TODO 《欣竹》二次根式的运算四
+SCHEDULED: <2020-08-10 Mon>
+**** TODO 《欣竹》一元二次方程的概念
+SCHEDULED: <2020-08-11 Tue>
+**** TODO 《欣竹》一元二次方程的解法一 （开平方法）
+SCHEDULED: <2020-08-13 Thu>
+**** TODO 《欣竹》一元二次方程的解法二 （因式分解法）
+SCHEDULED: <2020-08-17 Mon>
+**** TODO 《欣竹》一元二次方程的解法三 （配方法）
+SCHEDULED: <2020-08-18 Tue>
+**** TODO 《欣竹》一元二次方程的解法四 （公式法）
+SCHEDULED: <2020-08-20 Thu>
+**** TODO 《欣竹》一元二次方程的解法五 （选择适当方法）
+SCHEDULED: <2020-08-24 Mon>
+**** TODO 《欣竹》一元二次方程根的判别式一
+SCHEDULED: <2020-08-25 Tue>
+**** TODO 《欣竹》一元二次方程根的判别式二
+SCHEDULED: <2020-08-27 Thu>
+** [8/257] 英语
+*** [3/57] SSP暑假专刊：Word power 词汇及用法并背诵，完成全部阅读理解后的习题（作文写到本子上）
+**** DONE SSP暑假专刊 (1)
+**** DONE SSP暑假专刊 (2)
+**** DONE SSP暑假专刊 (3)
+**** TODO SSP暑假专刊 (4)
+SCHEDULED: <2020-07-12 Sun>
+**** TODO SSP暑假专刊 (5)
+SCHEDULED: <2020-07-12 Sun>
+**** TODO SSP暑假专刊 (6)
+SCHEDULED: <2020-07-13 Mon>
+**** TODO SSP暑假专刊 (7)
+SCHEDULED: <2020-07-13 Mon>
+**** TODO SSP暑假专刊 (8)
+SCHEDULED: <2020-07-14 Tue>
+**** TODO SSP暑假专刊 (9)
+SCHEDULED: <2020-07-14 Tue>
+**** TODO SSP暑假专刊 (10)
+SCHEDULED: <2020-07-15 Wed>
+**** TODO SSP暑假专刊 (11)
+SCHEDULED: <2020-07-16 Thu>
+**** TODO SSP暑假专刊 (12)
+SCHEDULED: <2020-07-17 Fri>
+**** TODO SSP暑假专刊 (13)
+SCHEDULED: <2020-07-18 Sat>
+**** TODO SSP暑假专刊 (14)
+SCHEDULED: <2020-07-19 Sun>
+**** TODO SSP暑假专刊 (15)
+SCHEDULED: <2020-07-20 Mon>
+**** TODO SSP暑假专刊 (16)
+SCHEDULED: <2020-07-21 Tue>
+**** TODO SSP暑假专刊 (17)
+SCHEDULED: <2020-07-22 Wed>
+**** TODO SSP暑假专刊 (18)
+SCHEDULED: <2020-07-23 Thu>
+**** TODO SSP暑假专刊 (19)
+SCHEDULED: <2020-07-24 Fri>
+**** TODO SSP暑假专刊 (20)
+SCHEDULED: <2020-07-25 Sat>
+**** TODO SSP暑假专刊 (21)
+SCHEDULED: <2020-07-26 Sun>
+**** TODO SSP暑假专刊 (22)
+SCHEDULED: <2020-07-27 Mon>
+**** TODO SSP暑假专刊 (23)
+SCHEDULED: <2020-07-28 Tue>
+**** TODO SSP暑假专刊 (24)
+SCHEDULED: <2020-07-29 Wed>
+**** TODO SSP暑假专刊 (25)
+SCHEDULED: <2020-07-23 Thu>
+**** TODO SSP暑假专刊 (26) 
+SCHEDULED: <2020-07-31 Fri>
+**** TODO SSP暑假专刊 (27)
+SCHEDULED: <2020-08-01 Sat>
+**** TODO SSP暑假专刊 (28)
+SCHEDULED: <2020-08-02 Sun>
+**** TODO SSP暑假专刊 (29)
+SCHEDULED: <2020-08-03 Mon>
+**** TODO SSP暑假专刊 (30)
+SCHEDULED: <2020-08-04 Tue>
+**** TODO SSP暑假专刊 (31)
+SCHEDULED: <2020-08-05 Wed>
+**** TODO SSP暑假专刊 (32)
+SCHEDULED: <2020-08-06 Thu>
+**** TODO SSP暑假专刊 (33)
+SCHEDULED: <2020-08-07 Fri>
+**** TODO SSP暑假专刊 (34)
+SCHEDULED: <2020-08-08 Sat>
+**** TODO SSP暑假专刊 (35)
+SCHEDULED: <2020-08-09 Sun>
+**** TODO SSP暑假专刊 (36)
+SCHEDULED: <2020-08-10 Mon>
+**** TODO SSP暑假专刊 (37)
+SCHEDULED: <2020-08-11 Tue>
+**** TODO SSP暑假专刊 (38)
+SCHEDULED: <2020-08-12 Wed>
+**** TODO SSP暑假专刊 (39)
+SCHEDULED: <2020-08-13 Thu>
+**** TODO SSP暑假专刊 (40)
+SCHEDULED: <2020-08-14 Fri>
+**** TODO SSP暑假专刊 (41)
+SCHEDULED: <2020-08-15 Sat>
+**** TODO SSP暑假专刊 (42)
+SCHEDULED: <2020-08-16 Sun>
+**** TODO SSP暑假专刊 (43)
+SCHEDULED: <2020-08-17 Mon>
+**** TODO SSP暑假专刊 (44)
+SCHEDULED: <2020-08-18 Tue>
+**** TODO SSP暑假专刊 (45)
+SCHEDULED: <2020-08-19 Wed>
+**** TODO SSP暑假专刊 (46)
+SCHEDULED: <2020-08-20 Thu>
+**** TODO SSP暑假专刊 (47)
+SCHEDULED: <2020-08-21 Fri>
+**** TODO SSP暑假专刊 (48)
+SCHEDULED: <2020-08-22 Sat>
+**** TODO SSP暑假专刊 (49)
+SCHEDULED: <2020-08-23 Sun>
+**** TODO SSP暑假专刊 (50)
+SCHEDULED: <2020-08-24 Mon>
+**** TODO SSP暑假专刊 (51)
+SCHEDULED: <2020-08-25 Tue>
+**** TODO SSP暑假专刊 (52)
+SCHEDULED: <2020-08-26 Wed>
+**** TODO SSP暑假专刊 (53)
+SCHEDULED: <2020-08-27 Thu>
+**** TODO SSP暑假专刊 (54)
+SCHEDULED: <2020-08-28 Fri>
+**** TODO SSP暑假专刊 (55)
+SCHEDULED: <2020-08-29 Sat>
+**** TODO SSP暑假专刊 (56)
+SCHEDULED: <2020-08-30 Sun>
+**** TODO SSP暑假专刊 (57)
+SCHEDULED: <2020-08-31 Mon>
+*** [0/9] 熟读其中9篇文章，打卡上传小黑板
+**** TODO 英语熟读并打卡小黑板 P2
+SCHEDULED: <2020-07-12 Sun>
+**** TODO 英语熟读并打卡小黑板 P7
+SCHEDULED: <2020-07-13 Mon>
+**** TODO 英语熟读并打卡小黑板 P9
+SCHEDULED: <2020-07-14 Tue>
+**** TODO 英语熟读并打卡小黑板 P13
+SCHEDULED: <2020-07-15 Wed>
+**** TODO 英语熟读并打卡小黑板 P20
+SCHEDULED: <2020-07-16 Thu>
+**** TODO 英语熟读并打卡小黑板 P31
+SCHEDULED: <2020-07-17 Fri>
+**** TODO 英语熟读并打卡小黑板 P38
+SCHEDULED: <2020-07-18 Sat>
+**** TODO 英语熟读并打卡小黑板 P45
+SCHEDULED: <2020-07-19 Sun>
+**** TODO 英语熟读并打卡小黑板 P49
+SCHEDULED: <2020-07-20 Mon>
+*** [0/4] 背诵4篇8A课文，打卡上传晓黑板
+**** TODO 英语背诵：U4
+SCHEDULED: <2020-07-15 Wed>
+**** TODO 英语背诵：U5
+SCHEDULED: <2020-07-22 Wed>
+**** TODO 英语背诵：U6
+SCHEDULED: <2020-07-29 Wed>
+**** TODO 英语背诵：U7
+SCHEDULED: <2020-08-05 Wed>
+*** [0/30] 背诵考纲词汇 A-Z 和 词组，家默30天，每天自主挑选30个
+**** TODO 英语考纲词汇背诵和家默 1
+SCHEDULED: <2020-07-12 Sun>
+**** TODO 英语考纲词汇背诵和家默 2
+SCHEDULED: <2020-07-13 Mon>
+**** TODO 英语考纲词汇背诵和家默 3
+SCHEDULED: <2020-07-12 Sun>
+**** TODO 英语考纲词汇背诵和家默 4
+SCHEDULED: <2020-07-16 Thu>
+**** TODO 英语考纲词汇背诵和家默 5
+SCHEDULED: <2020-07-17 Fri>
+**** TODO 英语考纲词汇背诵和家默 6
+SCHEDULED: <2020-07-19 Sun>
+**** TODO 英语考纲词汇背诵和家默 7
+SCHEDULED: <2020-07-20 Mon>
+**** TODO 英语考纲词汇背诵和家默 8
+SCHEDULED: <2020-07-21 Tue>
+**** TODO 英语考纲词汇背诵和家默 9
+SCHEDULED: <2020-07-23 Thu>
+**** TODO 英语考纲词汇背诵和家默 10
+SCHEDULED: <2020-07-24 Fri>
+**** TODO 英语考纲词汇背诵和家默 11
+SCHEDULED: <2020-07-26 Sun>
+**** TODO 英语考纲词汇背诵和家默 12
+SCHEDULED: <2020-07-27 Mon>
+**** TODO 英语考纲词汇背诵和家默 13
+SCHEDULED: <2020-07-28 Tue>
+**** TODO 英语考纲词汇背诵和家默 14
+SCHEDULED: <2020-07-30 Thu>
+**** TODO 英语考纲词汇背诵和家默 15
+SCHEDULED: <2020-07-31 Fri>
+**** TODO 英语考纲词汇背诵和家默 16
+SCHEDULED: <2020-08-02 Sun>
+**** TODO 英语考纲词汇背诵和家默 17
+SCHEDULED: <2020-08-03 Mon>
+**** TODO 英语考纲词汇背诵和家默 18
+SCHEDULED: <2020-08-04 Tue>
+**** TODO 英语考纲词汇背诵和家默 19
+SCHEDULED: <2020-08-06 Thu>
+**** TODO 英语考纲词汇背诵和家默 20
+SCHEDULED: <2020-08-07 Fri>
+**** TODO 英语考纲词汇背诵和家默 21
+SCHEDULED: <2020-08-09 Sun>
+**** TODO 英语考纲词汇背诵和家默 22
+SCHEDULED: <2020-08-10 Mon>
+**** TODO 英语考纲词汇背诵和家默 23
+SCHEDULED: <2020-08-11 Tue>
+**** TODO 英语考纲词汇背诵和家默 24
+SCHEDULED: <2020-08-13 Thu>
+**** TODO 英语考纲词汇背诵和家默 25
+SCHEDULED: <2020-08-14 Fri>
+**** TODO 英语考纲词汇背诵和家默 26
+SCHEDULED: <2020-08-16 Sun>
+**** TODO 英语考纲词汇背诵和家默 27
+SCHEDULED: <2020-08-17 Mon>
+**** TODO 英语考纲词汇背诵和家默 28
+SCHEDULED: <2020-08-18 Tue>
+**** TODO 英语考纲词汇背诵和家默 29
+SCHEDULED: <2020-08-20 Thu>
+**** TODO 英语考纲词汇背诵和家默 30
+SCHEDULED: <2020-08-21 Fri>
+*** [0/5] 自主完成5套课外综合卷包括听力、语法和阅读                :待安排:
+**** TODO 英语课外综合卷 1
+SCHEDULED: <2020-07-18 Sat>
+**** TODO 英语课外综合卷 2
+SCHEDULED: <2020-07-25 Sat>
+**** TODO 英语课外综合卷 3
+SCHEDULED: <2020-08-01 Sat>
+**** TODO 英语课外综合卷 4
+SCHEDULED: <2020-08-08 Sat>
+**** TODO 英语课外综合卷 5
+SCHEDULED: <2020-08-15 Sat>
+*** [0/56] 自主欣赏至少一部原版小说，开学后分享
+**** TODO 英语原版小说《月亮与六便士》 1
+SCHEDULED: <2020-07-13 Mon>
+**** TODO 英语原版小说《月亮与六便士》 2
+SCHEDULED: <2020-07-14 Tue>
+**** TODO 英语原版小说《月亮与六便士》 3
+SCHEDULED: <2020-07-15 Wed>
+**** TODO 英语原版小说《月亮与六便士》 4
+SCHEDULED: <2020-07-16 Thu>
+**** TODO 英语原版小说《月亮与六便士》 5
+SCHEDULED: <2020-07-17 Fri>
+**** TODO 英语原版小说《月亮与六便士》 6
+SCHEDULED: <2020-07-18 Sat>
+**** TODO 英语原版小说《月亮与六便士》 7
+SCHEDULED: <2020-07-19 Sun>
+**** TODO 英语原版小说《月亮与六便士》 8
+SCHEDULED: <2020-07-19 Sun>
+**** TODO 英语原版小说《月亮与六便士》 9
+SCHEDULED: <2020-07-20 Mon>
+**** TODO 英语原版小说《月亮与六便士》 10
+SCHEDULED: <2020-07-21 Tue>
+**** TODO 英语原版小说《月亮与六便士》 11
+SCHEDULED: <2020-07-22 Wed>
+**** TODO 英语原版小说《月亮与六便士》 12
+SCHEDULED: <2020-07-23 Thu>
+**** TODO 英语原版小说《月亮与六便士》 13
+SCHEDULED: <2020-07-24 Fri>
+**** TODO 英语原版小说《月亮与六便士》 14
+SCHEDULED: <2020-07-25 Sat>
+**** TODO 英语原版小说《月亮与六便士》 15
+SCHEDULED: <2020-07-26 Sun>
+**** TODO 英语原版小说《月亮与六便士》 16
+SCHEDULED: <2020-07-26 Sun>
+**** TODO 英语原版小说《月亮与六便士》 17
+SCHEDULED: <2020-07-27 Mon>
+**** TODO 英语原版小说《月亮与六便士》 18
+SCHEDULED: <2020-07-28 Tue>
+**** TODO 英语原版小说《月亮与六便士》 19
+SCHEDULED: <2020-07-29 Wed>
+**** TODO 英语原版小说《月亮与六便士》 20
+SCHEDULED: <2020-07-30 Thu>
+**** TODO 英语原版小说《月亮与六便士》 21
+SCHEDULED: <2020-07-31 Fri>
+**** TODO 英语原版小说《月亮与六便士》 22
+SCHEDULED: <2020-08-01 Sat>
+**** TODO 英语原版小说《月亮与六便士》 23
+SCHEDULED: <2020-08-01 Sat>
+**** TODO 英语原版小说《月亮与六便士》 24
+SCHEDULED: <2020-08-02 Sun>
+**** TODO 英语原版小说《月亮与六便士》 25
+SCHEDULED: <2020-08-03 Mon>
+**** TODO 英语原版小说《月亮与六便士》 26
+SCHEDULED: <2020-08-04 Tue>
+**** TODO 英语原版小说《月亮与六便士》 27
+SCHEDULED: <2020-08-05 Wed>
+**** TODO 英语原版小说《月亮与六便士》 28
+SCHEDULED: <2020-08-06 Thu>
+**** TODO 英语原版小说《月亮与六便士》 29
+SCHEDULED: <2020-08-07 Fri>
+**** TODO 英语原版小说《月亮与六便士》 30
+SCHEDULED: <2020-08-08 Sat>
+**** TODO 英语原版小说《月亮与六便士》 31
+SCHEDULED: <2020-08-09 Sun>
+**** TODO 英语原版小说《月亮与六便士》 32
+SCHEDULED: <2020-08-09 Sun>
+**** TODO 英语原版小说《月亮与六便士》 33
+SCHEDULED: <2020-08-10 Mon>
+**** TODO 英语原版小说《月亮与六便士》 34
+SCHEDULED: <2020-08-11 Tue>
+**** TODO 英语原版小说《月亮与六便士》 35
+SCHEDULED: <2020-08-12 Wed>
+**** TODO 英语原版小说《月亮与六便士》 36
+SCHEDULED: <2020-08-13 Thu>
+**** TODO 英语原版小说《月亮与六便士》 37
+SCHEDULED: <2020-08-14 Fri>
+**** TODO 英语原版小说《月亮与六便士》 38
+SCHEDULED: <2020-08-15 Sat>
+**** TODO 英语原版小说《月亮与六便士》 39
+SCHEDULED: <2020-08-16 Sun>
+**** TODO 英语原版小说《月亮与六便士》 40
+SCHEDULED: <2020-08-16 Sun>
+**** TODO 英语原版小说《月亮与六便士》 41
+SCHEDULED: <2020-08-17 Mon>
+**** TODO 英语原版小说《月亮与六便士》 42
+SCHEDULED: <2020-08-18 Tue>
+**** TODO 英语原版小说《月亮与六便士》 43
+SCHEDULED: <2020-08-19 Wed>
+**** TODO 英语原版小说《月亮与六便士》 44
+SCHEDULED: <2020-08-20 Thu>
+**** TODO 英语原版小说《月亮与六便士》 45
+SCHEDULED: <2020-08-21 Fri>
+**** TODO 英语原版小说《月亮与六便士》 46
+SCHEDULED: <2020-08-22 Sat>
+**** TODO 英语原版小说《月亮与六便士》 47
+SCHEDULED: <2020-08-23 Sun>
+**** TODO 英语原版小说《月亮与六便士》 48
+SCHEDULED: <2020-08-23 Sun>
+**** TODO 英语原版小说《月亮与六便士》 49
+SCHEDULED: <2020-08-24 Mon>
+**** TODO 英语原版小说《月亮与六便士》 50
+SCHEDULED: <2020-08-25 Tue>
+**** TODO 英语原版小说《月亮与六便士》 51
+SCHEDULED: <2020-08-26 Wed>
+**** TODO 英语原版小说《月亮与六便士》 52
+SCHEDULED: <2020-08-27 Thu>
+**** TODO 英语原版小说《月亮与六便士》 53
+SCHEDULED: <2020-08-28 Fri>
+**** TODO 英语原版小说《月亮与六便士》 54
+SCHEDULED: <2020-08-29 Sat>
+**** TODO 英语原版小说《月亮与六便士》 55
+SCHEDULED: <2020-08-30 Sun>
+**** TODO 英语原版小说《月亮与六便士》 57
+SCHEDULED: <2020-08-30 Sun>
+*** [5/48] 阅读打卡
+**** DONE 英语阅读打卡1
+SCHEDULED: <2020-07-07 Tue>
+**** DONE 英语阅读打卡2
+SCHEDULED: <2020-07-08 Wed>
+**** DONE 英语阅读打卡3
+SCHEDULED: <2020-07-09 Thu>
+**** DONE 英语阅读打卡4
+SCHEDULED: <2020-07-10 Fri>
+**** DONE 英语阅读打卡5
+SCHEDULED: <2020-07-11 Sat>
+**** TODO 英语阅读打卡6
+SCHEDULED: <2020-07-13 Mon>
+**** TODO 英语阅读打卡7
+SCHEDULED: <2020-07-14 Tue>
+**** TODO 英语阅读打卡8
+SCHEDULED: <2020-07-15 Wed>
+**** TODO 英语阅读打卡9
+SCHEDULED: <2020-07-16 Thu>
+**** TODO 英语阅读打卡10
+SCHEDULED: <2020-07-17 Fri>
+**** TODO 英语阅读打卡11
+SCHEDULED: <2020-07-18 Sat>
+**** TODO 英语阅读打卡12
+SCHEDULED: <2020-07-20 Mon>
+**** TODO 英语阅读打卡13
+SCHEDULED: <2020-07-21 Tue>
+**** TODO 英语阅读打卡14
+SCHEDULED: <2020-07-22 Wed>
+**** TODO 英语阅读打卡15
+SCHEDULED: <2020-07-23 Thu>
+**** TODO 英语阅读打卡16
+SCHEDULED: <2020-07-24 Fri>
+**** TODO 英语阅读打卡17
+SCHEDULED: <2020-07-25 Sat>
+**** TODO 英语阅读打卡18
+SCHEDULED: <2020-07-27 Mon>
+**** TODO 英语阅读打卡19
+SCHEDULED: <2020-07-28 Tue>
+**** TODO 英语阅读打卡20
+SCHEDULED: <2020-07-29 Wed>
+**** TODO 英语阅读打卡21
+SCHEDULED: <2020-07-30 Thu>
+**** TODO 英语阅读打卡22
+SCHEDULED: <2020-07-31 Fri>
+**** TODO 英语阅读打卡23
+SCHEDULED: <2020-08-01 Sat>
+**** TODO 英语阅读打卡24
+SCHEDULED: <2020-08-03 Mon>
+**** TODO 英语阅读打卡25
+SCHEDULED: <2020-08-04 Tue>
+**** TODO 英语阅读打卡26
+SCHEDULED: <2020-08-05 Wed>
+**** TODO 英语阅读打卡27
+SCHEDULED: <2020-08-06 Thu>
+**** TODO 英语阅读打卡28
+SCHEDULED: <2020-08-07 Fri>
+**** TODO 英语阅读打卡29
+SCHEDULED: <2020-08-08 Sat>
+**** TODO 英语阅读打卡30
+SCHEDULED: <2020-08-10 Mon>
+**** TODO 英语阅读打卡31
+SCHEDULED: <2020-08-11 Tue>
+**** TODO 英语阅读打卡32
+SCHEDULED: <2020-08-12 Wed>
+**** TODO 英语阅读打卡33
+SCHEDULED: <2020-08-13 Thu>
+**** TODO 英语阅读打卡34
+SCHEDULED: <2020-08-14 Fri>
+**** TODO 英语阅读打卡35
+SCHEDULED: <2020-08-15 Sat>
+**** TODO 英语阅读打卡36
+SCHEDULED: <2020-08-17 Mon>
+**** TODO 英语阅读打卡37
+SCHEDULED: <2020-08-18 Tue>
+**** TODO 英语阅读打卡38
+SCHEDULED: <2020-08-19 Wed>
+**** TODO 英语阅读打卡39
+SCHEDULED: <2020-08-20 Thu>
+**** TODO 英语阅读打卡40
+SCHEDULED: <2020-08-21 Fri>
+**** TODO 英语阅读打卡41
+SCHEDULED: <2020-08-22 Sat>
+**** TODO 英语阅读打卡42
+SCHEDULED: <2020-08-24 Mon>
+**** TODO 英语阅读打卡43
+SCHEDULED: <2020-08-25 Tue>
+**** TODO 英语阅读打卡44
+SCHEDULED: <2020-08-26 Wed>
+**** TODO 英语阅读打卡45
+SCHEDULED: <2020-08-27 Thu>
+**** TODO 英语阅读打卡46
+SCHEDULED: <2020-08-28 Fri>
+**** TODO 英语阅读打卡47
+SCHEDULED: <2020-08-29 Sat>
+**** TODO 英语阅读打卡48
+SCHEDULED: <2020-08-31 Mon>
+*** [0/48] 听力打卡
+**** TODO 英语听力打卡1
+SCHEDULED: <2020-07-14 Tue>
+**** TODO 英语听力打卡2
+SCHEDULED: <2020-07-14 Tue>
+**** TODO 英语听力打卡3
+SCHEDULED: <2020-07-15 Wed>
+**** TODO 英语听力打卡4
+SCHEDULED: <2020-07-15 Wed>
+**** TODO 英语听力打卡5
+SCHEDULED: <2020-07-16 Thu>
+**** TODO 英语听力打卡6
+SCHEDULED: <2020-07-16 Thu>
+**** TODO 英语听力打卡7
+SCHEDULED: <2020-07-17 Fri>
+**** TODO 英语听力打卡8
+SCHEDULED: <2020-07-17 Fri>
+**** TODO 英语听力打卡9
+SCHEDULED: <2020-07-18 Sat>
+**** TODO 英语听力打卡10
+SCHEDULED: <2020-07-18 Sat>
+**** TODO 英语听力打卡11
+SCHEDULED: <2020-07-19 Sun>
+**** TODO 英语听力打卡12
+SCHEDULED: <2020-07-20 Mon>
+**** TODO 英语听力打卡13
+SCHEDULED: <2020-07-21 Tue>
+**** TODO 英语听力打卡14
+SCHEDULED: <2020-07-22 Wed>
+**** TODO 英语听力打卡15
+SCHEDULED: <2020-07-23 Thu>
+**** TODO 英语听力打卡16
+SCHEDULED: <2020-07-24 Fri>
+**** TODO 英语听力打卡17
+SCHEDULED: <2020-07-25 Sat>
+**** TODO 英语听力打卡18
+SCHEDULED: <2020-07-27 Mon>
+**** TODO 英语听力打卡19
+SCHEDULED: <2020-07-28 Tue>
+**** TODO 英语听力打卡20
+SCHEDULED: <2020-07-29 Wed>
+**** TODO 英语听力打卡21
+SCHEDULED: <2020-07-30 Thu>
+**** TODO 英语听力打卡22
+SCHEDULED: <2020-07-31 Fri>
+**** TODO 英语听力打卡23
+SCHEDULED: <2020-08-01 Sat>
+**** TODO 英语听力打卡24
+SCHEDULED: <2020-08-03 Mon>
+**** TODO 英语听力打卡25
+SCHEDULED: <2020-08-04 Tue>
+**** TODO 英语听力打卡26
+SCHEDULED: <2020-08-05 Wed>
+**** TODO 英语听力打卡27
+SCHEDULED: <2020-08-06 Thu>
+**** TODO 英语听力打卡28
+SCHEDULED: <2020-08-07 Fri>
+**** TODO 英语听力打卡29
+SCHEDULED: <2020-08-08 Sat>
+**** TODO 英语听力打卡30
+SCHEDULED: <2020-08-10 Mon>
+**** TODO 英语听力打卡31
+SCHEDULED: <2020-08-11 Tue>
+**** TODO 英语听力打卡32
+SCHEDULED: <2020-08-12 Wed>
+**** TODO 英语听力打卡33
+SCHEDULED: <2020-08-13 Thu>
+**** TODO 英语听力打卡34
+SCHEDULED: <2020-08-14 Fri>
+**** TODO 英语听力打卡35
+SCHEDULED: <2020-08-15 Sat>
+**** TODO 英语听力打卡36
+SCHEDULED: <2020-08-17 Mon>
+**** TODO 英语听力打卡37
+SCHEDULED: <2020-08-18 Tue>
+**** TODO 英语听力打卡38
+SCHEDULED: <2020-08-19 Wed>
+**** TODO 英语听力打卡39
+SCHEDULED: <2020-08-20 Thu>
+**** TODO 英语听力打卡40
+SCHEDULED: <2020-08-21 Fri>
+**** TODO 英语听力打卡41
+SCHEDULED: <2020-08-22 Sat>
+**** TODO 英语听力打卡42
+SCHEDULED: <2020-08-24 Mon>
+**** TODO 英语听力打卡43
+SCHEDULED: <2020-08-25 Tue>
+**** TODO 英语听力打卡44
+SCHEDULED: <2020-08-26 Wed>
+**** TODO 英语听力打卡45
+SCHEDULED: <2020-08-27 Thu>
+**** TODO 英语听力打卡46
+SCHEDULED: <2020-08-28 Fri>
+**** TODO 英语听力打卡47
+SCHEDULED: <2020-08-29 Sat>
+**** TODO 英语听力打卡48
+SCHEDULED: <2020-08-31 Mon>
+** [0/29] 物理
+*** [0/10] 巩固：完成暑假作业
+**** TODO 物理暑假作业一
+SCHEDULED: <2020-07-15 Wed>
+**** TODO 物理暑假作业二
+SCHEDULED: <2020-07-17 Fri>
+**** TODO 物理暑假作业三
+SCHEDULED: <2020-07-22 Wed>
+**** TODO 物理暑假作业四
+SCHEDULED: <2020-07-24 Fri>
+**** TODO 物理暑假作业五
+SCHEDULED: <2020-07-29 Wed>
+**** TODO 物理暑假作业六
+SCHEDULED: <2020-07-31 Fri>
+**** TODO 物理暑假作业七
+SCHEDULED: <2020-08-05 Wed>
+**** TODO 物理暑假作业八
+SCHEDULED: <2020-08-07 Fri>
+**** TODO 物理暑假作业九
+SCHEDULED: <2020-08-12 Wed>
+**** TODO 物理暑假作业十
+SCHEDULED: <2020-08-14 Fri>
+*** [0/6] 预习：新课
+**** TODO 物理预习：二力平衡
+SCHEDULED: <2020-07-13 Mon>
+**** TODO 物理预习：惯性和牛顿第一定律
+SCHEDULED: <2020-07-20 Mon>
+**** TODO 物理预习：简单机械-杠杆
+SCHEDULED: <2020-07-27 Mon>
+**** TODO 物理预习：简单机械-滑轮
+SCHEDULED: <2020-08-03 Mon>
+**** TODO 物理预习：机械功物理预习：
+SCHEDULED: <2020-08-10 Mon>
+**** TODO 物理预习：机械能
+SCHEDULED: <2020-08-17 Mon>
+***  [0/13] 拓展：新编初中物理竞赛辅导
+**** TODO 物理拓展：声音的产生与传播 冲击波
+SCHEDULED: <2020-07-15 Wed>
+**** TODO 物理拓展：多普勒效应初步
+SCHEDULED: <2020-07-17 Fri>
+**** TODO 物理拓展：光的直线传播与反射
+SCHEDULED: <2020-07-22 Wed>
+**** TODO 物理拓展：平面镜成像
+SCHEDULED: <2020-07-24 Fri>
+**** TODO 物理拓展：光的折射
+SCHEDULED: <2020-07-29 Wed>
+**** TODO 物理拓展：透镜与透镜成像
+SCHEDULED: <2020-07-31 Fri>
+**** TODO 物理拓展：匀速直线运动与图像问题
+SCHEDULED: <2020-08-05 Wed>
+**** TODO 物理拓展：简单的变速直线运动
+SCHEDULED: <2020-08-12 Wed>
+**** TODO 物理拓展：圆周运动
+SCHEDULED: <2020-08-19 Wed>
+**** TODO 物理拓展：相对运动
+SCHEDULED: <2020-08-26 Wed>
+**** TODO 物理拓展：小船过河问题初探
+**** TODO 物理拓展：几种常见的力
+**** TODO 物理拓展：力的合成与分解

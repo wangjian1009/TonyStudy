@@ -15,7 +15,6 @@
 #+LATEX_HEADER: \newcommand\epart{\part}
 #+LATEX_HEADER: \everymath{\displaystyle}
 :END:
-#+LATEX_CLASS_OPTIONS: [answers]
 
 * 单元测试
 ** Exercise for U1 (A)

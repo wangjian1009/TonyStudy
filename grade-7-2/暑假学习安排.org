@@ -11,58 +11,125 @@
 :END:
 
 * 整体安排
-** 晓黑板打卡第一次
+:PROPERTIES:
+:ID:       4014D691-CB10-4870-AD2C-3EE5F64C69A3
+:END:
+** DONE 晓黑板打卡第一次
 SCHEDULED: <2020-08-01 Sat>
-** 晓黑板打卡第二次
+:PROPERTIES:
+:ID:       7F95C795-B948-440C-BD89-5B201957957F
+:END:
+** DONE 晓黑板打卡第二次
 SCHEDULED: <2020-08-08 Sat>
-** 晓黑板打卡第三次
+:PROPERTIES:
+:ID:       B2FB2FA5-3A0F-43C4-B166-8C6E5E2A6400
+:END:
+** DONE 晓黑板打卡第三次
 SCHEDULED: <2020-08-15 Sat>
-** 晓黑板打卡第四次
+:PROPERTIES:
+:ID:       1B57C6C8-2176-4935-8D22-DC7E76FCDA77
+:END:
+** TODO 晓黑板打卡第四次
 SCHEDULED: <2020-08-22 Sat>
-* [0/8] Steam学习
-** TODO Steam网课 1
+:PROPERTIES:
+:ID:       00A01B10-1408-4F25-A3B1-9853DF58F759
+:END:
+* [8/8] Steam学习
+:PROPERTIES:
+:ID:       5F156DEC-9768-4A5D-8872-28A7F5AAB7D3
+:END:
+** DONE Steam网课 1
 SCHEDULED: <2020-07-15 Wed>
-** TODO Steam网课 2
+:PROPERTIES:
+:ID:       28AA487B-82E4-4908-95A8-4C682F696094
+:END:
+** DONE Steam网课 2
 SCHEDULED: <2020-07-17 Fri>
-** TODO Steam网课 3
+:PROPERTIES:
+:ID:       5BDEC3D8-8A12-4D51-AC6E-F949A29BF55D
+:END:
+** DONE Steam网课 3
 SCHEDULED: <2020-07-22 Wed>
-** TODO Steam网课 4
+:PROPERTIES:
+:ID:       8F9475C9-863C-424C-89DC-60A290B3B2E5
+:END:
+** DONE Steam网课 4
 SCHEDULED: <2020-07-24 Fri>
-** TODO Steam网课 5
+:PROPERTIES:
+:ID:       AD6C284A-C39D-404C-9779-A836EF24883C
+:END:
+** DONE Steam网课 5
 SCHEDULED: <2020-07-29 Wed>
-** TODO Steam网课 6
+:PROPERTIES:
+:ID:       13856D9F-38AD-408E-9526-E8021A862191
+:END:
+** DONE Steam网课 6
 SCHEDULED: <2020-07-31 Fri>
-** TODO Steam网课 7
+:PROPERTIES:
+:ID:       88255C4E-5B0C-4F2F-9A94-CF0F20782103
+:END:
+** DONE Steam网课 7
 SCHEDULED: <2020-08-05 Wed>
-** TODO Steam网课 8
+:PROPERTIES:
+:ID:       6D2B775D-556B-48F1-8981-2CE5248C5F7F
+:END:
+** DONE Steam网课 8
 SCHEDULED: <2020-08-07 Fri>
-* [22/380] 暑假作业
+:PROPERTIES:
+:ID:       2184335B-4D46-42F2-8BD0-6CD3F0D7945D
+:END:
+* [240/329] 暑假作业
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
+:ID:       7FAC56E6-DC74-430A-BEE2-FBFAC4FB1A11
 :END:
-** [13/50] 语文作业
-*** [0/25] 八上古诗文背诵
-**** [0/6] 一、课内文言文背诵篇目
-***** TODO 三峡   郦道元
+** [46/50] 语文作业
+:PROPERTIES:
+:ID:       E67C496F-797D-4401-AC34-CEDF3041EE7C
+:END:
+*** [22/25] 八上古诗文背诵
+:PROPERTIES:
+:ID:       53417F28-EE18-4A16-A055-C871EC43C5B0
+:END:
+**** [6/6] 一、课内文言文背诵篇目
+:PROPERTIES:
+:ID:       BE1372C8-ECB1-47B8-B0A8-120B3FD6EFFA
+:END:
+***** DONE 三峡   郦道元
 SCHEDULED: <2020-07-14 Tue>
+:PROPERTIES:
+:ID:       D27D93F5-3C0C-4E45-A800-FF2B0233B132
+:END:
 自三峡七百里中，两岸连山，略无阙处。重岩叠嶂，隐天蔽日，自非亭午夜分，不见曦月。
 至于夏水襄陵，沿溯阻绝。或王命急宣，有时朝发白帝，暮到江陵，其间千二百里，虽乘奔御风，不以疾也。
 春冬之时，则素湍绿潭，回清倒影，绝巘多生怪柏，悬泉瀑布，飞漱其间，清荣峻茂，良多趣味。
 每至晴初霜旦，林寒涧肃，常有高猿长啸，属引凄异，空谷传响，哀转久绝。故渔者歌曰：“巴东三峡巫峡长，猿鸣三声泪沾裳。”
 (备注：巘，应写作“山献”，“山”为偏旁，输入法打不出来。)
-***** TODO 答谢中书书   陶弘景
+***** DONE 答谢中书书   陶弘景
 SCHEDULED: <2020-07-16 Thu>
+:PROPERTIES:
+:ID:       35617041-D765-44CB-BCD3-B19EF952ECEB
+:END:
 山川之美，古来共谈。高峰入云，清流见底。两岸石壁，五色交辉。青林翠竹，四时俱备。晓雾将歇，猿鸟乱鸣；夕日欲颓，沉鳞竞跃。实是欲界之仙都。自康乐以来，未复有能与其奇者。
-***** TODO 记承天寺夜游 苏轼
+***** DONE 记承天寺夜游 苏轼
 SCHEDULED: <2020-07-18 Sat>
+:PROPERTIES:
+:ID:       D970F58F-36CE-4DFC-8678-4D65B4B01D9F
+:END:
 元丰六年十月十二日夜，解衣欲睡，月色入户，欣然起行。念无与为乐者，遂至承天寺寻张怀民。怀民亦未寝，相与步于中庭。庭下如积水空明，水中藻、荇交横，盖竹柏影也。何夜无月？何处无竹柏？但少闲人如吾两人者耳。
-***** TODO 与朱元思书  吴均
+***** DONE 与朱元思书  吴均
 SCHEDULED: <2020-07-20 Mon>
+:PROPERTIES:
+:ID:       7203FCCC-ED39-461F-97AF-5E3C1E7177E9
+:END:
 风烟俱净，天山共色。从流飘荡，任意东西。自富阳至桐庐一百许里，奇山异水，天下独绝。
 水皆缥碧，千丈见底。游鱼细石，直视无碍。急湍甚箭，猛浪若奔。
 夹岸高山，皆生寒树，负势竞上，互相轩邈，争高直指，千百成峰。泉水激石，泠泠作响；好鸟相鸣，嘤嘤成韵。蝉则千转不穷，猿则百叫无绝。鸢飞戾天者，望峰息心；经纶世务者，窥谷忘反。横柯上蔽，在昼犹昏；疏条交映，有时见日。
-***** TODO 《孟子》三章
+***** DONE 《孟子》三章
 SCHEDULED: <2020-07-21 Tue>
+:PROPERTIES:
+:ID:       A3578F1D-D95E-42B5-A89B-E82C9086BD83
+:END:
 富贵不能淫
 景春曰:“公孙衍、张仪岂不诚大丈夫哉?一怒而诸侯惧,安居而天下熄。”
 孟子曰:“是焉得为大丈夫乎?子未学礼乎?丈夫之冠也,父命之；女子之嫁也,母命之,往送之门,戒之曰:‘往之女家,必敬必戒,无违夫子!’以顺为正者,妾妇之道也。居天下之广居,立天下之正位,行天下之大道。得志,与民由之；不得志,独行其道。富贵不能淫,贫贱不能移,威武不能屈。此之谓大丈夫。”
@@ -73,81 +140,126 @@ SCHEDULED: <2020-07-21 Tue>
 生于忧患,死于安乐
 舜发于畎亩之中,傅说举于版筑之间,胶鬲举于鱼盐之中,管夷吾举于士,孙叔敖举于海,百里奚举于市。故天将降大任于是人也，必先苦其心志,劳其筋骨,饿其体肤,空乏其身,行拂乱其所为,所以动心忍性,曾益其所不能。
 人恒过,然后能改；困于心,衡于虑,而后作；征于色,发于声，而后喻。入则无法家拂士，出则无敌国外患者，国恒亡。然后知生于忧患而死于安乐也。
-***** TODO 愚公移山     《列子》
+***** DONE 愚公移山     《列子》
 SCHEDULED: <2020-07-25 Sat>
+:PROPERTIES:
+:ID:       99B356B9-A628-4566-BB5B-9A6450E380AE
+:END:
 太行、王屋二山,方七百里,高万仞,本在冀州之南,河阳之北。
 北山愚公者,年且九十,面山而居。惩山北之塞,出入之迂也,聚室而谋曰:“吾与汝毕力平险,指通豫南,达于汉阴,可乎?”杂然相许。其妻献疑曰:“以君之力,曾不能损魁父之丘,如太行、王屋何?且焉置土石?”杂曰:“投诸渤海之尾,隐土之北。”遂率子孙荷担者三夫,叩石垦壤,箕畚运于渤海之尾。邻人京城氏之孀妻有遗男,始龀,跳往助之。寒暑易节,始一反焉。
 河曲智叟笑而止之曰:“甚矣,汝之不惠!以残年余力,曾不能毁山之一毛,其如土石何?”北山愚公长息曰:“汝心之固,固不可彻，曾不若孀妻弱子。虽我之死,有子存焉。子又生孙,孙又生子；子又有子,子又有孙；子子孙孙无穷匮也,而山不加增,何苦而不平?”河曲智叟亡以应。
 操蛇之神闻之,惧其不已也,告之于帝。帝感其诚,命夸娥氏二子负二山,一厝朔东,一厝雍南。自此,冀之南,汉之阴,无陇断焉。
-**** [0/10] 二、课内诗词背诵篇目
-***** TODO 野望    王绩
+**** [10/10] 二、课内诗词背诵篇目
+:PROPERTIES:
+:ID:       E569ABB3-DA31-49FD-9AFB-A767E1882957
+:END:
+***** DONE 野望    王绩
 SCHEDULED: <2020-07-27 Mon>
+:PROPERTIES:
+:ID:       796F71BD-D85C-40EF-92EE-7A282023937A
+:END:
 东皋薄暮望，徙倚欲何依。
 树树皆秋色，山山唯落晖。
 牧人驱犊返，猎马带禽归。
 相顾无相识，长歌怀采薇。
-***** TODO 黄鹤楼     崔颢
+***** DONE 黄鹤楼     崔颢
 SCHEDULED: <2020-07-28 Tue>
+:PROPERTIES:
+:ID:       94F93278-A89F-4A74-A6A9-81DFF8E8B826
+:END:
 昔人已乘黄鹤去，此地空余黄鹤楼。
 黄鹤一去不复返，白云千载空悠悠。
 晴川历历汉阳树，芳草萋萋鹦鹉洲。
 日暮乡关何处是？烟波江上使人愁。
-***** TODO 使至塞上   王维
+***** DONE 使至塞上   王维
 SCHEDULED: <2020-07-29 Wed>
+:PROPERTIES:
+:ID:       AE54C6DD-E9A4-418B-9442-DF4C34E57C01
+:END:
 单车欲问边，属国过居延。
 征蓬出汉塞，归雁入胡天。
 大漠孤烟直，长河落日圆。
 萧关逢候骑，都护在燕然。
-***** TODO 渡荆门送别   李白
+***** DONE 渡荆门送别   李白
 SCHEDULED: <2020-07-30 Thu>
+:PROPERTIES:
+:ID:       EE100882-2AB2-4F01-9E97-17A53EB357AB
+:END:
 渡远荆门外，来从楚国游。
 山随平野尽，江入大荒流。
 月下飞天镜，云生结海楼。
 仍怜故乡水，万里送行舟。
-***** TODO 钱塘湖春行   白居易
+***** DONE 钱塘湖春行   白居易
 SCHEDULED: <2020-07-31 Fri>
+:PROPERTIES:
+:ID:       1DDF1FC4-8911-4725-B7AF-CC1AF3D6ABA9
+:END:
 孤山寺北贾亭西，水面初平云脚低。
 几处早莺争暖树，谁家新燕啄春泥。
 乱花渐欲迷人眼，浅草才能没马蹄。
 最爱湖东行不足，绿杨阴里白沙堤。
 
-***** TODO 饮酒(其五）  陶渊明
+***** DONE 饮酒(其五）  陶渊明
 SCHEDULED: <2020-08-01 Sat>
+:PROPERTIES:
+:ID:       A9A1DCAC-F5D0-4457-8D66-F487D6377F2B
+:END:
 结庐在人境,而无车马喧。
 问君何能尔?心远地自偏。
 采菊东篱下,悠然见南山。
 山气日夕佳,飞鸟相与还。
 此中有真意,欲辨已忘言。
-***** TODO 春望   杜甫
+***** DONE 春望   杜甫
 SCHEDULED: <2020-08-03 Mon>
+:PROPERTIES:
+:ID:       7BF2374A-E2BE-473D-B23F-4742BA8FA17A
+:END:
 国破山河在,城春草木深。
 感时花溅泪,恨别鸟惊心。
 烽火连三月,家书抵万金。
 白头搔更短,浑欲不胜簪。   
-***** TODO 雁门太守行  李贺
+***** DONE 雁门太守行  李贺
 SCHEDULED: <2020-08-04 Tue>
+:PROPERTIES:
+:ID:       0AF30A2E-21D9-4C5D-882F-DAB707138F5E
+:END:
 黑云压城城欲摧,甲光向日金鳞开。
 角声满天秋色里,塞上燕脂凝夜紫。
 半卷红旗临易水,霜重鼓寒声不起。
 报君黄金台上意,提携玉龙为君死。
 
-***** TODO 赤壁   杜牧
+***** DONE 赤壁   杜牧
 SCHEDULED: <2020-08-05 Wed>
+:PROPERTIES:
+:ID:       820AEAB6-4675-4D6A-96A0-9B35BE09224F
+:END:
 折戟沉沙铁未销,自将磨洗认前朝。
 东风不与周郎便,铜雀春深锁二乔。
-***** TODO 渔家傲   李清照
+***** DONE 渔家傲   李清照
 SCHEDULED: <2020-08-06 Thu>
+:PROPERTIES:
+:ID:       10B48438-CFA8-46AE-99D7-0DAD90C0806D
+:END:
 天接云涛连晓雾,星河欲转千帆舞。仿佛梦魂归帝所,闻天语,殷勤问我归何处。
 我报路长嗟日暮,学诗谩有惊人句。九万里风鹏正举。风休住,蓬舟吹取三山去!
-**** [0/8] 三、课外诗词背诵篇目
-***** TODO 庭中有奇树  《古诗十九首》
+**** [6/8] 三、课外诗词背诵篇目
+:PROPERTIES:
+:ID:       89A562A1-2893-4BBE-8DDE-062233B62CE0
+:END:
+***** DONE 庭中有奇树  《古诗十九首》
 SCHEDULED: <2020-08-07 Fri>
+:PROPERTIES:
+:ID:       129A9243-F151-476F-8D56-656F0C09B233
+:END:
 庭中有奇树，绿叶发华滋。
 攀条折其荣，将以遗所思。
 馨香盈怀袖，路远莫致之。
 此物何足贵？但感别经时。
-***** TODO 龟虽寿 曹操
+***** DONE 龟虽寿 曹操
 SCHEDULED: <2020-08-08 Sat>
+:PROPERTIES:
+:ID:       A97A7EB8-08E7-4886-9EC3-212D29CC82FC
+:END:
 神龟虽寿，犹有竟时；
 腾蛇乘雾，终为土灰。
 老骥伏枥，志在千里；
@@ -155,36 +267,60 @@ SCHEDULED: <2020-08-08 Sat>
 盈缩之期，不但在天；
 养怡之福，可得永年。
 幸甚至哉，歌以咏志。
-***** TODO 赠从弟（其二）  刘桢
+***** DONE 赠从弟（其二）  刘桢
 SCHEDULED: <2020-08-10 Mon>
+:PROPERTIES:
+:ID:       026AC5E6-6AA7-4F80-90BB-427C5524F30C
+:END:
 亭亭山上松，瑟瑟谷中风。
 风声一何盛，松枝一何劲！
 冰霜正惨凄，终岁常端正。
 岂不罹凝寒？松柏有本性。
-***** TODO 梁甫行   曹植
+***** DONE 梁甫行   曹植
 SCHEDULED: <2020-08-11 Tue>
+:PROPERTIES:
+:ID:       D1A4C248-3C7A-43CA-858F-C6CADFE1ED30
+:END:
 八方各异气，千里殊风雨。
 剧哉边海民，寄身于草野。
 妻子象禽兽，行止依林阻。
 柴门何萧条，狐兔翔我宇。
-***** TODO 浣溪沙    晏殊
+***** DONE 浣溪沙    晏殊
 SCHEDULED: <2020-08-12 Wed>
+:PROPERTIES:
+:ID:       65AB3C54-7F10-43BF-958C-87847E8AC5F6
+:END:
 一曲新词酒一杯,去年天气旧亭台。夕阳西下几时回？
 无可奈何花落去,似曾相识燕归来。小园香径独徘徊。 
-***** TODO 采桑子   欧阳修
+***** DONE 采桑子   欧阳修
 SCHEDULED: <2020-08-13 Thu>
+:PROPERTIES:
+:ID:       6F56844F-70A9-4494-A473-A55B946383FC
+:END:
 轻舟短棹西湖好,绿水逶迤。芳草长堤,隐隐笙歌处处随。
 无风水面琉璃滑,不觉船移。微动涟漪，惊起沙禽掠岸飞。
 ***** TODO 相见欢    朱敦儒
-SCHEDULED: <2020-08-14 Fri>
+SCHEDULED: <2020-08-17 Mon>
+:PROPERTIES:
+:ID:       110B1993-A16C-47C7-8241-C5EEC93F3C26
+:END:
 金陵城上西楼,倚清秋。万里夕阳垂地大江。
 中原乱,簪缨散,几时收？试倩悲风吹泪过扬州。
 ***** TODO 如梦令  李清照
-SCHEDULED: <2020-08-15 Sat>
+SCHEDULED: <2020-08-18 Tue>
+:PROPERTIES:
+:ID:       CF83D84B-3386-40F6-8C0D-AE0E498C0089
+:END:
 常记溪亭日暮,沉醉不知归路。兴尽晚回舟,误入藕花深处。争渡,争渡,惊起一滩鸥鹭。
 **** [0/1] 附：熟读课文
+:PROPERTIES:
+:ID:       E3CD73F8-ECEA-420B-B165-8A6C54819BA4
+:END:
 ***** TODO 23  周亚夫军细柳
 SCHEDULED: <2020-08-17 Mon>
+:PROPERTIES:
+:ID:       D73F05B9-9947-4F5B-B379-7907760CB748
+:END:
 文帝之后六年,匈奴大入边。乃以宗正刘礼为将军,军霸上；祝兹
 侯徐厉为将军,军棘门；以河内守亚夫为将军,军细柳:以备胡。
 上自劳军。至霸上及棘门军,直驰入,将以下骑送迎。已而之细柳
@@ -192,716 +328,1744 @@ SCHEDULED: <2020-08-17 Mon>
 诏’。”居无何,上至,又不得入。于是上乃使使持节诏将军:“吾欲入劳军。”亚夫乃传言开壁门。壁门士吏谓从属车骑曰:“将军约,军中不得驱驰。”于是天子乃按辔徐行。至营,将军亚夫持兵揖曰:“介胄之士不拜,请以军礼见。”天子为动,改容式车。使人称谢：“皇帝敬劳将军。”成礼而去。
 既出军门,群臣皆惊。文帝曰:“嗟乎,此真将军矣!曩者霸上、棘门军,若儿戏耳,其将固可袭而虏也。至于亚夫,可得而犯邪!”称善者久之。
 *** [10/10] 现代文阅读
+:PROPERTIES:
+:ID:       9038F846-991F-4D5B-89EE-30A2B13BDDEA
+:END:
 **** DONE 语文现代文阅读 17
+:PROPERTIES:
+:ID:       84518695-3779-4487-B8BF-AA5728B830A1
+:END:
 **** DONE 语文现代文阅读 18
+:PROPERTIES:
+:ID:       1F244BB4-59FE-4B23-9598-1539D9BADB3F
+:END:
 **** DONE 语文现代文阅读 19
+:PROPERTIES:
+:ID:       2DC395CE-A23F-4231-AE9C-DE06F8647983
+:END:
 **** DONE 语文现代文阅读 21
+:PROPERTIES:
+:ID:       18A4F5CC-C640-46E8-9577-5929FF0DA6D9
+:END:
 **** DONE 语文现代文阅读 23
+:PROPERTIES:
+:ID:       A1C1E84F-E2F6-4BD3-90A9-DA1223418CE9
+:END:
 **** DONE 语文现代文阅读 27
+:PROPERTIES:
+:ID:       53D2F112-8885-4610-B12E-9CDF65F6FE4D
+:END:
 **** DONE 语文现代文阅读 28
+:PROPERTIES:
+:ID:       9523C7DB-EEB6-42F8-A8CF-15EE92971BE4
+:END:
 **** DONE 语文现代文阅读 30
+:PROPERTIES:
+:ID:       FFC44289-F03B-49ED-AB1D-FDA3A7DF595A
+:END:
 **** DONE 语文现代文阅读 31
+:PROPERTIES:
+:ID:       0469A862-65C6-4627-857A-3FAA9D5B4A0A
+:END:
 **** DONE 语文现代文阅读 36
-*** [0/10] 古诗文大赛（提高篇）36-45
-**** TODO 古诗文大赛36
+:PROPERTIES:
+:ID:       21A97024-6CEF-488D-A6AA-0F4D0D0CEF0B
+:END:
+*** [10/10] 古诗文大赛（提高篇）36-45
+:PROPERTIES:
+:ID:       5F48F31A-F378-4E66-AE7B-2D0E47425A43
+:END:
+**** DONE 古诗文大赛36
 SCHEDULED: <2020-07-18 Sat>
-**** TODO 古诗文大赛37
+:PROPERTIES:
+:ID:       AD255C2D-E864-4138-A93B-64CD548C736A
+:END:
+**** DONE 古诗文大赛37
 SCHEDULED: <2020-07-20 Mon>
-**** TODO 古诗文大赛38
+:PROPERTIES:
+:ID:       BD03D692-FA8A-4625-9313-96F06EB3E4B2
+:END:
+**** DONE 古诗文大赛38
 SCHEDULED: <2020-07-21 Tue>
-**** TODO 古诗文大赛39
+:PROPERTIES:
+:ID:       BCAAAC54-6CE6-482F-9DA0-3CB4EE34B2B3
+:END:
+**** DONE 古诗文大赛39
 SCHEDULED: <2020-07-22 Wed>
-**** TODO 古诗文大赛40
+:PROPERTIES:
+:ID:       13456803-FA0C-4128-8655-AB84653F38BE
+:END:
+**** DONE 古诗文大赛40
 SCHEDULED: <2020-07-23 Thu>
-**** TODO 古诗文大赛41
+:PROPERTIES:
+:ID:       9B09CE75-912E-47BA-8E9C-28C1DE7B722C
+:END:
+**** DONE 古诗文大赛41
 SCHEDULED: <2020-07-24 Fri>
-**** TODO 古诗文大赛42
+:PROPERTIES:
+:ID:       9F09718E-BF06-42C3-AD57-276E1C70AEF2
+:END:
+**** DONE 古诗文大赛42
 SCHEDULED: <2020-07-25 Sat>
-**** TODO 古诗文大赛43
+:PROPERTIES:
+:ID:       E90C32BF-F9D1-431D-99BB-4B91A3BFB0F9
+:END:
+**** DONE 古诗文大赛43
 SCHEDULED: <2020-07-27 Mon>
-**** TODO 古诗文大赛44
+:PROPERTIES:
+:ID:       C00C1DF5-1D74-42D0-B5F9-C90594AAAE6F
+:END:
+**** DONE 古诗文大赛44
 SCHEDULED: <2020-07-28 Tue>
-**** TODO 古诗文大赛45
+:PROPERTIES:
+:ID:       EE58791D-FF24-41BD-8BA1-5BE48806CAF6
+:END:
+**** DONE 古诗文大赛45
 SCHEDULED: <2020-07-29 Wed>
-*** [1/2] 随笔两篇， 紫薯不少于700字
+:PROPERTIES:
+:ID:       E262A0F4-769A-4E02-A022-73739276AE4F
+:END:
+*** [2/2] 随笔两篇， 紫薯不少于700字
+:PROPERTIES:
+:ID:       385D870B-AC4C-4395-85E0-0D5749003AC1
+:END:
 **** DONE 《有一种甜味》
 SCHEDULED: <2020-07-12 Sun>
-**** TODO 《生活留痕》
+:PROPERTIES:
+:ID:       B5B01D52-81BF-4E67-84D3-FACFEC901131
+:END:
+**** DONE 《生活留痕》
 SCHEDULED: <2020-07-19 Sun>
+:PROPERTIES:
+:ID:       146047E4-F2BC-48CB-B351-DDF603E53890
+:END:
 *** [2/3] 小思阅读
+:PROPERTIES:
+:ID:       6E240283-F6E2-47DC-B85A-6032BF4F5F6C
+:END:
 **** TODO 《红岩》
-SCHEDULED: <2020-07-26 Sun>
+SCHEDULED: <2020-08-18 Tue>
+:PROPERTIES:
+:ID:       FECBBC04-F92F-4862-966B-C42AE263F4D1
+:END:
 **** DONE 《银河帝国-基地》
+:PROPERTIES:
+:ID:       279E51CE-F1C4-4F4E-B31C-AF226A27E3E3
+:END:
 **** DONE 《哈利波特与死亡圣器》
-** [1/44] 数学
-*** [1/5] 完成暑假作业25天内容
+:PROPERTIES:
+:ID:       3EBF17B9-32F7-4609-B397-05DB780B8DDF
+:END:
+** [18/44] 数学
+:PROPERTIES:
+:ID:       AE2E44CB-CA77-4F77-95B8-55D91BAC5521
+:END:
+*** [5/5] 完成暑假作业25天内容
+:PROPERTIES:
+:ID:       26C76C40-3518-4C00-AC05-126938590731
+:END:
 **** DONE 数学暑假作业1-5
 SCHEDULED: <2020-07-11 Sat>
-**** TODO 数学暑假作业6-10
+:PROPERTIES:
+:ID:       8D9E8E84-7602-49BF-96C2-482EBDCA377E
+:END:
+**** DONE 数学暑假作业6-10
 SCHEDULED: <2020-07-14 Tue>
-**** TODO 数学暑假作业11-15
+:PROPERTIES:
+:ID:       F24BE1DA-5405-4BA3-B70D-8F0202869F66
+:END:
+**** DONE 数学暑假作业11-15
 SCHEDULED: <2020-07-16 Thu>
-**** TODO 数学暑假作业16-20
+:PROPERTIES:
+:ID:       534957B5-F821-4CDD-B4B4-1436F9FCBDCC
+:END:
+**** DONE 数学暑假作业16-20
 SCHEDULED: <2020-07-21 Tue>
-**** TODO 数学暑假作业21-25
+:PROPERTIES:
+:ID:       227F6970-737F-473D-84C1-E2A4EAE36AC1
+:END:
+**** DONE 数学暑假作业21-25
 SCHEDULED: <2020-07-23 Thu>
-*** [0/10] 认真复习巩固七下几何，特别是三角形章节。
-**** TODO 数学巩固：相交线、平行线的判定
+:PROPERTIES:
+:ID:       F2CE1CDF-FD34-4814-B4EE-37C4932BD93A
+:END:
+*** [10/10] 认真复习巩固七下几何，特别是三角形章节。
+:PROPERTIES:
+:ID:       84542E74-B89F-428E-A786-0F8737EF1C5E
+:END:
+**** DONE 数学巩固：相交线、平行线的判定
 SCHEDULED: <2020-07-12 Sun>
-**** TODO 数学巩固：平行线的性质
+:PROPERTIES:
+:ID:       563D295B-450F-472D-81D9-CD03BB5A349A
+:END:
+**** DONE 数学巩固：平行线的性质
 SCHEDULED: <2020-07-16 Thu>
-**** TODO 数学巩固：平行线综合训练
+:PROPERTIES:
+:ID:       FB2004FB-4096-4530-BD90-05CC07751CD6
+:END:
+**** DONE 数学巩固：平行线综合训练
 SCHEDULED: <2020-07-23 Thu>
-**** TODO 数学巩固：三角形的有关概念和性质
+:PROPERTIES:
+:ID:       F835C049-2BBD-42F9-BDAD-D7B36AC6553A
+:END:
+**** DONE 数学巩固：三角形的有关概念和性质
 SCHEDULED: <2020-07-26 Sun>
-**** TODO 数学巩固：全等三角形（1）
+:PROPERTIES:
+:ID:       82082644-B64B-43B3-BB7A-6EA2D1C1A6F5
+:END:
+**** DONE 数学巩固：全等三角形（1）
 SCHEDULED: <2020-07-30 Thu>
-**** TODO 数学巩固：全等三角形（2）
+:PROPERTIES:
+:ID:       B5DB3B7B-CAE6-48D7-BF5A-F6EAB55A0FFB
+:END:
+**** DONE 数学巩固：全等三角形（2）
 SCHEDULED: <2020-08-02 Sun>
-**** TODO 数学巩固：全等三角形综合训练
+:PROPERTIES:
+:ID:       3E3D3785-2A30-41CB-AD2B-C4704A140A61
+:END:
+**** DONE 数学巩固：全等三角形综合训练
 SCHEDULED: <2020-08-06 Thu>
-**** TODO 数学巩固：等腰三角形的性质与判定
+:PROPERTIES:
+:ID:       92DB702D-6A65-4C2B-BEE9-B09F98037A45
+:END:
+**** DONE 数学巩固：等腰三角形的性质与判定
 SCHEDULED: <2020-08-09 Sun>
-**** TODO 数学巩固：等腰三角形、等边三角形
+:PROPERTIES:
+:ID:       916A7562-A7A5-4E79-8FD9-BD2E576E7E81
+:END:
+**** DONE 数学巩固：等腰三角形、等边三角形
 SCHEDULED: <2020-08-13 Thu>
-**** TODO 数学巩固：三角形综合训练
+:PROPERTIES:
+:ID:       CBD50EB6-58DB-44F2-AA19-700E2368A7B7
+:END:
+**** DONE 数学巩固：三角形综合训练
 SCHEDULED: <2020-08-16 Sun>
-*** [0/13] 预习一元二次方程的应用、函数
-**** TODO 17.4 一元二次方程的应用 (1)
+:PROPERTIES:
+:ID:       58D6C55E-AF41-42B0-81DE-72BFCFCF273A
+:END:
+*** [3/13] 预习一元二次方程的应用、函数
+:PROPERTIES:
+:ID:       C7FE0859-679D-48D0-B756-9CE65012F0A9
+:END:
+**** DONE 17.4 一元二次方程的应用 (1)
 SCHEDULED: <2020-08-20 Thu>
-**** TODO 17.4 一元二次方程的应用 (2)
+:PROPERTIES:
+:ID:       E29F2F5E-0A61-4ACF-8CA6-41BEDB485D19
+:END:
+**** DONE 17.4 一元二次方程的应用 (2)
 SCHEDULED: <2020-08-20 Thu>
-**** TODO 18.1 函数的概念 (1)
+:PROPERTIES:
+:ID:       15CF7324-ADA4-48DC-9EB5-CBC530F39CDF
+:END:
+**** DONE 18.1 函数的概念 (1)
 SCHEDULED: <2020-08-23 Sun>
+:PROPERTIES:
+:ID:       965646DE-5CFD-4B52-90FE-49DAC3A1601D
+:END:
 **** TODO 18.1 函数的概念 (2)
-SCHEDULED: <2020-08-23 Sun>
-**** TODO 18.2 正比例函数 (1)
-SCHEDULED: <2020-08-25 Tue>
-**** TODO 18.2 正比例函数 (2)
-SCHEDULED: <2020-08-25 Tue>
-**** TODO 18.2 正比例函数 (3)
-SCHEDULED: <2020-08-25 Tue>
-**** TODO 18.3 反比例函数 (1)
-SCHEDULED: <2020-08-27 Thu>
-**** TODO 18.3 反比例函数 (2)
-SCHEDULED: <2020-08-27 Thu>
-**** TODO 18.3 反比例函数 (3)
-SCHEDULED: <2020-08-27 Thu>
-**** TODO 18.4 函数的表示法 (1)
-SCHEDULED: <2020-08-30 Sun>
-**** TODO 18.4 函数的表示法 (2)
-SCHEDULED: <2020-08-30 Sun>
-**** TODO 18.4 函数的表示法 (3)
-SCHEDULED: <2020-08-30 Sun>
-*** [0/16] 《欣竹》中的计算题作为巩固练习按照自己的能力完成。
-**** TODO 《欣竹》二次根式一
-SCHEDULED: <2020-07-20 Mon>
-**** TODO 《欣竹》二次根式二
-SCHEDULED: <2020-07-27 Mon>
-**** TODO 《欣竹》最简二次根式和同类二次根式一
-SCHEDULED: <2020-07-28 Tue>
-**** TODO 《欣竹》最简二次根式和同类二次根式二
-SCHEDULED: <2020-07-30 Thu>
-**** TODO 《欣竹》二次根式的运算一
-SCHEDULED: <2020-08-03 Mon>
-**** TODO 《欣竹》二次根式的运算二
-SCHEDULED: <2020-08-04 Tue>
-**** TODO 《欣竹》二次根式的运算三
-SCHEDULED: <2020-08-06 Thu>
-**** TODO 《欣竹》二次根式的运算四
-SCHEDULED: <2020-08-10 Mon>
-**** TODO 《欣竹》一元二次方程的概念
-SCHEDULED: <2020-08-11 Tue>
-**** TODO 《欣竹》一元二次方程的解法一 （开平方法）
-SCHEDULED: <2020-08-13 Thu>
-**** TODO 《欣竹》一元二次方程的解法二 （因式分解法）
 SCHEDULED: <2020-08-17 Mon>
-**** TODO 《欣竹》一元二次方程的解法三 （配方法）
+:PROPERTIES:
+:ID:       4BCC4F33-8C36-42C7-8B84-6312E5E8D77C
+:END:
+**** TODO 18.2 正比例函数 (1)
+SCHEDULED: <2020-08-17 Mon>
+:PROPERTIES:
+:ID:       B8A6FDC7-974B-41EE-898F-46E071B3CB83
+:END:
+**** TODO 18.2 正比例函数 (2)
 SCHEDULED: <2020-08-18 Tue>
-**** TODO 《欣竹》一元二次方程的解法四 （公式法）
+:PROPERTIES:
+:ID:       04C59EE8-20E2-453F-9192-CC0E574EE39F
+:END:
+**** TODO 18.2 正比例函数 (3)
+SCHEDULED: <2020-08-18 Tue>
+:PROPERTIES:
+:ID:       EF414DAC-F94D-4217-9772-51EB7F875C83
+:END:
+**** TODO 18.3 反比例函数 (1)
+SCHEDULED: <2020-08-19 Wed>
+:PROPERTIES:
+:ID:       34276796-BB1F-4533-AD6D-C2CACF03327F
+:END:
+**** TODO 18.3 反比例函数 (2)
+SCHEDULED: <2020-08-19 Wed>
+:PROPERTIES:
+:ID:       65D90EA6-0002-4C3C-9C76-54CF3CAC6AF2
+:END:
+**** TODO 18.3 反比例函数 (3)
 SCHEDULED: <2020-08-20 Thu>
-**** TODO 《欣竹》一元二次方程的解法五 （选择适当方法）
+:PROPERTIES:
+:ID:       258D705A-6C43-40C7-8DDA-BFF0A154F95F
+:END:
+**** TODO 18.4 函数的表示法 (1)
+SCHEDULED: <2020-08-20 Thu>
+:PROPERTIES:
+:ID:       8295879F-6E34-43BA-9AA0-A79F0A0347D8
+:END:
+**** TODO 18.4 函数的表示法 (2)
+SCHEDULED: <2020-08-21 Fri>
+:PROPERTIES:
+:ID:       F0C90EF9-D35A-48C8-AE2B-4EBF75325BA5
+:END:
+**** TODO 18.4 函数的表示法 (3)
+SCHEDULED: <2020-08-21 Fri>
+:PROPERTIES:
+:ID:       93B97B0E-9D7E-4BEE-AF0B-5ABD1C250EB3
+:END:
+*** [0/16] 《欣竹》中的计算题作为巩固练习按照自己的能力完成。
+:PROPERTIES:
+:ID:       212DAF4C-92B4-4ECF-BD97-DEFB21A2A8C0
+:END:
+**** TODO 《欣竹》二次根式一
+SCHEDULED: <2020-08-17 Mon>
+:PROPERTIES:
+:ID:       660BBE44-153A-4EB5-9AC5-66D12ADBE97B
+:END:
+**** TODO 《欣竹》二次根式二
+SCHEDULED: <2020-08-18 Tue>
+:PROPERTIES:
+:ID:       CAA9071D-24C1-41EC-83D9-42359F38125A
+:END:
+**** TODO 《欣竹》最简二次根式和同类二次根式一
+SCHEDULED: <2020-08-19 Wed>
+:PROPERTIES:
+:ID:       5C257750-5D86-47B2-BDD6-9D00D28A480A
+:END:
+**** TODO 《欣竹》最简二次根式和同类二次根式二
+SCHEDULED: <2020-08-20 Thu>
+:PROPERTIES:
+:ID:       9D6B64C3-3BC3-4C05-97F8-7B74164C63FA
+:END:
+**** TODO 《欣竹》二次根式的运算一
+SCHEDULED: <2020-08-21 Fri>
+:PROPERTIES:
+:ID:       C81C366E-866E-4A18-8867-32E046388CCB
+:END:
+**** TODO 《欣竹》二次根式的运算二
+SCHEDULED: <2020-08-22 Sat>
+:PROPERTIES:
+:ID:       A636161C-DA29-40B0-A70B-50546BDE1254
+:END:
+**** TODO 《欣竹》二次根式的运算三
+SCHEDULED: <2020-10-22 Thu>
+:PROPERTIES:
+:ID:       94BB1631-488E-43FB-8E6D-7778085E4170
+:END:
+**** TODO 《欣竹》二次根式的运算四
 SCHEDULED: <2020-08-24 Mon>
-**** TODO 《欣竹》一元二次方程根的判别式一
+:PROPERTIES:
+:ID:       EDC9953E-C0F7-4D37-9390-7409BB2EA9C3
+:END:
+**** TODO 《欣竹》一元二次方程的概念
 SCHEDULED: <2020-08-25 Tue>
-**** TODO 《欣竹》一元二次方程根的判别式二
+:PROPERTIES:
+:ID:       7BB2C525-ED06-4B96-8D4B-A8AF713E50D1
+:END:
+**** TODO 《欣竹》一元二次方程的解法一 （开平方法）
+SCHEDULED: <2020-08-26 Wed>
+:PROPERTIES:
+:ID:       8383835E-E637-4965-B1E5-103929B2E411
+:END:
+**** TODO 《欣竹》一元二次方程的解法二 （因式分解法）
 SCHEDULED: <2020-08-27 Thu>
-** [8/257] 英语
-*** [3/57] SSP暑假专刊：Word power 词汇及用法并背诵，完成全部阅读理解后的习题（作文写到本子上）
+:PROPERTIES:
+:ID:       EFEB4FAE-02FD-4B16-8406-12C295469376
+:END:
+**** TODO 《欣竹》一元二次方程的解法三 （配方法）
+SCHEDULED: <2020-08-28 Fri>
+:PROPERTIES:
+:ID:       612D3BE6-030A-42E2-9A11-39A5CA2BFDB0
+:END:
+**** TODO 《欣竹》一元二次方程的解法四 （公式法）
+SCHEDULED: <2020-08-29 Sat>
+:PROPERTIES:
+:ID:       C640B95E-6824-4741-8EBE-8AD3712F044E
+:END:
+**** TODO 《欣竹》一元二次方程的解法五 （选择适当方法）
+SCHEDULED: <2020-08-30 Sun>
+:PROPERTIES:
+:ID:       4D6BE350-3F33-456B-B695-5F9FB08B6E9B
+:END:
+**** TODO 《欣竹》一元二次方程根的判别式一
+SCHEDULED: <2020-08-31 Mon>
+:PROPERTIES:
+:ID:       4AF7175D-4A28-4323-9F6A-7CE5E778F12B
+:END:
+**** TODO 《欣竹》一元二次方程根的判别式二
+SCHEDULED: <2020-09-01 Tue>
+:PROPERTIES:
+:ID:       B393FA1E-E344-4EB1-9270-1C0DE7BB9DD6
+:END:
+** [176/235] 英语
+:PROPERTIES:
+:ID:       EC9B0C46-3DA0-4D28-8F04-93449DAC1DBF
+:END:
+*** [42/57] SSP暑假专刊：Word power 词汇及用法并背诵，完成全部阅读理解后的习题（作文写到本子上）
+:PROPERTIES:
+:ID:       2DF42B1E-2462-4A46-A758-D1122F112780
+:END:
 **** DONE SSP暑假专刊 (1)
+:PROPERTIES:
+:ID:       38AC1D99-1ADD-4342-983E-6ABA2700FB9A
+:END:
 **** DONE SSP暑假专刊 (2)
+:PROPERTIES:
+:ID:       CCAC6BBA-9715-48FD-AE63-83E4234D54DD
+:END:
 **** DONE SSP暑假专刊 (3)
-**** TODO SSP暑假专刊 (4)
+:PROPERTIES:
+:ID:       80FC5F9F-984A-4A32-84C9-FF2E95EB69DD
+:END:
+**** DONE SSP暑假专刊 (4)
 SCHEDULED: <2020-07-12 Sun>
-**** TODO SSP暑假专刊 (5)
+:PROPERTIES:
+:ID:       A9321235-2B0D-4193-94DB-880EE9CE125A
+:END:
+**** DONE SSP暑假专刊 (5)
 SCHEDULED: <2020-07-12 Sun>
-**** TODO SSP暑假专刊 (6)
+:PROPERTIES:
+:ID:       0BB8E2E5-3211-4CD8-A2B2-029D8C5A1015
+:END:
+**** DONE SSP暑假专刊 (6)
 SCHEDULED: <2020-07-13 Mon>
-**** TODO SSP暑假专刊 (7)
+:PROPERTIES:
+:ID:       746D7DB6-3C80-45F7-BD27-B1D911F6830A
+:END:
+**** DONE SSP暑假专刊 (7)
 SCHEDULED: <2020-07-13 Mon>
-**** TODO SSP暑假专刊 (8)
+:PROPERTIES:
+:ID:       08D2A84C-0694-4444-8465-9975DAA0539D
+:END:
+**** DONE SSP暑假专刊 (8)
 SCHEDULED: <2020-07-14 Tue>
-**** TODO SSP暑假专刊 (9)
+:PROPERTIES:
+:ID:       A7072489-32C0-4591-95DB-42832E287C8B
+:END:
+**** DONE SSP暑假专刊 (9)
 SCHEDULED: <2020-07-14 Tue>
-**** TODO SSP暑假专刊 (10)
+:PROPERTIES:
+:ID:       B02D8C96-E6A8-47E3-9B67-921C96CA5A8F
+:END:
+**** DONE SSP暑假专刊 (10)
 SCHEDULED: <2020-07-15 Wed>
-**** TODO SSP暑假专刊 (11)
+:PROPERTIES:
+:ID:       241862F6-E5D0-4091-8E6E-43C9A3ACCF3F
+:END:
+**** DONE SSP暑假专刊 (11)
 SCHEDULED: <2020-07-16 Thu>
-**** TODO SSP暑假专刊 (12)
+:PROPERTIES:
+:ID:       6C8A86FA-57F2-4A8F-AEF7-8A797C7AC41B
+:END:
+**** DONE SSP暑假专刊 (12)
 SCHEDULED: <2020-07-17 Fri>
-**** TODO SSP暑假专刊 (13)
+:PROPERTIES:
+:ID:       5A4C25A7-F3FF-452F-9D5C-E9937BC88A13
+:END:
+**** DONE SSP暑假专刊 (13)
 SCHEDULED: <2020-07-18 Sat>
-**** TODO SSP暑假专刊 (14)
+:PROPERTIES:
+:ID:       02BA8A88-C681-4E99-B5B8-2310B2ED092C
+:END:
+**** DONE SSP暑假专刊 (14)
 SCHEDULED: <2020-07-19 Sun>
-**** TODO SSP暑假专刊 (15)
+:PROPERTIES:
+:ID:       B10008A8-2B3E-423B-A331-5415588FC169
+:END:
+**** DONE SSP暑假专刊 (15)
 SCHEDULED: <2020-07-20 Mon>
-**** TODO SSP暑假专刊 (16)
+:PROPERTIES:
+:ID:       1A4E7D5D-BED8-47F4-B0E7-E5BAEF054E22
+:END:
+**** DONE SSP暑假专刊 (16)
 SCHEDULED: <2020-07-21 Tue>
-**** TODO SSP暑假专刊 (17)
+:PROPERTIES:
+:ID:       D45FB536-7D22-406C-AFA6-007141FDB9BD
+:END:
+**** DONE SSP暑假专刊 (17)
 SCHEDULED: <2020-07-22 Wed>
-**** TODO SSP暑假专刊 (18)
+:PROPERTIES:
+:ID:       767692AE-E98E-4A37-B3FE-56AEA88CA202
+:END:
+**** DONE SSP暑假专刊 (18)
 SCHEDULED: <2020-07-23 Thu>
-**** TODO SSP暑假专刊 (19)
+:PROPERTIES:
+:ID:       FAA6855C-FB35-4E84-A97C-24E73069327D
+:END:
+**** DONE SSP暑假专刊 (19)
 SCHEDULED: <2020-07-24 Fri>
-**** TODO SSP暑假专刊 (20)
+:PROPERTIES:
+:ID:       5F552F30-DFF3-4955-90C5-A62389B9801D
+:END:
+**** DONE SSP暑假专刊 (20)
 SCHEDULED: <2020-07-25 Sat>
-**** TODO SSP暑假专刊 (21)
+:PROPERTIES:
+:ID:       BA38299D-20F7-4F47-A2D3-E3AAB29844AB
+:END:
+**** DONE SSP暑假专刊 (21)
 SCHEDULED: <2020-07-26 Sun>
-**** TODO SSP暑假专刊 (22)
+:PROPERTIES:
+:ID:       B2AF355A-A3AB-44DB-BA98-EA1705F78FF8
+:END:
+**** DONE SSP暑假专刊 (22)
 SCHEDULED: <2020-07-27 Mon>
-**** TODO SSP暑假专刊 (23)
+:PROPERTIES:
+:ID:       BA10BAA8-258B-4AA2-9B60-F8D75D22F3FC
+:END:
+**** DONE SSP暑假专刊 (23)
 SCHEDULED: <2020-07-28 Tue>
-**** TODO SSP暑假专刊 (24)
+:PROPERTIES:
+:ID:       D987BDFD-DA18-47C9-9D2A-13617AF25108
+:END:
+**** DONE SSP暑假专刊 (24)
 SCHEDULED: <2020-07-29 Wed>
-**** TODO SSP暑假专刊 (25)
+:PROPERTIES:
+:ID:       D0C6DBFC-F3A1-4186-AC1C-53AC1434B8CF
+:END:
+**** DONE SSP暑假专刊 (25)
 SCHEDULED: <2020-07-23 Thu>
-**** TODO SSP暑假专刊 (26) 
+:PROPERTIES:
+:ID:       3CBB884D-B7A1-451F-8A5B-05F9D3F03ADB
+:END:
+**** DONE SSP暑假专刊 (26) 
 SCHEDULED: <2020-07-31 Fri>
-**** TODO SSP暑假专刊 (27)
+:PROPERTIES:
+:ID:       E065F9A1-AD03-45E7-8BAE-990749AACA1F
+:END:
+**** DONE SSP暑假专刊 (27)
 SCHEDULED: <2020-08-01 Sat>
-**** TODO SSP暑假专刊 (28)
+:PROPERTIES:
+:ID:       035E9C83-E0E7-4EB8-AD48-9A88F0B07EED
+:END:
+**** DONE SSP暑假专刊 (28)
 SCHEDULED: <2020-08-02 Sun>
-**** TODO SSP暑假专刊 (29)
+:PROPERTIES:
+:ID:       5ED8F599-72F1-4814-A448-925918A09004
+:END:
+**** DONE SSP暑假专刊 (29)
 SCHEDULED: <2020-08-03 Mon>
-**** TODO SSP暑假专刊 (30)
+:PROPERTIES:
+:ID:       4EF7819C-A193-46B3-A77F-8875E3DF453B
+:END:
+**** DONE SSP暑假专刊 (30)
 SCHEDULED: <2020-08-04 Tue>
-**** TODO SSP暑假专刊 (31)
+:PROPERTIES:
+:ID:       92E77454-0731-4305-9034-80A600253698
+:END:
+**** DONE SSP暑假专刊 (31)
 SCHEDULED: <2020-08-05 Wed>
-**** TODO SSP暑假专刊 (32)
+:PROPERTIES:
+:ID:       1417E0B0-63FD-4EA2-9D63-9D007D2CB8BC
+:END:
+**** DONE SSP暑假专刊 (32)
 SCHEDULED: <2020-08-06 Thu>
-**** TODO SSP暑假专刊 (33)
+:PROPERTIES:
+:ID:       A223DE0A-D40E-4465-88AE-B440A744E7F5
+:END:
+**** DONE SSP暑假专刊 (33)
 SCHEDULED: <2020-08-07 Fri>
-**** TODO SSP暑假专刊 (34)
+:PROPERTIES:
+:ID:       E10C43E8-A109-4952-8EB1-8D01A48F850D
+:END:
+**** DONE SSP暑假专刊 (34)
 SCHEDULED: <2020-08-08 Sat>
-**** TODO SSP暑假专刊 (35)
+:PROPERTIES:
+:ID:       BB2C7541-F413-4E4E-9A55-7EFFF03F8CEB
+:END:
+**** DONE SSP暑假专刊 (35)
 SCHEDULED: <2020-08-09 Sun>
-**** TODO SSP暑假专刊 (36)
+:PROPERTIES:
+:ID:       FF8AA44C-635F-48B6-9F32-963733A3870D
+:END:
+**** DONE SSP暑假专刊 (36)
 SCHEDULED: <2020-08-10 Mon>
-**** TODO SSP暑假专刊 (37)
+:PROPERTIES:
+:ID:       CD1D2F6E-9FF7-4304-A7FF-24C69F09657D
+:END:
+**** DONE SSP暑假专刊 (37)
 SCHEDULED: <2020-08-11 Tue>
-**** TODO SSP暑假专刊 (38)
+:PROPERTIES:
+:ID:       9CC260AC-4FBA-45C0-826D-3CC8FE65175F
+:END:
+**** DONE SSP暑假专刊 (38)
 SCHEDULED: <2020-08-12 Wed>
-**** TODO SSP暑假专刊 (39)
+:PROPERTIES:
+:ID:       614EE011-55D5-48DE-8C92-19AEB2E866F4
+:END:
+**** DONE SSP暑假专刊 (39)
 SCHEDULED: <2020-08-13 Thu>
-**** TODO SSP暑假专刊 (40)
+:PROPERTIES:
+:ID:       6ED52285-E69F-4310-BEB3-A837413C815D
+:END:
+**** DONE SSP暑假专刊 (40)
 SCHEDULED: <2020-08-14 Fri>
-**** TODO SSP暑假专刊 (41)
+:PROPERTIES:
+:ID:       6E51AC55-CEFD-4766-A0F9-970FE0BBED62
+:END:
+**** DONE SSP暑假专刊 (41)
 SCHEDULED: <2020-08-15 Sat>
-**** TODO SSP暑假专刊 (42)
+:PROPERTIES:
+:ID:       D2F5B215-5D9B-4E01-8C6F-9B56DD20A504
+:END:
+**** DONE SSP暑假专刊 (42)
 SCHEDULED: <2020-08-16 Sun>
+:PROPERTIES:
+:ID:       E4AE5378-70B2-47C0-8CB8-6F017410234C
+:END:
 **** TODO SSP暑假专刊 (43)
 SCHEDULED: <2020-08-17 Mon>
+:PROPERTIES:
+:ID:       D8EB046D-8C3D-4F7D-8290-30CE1821736E
+:END:
 **** TODO SSP暑假专刊 (44)
 SCHEDULED: <2020-08-18 Tue>
+:PROPERTIES:
+:ID:       A8E6D4E6-9A13-4C4C-BD9F-CD03CE7CE815
+:END:
 **** TODO SSP暑假专刊 (45)
 SCHEDULED: <2020-08-19 Wed>
+:PROPERTIES:
+:ID:       7BA663DE-9E5D-43F9-A4D7-CA92D743E2A7
+:END:
 **** TODO SSP暑假专刊 (46)
 SCHEDULED: <2020-08-20 Thu>
+:PROPERTIES:
+:ID:       A769657D-AF83-4B23-AA17-B4A00BCE6881
+:END:
 **** TODO SSP暑假专刊 (47)
 SCHEDULED: <2020-08-21 Fri>
+:PROPERTIES:
+:ID:       C2FDDB96-CAE3-4F6E-9A08-E80CA6F00F61
+:END:
 **** TODO SSP暑假专刊 (48)
 SCHEDULED: <2020-08-22 Sat>
+:PROPERTIES:
+:ID:       30FB8DA2-BCB3-4B84-A33B-6052036338DD
+:END:
 **** TODO SSP暑假专刊 (49)
 SCHEDULED: <2020-08-23 Sun>
+:PROPERTIES:
+:ID:       268FE470-3CBA-4D8C-A436-BF763C2E88EC
+:END:
 **** TODO SSP暑假专刊 (50)
 SCHEDULED: <2020-08-24 Mon>
+:PROPERTIES:
+:ID:       43F72512-D4E0-4A3C-ABA4-94D6973BE8C3
+:END:
 **** TODO SSP暑假专刊 (51)
 SCHEDULED: <2020-08-25 Tue>
+:PROPERTIES:
+:ID:       13EA2B8B-A482-44CC-896E-8A1C98324D76
+:END:
 **** TODO SSP暑假专刊 (52)
 SCHEDULED: <2020-08-26 Wed>
+:PROPERTIES:
+:ID:       35D9030E-0DE5-42F3-8B34-0D5558872B29
+:END:
 **** TODO SSP暑假专刊 (53)
 SCHEDULED: <2020-08-27 Thu>
+:PROPERTIES:
+:ID:       6F8E2995-0917-4CA4-AA23-6D63FF830685
+:END:
 **** TODO SSP暑假专刊 (54)
 SCHEDULED: <2020-08-28 Fri>
+:PROPERTIES:
+:ID:       D887516A-155F-43D0-B762-260B05358BD8
+:END:
 **** TODO SSP暑假专刊 (55)
 SCHEDULED: <2020-08-29 Sat>
+:PROPERTIES:
+:ID:       5A5A6471-CE37-4840-84AE-E20B01C9A6DE
+:END:
 **** TODO SSP暑假专刊 (56)
 SCHEDULED: <2020-08-30 Sun>
+:PROPERTIES:
+:ID:       B33653B8-EC81-4296-9FD6-1D3D3AC69100
+:END:
 **** TODO SSP暑假专刊 (57)
 SCHEDULED: <2020-08-31 Mon>
-*** [0/9] 熟读其中9篇文章，打卡上传小黑板
-**** TODO 英语熟读并打卡小黑板 P2
+:PROPERTIES:
+:ID:       48363DB1-D4BE-453A-9C12-BB6E118620B9
+:END:
+*** [7/9] 熟读其中9篇文章，打卡上传小黑板
+:PROPERTIES:
+:ID:       75B1B13C-BF34-4C5D-B002-31303B15108E
+:END:
+**** DONE 英语熟读并打卡小黑板 P2
 SCHEDULED: <2020-07-12 Sun>
-**** TODO 英语熟读并打卡小黑板 P7
+:PROPERTIES:
+:ID:       918C9B77-3C1B-4983-8145-1556F4C56400
+:END:
+**** DONE 英语熟读并打卡小黑板 P7
 SCHEDULED: <2020-07-13 Mon>
-**** TODO 英语熟读并打卡小黑板 P9
+:PROPERTIES:
+:ID:       1C6245B2-6CDB-4098-AFB1-1382F21E743F
+:END:
+**** DONE 英语熟读并打卡小黑板 P9
 SCHEDULED: <2020-07-14 Tue>
-**** TODO 英语熟读并打卡小黑板 P13
+:PROPERTIES:
+:ID:       D73EA3C4-611D-4174-B007-BBA0B0CCD878
+:END:
+**** DONE 英语熟读并打卡小黑板 P13
 SCHEDULED: <2020-07-15 Wed>
-**** TODO 英语熟读并打卡小黑板 P20
+:PROPERTIES:
+:ID:       8BFE64FF-B5E5-47B4-9C59-3C436C8D0D70
+:END:
+**** DONE 英语熟读并打卡小黑板 P20
 SCHEDULED: <2020-07-16 Thu>
-**** TODO 英语熟读并打卡小黑板 P31
+:PROPERTIES:
+:ID:       3FF3E57F-AD2D-4A67-8813-D385E2461B54
+:END:
+**** DONE 英语熟读并打卡小黑板 P31
 SCHEDULED: <2020-07-17 Fri>
-**** TODO 英语熟读并打卡小黑板 P38
+:PROPERTIES:
+:ID:       66F7F5A9-4C21-4A0E-9A42-3D16E913BAD0
+:END:
+**** DONE 英语熟读并打卡小黑板 P38
 SCHEDULED: <2020-07-18 Sat>
+:PROPERTIES:
+:ID:       857587E5-B9BF-4FF1-A73D-8E51D54F4D7E
+:END:
 **** TODO 英语熟读并打卡小黑板 P45
-SCHEDULED: <2020-07-19 Sun>
+SCHEDULED: <2020-08-17 Mon>
+:PROPERTIES:
+:ID:       23DD308F-8ECB-4247-AFEE-3BAB77A406E3
+:END:
 **** TODO 英语熟读并打卡小黑板 P49
-SCHEDULED: <2020-07-20 Mon>
-*** [0/4] 背诵4篇8A课文，打卡上传晓黑板
-**** TODO 英语背诵：U4
+SCHEDULED: <2020-08-17 Mon>
+:PROPERTIES:
+:ID:       7882F4DD-085B-4C3E-BA0C-7A992DF66EAC
+:END:
+*** [3/4] 背诵4篇8A课文，打卡上传晓黑板
+:PROPERTIES:
+:ID:       36DA938D-7C66-4FE1-97E3-82CD2CDFDDB8
+:END:
+**** DONE 英语背诵：U4
 SCHEDULED: <2020-07-15 Wed>
-**** TODO 英语背诵：U5
+:PROPERTIES:
+:ID:       05B38973-123F-4F92-A0DD-D1D778D21C1F
+:END:
+**** DONE 英语背诵：U5
 SCHEDULED: <2020-07-22 Wed>
-**** TODO 英语背诵：U6
+:PROPERTIES:
+:ID:       12FC0984-FEE9-4330-8802-880CD92A174C
+:END:
+**** DONE 英语背诵：U6
 SCHEDULED: <2020-07-29 Wed>
+:PROPERTIES:
+:ID:       9AF0E6BA-95C5-4857-8761-0EC65DEF72D5
+:END:
 **** TODO 英语背诵：U7
-SCHEDULED: <2020-08-05 Wed>
-*** [0/30] 背诵考纲词汇 A-Z 和 词组，家默30天，每天自主挑选30个
-**** TODO 英语考纲词汇背诵和家默 1
+SCHEDULED: <2020-08-17 Mon>
+:PROPERTIES:
+:ID:       5F26E92F-225F-4128-AFA6-DCE92F3CEB71
+:END:
+*** [25/30] 背诵考纲词汇 A-Z 和 词组，家默30天，每天自主挑选30个
+:PROPERTIES:
+:ID:       8CA6996B-ECD7-46E5-B75A-0EAB929F46DE
+:END:
+**** DONE 英语考纲词汇背诵和家默 1
 SCHEDULED: <2020-07-12 Sun>
-**** TODO 英语考纲词汇背诵和家默 2
+:PROPERTIES:
+:ID:       B38BC327-B679-4BBB-9F35-46E540F609D2
+:END:
+**** DONE 英语考纲词汇背诵和家默 2
 SCHEDULED: <2020-07-13 Mon>
-**** TODO 英语考纲词汇背诵和家默 3
+:PROPERTIES:
+:ID:       063D5507-4DAE-4273-BE9B-D81D3FC4D5E5
+:END:
+**** DONE 英语考纲词汇背诵和家默 3
 SCHEDULED: <2020-07-12 Sun>
-**** TODO 英语考纲词汇背诵和家默 4
+:PROPERTIES:
+:ID:       9588F072-1FC6-4DB6-A170-763E7B6B6F6E
+:END:
+**** DONE 英语考纲词汇背诵和家默 4
 SCHEDULED: <2020-07-16 Thu>
-**** TODO 英语考纲词汇背诵和家默 5
+:PROPERTIES:
+:ID:       06C0132C-A698-4F1A-BD2C-CB47C8860F14
+:END:
+**** DONE 英语考纲词汇背诵和家默 5
 SCHEDULED: <2020-07-17 Fri>
-**** TODO 英语考纲词汇背诵和家默 6
+:PROPERTIES:
+:ID:       FB6D4F69-E994-4C24-8844-27F281B48404
+:END:
+**** DONE 英语考纲词汇背诵和家默 6
 SCHEDULED: <2020-07-19 Sun>
-**** TODO 英语考纲词汇背诵和家默 7
+:PROPERTIES:
+:ID:       C4BE06A7-1D2F-4115-835F-24913D0A8158
+:END:
+**** DONE 英语考纲词汇背诵和家默 7
 SCHEDULED: <2020-07-20 Mon>
-**** TODO 英语考纲词汇背诵和家默 8
+:PROPERTIES:
+:ID:       8CEA30A7-F074-490E-9495-D26CB315107B
+:END:
+**** DONE 英语考纲词汇背诵和家默 8
 SCHEDULED: <2020-07-21 Tue>
-**** TODO 英语考纲词汇背诵和家默 9
+:PROPERTIES:
+:ID:       A6E09B4A-585C-4C8A-9898-16F988D8E2A4
+:END:
+**** DONE 英语考纲词汇背诵和家默 9
 SCHEDULED: <2020-07-23 Thu>
-**** TODO 英语考纲词汇背诵和家默 10
+:PROPERTIES:
+:ID:       CEA94327-F065-4A17-AC7D-2EAF354D17FB
+:END:
+**** DONE 英语考纲词汇背诵和家默 10
 SCHEDULED: <2020-07-24 Fri>
-**** TODO 英语考纲词汇背诵和家默 11
+:PROPERTIES:
+:ID:       84C890D8-DA7E-4B05-8502-16BC4EB8F10F
+:END:
+**** DONE 英语考纲词汇背诵和家默 11
 SCHEDULED: <2020-07-26 Sun>
-**** TODO 英语考纲词汇背诵和家默 12
+:PROPERTIES:
+:ID:       8F0A33A9-3666-4741-8CA7-30759B541A02
+:END:
+**** DONE 英语考纲词汇背诵和家默 12
 SCHEDULED: <2020-07-27 Mon>
-**** TODO 英语考纲词汇背诵和家默 13
+:PROPERTIES:
+:ID:       DA9E0AB1-E8DC-465A-9E61-372BB70B651B
+:END:
+**** DONE 英语考纲词汇背诵和家默 13
 SCHEDULED: <2020-07-28 Tue>
-**** TODO 英语考纲词汇背诵和家默 14
+:PROPERTIES:
+:ID:       C136AB22-CFD5-4ED2-9676-CEA3BFB57298
+:END:
+**** DONE 英语考纲词汇背诵和家默 14
 SCHEDULED: <2020-07-30 Thu>
-**** TODO 英语考纲词汇背诵和家默 15
+:PROPERTIES:
+:ID:       33B3033F-4D45-4E53-800A-B79CF822AB99
+:END:
+**** DONE 英语考纲词汇背诵和家默 15
 SCHEDULED: <2020-07-31 Fri>
-**** TODO 英语考纲词汇背诵和家默 16
+:PROPERTIES:
+:ID:       0903A731-8BBB-480F-BE40-017AFC2B88BB
+:END:
+**** DONE 英语考纲词汇背诵和家默 16
 SCHEDULED: <2020-08-02 Sun>
-**** TODO 英语考纲词汇背诵和家默 17
+:PROPERTIES:
+:ID:       129D233C-263D-4648-9791-58E7DE00CCCE
+:END:
+**** DONE 英语考纲词汇背诵和家默 17
 SCHEDULED: <2020-08-03 Mon>
-**** TODO 英语考纲词汇背诵和家默 18
+:PROPERTIES:
+:ID:       505CA78E-91A6-40DA-A56C-0B58B192BA0F
+:END:
+**** DONE 英语考纲词汇背诵和家默 18
 SCHEDULED: <2020-08-04 Tue>
-**** TODO 英语考纲词汇背诵和家默 19
+:PROPERTIES:
+:ID:       04ABE1F8-788A-4966-B149-618EE192174B
+:END:
+**** DONE 英语考纲词汇背诵和家默 19
 SCHEDULED: <2020-08-06 Thu>
-**** TODO 英语考纲词汇背诵和家默 20
+:PROPERTIES:
+:ID:       C47C84CF-469C-4EAE-93DF-FEAC6AC906D0
+:END:
+**** DONE 英语考纲词汇背诵和家默 20
 SCHEDULED: <2020-08-07 Fri>
-**** TODO 英语考纲词汇背诵和家默 21
+:PROPERTIES:
+:ID:       5463BAFE-5510-4007-B41F-D4136E4DEC7F
+:END:
+**** DONE 英语考纲词汇背诵和家默 21
 SCHEDULED: <2020-08-09 Sun>
-**** TODO 英语考纲词汇背诵和家默 22
+:PROPERTIES:
+:ID:       4672C3DE-D7D8-4A08-BB26-BDB245ED5733
+:END:
+**** DONE 英语考纲词汇背诵和家默 22
 SCHEDULED: <2020-08-10 Mon>
-**** TODO 英语考纲词汇背诵和家默 23
+:PROPERTIES:
+:ID:       278C246D-9D50-47EA-AD68-44311A2282F8
+:END:
+**** DONE 英语考纲词汇背诵和家默 23
 SCHEDULED: <2020-08-11 Tue>
-**** TODO 英语考纲词汇背诵和家默 24
+:PROPERTIES:
+:ID:       98832126-D5BE-4AF7-80C1-A8D82F1104B2
+:END:
+**** DONE 英语考纲词汇背诵和家默 24
 SCHEDULED: <2020-08-13 Thu>
-**** TODO 英语考纲词汇背诵和家默 25
+:PROPERTIES:
+:ID:       FB806662-81E1-4D48-8007-D512CEA0BAA5
+:END:
+**** DONE 英语考纲词汇背诵和家默 25
 SCHEDULED: <2020-08-14 Fri>
+:PROPERTIES:
+:ID:       8565DC12-1B1C-48E2-8D91-82939C3EA962
+:END:
 **** TODO 英语考纲词汇背诵和家默 26
-SCHEDULED: <2020-08-16 Sun>
+SCHEDULED: <2020-08-17 Mon>
+:PROPERTIES:
+:ID:       7EAE5258-F2DF-43B2-B815-D31B87B79DBF
+:END:
 **** TODO 英语考纲词汇背诵和家默 27
 SCHEDULED: <2020-08-17 Mon>
+:PROPERTIES:
+:ID:       B863B60C-AB47-414E-A074-E426AD91023F
+:END:
 **** TODO 英语考纲词汇背诵和家默 28
 SCHEDULED: <2020-08-18 Tue>
+:PROPERTIES:
+:ID:       C3267329-9B59-4F73-BD3C-DD50ADF3B842
+:END:
 **** TODO 英语考纲词汇背诵和家默 29
 SCHEDULED: <2020-08-20 Thu>
+:PROPERTIES:
+:ID:       8D0A116F-D8FB-4221-A733-C65FD1A1E4F0
+:END:
 **** TODO 英语考纲词汇背诵和家默 30
 SCHEDULED: <2020-08-21 Fri>
-*** [0/5] 自主完成5套课外综合卷包括听力、语法和阅读                :待安排:
-**** TODO 英语课外综合卷 1
+:PROPERTIES:
+:ID:       F3976ADC-E4B8-4D87-A9A5-73C31C346F62
+:END:
+*** [4/5] 自主完成5套课外综合卷包括听力、语法和阅读                :待安排:
+:PROPERTIES:
+:ID:       D901CE87-BC79-4E59-A09D-E7EC1D231D74
+:END:
+**** DONE 英语课外综合卷 1
 SCHEDULED: <2020-07-18 Sat>
-**** TODO 英语课外综合卷 2
+:PROPERTIES:
+:ID:       9071BF9F-510F-41B6-B326-917BC11445B4
+:END:
+**** DONE 英语课外综合卷 2
 SCHEDULED: <2020-07-25 Sat>
-**** TODO 英语课外综合卷 3
+:PROPERTIES:
+:ID:       DD864C42-8144-43B4-BCF5-8C8A76E22ECF
+:END:
+**** DONE 英语课外综合卷 3
 SCHEDULED: <2020-08-01 Sat>
-**** TODO 英语课外综合卷 4
+:PROPERTIES:
+:ID:       9335B123-F343-4367-BEFC-118170C791CA
+:END:
+**** DONE 英语课外综合卷 4
 SCHEDULED: <2020-08-08 Sat>
+:PROPERTIES:
+:ID:       081E8A0D-5E08-4BF5-96A8-1AE07E54AC9D
+:END:
 **** TODO 英语课外综合卷 5
-SCHEDULED: <2020-08-15 Sat>
-*** [0/56] 自主欣赏至少一部原版小说，开学后分享
-**** TODO 英语原版小说《月亮与六便士》 1
+SCHEDULED: <2020-08-18 Tue>
+:PROPERTIES:
+:ID:       F3607F2A-0325-4124-8A30-25B531827F11
+:END:
+*** [41/56] 自主欣赏至少一部原版小说，开学后分享
+:PROPERTIES:
+:ID:       1354928E-BC9D-4DE7-AA95-38359B3F4C91
+:END:
+**** DONE 英语原版小说《月亮与六便士》 1
 SCHEDULED: <2020-07-13 Mon>
-**** TODO 英语原版小说《月亮与六便士》 2
+:PROPERTIES:
+:ID:       8E61B4CF-8838-4540-82EE-463525CF8233
+:END:
+**** DONE 英语原版小说《月亮与六便士》 2
 SCHEDULED: <2020-07-14 Tue>
-**** TODO 英语原版小说《月亮与六便士》 3
+:PROPERTIES:
+:ID:       65D6AA27-6E1E-4979-B34D-9588B2FBCB0E
+:END:
+**** DONE 英语原版小说《月亮与六便士》 3
 SCHEDULED: <2020-07-15 Wed>
-**** TODO 英语原版小说《月亮与六便士》 4
+:PROPERTIES:
+:ID:       4F0837F0-5C3D-4275-9295-B9D42A5FEC99
+:END:
+**** DONE 英语原版小说《月亮与六便士》 4
 SCHEDULED: <2020-07-16 Thu>
-**** TODO 英语原版小说《月亮与六便士》 5
+:PROPERTIES:
+:ID:       1128598D-9710-4114-AE91-52F8D2E2310C
+:END:
+**** DONE 英语原版小说《月亮与六便士》 5
 SCHEDULED: <2020-07-17 Fri>
-**** TODO 英语原版小说《月亮与六便士》 6
+:PROPERTIES:
+:ID:       C1745E90-6E0D-4C4D-BDA4-D8AB02DA4BE4
+:END:
+**** DONE 英语原版小说《月亮与六便士》 6
 SCHEDULED: <2020-07-18 Sat>
-**** TODO 英语原版小说《月亮与六便士》 7
+:PROPERTIES:
+:ID:       F6FE4D47-76BC-4572-A0EB-3DDD569F4B5C
+:END:
+**** DONE 英语原版小说《月亮与六便士》 7
 SCHEDULED: <2020-07-19 Sun>
-**** TODO 英语原版小说《月亮与六便士》 8
+:PROPERTIES:
+:ID:       0E9AB293-DF5C-4C75-9604-E3FCA3C7DF95
+:END:
+**** DONE 英语原版小说《月亮与六便士》 8
 SCHEDULED: <2020-07-19 Sun>
-**** TODO 英语原版小说《月亮与六便士》 9
+:PROPERTIES:
+:ID:       2D339594-145E-43C5-8BFB-A0A49972BF2A
+:END:
+**** DONE 英语原版小说《月亮与六便士》 9
 SCHEDULED: <2020-07-20 Mon>
-**** TODO 英语原版小说《月亮与六便士》 10
+:PROPERTIES:
+:ID:       C481CA39-1956-4E67-863B-9DB0C38DA028
+:END:
+**** DONE 英语原版小说《月亮与六便士》 10
 SCHEDULED: <2020-07-21 Tue>
-**** TODO 英语原版小说《月亮与六便士》 11
+:PROPERTIES:
+:ID:       D129F986-9452-428C-ADBA-47B359E1E4EB
+:END:
+**** DONE 英语原版小说《月亮与六便士》 11
 SCHEDULED: <2020-07-22 Wed>
-**** TODO 英语原版小说《月亮与六便士》 12
+:PROPERTIES:
+:ID:       BD3AA521-56C8-479F-BF76-C990C8DE3F87
+:END:
+**** DONE 英语原版小说《月亮与六便士》 12
 SCHEDULED: <2020-07-23 Thu>
-**** TODO 英语原版小说《月亮与六便士》 13
+:PROPERTIES:
+:ID:       61C233C0-92EE-45BE-92EC-9353CD2726AC
+:END:
+**** DONE 英语原版小说《月亮与六便士》 13
 SCHEDULED: <2020-07-24 Fri>
-**** TODO 英语原版小说《月亮与六便士》 14
+:PROPERTIES:
+:ID:       F372C218-6954-4D5E-8D1F-690BE7A009EF
+:END:
+**** DONE 英语原版小说《月亮与六便士》 14
 SCHEDULED: <2020-07-25 Sat>
-**** TODO 英语原版小说《月亮与六便士》 15
+:PROPERTIES:
+:ID:       7E2F803B-7405-47EB-8B06-1F4104A4CD8F
+:END:
+**** DONE 英语原版小说《月亮与六便士》 15
 SCHEDULED: <2020-07-26 Sun>
-**** TODO 英语原版小说《月亮与六便士》 16
+:PROPERTIES:
+:ID:       AD4A82AC-F809-4BF8-9362-7BC2D82692CC
+:END:
+**** DONE 英语原版小说《月亮与六便士》 16
 SCHEDULED: <2020-07-26 Sun>
-**** TODO 英语原版小说《月亮与六便士》 17
+:PROPERTIES:
+:ID:       49F3478B-B24E-4987-8640-0A41ADABA4DA
+:END:
+**** DONE 英语原版小说《月亮与六便士》 17
 SCHEDULED: <2020-07-27 Mon>
-**** TODO 英语原版小说《月亮与六便士》 18
+:PROPERTIES:
+:ID:       65694662-C2A1-4CA2-8FC8-116973144B0A
+:END:
+**** DONE 英语原版小说《月亮与六便士》 18
 SCHEDULED: <2020-07-28 Tue>
-**** TODO 英语原版小说《月亮与六便士》 19
+:PROPERTIES:
+:ID:       92C2C6B2-F79F-4605-9F12-632DAAE8B29C
+:END:
+**** DONE 英语原版小说《月亮与六便士》 19
 SCHEDULED: <2020-07-29 Wed>
-**** TODO 英语原版小说《月亮与六便士》 20
+:PROPERTIES:
+:ID:       417881F7-AA13-4FFC-A638-81DAE86189A0
+:END:
+**** DONE 英语原版小说《月亮与六便士》 20
 SCHEDULED: <2020-07-30 Thu>
-**** TODO 英语原版小说《月亮与六便士》 21
+:PROPERTIES:
+:ID:       9861F050-0461-48A6-B6A3-1121607F3205
+:END:
+**** DONE 英语原版小说《月亮与六便士》 21
 SCHEDULED: <2020-07-31 Fri>
-**** TODO 英语原版小说《月亮与六便士》 22
+:PROPERTIES:
+:ID:       B3153F79-FC96-43A5-9761-57E31852935C
+:END:
+**** DONE 英语原版小说《月亮与六便士》 22
 SCHEDULED: <2020-08-01 Sat>
-**** TODO 英语原版小说《月亮与六便士》 23
+:PROPERTIES:
+:ID:       5565AF9C-C2F1-445B-AFD8-BFAA075F216B
+:END:
+**** DONE 英语原版小说《月亮与六便士》 23
 SCHEDULED: <2020-08-01 Sat>
-**** TODO 英语原版小说《月亮与六便士》 24
+:PROPERTIES:
+:ID:       6D696EAD-7E68-4132-A1DA-D7B2736C3873
+:END:
+**** DONE 英语原版小说《月亮与六便士》 24
 SCHEDULED: <2020-08-02 Sun>
-**** TODO 英语原版小说《月亮与六便士》 25
+:PROPERTIES:
+:ID:       42A4CCCD-B9F1-4469-842D-EACE768B287F
+:END:
+**** DONE 英语原版小说《月亮与六便士》 25
 SCHEDULED: <2020-08-03 Mon>
-**** TODO 英语原版小说《月亮与六便士》 26
+:PROPERTIES:
+:ID:       255F7C49-3286-4509-BAE4-8805C5BC3452
+:END:
+**** DONE 英语原版小说《月亮与六便士》 26
 SCHEDULED: <2020-08-04 Tue>
-**** TODO 英语原版小说《月亮与六便士》 27
+:PROPERTIES:
+:ID:       B8E88A1C-5ACE-4506-AA66-B41F802C19C5
+:END:
+**** DONE 英语原版小说《月亮与六便士》 27
 SCHEDULED: <2020-08-05 Wed>
-**** TODO 英语原版小说《月亮与六便士》 28
+:PROPERTIES:
+:ID:       43536775-8116-4B74-81BE-290C2126B1B4
+:END:
+**** DONE 英语原版小说《月亮与六便士》 28
 SCHEDULED: <2020-08-06 Thu>
-**** TODO 英语原版小说《月亮与六便士》 29
+:PROPERTIES:
+:ID:       81D28297-BA5F-4A8C-A9AE-CECBE2F216FA
+:END:
+**** DONE 英语原版小说《月亮与六便士》 29
 SCHEDULED: <2020-08-07 Fri>
-**** TODO 英语原版小说《月亮与六便士》 30
+:PROPERTIES:
+:ID:       580BD80E-EE34-4C95-9B9F-D452D5D77D86
+:END:
+**** DONE 英语原版小说《月亮与六便士》 30
 SCHEDULED: <2020-08-08 Sat>
-**** TODO 英语原版小说《月亮与六便士》 31
+:PROPERTIES:
+:ID:       6F3B5A71-031F-4687-9719-774E93F7317C
+:END:
+**** DONE 英语原版小说《月亮与六便士》 31
 SCHEDULED: <2020-08-09 Sun>
-**** TODO 英语原版小说《月亮与六便士》 32
+:PROPERTIES:
+:ID:       D274EB89-5F2F-41A7-A74D-68C731E5C922
+:END:
+**** DONE 英语原版小说《月亮与六便士》 32
 SCHEDULED: <2020-08-09 Sun>
-**** TODO 英语原版小说《月亮与六便士》 33
+:PROPERTIES:
+:ID:       455FA327-4305-4F4E-96A3-706C8D93E346
+:END:
+**** DONE 英语原版小说《月亮与六便士》 33
 SCHEDULED: <2020-08-10 Mon>
-**** TODO 英语原版小说《月亮与六便士》 34
+:PROPERTIES:
+:ID:       8D7A2CF3-5DE2-4465-B941-E7CBDB26BB6F
+:END:
+**** DONE 英语原版小说《月亮与六便士》 34
 SCHEDULED: <2020-08-11 Tue>
-**** TODO 英语原版小说《月亮与六便士》 35
+:PROPERTIES:
+:ID:       4080321B-DD35-4682-A0B1-E8BBAD534306
+:END:
+**** DONE 英语原版小说《月亮与六便士》 35
 SCHEDULED: <2020-08-12 Wed>
-**** TODO 英语原版小说《月亮与六便士》 36
+:PROPERTIES:
+:ID:       94A8B4C9-6CCE-40A1-85BE-E7040F6B9880
+:END:
+**** DONE 英语原版小说《月亮与六便士》 36
 SCHEDULED: <2020-08-13 Thu>
-**** TODO 英语原版小说《月亮与六便士》 37
+:PROPERTIES:
+:ID:       BE2EF178-6BC8-451F-A308-DC42B8D7B508
+:END:
+**** DONE 英语原版小说《月亮与六便士》 37
 SCHEDULED: <2020-08-14 Fri>
-**** TODO 英语原版小说《月亮与六便士》 38
+:PROPERTIES:
+:ID:       AC1197CF-1748-4D98-9C51-23B6993E1F56
+:END:
+**** DONE 英语原版小说《月亮与六便士》 38
 SCHEDULED: <2020-08-15 Sat>
-**** TODO 英语原版小说《月亮与六便士》 39
+:PROPERTIES:
+:ID:       4604FB4A-F622-4EED-B6D8-07279777CA52
+:END:
+**** DONE 英语原版小说《月亮与六便士》 39
 SCHEDULED: <2020-08-16 Sun>
-**** TODO 英语原版小说《月亮与六便士》 40
+:PROPERTIES:
+:ID:       3B89AC84-0196-4C0B-904D-2B4BD3FF703B
+:END:
+**** DONE 英语原版小说《月亮与六便士》 40
 SCHEDULED: <2020-08-16 Sun>
-**** TODO 英语原版小说《月亮与六便士》 41
+:PROPERTIES:
+:ID:       5976993F-C74B-481B-9213-868521FEE56E
+:END:
+**** DONE 英语原版小说《月亮与六便士》 41
 SCHEDULED: <2020-08-17 Mon>
+:PROPERTIES:
+:ID:       9D8FF622-C041-4632-A1EB-3B1470750EF2
+:END:
 **** TODO 英语原版小说《月亮与六便士》 42
 SCHEDULED: <2020-08-18 Tue>
+:PROPERTIES:
+:ID:       2342ADF2-5991-4444-8D07-9BB730953106
+:END:
 **** TODO 英语原版小说《月亮与六便士》 43
 SCHEDULED: <2020-08-19 Wed>
+:PROPERTIES:
+:ID:       9B4013E1-FB33-4304-B5DC-B6ED68A53E81
+:END:
 **** TODO 英语原版小说《月亮与六便士》 44
 SCHEDULED: <2020-08-20 Thu>
+:PROPERTIES:
+:ID:       3FD79F37-B6AD-4140-97C1-8A115D29B938
+:END:
 **** TODO 英语原版小说《月亮与六便士》 45
 SCHEDULED: <2020-08-21 Fri>
+:PROPERTIES:
+:ID:       1604E15C-B69A-4DFB-BBD5-60F7FA13FE2C
+:END:
 **** TODO 英语原版小说《月亮与六便士》 46
 SCHEDULED: <2020-08-22 Sat>
+:PROPERTIES:
+:ID:       4D8803E5-C8E6-455E-B3EF-08032C7FE293
+:END:
 **** TODO 英语原版小说《月亮与六便士》 47
 SCHEDULED: <2020-08-23 Sun>
+:PROPERTIES:
+:ID:       5E2ADB69-04DB-4616-91AC-F4AA5192C2F4
+:END:
 **** TODO 英语原版小说《月亮与六便士》 48
 SCHEDULED: <2020-08-23 Sun>
+:PROPERTIES:
+:ID:       1B3DF778-5008-404E-A734-B4B692D756C3
+:END:
 **** TODO 英语原版小说《月亮与六便士》 49
 SCHEDULED: <2020-08-24 Mon>
+:PROPERTIES:
+:ID:       26EC3558-5BF3-40E7-AD89-83D92460EACF
+:END:
 **** TODO 英语原版小说《月亮与六便士》 50
 SCHEDULED: <2020-08-25 Tue>
+:PROPERTIES:
+:ID:       0CBD1FA2-88CD-4725-8474-85F053957D84
+:END:
 **** TODO 英语原版小说《月亮与六便士》 51
 SCHEDULED: <2020-08-26 Wed>
+:PROPERTIES:
+:ID:       6FE688DC-554D-4BA1-B641-66CBDA8189A6
+:END:
 **** TODO 英语原版小说《月亮与六便士》 52
 SCHEDULED: <2020-08-27 Thu>
+:PROPERTIES:
+:ID:       2545BFF0-20DE-4AD0-9E34-F428A1B9D940
+:END:
 **** TODO 英语原版小说《月亮与六便士》 53
 SCHEDULED: <2020-08-28 Fri>
+:PROPERTIES:
+:ID:       4EFC1EB7-5441-4339-A839-E6AEBF5FB274
+:END:
 **** TODO 英语原版小说《月亮与六便士》 54
 SCHEDULED: <2020-08-29 Sat>
+:PROPERTIES:
+:ID:       731FBB17-250E-4FA7-BC8D-D6EC871E5588
+:END:
 **** TODO 英语原版小说《月亮与六便士》 55
 SCHEDULED: <2020-08-30 Sun>
+:PROPERTIES:
+:ID:       27B41293-9464-468D-AE66-3627A01083C1
+:END:
 **** TODO 英语原版小说《月亮与六便士》 57
 SCHEDULED: <2020-08-30 Sun>
-*** [5/48] 阅读打卡
+:PROPERTIES:
+:ID:       6EF1F782-1325-4ACC-A61F-0CDC96155039
+:END:
+*** [36/48] 阅读打卡
+:PROPERTIES:
+:ID:       86D15C80-34DB-4345-9A32-C8D6FEDB9236
+:END:
 **** DONE 英语阅读打卡1
 SCHEDULED: <2020-07-07 Tue>
+:PROPERTIES:
+:ID:       FB23DC4A-D93D-4BAA-901C-1258B97A9749
+:END:
 **** DONE 英语阅读打卡2
 SCHEDULED: <2020-07-08 Wed>
+:PROPERTIES:
+:ID:       73AF441C-C85C-4437-8C2B-488A5FBD713E
+:END:
 **** DONE 英语阅读打卡3
 SCHEDULED: <2020-07-09 Thu>
+:PROPERTIES:
+:ID:       A3D02F28-BFD9-45CA-A0FB-436325D64CAA
+:END:
 **** DONE 英语阅读打卡4
 SCHEDULED: <2020-07-10 Fri>
+:PROPERTIES:
+:ID:       1A6C826D-7EC9-40DE-8A02-E509064CA85D
+:END:
 **** DONE 英语阅读打卡5
 SCHEDULED: <2020-07-11 Sat>
-**** TODO 英语阅读打卡6
+:PROPERTIES:
+:ID:       F4004408-4F14-4D39-8D96-70F2240EBDC1
+:END:
+**** DONE 英语阅读打卡6
 SCHEDULED: <2020-07-13 Mon>
-**** TODO 英语阅读打卡7
+:PROPERTIES:
+:ID:       4918E843-7D86-431D-8A6B-A323CD10CADD
+:END:
+**** DONE 英语阅读打卡7
 SCHEDULED: <2020-07-14 Tue>
-**** TODO 英语阅读打卡8
+:PROPERTIES:
+:ID:       F4764701-5EDE-4D3F-9EBD-D2D11F960837
+:END:
+**** DONE 英语阅读打卡8
 SCHEDULED: <2020-07-15 Wed>
-**** TODO 英语阅读打卡9
+:PROPERTIES:
+:ID:       632628A0-7FA9-4A8F-A9E9-E64C57EE6BE4
+:END:
+**** DONE 英语阅读打卡9
 SCHEDULED: <2020-07-16 Thu>
-**** TODO 英语阅读打卡10
+:PROPERTIES:
+:ID:       C2A24EC6-345D-492B-88B7-1CB67F8AB6A8
+:END:
+**** DONE 英语阅读打卡10
 SCHEDULED: <2020-07-17 Fri>
-**** TODO 英语阅读打卡11
+:PROPERTIES:
+:ID:       66A2BEDD-5CCC-43D7-AA5B-E79F06D53682
+:END:
+**** DONE 英语阅读打卡11
 SCHEDULED: <2020-07-18 Sat>
-**** TODO 英语阅读打卡12
+:PROPERTIES:
+:ID:       77288A4C-4B01-461C-92CA-2C8E4ADEB3ED
+:END:
+**** DONE 英语阅读打卡12
 SCHEDULED: <2020-07-20 Mon>
-**** TODO 英语阅读打卡13
+:PROPERTIES:
+:ID:       3EFA24C8-1111-4506-ABAC-38BC69DAA4A0
+:END:
+**** DONE 英语阅读打卡13
 SCHEDULED: <2020-07-21 Tue>
-**** TODO 英语阅读打卡14
+:PROPERTIES:
+:ID:       CCB776F3-C881-46BB-9B24-BE899FFD7E62
+:END:
+**** DONE 英语阅读打卡14
 SCHEDULED: <2020-07-22 Wed>
-**** TODO 英语阅读打卡15
+:PROPERTIES:
+:ID:       47CC61EF-1931-40AA-95B2-3F32D15DE2C9
+:END:
+**** DONE 英语阅读打卡15
 SCHEDULED: <2020-07-23 Thu>
-**** TODO 英语阅读打卡16
+:PROPERTIES:
+:ID:       D27D4EB0-45D5-4EC5-BE51-44C5AA02C2D0
+:END:
+**** DONE 英语阅读打卡16
 SCHEDULED: <2020-07-24 Fri>
-**** TODO 英语阅读打卡17
+:PROPERTIES:
+:ID:       2EA5AF0C-B0A7-4CC8-8987-F6778C06066F
+:END:
+**** DONE 英语阅读打卡17
 SCHEDULED: <2020-07-25 Sat>
-**** TODO 英语阅读打卡18
+:PROPERTIES:
+:ID:       C4168E86-9CE2-4B24-8194-6596AD0F6F8C
+:END:
+**** DONE 英语阅读打卡18
 SCHEDULED: <2020-07-27 Mon>
-**** TODO 英语阅读打卡19
+:PROPERTIES:
+:ID:       0E450751-3D02-462A-AF73-98336BA1E1E6
+:END:
+**** DONE 英语阅读打卡19
 SCHEDULED: <2020-07-28 Tue>
-**** TODO 英语阅读打卡20
+:PROPERTIES:
+:ID:       BA5B6AF4-F0FE-4983-AF3F-0665B6056803
+:END:
+**** DONE 英语阅读打卡20
 SCHEDULED: <2020-07-29 Wed>
-**** TODO 英语阅读打卡21
+:PROPERTIES:
+:ID:       865D699A-3266-4556-91EB-7F03D63BEBF0
+:END:
+**** DONE 英语阅读打卡21
 SCHEDULED: <2020-07-30 Thu>
-**** TODO 英语阅读打卡22
+:PROPERTIES:
+:ID:       90D9FF67-1C7A-41C6-95B9-15EC30F2DC8B
+:END:
+**** DONE 英语阅读打卡22
 SCHEDULED: <2020-07-31 Fri>
-**** TODO 英语阅读打卡23
+:PROPERTIES:
+:ID:       890A5A55-DCFD-4FB9-A521-6812AC539513
+:END:
+**** DONE 英语阅读打卡23
 SCHEDULED: <2020-08-01 Sat>
-**** TODO 英语阅读打卡24
+:PROPERTIES:
+:ID:       92711037-21E8-425A-ACDC-40F0E834F3AE
+:END:
+**** DONE 英语阅读打卡24
 SCHEDULED: <2020-08-03 Mon>
-**** TODO 英语阅读打卡25
+:PROPERTIES:
+:ID:       55CF2185-3486-40AE-89BD-3CDE9E9F8E25
+:END:
+**** DONE 英语阅读打卡25
 SCHEDULED: <2020-08-04 Tue>
-**** TODO 英语阅读打卡26
+:PROPERTIES:
+:ID:       EE99FF8A-8A49-4F33-A3B0-F986674961E3
+:END:
+**** DONE 英语阅读打卡26
 SCHEDULED: <2020-08-05 Wed>
-**** TODO 英语阅读打卡27
+:PROPERTIES:
+:ID:       3DE3DFE8-9F96-4F74-A715-9764C03FDD1B
+:END:
+**** DONE 英语阅读打卡27
 SCHEDULED: <2020-08-06 Thu>
-**** TODO 英语阅读打卡28
+:PROPERTIES:
+:ID:       BF8E59B6-3157-4D54-B019-1D22C73887AD
+:END:
+**** DONE 英语阅读打卡28
 SCHEDULED: <2020-08-07 Fri>
-**** TODO 英语阅读打卡29
+:PROPERTIES:
+:ID:       369FABC1-BF86-46BD-A2BC-860776C60DDE
+:END:
+**** DONE 英语阅读打卡29
 SCHEDULED: <2020-08-08 Sat>
-**** TODO 英语阅读打卡30
+:PROPERTIES:
+:ID:       17EB34FF-EE5D-4F08-B382-436CAF834693
+:END:
+**** DONE 英语阅读打卡30
 SCHEDULED: <2020-08-10 Mon>
-**** TODO 英语阅读打卡31
+:PROPERTIES:
+:ID:       F68A2AD8-C8CC-4C06-989B-32C12601C66E
+:END:
+**** DONE 英语阅读打卡31
 SCHEDULED: <2020-08-11 Tue>
-**** TODO 英语阅读打卡32
+:PROPERTIES:
+:ID:       30A35941-276F-474A-BA1E-9CB63630A76C
+:END:
+**** DONE 英语阅读打卡32
 SCHEDULED: <2020-08-12 Wed>
-**** TODO 英语阅读打卡33
+:PROPERTIES:
+:ID:       F3F14E60-7DA2-48B2-90EA-053AC8F9C0DF
+:END:
+**** DONE 英语阅读打卡33
 SCHEDULED: <2020-08-13 Thu>
-**** TODO 英语阅读打卡34
+:PROPERTIES:
+:ID:       B5DFBB50-CC40-49FC-BF6A-F0C67B44E327
+:END:
+**** DONE 英语阅读打卡34
 SCHEDULED: <2020-08-14 Fri>
-**** TODO 英语阅读打卡35
+:PROPERTIES:
+:ID:       D14CFDD6-D070-421F-8B76-8B76875EA990
+:END:
+**** DONE 英语阅读打卡35
 SCHEDULED: <2020-08-15 Sat>
-**** TODO 英语阅读打卡36
+:PROPERTIES:
+:ID:       905DFAD8-301F-4919-86C8-1F5E64F27F58
+:END:
+**** DONE 英语阅读打卡36
 SCHEDULED: <2020-08-17 Mon>
+:PROPERTIES:
+:ID:       72A56A96-A847-4CA0-9650-E42D94FA964B
+:END:
 **** TODO 英语阅读打卡37
 SCHEDULED: <2020-08-18 Tue>
+:PROPERTIES:
+:ID:       9CA62D22-A3D4-48A5-90CB-1266AC275BAA
+:END:
 **** TODO 英语阅读打卡38
 SCHEDULED: <2020-08-19 Wed>
+:PROPERTIES:
+:ID:       20CBA8BE-99CC-4DE8-BF11-138FF4D7FF8C
+:END:
 **** TODO 英语阅读打卡39
 SCHEDULED: <2020-08-20 Thu>
+:PROPERTIES:
+:ID:       B3805B42-EABF-4A4A-93E6-47A3356A23FD
+:END:
 **** TODO 英语阅读打卡40
 SCHEDULED: <2020-08-21 Fri>
+:PROPERTIES:
+:ID:       769B9F0B-153C-4D82-8CE6-D0AEA8142B71
+:END:
 **** TODO 英语阅读打卡41
 SCHEDULED: <2020-08-22 Sat>
+:PROPERTIES:
+:ID:       64F7E24F-C7DA-44DD-BC74-C3D00D5DEA82
+:END:
 **** TODO 英语阅读打卡42
 SCHEDULED: <2020-08-24 Mon>
+:PROPERTIES:
+:ID:       EC63AD65-A77A-4C93-A222-A0A1ED66ECFF
+:END:
 **** TODO 英语阅读打卡43
 SCHEDULED: <2020-08-25 Tue>
+:PROPERTIES:
+:ID:       28767F36-6ED8-4767-AEE7-0F4A41B85338
+:END:
 **** TODO 英语阅读打卡44
 SCHEDULED: <2020-08-26 Wed>
+:PROPERTIES:
+:ID:       B3A30BDD-D12D-49A8-8D84-D0A247A54A91
+:END:
 **** TODO 英语阅读打卡45
 SCHEDULED: <2020-08-27 Thu>
+:PROPERTIES:
+:ID:       0DB90536-48A2-4FB8-8F7D-DE9A4F49A20E
+:END:
 **** TODO 英语阅读打卡46
 SCHEDULED: <2020-08-28 Fri>
+:PROPERTIES:
+:ID:       A30F6A3C-D1A8-414B-8356-8B8E7C33690E
+:END:
 **** TODO 英语阅读打卡47
 SCHEDULED: <2020-08-29 Sat>
+:PROPERTIES:
+:ID:       8DFB2768-903E-40CA-A127-553E9DD8AF46
+:END:
 **** TODO 英语阅读打卡48
 SCHEDULED: <2020-08-31 Mon>
-*** [0/48] 听力打卡
-**** TODO 英语听力打卡1
+:PROPERTIES:
+:ID:       C2C8934D-00A3-4D62-81CF-F21AB68788C8
+:END:
+*** [18/26] 听力打卡
+:PROPERTIES:
+:ID:       99B9ABC4-49C8-4CE6-B8AA-056B1035B2F8
+:END:
+**** DONE 英语听力打卡1
 SCHEDULED: <2020-07-14 Tue>
-**** TODO 英语听力打卡2
+:PROPERTIES:
+:ID:       AF8ED8B5-2D72-4876-AE45-CC556258A1B1
+:END:
+**** DONE 英语听力打卡2
 SCHEDULED: <2020-07-14 Tue>
-**** TODO 英语听力打卡3
+:PROPERTIES:
+:ID:       28E5AA09-62EF-4EBF-9304-033B14330E6E
+:END:
+**** DONE 英语听力打卡3
 SCHEDULED: <2020-07-15 Wed>
-**** TODO 英语听力打卡4
+:PROPERTIES:
+:ID:       371BF749-C8BE-4A19-92A1-5F2B6EC530A7
+:END:
+**** DONE 英语听力打卡4
 SCHEDULED: <2020-07-15 Wed>
-**** TODO 英语听力打卡5
+:PROPERTIES:
+:ID:       47178821-4280-4AE4-9D64-ACB2A2650146
+:END:
+**** DONE 英语听力打卡5
 SCHEDULED: <2020-07-16 Thu>
-**** TODO 英语听力打卡6
+:PROPERTIES:
+:ID:       46137FEB-3725-48CE-9F59-5B8C2AF4C431
+:END:
+**** DONE 英语听力打卡6
 SCHEDULED: <2020-07-16 Thu>
-**** TODO 英语听力打卡7
+:PROPERTIES:
+:ID:       5214DB9A-7088-4AF3-9C0D-05857364CF16
+:END:
+**** DONE 英语听力打卡7
 SCHEDULED: <2020-07-17 Fri>
-**** TODO 英语听力打卡8
-SCHEDULED: <2020-07-17 Fri>
-**** TODO 英语听力打卡9
-SCHEDULED: <2020-07-18 Sat>
-**** TODO 英语听力打卡10
-SCHEDULED: <2020-07-18 Sat>
-**** TODO 英语听力打卡11
-SCHEDULED: <2020-07-19 Sun>
-**** TODO 英语听力打卡12
-SCHEDULED: <2020-07-20 Mon>
-**** TODO 英语听力打卡13
-SCHEDULED: <2020-07-21 Tue>
-**** TODO 英语听力打卡14
-SCHEDULED: <2020-07-22 Wed>
-**** TODO 英语听力打卡15
-SCHEDULED: <2020-07-23 Thu>
-**** TODO 英语听力打卡16
-SCHEDULED: <2020-07-24 Fri>
-**** TODO 英语听力打卡17
+:PROPERTIES:
+:ID:       1404CCA6-D091-4763-9B35-242025B27A83
+:END:
+**** DONE 英语听力打卡8
 SCHEDULED: <2020-07-25 Sat>
-**** TODO 英语听力打卡18
-SCHEDULED: <2020-07-27 Mon>
-**** TODO 英语听力打卡19
+:PROPERTIES:
+:ID:       C394BC85-3369-45E0-A2C0-EF30469AB327
+:END:
+**** DONE 英语听力打卡9
+SCHEDULED: <2020-07-25 Sat>
+:PROPERTIES:
+:ID:       B17857CD-23AF-4840-8261-97F7B77A9992
+:END:
+**** DONE 英语听力打卡10
 SCHEDULED: <2020-07-28 Tue>
-**** TODO 英语听力打卡20
-SCHEDULED: <2020-07-29 Wed>
-**** TODO 英语听力打卡21
+:PROPERTIES:
+:ID:       C1987D9B-9ADE-456D-A25D-680AE1B7456B
+:END:
+**** DONE 英语听力打卡11
 SCHEDULED: <2020-07-30 Thu>
-**** TODO 英语听力打卡22
-SCHEDULED: <2020-07-31 Fri>
-**** TODO 英语听力打卡23
+:PROPERTIES:
+:ID:       1F133CA7-EDFF-4643-837D-E9E85D96D0C4
+:END:
+**** DONE 英语听力打卡12
 SCHEDULED: <2020-08-01 Sat>
-**** TODO 英语听力打卡24
-SCHEDULED: <2020-08-03 Mon>
-**** TODO 英语听力打卡25
+:PROPERTIES:
+:ID:       01CA60C1-5834-4EAF-B2A7-AC41A37675B8
+:END:
+**** DONE 英语听力打卡13
 SCHEDULED: <2020-08-04 Tue>
-**** TODO 英语听力打卡26
-SCHEDULED: <2020-08-05 Wed>
-**** TODO 英语听力打卡27
+:PROPERTIES:
+:ID:       7629AADF-4BB8-46C9-9720-C5DAABBBE1A9
+:END:
+**** DONE 英语听力打卡14
 SCHEDULED: <2020-08-06 Thu>
-**** TODO 英语听力打卡28
-SCHEDULED: <2020-08-07 Fri>
-**** TODO 英语听力打卡29
+:PROPERTIES:
+:ID:       D0D8A91E-A7BE-4E1D-A06A-9FADEFBDBC67
+:END:
+**** DONE 英语听力打卡15
 SCHEDULED: <2020-08-08 Sat>
-**** TODO 英语听力打卡30
-SCHEDULED: <2020-08-10 Mon>
-**** TODO 英语听力打卡31
+:PROPERTIES:
+:ID:       DED8478C-474F-41CF-9657-5DEB269602C5
+:END:
+**** DONE 英语听力打卡16
 SCHEDULED: <2020-08-11 Tue>
-**** TODO 英语听力打卡32
-SCHEDULED: <2020-08-12 Wed>
-**** TODO 英语听力打卡33
-SCHEDULED: <2020-08-13 Thu>
-**** TODO 英语听力打卡34
-SCHEDULED: <2020-08-14 Fri>
-**** TODO 英语听力打卡35
+:PROPERTIES:
+:ID:       7FF91804-8293-4198-905D-1827813237B5
+:END:
+**** DONE 英语听力打卡17
+SCHEDULED: <2020-08-06 Thu>
+:PROPERTIES:
+:ID:       CA818F49-2229-4D34-B4B9-A9C6AD4510CB
+:END:
+**** DONE 英语听力打卡18
 SCHEDULED: <2020-08-15 Sat>
-**** TODO 英语听力打卡36
-SCHEDULED: <2020-08-17 Mon>
-**** TODO 英语听力打卡37
+:PROPERTIES:
+:ID:       BED74B05-AD75-486D-8CF0-D5DD90889DBF
+:END:
+**** TODO 英语听力打卡19
 SCHEDULED: <2020-08-18 Tue>
-**** TODO 英语听力打卡38
-SCHEDULED: <2020-08-19 Wed>
-**** TODO 英语听力打卡39
+:PROPERTIES:
+:ID:       967BF6AC-6804-42F5-90CD-383464040FDC
+:END:
+**** TODO 英语听力打卡20
 SCHEDULED: <2020-08-20 Thu>
-**** TODO 英语听力打卡40
-SCHEDULED: <2020-08-21 Fri>
-**** TODO 英语听力打卡41
+:PROPERTIES:
+:ID:       F8CF6DAF-EF9E-45F8-85D9-92290D7229CF
+:END:
+**** TODO 英语听力打卡21
 SCHEDULED: <2020-08-22 Sat>
-**** TODO 英语听力打卡42
-SCHEDULED: <2020-08-24 Mon>
-**** TODO 英语听力打卡43
+:PROPERTIES:
+:ID:       2802BF74-0E1C-4E18-BF24-857E476DCE2C
+:END:
+**** TODO 英语听力打卡22
 SCHEDULED: <2020-08-25 Tue>
-**** TODO 英语听力打卡44
-SCHEDULED: <2020-08-26 Wed>
-**** TODO 英语听力打卡45
+:PROPERTIES:
+:ID:       1F93E6F7-4B1C-4709-B32B-ABD8EAF71455
+:END:
+**** TODO 英语听力打卡23
 SCHEDULED: <2020-08-27 Thu>
-**** TODO 英语听力打卡46
-SCHEDULED: <2020-08-28 Fri>
-**** TODO 英语听力打卡47
+:PROPERTIES:
+:ID:       2C3DEF0A-DB2B-40C3-BC45-F02618F442CE
+:END:
+**** TODO 英语听力打卡24
 SCHEDULED: <2020-08-29 Sat>
-**** TODO 英语听力打卡48
-SCHEDULED: <2020-08-31 Mon>
-** [0/29] 物理
-*** [0/10] 巩固：完成暑假作业
-**** TODO 物理暑假作业一
+:PROPERTIES:
+:ID:       70D114F9-1EE5-4C79-ADD9-4A435C2B91AE
+:END:
+**** TODO 英语听力打卡25
+SCHEDULED: <2020-09-01 Tue>
+:PROPERTIES:
+:ID:       70B5EAC1-CF6C-4410-9632-4CD2F15379C6
+:END:
+**** TODO 英语听力打卡26
+SCHEDULED: <2020-09-03 Thu>
+:PROPERTIES:
+:ID:       FE036B6E-B8E4-44E0-99E9-AAAC11C6B546
+:END:
+* [0/29] 物理
+:PROPERTIES:
+:ID:       C3380262-2C68-4532-BA66-035F0C023055
+:END:
+*** [9/10] 巩固：完成暑假作业
+:PROPERTIES:
+:ID:       F21A037F-E6A7-4CDC-9EC6-09A18A01700A
+:END:
+**** DONE 物理暑假作业一
 SCHEDULED: <2020-07-15 Wed>
-**** TODO 物理暑假作业二
+:PROPERTIES:
+:ID:       2D607D79-C57D-4920-A3D5-BD18CB92B546
+:END:
+**** DONE 物理暑假作业二
 SCHEDULED: <2020-07-17 Fri>
-**** TODO 物理暑假作业三
+:PROPERTIES:
+:ID:       7FF7742D-B147-42DF-AFC6-AD342E87F676
+:END:
+**** DONE 物理暑假作业三
 SCHEDULED: <2020-07-22 Wed>
-**** TODO 物理暑假作业四
+:PROPERTIES:
+:ID:       86FDB0D1-2E18-432F-A111-FE9530E02BA3
+:END:
+**** DONE 物理暑假作业四
 SCHEDULED: <2020-07-24 Fri>
-**** TODO 物理暑假作业五
+:PROPERTIES:
+:ID:       E576E9A8-FBD3-4FD3-B444-4059E125B049
+:END:
+**** DONE 物理暑假作业五
 SCHEDULED: <2020-07-29 Wed>
-**** TODO 物理暑假作业六
+:PROPERTIES:
+:ID:       481E4C25-418B-4CCD-BC4F-5472EA6E3EFC
+:END:
+**** DONE 物理暑假作业六
 SCHEDULED: <2020-07-31 Fri>
-**** TODO 物理暑假作业七
+:PROPERTIES:
+:ID:       20C2A4D0-1DCB-414D-8669-F1465C167B02
+:END:
+**** DONE 物理暑假作业七
 SCHEDULED: <2020-08-05 Wed>
-**** TODO 物理暑假作业八
+:PROPERTIES:
+:ID:       319544AF-B52E-4F33-90BA-A481C5025D80
+:END:
+**** DONE 物理暑假作业八
 SCHEDULED: <2020-08-07 Fri>
-**** TODO 物理暑假作业九
+:PROPERTIES:
+:ID:       6B764200-6D1A-4D6C-867C-C03DBE3BE655
+:END:
+**** DONE 物理暑假作业九
 SCHEDULED: <2020-08-12 Wed>
+:PROPERTIES:
+:ID:       BB63500E-9C61-4DD0-A45E-111D7553D6FA
+:END:
 **** TODO 物理暑假作业十
-SCHEDULED: <2020-08-14 Fri>
-*** [0/6] 预习：新课
-**** TODO 物理预习：二力平衡
+SCHEDULED: <2020-08-17 Mon>
+:PROPERTIES:
+:ID:       5DBA9BBE-9B4B-449B-802C-A5BC180A5E2F
+:END:
+*** [5/6] 预习：新课
+:PROPERTIES:
+:ID:       CB411595-3008-45DD-B830-BC765F88523F
+:END:
+**** DONE 物理预习：二力平衡
 SCHEDULED: <2020-07-13 Mon>
-**** TODO 物理预习：惯性和牛顿第一定律
+:PROPERTIES:
+:ID:       82F7732D-566C-4E9A-BBB3-2D5CDC572B00
+:END:
+**** DONE 物理预习：惯性和牛顿第一定律
 SCHEDULED: <2020-07-20 Mon>
-**** TODO 物理预习：简单机械-杠杆
+:PROPERTIES:
+:ID:       442D7A2E-0067-4F0A-8066-04ABD651857F
+:END:
+**** DONE 物理预习：简单机械-杠杆
 SCHEDULED: <2020-07-27 Mon>
-**** TODO 物理预习：简单机械-滑轮
+:PROPERTIES:
+:ID:       D37FFAC4-8D46-48B6-A9A7-699C47965503
+:END:
+**** DONE 物理预习：简单机械-滑轮
 SCHEDULED: <2020-08-03 Mon>
-**** TODO 物理预习：机械功物理预习：
+:PROPERTIES:
+:ID:       0C268CD7-4751-48E0-8BC3-BCA2B5271F47
+:END:
+**** DONE 物理预习：机械功物理预习：
 SCHEDULED: <2020-08-10 Mon>
+:PROPERTIES:
+:ID:       B057DED1-1D8A-4665-9104-4CF3A7C21472
+:END:
 **** TODO 物理预习：机械能
 SCHEDULED: <2020-08-17 Mon>
-***  [0/13] 拓展：新编初中物理竞赛辅导
+:PROPERTIES:
+:ID:       7CED6E69-B20A-40A3-8F8C-A884E5347108
+:END:
+***  [2/13] 拓展：新编初中物理竞赛辅导
+:PROPERTIES:
+:ID:       C440AD2B-9318-41C3-B75A-5B9626618A09
+:END:
 **** TODO 物理拓展：声音的产生与传播 冲击波
-SCHEDULED: <2020-07-15 Wed>
+SCHEDULED: <2020-08-18 Tue>
+:PROPERTIES:
+:ID:       10F8AC70-BBC3-49F4-9901-BF8F1339B892
+:END:
 **** TODO 物理拓展：多普勒效应初步
-SCHEDULED: <2020-07-17 Fri>
+SCHEDULED: <2020-09-02 Wed>
+:PROPERTIES:
+:ID:       9E7F0663-C942-453B-9D86-41A88B2E0FA8
+:END:
 **** TODO 物理拓展：光的直线传播与反射
-SCHEDULED: <2020-07-22 Wed>
+SCHEDULED: <2020-08-20 Thu>
+:PROPERTIES:
+:ID:       FC7BFE90-48D8-45B3-9AEA-A41B539D5531
+:END:
 **** TODO 物理拓展：平面镜成像
-SCHEDULED: <2020-07-24 Fri>
+SCHEDULED: <2020-08-21 Fri>
+:PROPERTIES:
+:ID:       F8420CF8-D023-43DB-8A28-08AAD1C3D710
+:END:
 **** TODO 物理拓展：光的折射
-SCHEDULED: <2020-07-29 Wed>
+SCHEDULED: <2020-09-05 Sat>
+:PROPERTIES:
+:ID:       5B85F13F-1D46-4D72-B9E8-BB577FF64B70
+:END:
 **** TODO 物理拓展：透镜与透镜成像
-SCHEDULED: <2020-07-31 Fri>
+SCHEDULED: <2020-08-23 Sun>
+:PROPERTIES:
+:ID:       81D39CBF-08BE-454A-B8E9-94B9CA87DFA3
+:END:
 **** TODO 物理拓展：匀速直线运动与图像问题
-SCHEDULED: <2020-08-05 Wed>
+SCHEDULED: <2020-08-24 Mon>
+:PROPERTIES:
+:ID:       B91D2155-F6D3-40E2-AF88-EF40A6B5CA89
+:END:
 **** TODO 物理拓展：简单的变速直线运动
-SCHEDULED: <2020-08-12 Wed>
+SCHEDULED: <2020-08-25 Tue>
+:PROPERTIES:
+:ID:       14CBBC58-9780-4073-A12E-AA4AAB2A7B6E
+:END:
 **** TODO 物理拓展：圆周运动
-SCHEDULED: <2020-08-19 Wed>
-**** TODO 物理拓展：相对运动
 SCHEDULED: <2020-08-26 Wed>
+:PROPERTIES:
+:ID:       3F89E369-1BA1-41CF-9AFA-7908E27CB71D
+:END:
+**** TODO 物理拓展：相对运动
+SCHEDULED: <2020-08-27 Thu>
+:PROPERTIES:
+:ID:       40924041-C8EE-4958-B69E-AAC22E5A920C
+:END:
 **** TODO 物理拓展：小船过河问题初探
-**** TODO 物理拓展：几种常见的力
-**** TODO 物理拓展：力的合成与分解
+SCHEDULED: <2020-08-28 Fri>
+:PROPERTIES:
+:ID:       0D061BE7-55DF-4E00-8EE0-8BB0346A7D4D
+:END:
+**** ABORT 物理拓展：几种常见的力
+:PROPERTIES:
+:ID:       7E98FF61-D128-4832-B109-435B53BD7110
+:END:
+:LOGBOOK:
+- State "ABORT"      from "TODO"       [2020-08-17 Mon 09:15]
+:END:
+**** ABORT 物理拓展：力的合成与分解
+:PROPERTIES:
+:ID:       FDEBB821-2356-4BA7-A086-F256F8B82104
+:END:
+:LOGBOOK:
+- State "ABORT"      from "TODO"       [2020-08-17 Mon 09:15]
+:END:

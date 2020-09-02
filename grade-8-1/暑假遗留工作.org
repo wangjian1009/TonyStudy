@@ -1,0 +1,40 @@
+#+TITLE: 暑假遗留工作
+:PROPERTIES:
+#+SEQ_TODO: TODO(t) INPROGRESS(p) | DONE(d) ABORT(a@/!)
+#+TAGS:
+#+TAGS: 待安排
+#+STARTUP: logdrawer
+#+STARTUP: content
+#+STARTUP: hidestars
+#+STARTUP: indent
+#+CATEGORY: 牛牛
+:END:
+
+*  [0/10] 物理拓展：新编初中物理竞赛辅导
+** TODO 物理拓展：多普勒效应初步
+SCHEDULED: <2020-08-31 Mon>
+** TODO 物理拓展：光的直线传播与反射
+** TODO 物理拓展：平面镜成像
+** TODO 物理拓展：光的折射
+** TODO 物理拓展：透镜与透镜成像
+** TODO 物理拓展：匀速直线运动与图像问题
+** TODO 物理拓展：简单的变速直线运动
+** TODO 物理拓展：圆周运动
+** TODO 物理拓展：相对运动
+** TODO 物理拓展：小船过河问题初探
+
+* [0/12] 数学《欣竹》
+** TODO 《欣竹》二次根式的运算一
+SCHEDULED: <2020-08-31 Mon>
+** TODO 《欣竹》二次根式的运算二
+SCHEDULED: <2020-08-31 Mon>
+** TODO 《欣竹》二次根式的运算三
+** TODO 《欣竹》二次根式的运算四
+** TODO 《欣竹》一元二次方程的概念
+** TODO 《欣竹》一元二次方程的解法一 （开平方法）
+** TODO 《欣竹》一元二次方程的解法二 （因式分解法）
+** TODO 《欣竹》一元二次方程的解法三 （配方法）
+** TODO 《欣竹》一元二次方程的解法四 （公式法）
+** TODO 《欣竹》一元二次方程的解法五 （选择适当方法）
+** TODO 《欣竹》一元二次方程根的判别式一
+** TODO 《欣竹》一元二次方程根的判别式二

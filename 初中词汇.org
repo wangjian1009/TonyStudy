@@ -7,7 +7,7 @@
 #+LATEX_HEADER: \usepackage{xeCJK}
 #+LATEX_HEADER: \usepackage{tipa}
 #+LATEX_HEADER: \usepackage{ulem}
-#+LATEX_CLASS_OPTIONS: [answers]
+#+LATEX_CLASS_OPTIONS: [answer]
 :END:
 
 * （一）单词（Vocabulary)

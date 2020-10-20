@@ -122,9 +122,9 @@
      be ~ of (doing) sth
   - I'm afraid (not) . \dotuline{恐怕；很遗憾／抱歉} 谈及令人不快的、失望的、遗憾的事：
     - Must I hand in the homework now? \\
-      I'm ~ you must.
+      \dotuline{I'm} ~ you \dotuline{must}.
     - May I use your pen? \\
-      I'm ~ not. I'm using it now.
+      \dotuline{I'm} ~ \dotuline{not}. I'm using it now.
 *** Africa
 \fillin[Africa] /'eæfrikə/
 - n. 非洲
@@ -139,7 +139,7 @@
 *** afternoon
 \fillin[afternoon] /la:ftə'nu:n/
 - n. 下午
-  -- in the ~ - p.m.
+  - in \dotuline{the} ~ - p.m.
 *** again
 \fillin[again] /ə'gen/
 - adv. 再一次；又一次
@@ -147,7 +147,7 @@
 *** against
 \fillin[against] /a'genst/
 - prep. 反对；违反；违背
-  - I am ~ keeping pets. 我反对养宠物。
+  - I \dotuline{am} ~ keeping pets. 我反对养宠物。
   - Running the red light \dotuline{is ~ the law}. 闯红灯是违法的。
 *** age
 \fillin[age] /eid3/
@@ -162,22 +162,158 @@
   - the aged/'etd3id/ + are...  年迈者；老人
 *** ...ago
 \fillin[...ago] /ə'gəu/
-- adv. ···以前；···之前 （从“说话时”往前推算）
+- adv. ···以前；···之前 （从“\dotuline{说话时}”往前推算）
 *** agree
 \fillin[agree] /ə'gri:/
 - v. (opp.dis-) 同意；赞同
-  - ~ to do sth 同意做
-    - I couldn't ~ more. 绝对赞同。
+  - ~ \dotuline{to do} sth 同意做
+  - I \dotuline{couldn't} ~ \dotuline{more}. 绝对赞同。
 *** ahead
 \fillin[ahead] /ə'hed/
-- ado. 向前方；提前
+- adv. 向前方；提前
   - Go straight ~.
   - --- May I use your pen? \\
     --- Sure. Go ~.
-  - I finished the work hours ~.
+  - I finished the work \dotuline{hours} ~.
 *** aim
 \fillin[aim] /eim/
-- n.[pl.-s] 目的；目标
+- n.[pl.-s]  = goal = purpose  目的；目标
+  - His ~ is \dotuline{to enter| a key high school. \dotuline{他的目标}是要考人重点高中。
+- v. 目的是；打算；瞄准
+  - He ~ s to enter a key high school.
+  - The robber \dotuline{~d the gun at} her head. 劫匪用枪\dotuline{对准了}她的头。
+*** air
+\fillin[air] /cə/
+- n. [U] 空气；大气
+*** airline
+\fillin[airline] /'cəlam/
+- n.[pl.-s] 航空公司
+  - China Eastern Airline 中国东航
+*** airport
+\fillin[airport] /'capot/
+- n. [pl.-s] 机场
+  - meet sb/see sb of f at the ~ 去机场迎接 ／ 为···送行
+*** alarm
+\fillin[alarm] /ə'la:m/
+- n. [pl.-s] 闹钟；警报（器）
+  - sound an ~ 摁响警报器
+*** alive
+\fillin[alive] /ə'laiv/
+- adj. (-live) 活着的
+  - The wounded man \dotuline{is} still ~. = not dead
+*** all
+\fillin[all] /ol/
+- adv. 全部；都
+- pron. 全部；全体人员
+- adj. (opp.none)  (≥3)全部的； 所有的
+  - \dotuline{All} of us \dotuline{like} English.
+  - \dotuline{None} of us \dotuline{likes} /like English.
+*** allow
+\fillin[allow] /əllau/
+- v. 允许；准许
+  - ~ sb \dotuline{to do sth}
+    - People \dotuline{aren't allowed to smoke} in schools. = mustn't 禁止；不准
+*** almost
+\fillin[almost] /'ə:lməust/
+- adv. 几乎；将近；差不多 （修饰“动作、程度、范围” 但 \sout{“数量”}）
+  - She ~/nearly \dotuline{missed} the train. 她差点\dotuline{误了}火车。
+  - Almost/Nearly \dotuline{everybody} knows it. 几乎\dotuline{人人}皆知。
+  - \sout{Almost}/Nearly \dotuline{40 kids} are in a class. 每个班级有将近\dotuline{40}名学生。
+*** alone
+\fillin[alone] /ə'ləun/
+- adj. 独自一人的
+  - Tom \dotuline{is ~ at home} but doesn't \dotuline{feel lonely}.  Tom一人在家但并不觉得寂寞。
+- adv. 单独地；独立地
+  - do my homework ~ =（by) myself = on my oum
+*** along
+\fillin[along] /a'lpr/
+- prep. 沿着；顺着（水平道路）
+  - A + ~ with + B  以及；连同
+    - \dotuline{Tom} ~ with his parents \dotuline{is} fond of music. （“就\dotuline{远}原则”）
+- adv. = on  进展；相处；向前
+  - How are you getting ~ with your study?  你的学习怎么样啊？
+  - I'm getting ~ well with my classmates.  我与同学们\dotuline{相处融洽}。
+  - We drove ~ (=ahead).  我们驱车\dotuline{前行}。
+*** already
+\fillin[already] /o:l'redi/
+- adv. （肯定句）已经 （在否定句、疑问句中：被yet替换）
+  - Jim has already finished his work. \\
+    → Has Jim finished ... yet? \\
+    → Jim hasn't finished ... yet. 
+*** also
+\fillin[also] /'s:lsəu/
+- adv. 此外；还有；也 
+  - 注意also在句中的位置：
+    - 1.在句首＝besides
+    - 2.在句中＝too/as well
+      - a. 置于行为动词之前：Amy likes music and I ~ like music.
+      - b. 置于 be动词 之后：Li Hui is from China and I am ~ from China.
+      - c. 置于 can/must/will 等情态、助动词后：Ican sing and I can ~ playmusic.
+      - d. 置于have...done之间：Amy has been to Paris and I have ~been there.
+*** although
+\fillin[although] /ə:l'ðəu/
+- conj.  ＝ though /ǒau/  虽然；尽管
+  - ~ ... \sout{but}/, + (and) yet...
+*** altogether
+\fillin[altogether] /o:1'təgeða/
+- adv. ＝ in all  总共；合计
+- adv. ＝ completely 全部地；完全地
+  - The strong building \dotuline{wasn't} ~ \dotuline{destroyed}. 那楼很坚固，\dotuline{没有被完全}毁坏。
+*** always
+\fillin[always] /'ə:lweiz/
+- adv. 总是；一直；永远
+*** A.M.(a.m.)
+\fillin[A.M.(a.m.)] = in the morning  上午
+*** amazing
+\fillin[amazing] /ə'merzin/
+- adj. (amaze v.)  ＝ wonderful 极美的；极好的；精彩的；令人惊叹的
+*** ambition
+\fillin[ambition] /aæm'bifn/
+- n. [U,C] 志向；雄心
+  - My ~ is \dotuline{to be} a spaceman in the future.  我的\dotuline{志向}是将来当一名宇航员。
+*** America
+\fillin[America] /ə'merikə/
+- n.  美国；美洲
+*** American
+\fillin[American]  /ə'merikon/
+- adj. 美国（人）的； 美洲（人）的
+  - Tom is ~ . 
+- n. ［pl.-s] 美国人
+  - Tom is an ~ .
+*** among
+\fillin[among] /a'man/
+- prep.  在（≥3)之中； ＝one of...   ···中之一
+  - a. Helen is sitting ~ the kids.
+  - b. Shanghai is ~ the biggest cities.
+  - c. Jay Chou \dotuline{is popular} ~ teenagers. ＝ be popular with
+*** amount
+\fillin[amount] /a'maunt/
+- n. [C,pl.-s]  量；总量
+  - A huge amount of money \dotuline{has} been spent on education. \\
+    = Huge amounts of money \dotuline{have} been spent on... \\
+    大量的经费已被投人到教育上。
+*** amusing
+\fillin[amusing] /ə'mju:zin/
+- adj.(amuse v.) ＝funny 逗人笑的；好笑的
+*** amusement
+\fillin[amusement]  /ə'mju:zmənt/
+- n. 好笑；愉悦 娱乐（活动）
+  - to one's ~   令人好笑的是
+  - an ~ park  游乐场；娱乐园
+  - traditional ~ s  传统的娱乐活动
+  - Reading classics brings us~.  阅读名著给人以愉悦。
+*** ancient
+\fillin[an\dotuline{cie}nt] /'enfant/
+- adj. 古代的；远古的
+  - in ~ times  古时候；在古代
+*** and
+\fillin[and] /and;aænd/
+- conj.  和；以及；并且（连接“祈使句”，代替“if-条件句”）
+  - a. Be careful and you'll make fewer mis takes.\\
+    = \dotuline{If you are} careful, \sout{and} you'll make \dotuline{fewer}...\\
+    (如果）细心点，你就会\dotuline{少犯错}。
+  - b. Be careful or you'll make more mistakes. \\
+    = If you aren't careful, \sout{or} you'll
 
 #+LATEX: \end{questions}
 

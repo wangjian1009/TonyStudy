@@ -1,0 +1,183 @@
+#+TITLE: 初中词汇表
+:PROPERTIES:
+#+STARTUP: content
+#+STARTUP: noptag
+#+STARTUP: hideblocks
+#+LATEX_CLASS: exam
+#+LATEX_HEADER: \usepackage{xeCJK}
+#+LATEX_HEADER: \usepackage{tipa}
+#+LATEX_HEADER: \usepackage{ulem}
+#+LATEX_CLASS_OPTIONS: [answers]
+:END:
+
+* （一）单词（Vocabulary)
+** A
+#+LATEX: \begin{questions}
+*** able 
+\fillin[able] \textipa{'erbl}
+- adj.  能够的；有能力的
+  - be ~ to do sth = can do sth   会；能
+*** ability
+\fillin[ability] /ə'btləti/
+-  n. [pl.-ties]  能力；技能
+*** about
+\fillin[about]  /ə'baut/
+- prep. 关于；有关
+- adv. 大约；到处；各处
+  - The kids were running ~ in the garden. 孩子们在花园里跑来跑去。
+*** above
+\fillin[above] /ə'bav/
+- prep. (opp. below) 高于； 在（不垂直的）上方
+*** abroad
+\fillin[abroad] /ə'bro:d/
+- adv. 在（到）国外 
+  - \sout{in / at / on / to} / from ~ 从国外
+*** accept
+\fillin[accept] /ak'sept/
+- v. 接受；认可；承认
+  - ~ one's invitation/suggestion
+  - \dotuline{It's widely-ed} that...  人们普遍认为
+*** accident
+\fillin[accident] /'æksidənt/
+- n. [pl.-s] 车祸；意外
+  - have an ~ 遭遇意外（事故）
+*** accurate
+\fillin[accurate]  /'ækjərət/
+- adj. 精确的；准确的
+  - provide ~ in formation = exact
+*** achieve
+\fillin[achieve] /ə'tfirv/
+- v. 实现；取得；达到
+  - ~ one's dream 实现梦想
+  - ~ one's success 取得成功
+*** across
+\fillin[across] /ə'kros/
+- prep. (在平面上）穿过；横过
+  - He \dotuline{went} ~ \sout{/ through} the street. ＝ He \sout{across} / \dotuline{crossed} the street.
+*** act
+\fillin[act] /aækt/
+- v. 扮演；表演；行动
+*** active
+\fillin[active] /'aektiv/
+- adj. 积极的；活跃的
+  - be ~ in sth ＝ take an~part in 积极参与
+  - an ~ child  活泼好动的孩子
+*** activity
+\fillin[activity] /eek'tiveti/
+- n. [pl.-ties] 活动
+*** actor
+\fillin[actor] /'aæktə/
+- n. [pl.-s]  男演员
+*** actress
+\fillin[actress] /'æktrəs/
+- n.[pl.-es] 女演员
+*** actually
+\fillin[actually] /'æktfuəli/
+- adv. （actual,adj.) ＝in fact 实际上；事实上（纠正说法、强调事实）
+  - I'm not Japanese, ~ . I'm Chinese.  我其实不是日本人。我是中国人。
+  - Actually, I didn't tell you the truth.  实际上，我并没有对你说实话。
+*** add
+\fillin[add] /æd/
+- v. 加上；增加；添加
+  - Add one to five.You get six. 1+5=6
+  - The new words ~ to the difficulty.  ＝ increase 生词加大了难度。
+- v. 补充说；继续说；接着说
+  - “And don't be late again,” she \dotuline{added}.
+*** addition
+\fillin[addition] /ə'difn/
+- n. 加法；此外
+  in ~ (to sth) = besides(sth)  此外；还有
+*** address
+\fillin[address] /ə'dres/
+- n. [pl.-es] 地址
+- What's your ~ ? = Where do you live?
+*** adult
+\fillin[adult] /'ædalt/
+- n. [pl.-s]  成年人
+  - Parents are ~s while we're teenagers.
+- adj. （适合）成年人的
+  - an ~ education programme 成人教育课程
+*** advantage
+\fillin[advantage] /əd'va:ntid3/
+- n.[pl.-s] 优势；
+  -（opp.dis-) 好处
+*** advertisement
+\fillin[advertisement] /əd'vэ:tismənt/
+- n. [pl.-s] ＝ ad. /aed/ 广告
+*** advice
+\fillin[advice] /ad'vais/
+- n. [U] 劝告；忠告；建议
+- v. advi\dotuline{s}e /əd' vaiz/ 
+  - a piece of/some ~
+*** afford
+\fillin[afford] /alfo:d/
+- v. 买得起；抽得出（时间）
+  - can't / couldn't ~ (to buy) sth 买不起
+- ~ (to buy) sth
+  - I'm too busy to~the coming holiday. 假期即将来临但我太忙，没空度假。
+*** afraid
+\fillin[afraid] /ə'fred/
+- adj. 害怕的；担心的
+  - be ~ to do sth 害怕；不敢 \\
+     be ~ of (doing) sth
+  - I'm afraid (not) . \dotuline{恐怕；很遗憾／抱歉} 谈及令人不快的、失望的、遗憾的事：
+    - Must I hand in the homework now? \\
+      I'm ~ you must.
+    - May I use your pen? \\
+      I'm ~ not. I'm using it now.
+*** Africa
+\fillin[Africa] /'eæfrikə/
+- n. 非洲
+*** African
+\fillin[African] /'aæfrikən/
+- adj. 非洲的
+- n. [pl.-s] 非洲人
+*** after
+\fillin[after] /'a:ftə/
+- prep. , conj.  在···之后
+- adv. soon ~ 不久之后
+*** afternoon
+\fillin[afternoon] /la:ftə'nu:n/
+- n. 下午
+  -- in the ~ - p.m.
+*** again
+\fillin[again] /ə'gen/
+- adv. 再一次；又一次
+  - Pardon? Will you \dotuline{repeat} that again? 对不起，请再说一遍好吗？
+*** against
+\fillin[against] /a'genst/
+- prep. 反对；违反；违背
+  - I am ~ keeping pets. 我反对养宠物。
+  - Running the red light \dotuline{is ~ the law}. 闯红灯是违法的。
+*** age
+\fillin[age] /eid3/
+- n. [pl.-s] 年龄；时代
+  - What's.your ~ ? = How old are you?
+  - at the ~ of... 在···岁数时
+  - the in formation ~ 信息时代
+*** aged
+\fillin[aged] /eid3d/
+- adj. 有···岁数的
+  - aboy ~ \dotuline{ten} ＝a boy of ten=a ten-year-oldboy \dotuline{10岁的}男孩 
+  - the aged/'etd3id/ + are...  年迈者；老人
+*** ...ago
+\fillin[...ago] /ə'gəu/
+- adv. ···以前；···之前 （从“说话时”往前推算）
+*** agree
+\fillin[agree] /ə'gri:/
+- v. (opp.dis-) 同意；赞同
+  - ~ to do sth 同意做
+    - I couldn't ~ more. 绝对赞同。
+*** ahead
+\fillin[ahead] /ə'hed/
+- ado. 向前方；提前
+  - Go straight ~.
+  - --- May I use your pen? \\
+    --- Sure. Go ~.
+  - I finished the work hours ~.
+*** aim
+\fillin[aim] /eim/
+- n.[pl.-s] 目的；目标
+
+#+LATEX: \end{questions}
+

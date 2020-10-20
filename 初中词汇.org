@@ -553,133 +553,133 @@
 \fillin[bad] /baæd/
 - adj. （worse; worst) 糟糕的；严重的；坏的；不利的；有害的
 *** bag
-bag/beeg/n.[pl.-s]
-书包；提包；袋子
-bakery/'berkari/n.[pl.-ries]
-面包店
-balance/'baelans/n.
-平衡
-keep a~betueen study and play
-劳逸结合
-have a-d diet
-吃营养均衡的饮食
-ball/bo:l/n.[pl.-s]
-球
-球类运动
-～games
-balloon/ba'lu:n/n.[pl.-s]
-气球
-banana/bə'na:nə/n.[pl.-s]
-香蕉
-bank/beegk/n.[pl.-s]银行；（河流）岸边
-on both-s of the rioer
-在河流两岸
-＝om either~of...
-bar/ba:/n.[pl.-s]
-酒吧
-base/beis/n.[pl.-s]
-根据地；基地；基础
-a. based on the survey
-＝according to....
-根据调查
-b. The film is based on a real story.
-此片是以真实故事为素材的。
-c.a Shanghai-based company 总部设在
-上海的公司
-basic/'berstk/adj.
-基础的；基本的
-～knowledge
-基础知识
-～needs
-基本需求
-basket/'ba:skit/n.[pl.-s]
-篮子；筐子
-basketball/'ba:skrtbo:l/n.
-篮球
-play the/a~
-bath/ba:0/n.[pl.-s]
-洗澡；盆浴
-takea~
-洗澡
-battery/'baetəri/n.[pl.-ries]
-电池
-recycle used -ries
-回收废旧电池
-battle /'bætl/n.[pl.-s]
-战争；战役；斗争
-fight a~against illness
-与病魔作斗争
-the~of Waterloo
-滑铁卢战役
-be v.
-是；成为
-（am, is, are; was,were; been)
-beach/bi:tf/n.[pl.-es]
-海滩；沙滩
-bear/beə/n..[pl.-s]
-熊
-beat/bi:t/v.
-打败；战胜；（心脏）跳动
-（beat; beaten/'bi:tn/)
-a. Our team beat theirs in the game
-Their'team uas beaten byours.
-在比赛中，我们队击败了他们队。
-b. She'salioe-her heart is still-ing.
-她（还）活着一
-一她的心脏还在跳动，
-beautiful/'bju:tifl/adj.
-美丽的；
-优美的；动听的
-beautifully/'bju:tifli/adv.
-优美地；动听地
-because/br'koz/conj.
-因为；由于
-become/br'kam/linking-v.
-变得；成为
-（became;become)
-bed/bed/n.[pl.-s]
-bedroom/'bedru:m/n.[pl.-s]
-东
-卧室
-before/br'fo:/prep.,adv.,conj.
-从前
-在···前面；在···以前
-beg/beg/o.
-恳求；乞求；乞讨
-（begged;begging)
-～sb to do sth
-begin/bi'gm/v.
-开始；着手
-（began/bi'gæn/;begun/br'gan)
-～＋ to do/doing sth
-to begin with,
-（列举时）首先；第一点
-beginning/br'gnin/n.
-开始；开端
-at/inthe~=at first
-一开始；起初
-at in the~ofnewterm
-在新学期初
-behave/br'herv/v.
-表现；举止；言行
-Tom-s well in school.Tom在校表现良
-好。
-We must~ourselves in public places.
-在公共场合，我们要注意自己的言行。
-behavio(u)r/br'hervja/n.[U]
-表现；
-举止；行为
-Tom's~at school is good. Tom 在校表
-现良好。
-在··后面
-behind/bt'haind/prep.
-落后于
-qs~nof
-丢下；遗留
-leave sth~
-human beings/hju:mən'biagz/
-人类；生物
-believe/br'li:v/o.=think
-相信；认为
+\fillin[bag] /beeg/
+- n. [pl.-s]  书包；提包；袋子
+*** bakery
+\fillin[bakery] /'berkari/
+- n. [pl.-ries]  面包店
+*** balance
+\fillin[balance] /'baelans/
+- n. 平衡
+  - keep a ~ between study and play  劳逸结合
+  - have a ~\dotuline{d} diet 吃\dotuline{营养均衡}的饮食
+*** ball
+\fillin[ball] /bo:l/
+- n. [pl.-s]  球
+  - ~ games   球类运动
+*** balloon
+\fillin[balloon] /ba'lu:n/
+- n. [pl.-s] 气球
+*** banana
+\fillin[banana] /bə'na:nə/
+- n. [pl.-s] 香蕉
+*** bank
+\fillin[bank] /beegk/
+- n. [pl.-s] 银行；（河流）岸边
+  - \dotuline{on both ~s} of the river = \dotuline{on either} ~ of...  在河流两岸
+*** bar
+\fillin[bar] /ba:/
+- n. [pl.-s]  酒吧
+*** base
+\fillin[base] /beis/
+- n. [pl.-s] 根据地；基地；基础
+  - a. \dotuline{based on} the survey ＝ according to.... 根据调查
+  - b. The film \dotuline{is based on} a real story. 此片是以真实故事\dotuline{为素材的}。
+  - c. a \dotuline{Shanghai based} company \dotuline{总部设在上海}的公司
+*** basic
+\fillin[basic] /'berstk/
+- adj. 基础的；基本的
+  - ~ knowledge 基础知识
+  - ~ needs  基本需求
+*** basket
+\fillin[basket] /'ba:skit/
+- n. [pl.-s] 篮子；筐子
+*** basketball
+\fillin[basketball] /'ba:skrtbo:l/
+- n. 篮球
+  - play +the / a+ ~
+*** bath
+\fillin[bath] /ba:0/
+- n. [pl.-s] 洗澡；盆浴
+  - take a ~ 洗澡
+*** battery
+\fillin[battery] /'baetəri/
+- n. [pl.-ries] 电池
+  - recycle used ~ries 回收废旧电池
+*** battle
+\fillin[battle] /'bætl/
+- n. [pl.-s] 战争；战役；斗争
+  - fight a ~ against illness 与病魔作斗争
+  - \dotuline{the ~ of Waterloo} \dotuline{滑铁卢战役}
+*** be
+\fillin[be]
+- v. （am, is, are; was,were; been)  是；成为
+*** beach
+\fillin[beach] /bi:tf/
+- n. [pl.-es]   海滩；沙滩
+*** bear
+\fillin[bear] /beə/
+- n. [pl.-s] 熊
+*** beat
+\fillin[beat] /bi:t/
+- v. （beat; beaten/'bi:tn/)  打败；战胜；（心脏）跳动 
+  - a. Our team \dotuline{beat} theirs in the game \\
+    = Their'team \dotuline{was beaten by} ours. 在比赛中，我们队击败了他们队。
+  - b. She's alive --- her heart is still ~ing. 她（还）活着一一她的心脏还在跳动。
+*** beautiful
+\fillin[beautiful] /'bju:tifl/
+- adj. 美丽的； 优美的；动听的
+*** beautifully
+\fillin[beautifully] /'bju:tifli/
+- adv. 优美地；动听地
+*** because
+\fillin[because] /br'koz/
+- conj. 因为；由于
+*** become
+\fillin[become] /br'kam/
+- linking-v. （became;become)  变得；成为
+*** bed
+\fillin[bed] /bed/
+- n. [pl.-s]   床
+*** bedroom
+\fillin[bedroom] /'bedru:m/
+- n. [pl.-s] 卧室
+*** before
+\fillin[before] /br'fo:/
+- prep.,adv.,conj.  从前；在···前面；在···以前
+*** beg
+\fillin[beg] /beg/
+- v. （begged;begging)  恳求；乞求；乞讨
+  - ~ sb \dotuline{to do} sth
+*** begin
+\fillin[begin] /bi'gm/
+- v. （beg\dotuline{a}n /bi'gæn/; beg\dotuline{u}n /br'gan/)  开始；着手
+  - ~ + \dotuline{to do / doing} sth
+  - to begin with,  （列举时）首先；第一点
+*** beginning
+\fillin[beginning] /br'gnin/
+- n. 开始；开端
+  - \dotuline{at} / \dotuline{in} the ~ =at first   一开始；起初
+  - \dotuline{at} +in+ \dotuline{the} ~ \dotuline{of} new term  在新学期初
+*** behave
+\fillin[behave] /br'herv/
+- v. 表现；举止；言行
+  - Tom \dotuline{~ s well} in school.  Tom在\dotuline{校表}现良好。
+  - We must ~ \dotuline{our selves} in public places.   在公共场合，我们要注意\dotuline{自己的言行}。
+*** behavio(u)r
+\fillin[behavio\dotuline{(u)r}] /br'hervja/
+- n.[U] 表现； 举止；行为
+  - Tom's ~ at school is good. Tom在校表现良好。
+*** behind
+\fillin[behind] /bt'haind/
+- prep. 在··后面
+  - fall ~ sb 落后于；
+  - leave sth ~ 丢下；遗留
+*** human beings
+\fillin[human beings] /hju:mən'biagz/
+- 人类；生物
+*** believe
+\fillin[believe] /br'li:v/
+- v. =think 相信；认为
 
 #+LATEX: \end{questions}

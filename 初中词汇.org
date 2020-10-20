@@ -683,3 +683,660 @@
 - v. =think 相信；认为
 
 #+LATEX: \end{questions}
+** C
+#+LATEX: \begin{questions}
+*** cabbage
+\fillin[cabbage] /'kaæbrd3/
+- n. [pl.-s] 卷心菜
+*** cake
+\fillin[cake] /kerk/
+- n. [pl.-s] 蛋糕；糕点；饼
+*** call
+\fillin[call] /ko:l/
+- v.  取名；呼唤；给···打电话
+  - The girl \dotuline{is ~ed} Helen. = is named
+  - a baby \dotuline{~ed} Helen = named
+- n. [C]  （一次）电话；通话
+  - give sb a ~ = ~ sb (up) 给···打个电话
+*** calm
+\fillin[calm] /ka:m/
+- adj.,v.   冷静的；沉着的
+  - keep ~  保持冷静
+  - ~ sb down 使···冷静；安抚
+*** camera
+\fillin[camera] /'kæmərə/
+- n. [pl.-s] 照相机； 摄像机
+*** camp
+\fillin[camp] /kemp/
+- n. [pl.-s]  野营；营地
+*** can
+\fillin[can] /kən;kæn/
+- modal-v. 能够；会；可能 
+  - 过去式、委婉形式（could /kud/)
+- n. =tin (BrE.) 罐头盒；听
+*** Canada
+\fillin[Canada] /'kænədə/
+- n. 加拿大
+*** Canadian
+\fillin[Canadian] /kə'nerdrən/
+- adj. 加拿大的
+- n. [pl.-s]  加拿大人
+*** cancel
+\fillin[cancel] /'kænsl/
+- v. 取消
+  - ~ a meeting / flight  取消会议／航班
+*** capital
+\fillin[capital] /'kæprtl/
+- n. [pl.-s] 首都
+  - Beijing is the ~ of China.
+*** captain
+\fillin[captain] /'kæptin/
+- n. [pl.-s] 船长；机长；队长
+  - Beckham was a / the ~ of England.  \\
+    零冠词＋独一无二的职位：captain,monitor,president,headmaster,etc.
+*** car
+\fillin[car] /ka:/
+- n. [pl.-s] 小汽车；轿车
+*** card
+\fillin[card] /ka:d/
+- n. [pl.-s] 卡片
+*** care
+\fillin[care] /keə/
+- n. [U] 细心；关心；照管
+- v. 
+  - a. ~ about 关心；关爱；在乎
+  - b. ~ for sb ＝ take care of = look after  照顾 \\
+       ＝ love / like ... very much   很喜欢
+  - c. Idon't ~.  我不在乎。
+*** careful
+\fillin[careful] /'keəfl/
+- adj. 小心的；仔细的；认真的
+*** carefully
+\fillin[carefully] /'keafəli/
+- adv. 精心地；仔细地
+*** careless
+\fillin[careless] /'kcələs/
+- adj.  粗心的；马虎的
+*** carrot
+\fillin[carrot] /'kærэt/
+- n. [pl.-s] 胡萝卜
+*** carry
+\fillin[carry] /'kaeri/
+- v.  (carries; carried; carrying) 运送（乘客、货物）；搬运（重物）；携带
+*** cartoon
+\fillin[cartoon] /ka:'tu:n/
+- n. [pl.-s]  动画片；漫画
+*** case
+\fillin[case] /kers/
+- n. [pl.-s] 盒子；箱子；情形；案件
+  - a pencil ~ =box   铅笔盒
+  - in this/that ~   这／那样的话
+  - investigate a ~  /in'vestigent/   调查案件
+*** cat
+\fillin[cat] /kaæt/
+- n. [pl,-s]  猫；猫科动物
+*** catch
+\fillin[catch] /ketf/
+- v. (caught;caught/ko:t/)
+  - ~ a thief  抓小偷
+  - ~ a bus   赶上车
+  - ~ (a) cold  患感冒
+  - Pardon? I didn't ~ you. = understand 对不起，我没明白你的意思。
+*** cause
+\fillin[cause] /ko:z/
+- n. [pl.-s]  原因；起因
+  - investigate the ~ of the fire 调查火因
+- v. 促使；导致···发生；引发（问题）
+  - a. ~ sb to do sth ＝ make/let/have + sb + do sth
+  - b. The haze may ~ health problems.
+*** cave
+\fillin[cave] /kerv/
+- n. [pl.-s]  洞穴；山洞
+*** celebrate
+\fillin[celebrate] /'selrbrert/
+- v. 庆祝；庆贺
+  - ~ one's birthday=mark
+*** cent
+\fillin[cent] /sent/
+- n. [pl.-s]   (1)美分
+  - (100 cents = 1 dollar)
+*** centre
+\fillin[centre] /'sentə/
+- n. [pl.-s] (－ter AmE.) 中心；中央
+  - in the ~ of = in the middle of
+*** century
+\fillin[century] /'sentfəri/
+- n.  世纪；百年
+  - in the twentieth/twenty first ~
+*** certainly
+\fillin[certainly] /'sa:tnli/
+- adv.  (certain adj.)  当然；必然；一定；无疑
+*** chain
+\fillin[chain] /tfern/
+- n. [pl.-s]  连锁店；铁链
+  - a supermarket ~ 连锁超市
+*** chair
+\fillin[chair] /tfea/
+- n. [pl.-s] 椅子
+*** chance
+\fillin[chance] /tfa:ns/
+- n. [pl.-s] 机会；机遇
+  - get a ~ to do sth  得到做···的机遇
+  - meet sb by ~  偶遇
+*** change
+\fillin[change] /tfend3/
+- n. [pl.-s] 变化；找零
+  - Great ~ s have taken place in Shanghai
+  - Here's your ~. 请拿好您的零钱。
+- v. 变化；改变
+  - Shanghai has greatly ~d in recent 20 years.  近20年来，上海变化巨大。
+*** changeable
+\fillin[changeable] /'tfeind3əbl/
+- adj. 多变的
+  - ~ weather 变化无常的天气
+*** channel
+\fillin[channel] /'tfænl/
+- n. [pl.-s]  （电视）频道
+  - on Channel 9   在9频道
+*** character
+\fillin[character] /'keerəktə/
+- n.  个性；特色；特点
+  - She has a strong ~. 她个性要强。
+  - Many buildings look alike and have no real ~. 很多大楼外观一样，毫无特色。
+*** charge
+\fillin[charge] /tfa:d3/
+- n. [U] 主管；掌管
+  - be in ~ of = take ~ of = be responsible for
+*** charity
+\fillin[charity] /'tfaæerəti/
+- n. [pl.-ties] 慈善（机构）
+  - donate/give money to ~ties
+*** chat
+\fillin[chat] /tfaet/
+- n.,v.  (chatted;chatting) 聊天；闲聊
+  - have a ~ with sb = ~ with sb
+*** cheap
+\fillin[cheap] /tfi:p/
+- adj. 便宜的；廉价的
+*** check
+\fillin[check] /tfek/
+- v. 检查；核对；查看
+  - Check the homework before you hand it in. = Examine 先检查作业再交。
+  - Check if the windows are all closed. 查看窗户是否都关好了。
+- n. 检查；支票；账单
+  - have a health ~  体检
+  - Have a ~ for your spelling mistakes. 检查一下，有无拼写错误。
+  - Can I have the ~, please? = bill
+*** cheer
+\fillin[cheer] /tfrə/
+- n.,p. 欢呼；喝彩
+  - three ~s for sb 为···欢呼三次
+  - ~ sb on  为···喝彩、加油
+  - ~ sb up  让···开心、振作起来
+*** cheese
+\fillin[cheese] /tfiz/
+- n.[U] 奶酪
+- int. (拍照时说）茄子；笑一笑
+*** chemistry
+\fillin[chemistry] /'kemustri/
+- n.[U]  化学（学科）
+*** chemical
+\fillin[chemical] /'kemikl/
+- adj. 化学的
+  - a ~ change
+- n. [C,pl.-s] 化学物质（制品）
+*** chess
+\fillin[chess] /tfes/
+- n. 国际象棋
+  - play the ~  下棋
+*** chicken
+\fillin[chicken] /'tfikm/
+- n. [C,pl.-s] [U]  (活的）小鸡（煮熟的）鸡肉
+*** chief
+\fillin[chief] /tfif/
+- n. [pl.-fs;-ves]  首领，头目
+  - the village ~  村长
+- adj.  主要的；最重要的
+  - a ~ problem = main  主要问题
+*** child
+\fillin[child] /tfarld/
+- n. [pl.-ren  /'tjildrən/]  ＝kid(AmE.)  孩子；儿童
+*** childhood
+\fillin[childhood] /'tfarldhud/
+- n.  童年（时期）
+  - in one's ~
+*** china
+\fillin[china] /'tfainə/
+- n. [U] 瓷器；陶瓷；瓷花瓶
+  - a ~ vase
+*** China
+\fillin[China] /'tfaina/
+- n.  中国
+*** Chinese
+\fillin[Chinese] /itfau'niz/
+- adj.  中国（人）的；汉语的
+- n. [C,pl. Chinese] 中国人
+- n. [U]    汉语；中文
+*** chocolate
+\fillin[chocolate] /'tfoklət/
+- n. [U;C,pl.-s]  巧克力
+*** choice
+\fillin[choice] /tfors/
+- n. [pl.-s]  选择
+  - make a ~  作出选择
+*** choose
+\fillin[choose] /tfu:z/
+- v. (chose/tfəuz/;chosen/'tfəuzn/) 选择；挑选；决定
+  - ~ (to do) sth  决定（不）做
+*** Christmas
+\fillin[Christmas] /'krisməs/
+- n.  圣诞节
+  - on ~ Day(Dec.25)  在圣诞日
+*** church
+\fillin[church] /tfa:tJ/
+- n. [pl.-es]  教堂
+  - go to the ~  去教堂（做礼拜）
+*** cinema
+\fillin[cinema] /'snəmə/
+- n. [pl.-s]  电影院；电影
+  - go to the ~ 去看电影
+*** circle
+\fillin[circle] /'sэ:kl/
+- n. [pl.-s] 圆；圈
+  - sit in a ~ 围坐在一起
+- v. 把···圈起来；在···划个圈
+  - The mistakes are ~d in red ink.  错误用红笔圈出来。
+*** city
+\fillin[city] /'srti/
+- n.[pl.-ties]  城市
+*** citizen
+\fillin[citizen] /'sttizn/
+- n. [pl.-s]  市民；公民；居民
+*** class
+\fillin[class] /kla:s/
+- n. [pl.-es]  班级；课；等级
+  - a first-~ school 一流的学校
+*** classmate
+\fillin[classmate] /'klasmet/
+- n. [pl.-s]  同班同学
+*** classroom
+\fillin[classroom] /'kla:sru:m/
+- n. [pl.-s]  教室
+*** clean
+\fillin[clean] /kli:n/
+- adj. 干净的；清洁的 。打扫；擦干净
+  - do some/the ~ing  大扫除；搞卫生
+*** clear
+\fillin[clear] /klrə/
+- adj.  清澈的；明显的；清楚的
+  - Is that ~?  明白了吗／我讲清楚了吗？
+  - It's ~ that...  显然，···
+- v. 清扫；（天气）放晴
+  - It's going to ~ up later.   稍后就会放晴。
+*** clearly
+\fillin[clearly] /'klrəli/
+- adv. 清晰地；清楚地；显然
+  - Clearly, it't not easy to fight the haze.  显然，消除雾霾不是件轻松的事。
+  - Pardon? I can't hear you ~.  不好意思， 我听不清你说什么。
+*** clerk
+\fillin[clerk] /kla:k; klə:k/
+- n. [pl.-s]  职员；办事员
+*** clever
+\fillin[clever] /'klevə/
+- adj.  聪明的；灵巧的
+  - ~er / more ~ than   比···聪明的
+*** climb
+\fillin[climb] /klaim/
+- v.  爬；攀爬
+  - ~ the hill/tree
+*** clinic
+\fillin[clinic] /'klmik/
+- n. [pl.-s]  医务室；诊所
+*** clock
+\fillin[clock] /klok/
+- n. [pl.-s] 钟
+  - The ~ is five minutes fast/slow.  此钟快／慢了5分钟。
+*** close
+\fillin[close] /kləuz/
+- v.    关；闭
+- adj.  靠近的；亲密的；相近的
+  - ~ to sth  与···相邻的、相近的
+  - a ~ friend   密友
+- adv.  靠近；紧挨着
+  - Don't stand too ~.  不要站得太挤了。
+*** clothes
+\fillin[clothes] /kləu(ð)z/
+- n.  [C,always pl.]  衣服（总称）
+  - put on warm ~  穿上保暖衣服
+*** cloud
+\fillin[cloud] /klaud/
+- n. [pl.-s]  云（朵、彩）
+  - ~ services/computing  云服务／云计算
+*** cloudy
+\fillin[cloudy] /'klaudi/
+- adj.  多云的；阴天的
+*** club
+\fillin[club] /klAb/
+- n. [pl.-s]  俱乐部；社团
+  - join in a ~  加入···
+*** coat
+\fillin[coat] /kəut/
+- n. [pl.-s]  外衣；上衣
+*** coffee
+\fillin[coffee] /'kofi/
+- n. [U]  咖啡
+*** coin
+\fillin[coin] /kom/
+- n. [pl.-s] 硬币
+  - collect ~s  收藏硬币
+*** cold
+\fillin[cold] /kəuld/
+- adj.  冷的；寒冷的
+- n.  寒冷；感冒
+  - He was shaking with ~.  他冻得发抖。
+  - catch(a)~  患感冒
+*** collect
+\fillin[collect] /kə'lekt/
+- v.  收集；收藏；采集
+  - ~ information / stamps  收集资料／集邮
+*** collection
+\fillin[collection] /kə'lekfn/
+- n. [pl.-s]  收藏品
+  - have a large ~ of  收藏了大量的
+*** college
+\fillin[college] /'kplid3/
+- n. [pl.-s]  学院；大学
+  - go to the ~ 上大学
+*** colo(u)r
+\fillin[colo(u)r] /'kalə/
+- n. [pl.-s]  颜色
+- v.  (用蜡笔、彩笔）涂色；着色
+  - Nick drew a tree and ~ed it green.
+*** come
+\fillin[come] /kAm/
+- v. (came,come) 来；来到
+  - ~ up with an idea/suggestion 想出办法／提出建议
+*** comfortable
+\fillin[comfortable] /'kAmfətəbl/
+- adj.  (comfort v.,n.)  舒服的；满意的
+*** common
+\fillin[common] /'kpmən/
+- adj.  普通的；常见的；共同的；共有的
+  - ~ people = ordinary  普通人；老百姓
+  - ~ wish  共同的愿望
+  - It's ~ sense that the Earth goes around the Sun. 地球绕太阳转是常识。
+*** communicate
+\fillin[communicate] /kə'mju:nikeit/
+- v. 交流；交往
+  - ~ with sb  与···交流、交往
+  - ~ one's ideas to sb  传达；传递（思想）
+  - ~ positive energy    传递正能量
+*** community
+\fillin[community] /kə'mju:nəti/
+- n. [pl.-ties]  社区
+  - work as a ~ volunteer  做社区志愿者
+*** company
+\fillin[company] /'kAmpəni/
+- n. [pl.-nies]  公司
+*** compare
+\fillin[compare] /kəm'pea/
+- v.  比较；对比
+  - ~ A with B
+*** compete
+\fillin[compete] /kəm'pi:t/
+- v.  竞争；竞赛
+  - ~ with sb
+*** competition
+\fillin[competition] /kompt'tfn/
+- n. [pl.-s]   竞赛；竞争
+*** complain
+\fillin[complain] /kəm'plen/
+- v. (complaint n.) 抱怨；投诉
+  - ~ to sb about sth  因···向···投诉
+*** complete
+\fillin[complete] /kam'pli:t/
+- adj.  完整的；完全的
+- v.  =finish  完成；完工
+  - The new bridge will be ~d by the end of this year.  新桥将于年底完工。
+*** completely
+\fillin[completely]
+- adv.   （强调）完全地；彻底地
+  - The village uas ~ destroved by the flood.  那个村庄被洪水彻底冲毁了。
+*** computer
+\fillin[computer] /kam'pjutə/
+- n. [pl.-s]   电脑；计算机
+*** concert
+\fillin[concert] /'kpnsat/
+- n. [pl.-s]  音乐会
+  - hold/go to a ~  举办／出席···
+*** conclusion
+\fillin[conclusion] /kan'klu:3n/
+- n. (conclude v.)  结论；结局；结束
+  - draw the ~ that...  得出结论···
+  - The meeting came to ~ yesterday.  会议昨天结束了。
+*** conference
+\fillin[conference] /'konfərəns/
+- n. [pl.-s]  讨论会；（大型）会议
+*** confidence
+\fillin[confidence] /'kpnfidəns/
+- n. [U]  信心；信任
+  - have ~ in  对···有信心
+*** confident
+\fillin[confident] /'konfidant/
+- adj.  自信的；有信心的
+  - be ~ about / of  对···充满信心的
+*** confuse
+\fillin[confuse] /kən'fjuz/
+- v. (confusion n.)  使···糊涂；使···困惑
+  - That question ~s me. 该问题使我困惑。
+*** congratulations
+\fillin[congratulations] /kən.graet fu'lerjnz/
+- n.  (congratulate,v.)[C,always pl.]  祝贺；恭喜
+*** connect
+\fillin[connect] /kə'nekt/
+- v.  连接；把···联系起来
+  - ~ A + to / with + B
+    - My computer is ~ed to / with the Internet. \\
+    ＝be linked to/with... 我的电脑联网了。
+*** consider
+\fillin[consider] /kən'sidə/
+- v.  考虑；认为；视为
+  - ~ + doing sth =think about  考虑做
+  - ~ sb + (as/to be) sb/sth  把···视为
+*** consist of
+\fillin[consist of] /kən'sist/
+- v. 由···组成、构成
+  - The US ~s of 50 states. =is made up of  美国由50个州组成。
+*** contact
+\fillin[contact] /'kontaækt/
+- n. [U]  接触；联系
+  - keep in ~/touch with sb
+  - keep eye ~ with sb   与···保持目光接触
+- v. 与···接触、联系
+  - Contact me at ...  拨打···联系我。
+*** contest
+\fillin[contest] /'kontest/
+- n. [pl.-s] =competition  竞赛；比赛
+  - English Speech/Speaking Contest
+*** continue
+\fillin[continue] /kan'timju:/
+- v.  继续
+  - ~ (with) sth
+  - ~ + to do / doing sth
+*** control
+\fillin[control] /kən'trəul/
+- v.,n.  控制；掌管
+  - have/lose ~ of  对···能掌控／失去控制
+  - The firemen ~ed the fire  .消防员控制住火势。
+*** convenient
+\fillin[convenient] /kən'vi:niənt/
+- adj.   便利的；方便的
+*** conversation
+\fillin[conversation] /konvə'serfn/
+- n. [pl.-s]  会话；
+  - have a ~ with sb =talk  与···交谈
+*** cook
+\fillin[cook] /kuk/
+- n. [pl.-s]  厨师
+  - My mum is a good ~ +cooker(灶具）+ .  老妈厨艺高超（好厨师）。
+- v. 烹饪；做饭
+*** cool
+\fillin[cool] /ku:l/
+- adj.  凉爽的；酷的
+*** copy
+\fillin[copy] /'kppi/
+- n. [pl.-pies]  本（份、册）
+  - 100 (copies of) books  100册书
+  - a (copy of) newspaper  一份报纸
+- v.  抄写；抄袭；模仿
+  - ~ new words  抄写生词
+  - ~ answers from sb  抄袭他人答案
+*** corner
+\fillin[corner] /'ko:nə/
+- n. [pl.-s]  角；拐角
+  - go to the English ~ 参加英语角活动
+*** correct
+\fillin[correct] /kə'rekt/
+- adj.   正确的；对的
+- v.     改正；纠正
+  - ~ a mistake
+*** correctly
+\fillin[correctly] /kə'rektli/
+- adv.  =properly  正确地
+*** cost
+\fillin[cost] /knst/
+- v.  (cost; cost)   (商品）值（···钱）；花费···(钱）
+  - 比较：The book cost me $30. \\
+    = The book was worth $ 30. \\
+    = I spent $30 on/buying the book. \\
+    = I paid $30 for the book.
+*** cotton
+\fillin[cotton] /'kotn/
+- n. [U]  棉花
+  - My shirt is 100% ~.  我的衬衣是全棉的。
+*** cough
+\fillin[cough] /kpf/
+- v.,n.   咳嗽
+  - I've got a bad cold and can't stop ~ing. 我得了重感冒，不停地咳嗽。
+  - Miss Li gave a ~ to attract my attention.  李老师咳了一声以引我注意。
+*** count
+\fillin[count] /kaunt/
+- v.  数数；计数
+*** country
+\fillin[country]  /'kAntri/
+- n. [pl.-ries]  国家；
+  - in the ~ (side)  在农村／乡下
+*** couple
+\fillin[couple] /'kApl/
+- n.[pl.-s]  一对（夫妇、情侣）
+  - a ~ of + (books/days)  = a few = several  几个；数个
+*** course
+\fillin[course] /kos/
+- n. [pl.-s]   课程；过程
+  - take a training ~     选修培训课程
+  - be in ~ of = process  在···的过程中
+  -  of course (not)      当然（不）
+*** cousin
+\fillin[cousin] /'knzn/
+- n.[pl.-s]   表兄（弟、姐、妹）
+*** cover
+\fillin[cover] /'kavə/
+- n. [pl.-s]  盖子；封面
+- v. (dis-)   覆盖；遮盖；掩盖
+  - The road was ~ed with snow.
+  - ~ the truth  掩盖真相
+*** crazy
+\fillin[crazy] /'kretzi/
+- adj.  疯狂的；痴迷的
+  - Some teenagers are ~ about stars.  有些青少年是疯狂的追星族。
+*** cream
+\fillin[cream] /kri:m/
+- n. [U]  乳脂；奶油
+  - a ~ cake  奶油蛋糕
+*** create
+\fillin[create] /kri'ett/
+- v.  创造；发明；造成
+  - ~ jobs     创造就业机会
+  - ~ a novel  创作小说
+  - ~ the telephone =invent  发明电话
+  - ~ problems =cause  造成、引发问题
+*** cross
+\fillin[cross] /kros/
+- n.  十字架；叉叉
+- v. 穿过（平面）；横渡（河流）
+  - ~ the street =come across
+*** crowd
+\fillin[crowd] /kraud/
+- n.  [pl.-s] 人群
+  - a large/small ~ of people   一大／小群人
+*** crowded
+\fillin[crowded] /'kraudid/
+- adj.  拥挤的；满座的
+  - The bus twas ~ with passengers.
+*** cry
+\fillin[cry] /kral/
+- v.,n. (cries; cried;crying)  哭泣；大喊大叫
+*** culture
+\fillin[culture] /'kaltfə/
+- n. [C,pl.-s]  文化
+  - Western & Chinese ~s  中西方文化
+*** cup
+\fillin[cup] /kAp/
+- n. [pl.-s]  杯子；奖杯
+*** custom
+\fillin[custom] /'kAstəm/
+- n. [pl.-s]  风俗；习俗
+*** customer
+\fillin[customer] /'kastəma/
+- n. [pl.-s]  顾客
+*** cut
+\fillin[cut] /kat/
+- v. (cut,cut,cutting)   切；砍；降低；减少
+  - ~ prices/pollution ＝reduce  降价／减少污染
+*** cute
+\fillin[cute] /kjut/
+- adj.  可爱的；萌的；娇小迷人的
+*** cycle
+\fillin[cycle] /'sarkl/
+- v. =ride  骑车
+  - go cycling
+#+LATEX: \end{questions}
+
+** D
+#+LATEX: \begin{questions}
+*** dad
+\fillin[dad] /daæd/
+- n.  爸爸；老爸
+*** daily
+\fillin[daily] /'derli/
+- n.  日报
+- adj. =everyday  日常的；每日的
+- adv. =every day  每天；每日
+*** damage
+\fillin[damage] /!daæmid3/
+- v.  损害；破坏
+  - Smoking ~s health.  吸烟有害健康。
+- n. [U]  损害；损失
+  - cause (much/a lot of) ~ to + sth/sb  给···造成巨大的损失
+*** dance
+\fillin[dance] /da:ns/
+- n.,v.  舞蹈；跳舞
+*** dancer
+\fillin[dancer] /'da:nsa/
+- n. [pl.-s]  舞者；舞蹈演员
+  - Yang Liping used to be a good ~.  杨丽萍曾是一位优秀舞者。
+*** danger
+\fillin[danger] /'deind3ə/
+- n. [U,C]  危险；危害
+*** dangerous
+\fillin[dangerous] /'deind3əras/
+- adj.  危险的；
+  - It's ~ (for us) to do sth.  有危害的
+*** dare
+\fillin[dare] /dcə/ 
+- action v.,modal v.   敢于；胆敢 \\
+  行为v. :: ~ + (to) do sth
+  情态v. :: ~ + do sth
+  - 行为 v. :: Tom dares (to) go out at night.
+
+#+LATEX: \end{questions}

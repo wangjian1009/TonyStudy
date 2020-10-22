@@ -15,8 +15,7 @@
 ** A
 #+LATEX: \begin{questions}
 *** able 
-\fillin[able   /'erbl/]
-- adj.  能够的；有能力的
+\fillin[able   /'erbl/]- adj.  能够的；有能力的
 :EXAMPLE:
   - be ~ to do sth = can do sth   会；能
 :END:
@@ -2244,6 +2243,585 @@
 :END:
 *** easily
 \fillin[easily  /'izəli/]
-- adv.  容易的，轻松的
+- adv.  容易的，轻松的，不费力地
+*** east
+\fillin[east /ist/]
+- n. 东方；东部
+:EXAMPLE:
+  - Shanghai is in the ~ of China.
+:END:
+*** eat
+\fillin[eat /it/]
+- v. 吃
+:EXAMPLE:
+  - (ate /ert/; eaten/'i:tn/)
+:END:
+*** economy
+\fillin[economy  /r'kpnəmi/]
+- n. [U] 经济
+:EXAMPLE:
+  - the world ~ 世界经济
+  - market ~  市场经济
+  - fly ~  乘坐经济舱
+:END:
+*** education
+\fillin[education  /jed3u'kerfn/]
+- n. [U]  教育
+:EXAMPLE:
+  - (educate,v.)
+:END:
+*** educational
+\fillin[educational  /ied3u'ketfənl/]
+- adj.  有教育意义的
+*** effect
+\fillin[effect /1'fekt/]
+- n. [C,pl.-s] 效果；影响；作用
+:EXAMPLE:
+  - special ~s  （电影）特技效果
+  - the greenhouse ~  温室效应
+  - have a good/bad ~ on 对···产生（不）好的影响
+:END:
+*** effort
+\fillin[effort /'efət/]
+- n. [C,pl.-s]  努力；费力；尝试
+:EXAMPLE:
+  - make an ~ to do sth =try one's best to
+  - Making progress requires ~ and time. 取得进步需要努力和时间。
+:END:
+*** egg
+\fillin[egg /eg/]
+- n. [pl.-s]  蛋；卵
+*** either
+\fillin[either /'aıðə;'i:ðə/]
+- adj.  两者之一的
+:EXAMPLE:
+  - on ~ side of the road = on both sides of  在道路的两旁
+:END:
+- pron.  两者之一
+:EXAMPLE:
+  - Either of them is...   俩人中有一人
+:END:
+- conj.  要么···要么
+:EXAMPLE:
+  - Either Helen or theyare...      (就近原则）
+  - You can ~ stay here or go out.  (二选一）
+:END:
+- adv. (在否定句末）也不
+:EXAMPLE:
+  - Tom doesn't like singing. Jack doesn't, ~.
+    = Nor/Neither does Jack.
+:END:
+*** elder
+\fillin[elder /'eldə/]
+- adj.  (old)年龄较大的；年长的（尤指“同一个家庭中子女排行”）
+:EXAMPLE:
+  - my ~ brother/sister  我哥哥／姐姐
+:END:
+*** electric
+\fillin[electric  /1'lektrik/]
+- adj.  用电的；电动的
+:EXAMPLE:
+  - an ~ light / bike  电灯／电动车
+:END:
+*** electricity
+\fillin[electricity  /Iilek'trisəti/]
+- n. [U]  电（力）
+*** elementary
+\fillin[elementary  /lell'mentri/]
+- adj.  初级的；基本的
+:EXAMPLE:
+  - an ~ school (AmE.) = a primary school(BrE.)  小学
+:END:
+*** elephant
+\fillin[elephant  /'elifant/]
+- n. [pl.-s]  大象
+*** else
+\fillin[else  /els/]
+- adj. 别的；其他的 （作“后置定语”：在疑问词、不定代词之后）
+:EXAMPLE:
+  - a. Who/When/Where + else...?
+  - b. someone/something + else
+  - c. What ~ do you want?  = What other things do you want?  你还要别的吗？
+:END:
+*** e(-)mail
+\fillin[e(-)mail /'i:merl/]
+- n. [pl.-s] 电子邮件
+:EXAMPLE:
+  - send an ~ to sb  给···发邮件
+  - by ~ 以电邮方式
+:END:
+- v. 给···发邮件
+:EXAMPLE:
+  - ~ us at 163.com  按此邮址给···发邮件
+:END:
+*** embarrassed
+\fillin[embarrassed  /m'beerast/]
+- adj. 感到尴尬的；感到窘迫的／难堪的
+:EXAMPLE:
+  - (embarrass,v.)
+  - Helen felt ~ to fall down the stairs.  海伦在楼梯上滑倒，感到很难堪。
+  - Jacky Chan felt ~ about his son's taking drugs.  成龙因儿子吸毒而感到尴尬。
+:END:
+*** emergency
+\fillin[emergency /1'ma:d3ənsi/]
+- n. [pl.-cies] 紧急情况；突发事件
+:EXAMPLE:
+  - ~ services (centre)  急救中心
+  - ~ phone numbers (110/119)  急救电话
+  - Schools must train their students how to deal with ~cies.  学校必须训练学生如何应对紧急情况。
+  - We must escape through ~ exits when a fire breaks out.  火灾发生时，我们应通过紧急出口逃生。
+:END:
+*** empty
+\fillin[empty  /'empti/]
+- adj.  空的；空荡荡的
+:EXAMPLE:
+  - an ~ bottle/room  空瓶子／空房间
+:END:
+*** enable
+\fillin[enable  /1'nerbl/]
+- v. 使···能够的／可能的
+:EXAMPLE:
+  - (able adj.)
+  - Traveling ~s us to be closer to nature.  旅行能使我们更亲近大自然。
+:END:
+*** encourage
+\fillin[encourage  /m'kArid3/]
+- v. 鼓励；激励
+:EXAMPLE:
+  - (courage n.)
+  - ~ sb to do sth
+:END:
+*** end
+\fillin[end  /end/]
+- n. 末尾；终点
+:EXAMPLE:
+  - By the ~ of last year, they had produced 10,000 cars.  到去年底为止，他们已生产了1万辆车。
+:END:
+- v. 结束；终止；以···为结局
+:EXAMPLE:
+  - How does the story ~?  故事的结局如何？
+  - Her effort ~ed in failure.  她的努力以失败告终。
+:END:
+*** enemy
+\fillin[enemy /'enəmi/]
+- n. [pl.-mies]  敌人；敌军
+:EXAMPLE:
+  - make an ~ of sb  与···为敌
+:END:
+*** energy
+\fillin[energy  /'enəd3i/]
+- n. [U]  能源；能量；精力
+:EXAMPLE:
+  - save  ~  节约能源
+  - give positive ~ /'ppzətiv/  发出正能量
+:END:
+*** engine
+\fillin[engine  /'end3un/]
+- n. [pl.-s]  引擎；发动机
+*** engineer
+\fillin[engineer  /end3ı'nrə/]
+- n. [pl.-s]  工程师
+*** England
+\fillin[England  /'nglənd/]
+- n. 英格兰；英国
+*** English
+\fillin[English /'gglif/]
+- n. [U]  英语；英格兰人
+- adj.  英语的；英格兰的
+*** enjoy
+\fillin[enjoy /m'd3o1/]
+- v. 喜欢；享受；欣赏
+:EXAMPLE:
+  - (joy n.)  
+  - ~ + doing sth
+  - ~ nice views/paintings  欣赏美景／油面
+  - ~  every minute of the movie 从头到尾喜欢
+:END:
+*** enjoyable
+\fillin[enjoyable  /m'dgorəbl/]
+- adj. =pleasant 令人愉快的；使人快乐的
+:EXAMPLE:
+  - have an ~ trip  旅途愉快
+:END:
+*** enough
+\fillin[enough  /1'naf/]
+- n. 足够；充足；饱了
+- adj. 足够的；充分的
+- adv. 足够地；充分地；十分
+:EXAMPLE:
+  - a. 作“后置定语”：置于adj./adv.之后
+    - fast + ~ (+enough + fast+)  十分快
+  - b. The problem is too hard for me to sole.  \\
+    = The problem isn't easy ~ for me to solve.  \\
+    这个问题太难（＝不太容易），我无法解答。
+:END:
+*** enrich
+\fillin[enrich  /m'ritf/]
+- v. 使··丰富
+:EXAMPLE:
+  - (rich adj.)
+  - ~ one's knowledge
+:END:
+*** enter
+\fillin[enter  /'entə/]
+- v.  进人；报名参加
+:EXAMPLE:
+  - ~ the room = come into  走进房间
+  - ~ (for) =sign up for  报名参加
+:END:
+*** entrance
+\fillin[entrance  /'entrans/]
+- n. 入口（处）
+:EXAMPLE:
+  - at the ~ to of the park 在公园的入口处
+:END:
+*** envelope
+\fillin[envelope  /'envələup/]
+- n. [pl.-s] 信封
+:EXAMPLE:
+  - a red ~  红包
+:END:
+*** environment
+\fillin[environment  /in'vairənmənt/]
+- n. 环境
+:EXAMPLE:
+  - protect/pollute the ~  保护／污染环境
+:END:
+*** equal
+\fillin[equal /li:kwəl/]
+- adj. 平等的
+:EXAMPLE:
+  - enjoy ~ rights  享有平等权利
+:END:
+- v. 等于
+:EXAMPLE:
+  - One plus one ~s two. =is  1+1=2
+:END:
+*** escape
+\fillin[escape /r'skerp/]
+- v. 逃跑；逃脱；逃避
+:EXAMPLE:
+  - ~ from the prison 越狱逃跑
+  - ~ + doing sth   逃避；回避
+:END:
+*** especially
+\fillin[especially  /r/spefali/]
+- adv.  特别地；尤其是（突出；强调）
+:EXAMPLE:
+  - (special adj.)
+  - It's hot here in summer, ~ in August.
+:END:
+*** Europe
+\fillin[Europe/'juərəp/]
+- n. 欧洲
+*** European
+\fillin[European /ijuərə'pi:ən/]
+- adj. 欧洲的
+:EXAMPLE:
+  - an/a ~ country
+:END:
+- n. [pl.-s]  欧洲人
+*** eve
+\fillin[eve /i:v/]
+- n. （节日的）前一夜；前夕
+:EXAMPLE:
+  - on New Year's Eve  在除夕之夜
+  - on Christmas Eve  =on the eve of Christmas 在圣诞之夜
+:END:
+*** even
+\fillin[even /'i:vn/]
+- adv.  （惊讶）甚至；就连
+:EXAMPLE:
+  - a. 加强“比较级”语气： 比···得多
+    - ~ better than = much/still...
+  - b. even if- / (even) though-  即使；虽然
+    - Iuon't give up, ~ I may face difficulties.  即使会遇到困难，我也绝不放弃。
+:END:
+*** evening
+\fillin[evening /li:vnin/]
+- n. 傍晚；晚会
+:EXAMPLE:
+  - in the ~
+:END:
+*** event
+\fillin[event /1'vent/]
+- n. [pl.-s] 重大事件；比赛项目
+:EXAMPLE:
+  - the world ~s  国际大事
+:END:
+*** ever
+\fillin[ever/'evə/]
+- adv. 曾经；在以往任何时候
+:EXAMPLE:
+  - (opp. never)
+:END:
+*** every
+\fillin[every /'evri/]
+- adj.  （≥3)每一；每个的
+:EXAMPLE:
+  - Every student / +students+ likes / +like+ English.
+:END:
+- idm.  (表示频率each)每逢；每隔
+:EXAMPLE:
+  - ~ four years  每4年；每隔3年
+  - The buses go ~ 10 minutes.  公交车每10分钟发一班车
+:END:
+*** everybody
+\fillin[everybody  /'evrtbpdi/]
+- pron. 每人；大家
+:EXAMPLE:
+  = everyone  /'evriwAn/
+  - a. Everybody is / +are+ here.
+  - b. Everybody has a chance to win.
+:END:
+*** everyday
+\fillin[everyday /levridei/]
+- adj. 每日的；日常的
+:EXAMPLE:
+  - +every day+ ~ life = daily life
+:END:
+*** every day
+\fillin[every day]
+- phr.  每日；每天
+:EXAMPLE:
+  - I read English +everyday+ ~. = daily
+:END:
+*** everything
+\fillin[everything  /'evrθn/]
+- pron.  每件事；事事
+:EXAMPLE:
+  - a. How is ~ with you?  你好吗？
+  - b. Everything seems to be ready.  似乎万事俱备。
+:END:
+*** everywhere
+\fillin[everywhere  /'evriweə/]
+- adv. 到处；处处
+*** exactly
+\fillin[exactly /ig'zæktli/]
+- adv.  （“完全赞同”）的确是。
+:EXAMPLE:
+  - (exact,adj.) 
+  - a. --- David is a kind man. \\
+       --- Exactly.
+  - b. Do ~ as I tell you. 严格按我说的做。
+:END:
+*** exam
+\fillin[exam /ig'zæm/]
+- n. [pl.-s]  =test/examination 考试；测验
+:EXAMPLE:
+  - fail an ~  不及格；挂科
+  - take/pass an ~  参加／通过考试
+:END:
+*** examine
+\fillin[examine /ig zæmin/]
+- v. 体检；仔细检查
+:EXAMPLE:
+  - (exam n.)
+  - The doctor examined the patient.
+:END:
+*** example
+\fillin[example  /1g'za:mpl/]
+- n. [pl.-s]  例子；榜样
+:EXAMPLE:
+  - set a good ~ to  为···树立榜样
+:END:
+*** excellent
+\fillin[excellent /'eksələnt/]
+- adj. 优秀的；优异的
+*** except
+\fillin[except /rk'sept/]
+- prep. =but  除···以外
+:EXAMPLE:
+  - All the boys went out ~ (for) Tom.
+:END:
+*** exchange
+\fillin[exchange /iks'tfernd3/]
+- n. 交换；交流
+:EXAMPLE:
+  - ~ students  交换生
+  - ~ programme  交流项目
+:END:
+*** excited
+\fillin[excited /k'sartid/]
+- adj.  感到激动的；感到兴奋的
+:EXAMPLE:
+  - (excite o.)
+  - sb + be ~ about sth
+  - sb + be ~ to do sth
+:END:
+*** exciting
+\fillin[exciting /k'satin/]
+- adj.  令人兴奋的；精彩的；刺激的
+:EXAMPLE:
+  - ~ news
+  - The news is ~.
+:END:
+*** excuse
+\fillin[excuse /k'skju:z/]
+- v. 原谅；宽恕 （请求帮助、问路、挡道、碰撞别人）
+:EXAMPLE:
+  - Excuse me.  请问；不好意思；对不起
+:END:
+- n. [pl.-s]  借口；辩解
+:EXAMPLE:
+  - find an ~ for being late  为迟到找借口
+:END:
+*** exercise
+\fillin[exercise  /'eksasaiz/]
+- n. [U;C,pl.-s]
+:EXAMPLE:
+  - take ~ [U]     锻炼、运动
+  - do eye ~s [C,always pl.]  操类运动
+  - do an English ~ [C]  练习、作业
+:END:
+*** exhibition
+\fillin[exhibition /leksr'bifn/]
+- n. [pl.-s] 展览（会）
+:EXAMPLE:
+  - (exhibit v.)
+  - hold/visit an ~  举办／参观展览
+:END:
+*** exit
+\fillin[exit  /'ekstt/]
+- n. [pl.-s]  出口；通道
+- v. =go out  出去
+:EXAMPLE:
+  - The audience -ed through the fire door.  观众们通过消防出口逃出。
+:END:
+- v.  =leave  离开
+:EXAMPLE:
+  - The speakers -ed the plat form.
+:END:
+*** expect
+\fillin[expect /ik'spekt/]
+- v. 预料；期待；认为
+:EXAMPLE:
+  - ~ sb to do sth
+:END:
+*** expensive
+\fillin[expensive /tk'spensiv/]
+- adj. 昂贵的
+:EXAMPLE:
+  - (expense n.)
+:END:
+*** experience
+\fillin[experience /k'sprərtəns/]
+- n. [U]  经验
+- n. [C,pl.-s]  经历
+*** experiment
+\fillin[experiment /k'sperimənt/]
+- n. [pl.-s] 实验
+:EXAMPLE:
+  - do/make an ~  试验
+:END:
+*** explain
+\fillin[explain /ik'splein/]
+- v. 向···解释；说明
+:EXAMPLE:
+  - ~ sth to sb
+:END:
+*** express
+\fillin[express /ik'spres/]
+- v. 表达；表示
+:EXAMPLE:
+  - ~ one's ideas 表达想法
+:END:
+- n. ~(train) 特快列车
+:EXAMPLE:
+  - We took an ~ to Beijing. 我们乘坐特快列车到北京。
+:END:
+*** extra
+\fillin[extra /'ekstra/]
+- adj. 额外的；另外的
+:EXAMPLE:
+  - I pay ~ expenses for weekend classes.  我上周末班，得另外交费。
+:END:
+- adv. 额外地；特别；格外地
+:EXAMPLE:
+  - a. work ~ 加班加点
+  - b. be ~ careful with fires 对火灾格外小心
+:END:
+*** eye
+\fillin[eye /a1/]
+- n. [pl.-s]   眼睛
+:EXAMPLE:
+  - see sth with one's own ~s 亲眼所见
+:END:
+#+LATEX: \end{questions}
+** F
+#+LATEX: \begin{questions}
+*** fable
+\fillin[fable  /'ferbl/]
+- n. [pl.-s] 寓言
+*** face
+\fillin[face /feis/]
+- n. [pl.-s]  脸；面孔
+- v. 面对；直面（困难、挑战）
+:EXAMPLE:
+  - We must ~ difficulties bravely.. =We must be -ed with...
+:END:
+*** fact
+\fillin[fact /faækt/]
+- n. [pl.-s] 事实；实际
+:EXAMPLE:
+  - in ~ = actually 事实上；实际上
+:END:
+*** factory
+\fillin[factory /'fæktri/]
+- n. [pl.-ries] 工厂
+*** fail
+\fillin[fail /feil/]
+- v. 失败；没有做到；不及格
+:EXAMPLE:
+  - ~ an exam 考试不合格
+  - ~ ＋ to do sth  没有做到；没有实现
+  - I ~ed to catch the early bus. =didn't catch  我没有赶上早班车。
+:END:
+*** fair
+\fillin[fair /feə/]
+- adj. (opp.un-) 公平的；合理的； （皮肤）白皙的；（头发）浅色的
+*** fall
+\fillin[fall /fo:1/]
+- v. 落下；摔倒；下降
+:EXAMPLE:
+  - (fell /fel/; fallen /'fo:lən/)
+:END:
+- n. =autumn(BrE.) 秋季
+- linking ~v. + adj.  进入（状态）
+:EXAMPLE:
+  - ~ill 病倒
+  - ～asleep  睡着
+:END:
+*** family
+\fillin[family /'faæməli/]
+- n. [pl.-lies]  家庭；家人
+*** familiar
+\fillin[familiar /fə'miliə/]
+- adj.  熟悉的；
+:EXAMPLE:
+  - We are ~ with Yao Ming.  对···熟悉
+  - Yao Ming is ~ to us.     为／被···所熟悉
+:END:
+*** famous
+\fillin[famous /'feuməs/]
+- adj. 著名的；闻名的
+:EXAMPLE:
+  - be famous for sth  因···而出名的
+:END:
+*** fan
+\fillin[fan /faæn/]
+- n. [pl.-s]  扇子；迷；粉丝
+:EXAMPLE:
+  - I'm a big fan of...  我是···的铁杆粉丝。
+:END:
+*** far
+\fillin[far  /fa:/]
+- adj.,adv.  远的；遥远；在远处
+:EXAMPLE:
+  - a. How far is it from...to...?
+  - b. farther （仅指“距离”）更远
+  - c. further （修饰“程度或距离”）更远（的）；更进一步地（的）
+  - I'm too tired to go any farther / further. 我累得再也走不动了。
+:END:
 
 #+LATEX: \end{questions}

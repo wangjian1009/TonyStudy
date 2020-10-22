@@ -15,110 +15,151 @@
 ** A
 #+LATEX: \begin{questions}
 *** able 
-\fillin[able] \textipa{'erbl}
+\fillin[able   /'erbl/]
 - adj.  能够的；有能力的
+:EXAMPLE:
   - be ~ to do sth = can do sth   会；能
+:END:
 *** ability
-\fillin[ability] /ə'btləti/
+\fillin[ability  /ə'btləti/]
 -  n. [pl.-ties]  能力；技能
 *** about
-\fillin[about]  /ə'baut/
+\fillin[about   /ə'baut/]
 - prep. 关于；有关
 - adv. 大约；到处；各处
+:EXAMPLE:
   - The kids were running ~ in the garden. 孩子们在花园里跑来跑去。
+:END:
 *** above
-\fillin[above] /ə'bav/
+\fillin[above   /ə'bav/]
 - prep. (opp. below) 高于； 在（不垂直的）上方
 *** abroad
-\fillin[abroad] /ə'bro:d/
+\fillin[abroad   /ə'bro:d/]
 - adv. 在（到）国外 
+:EXAMPLE:
   - +in / at / on / to+ / from ~ 从国外
+:END:
 *** accept
-\fillin[accept] /ak'sept/
+\fillin[accept   /ak'sept/]
 - v. 接受；认可；承认
+:EXAMPLE:
   - ~ one's invitation/suggestion
   - \dotuline{It's widely-ed} that...  人们普遍认为
+:END:
 *** accident
-\fillin[accident] /'æksidənt/
+\fillin[accident  /'æksidənt/]
 - n. [pl.-s] 车祸；意外
+:EXAMPLE:
   - have an ~ 遭遇意外（事故）
+:END:
 *** accurate
-\fillin[accurate]  /'ækjərət/
+\fillin[accurate    /'ækjərət/]
 - adj. 精确的；准确的
+:EXAMPLE:
   - provide ~ in formation = exact
+:END:
 *** achieve
-\fillin[achieve] /ə'tfirv/
+\fillin[achieve   /ə'tfirv/]
 - v. 实现；取得；达到
+:EXAMPLE:
   - ~ one's dream 实现梦想
   - ~ one's success 取得成功
+:END:
 *** across
-\fillin[across] /ə'kros/
+\fillin[across   /ə'kros/]
 - prep. (在平面上）穿过；横过
+:EXAMPLE:
   - He \dotuline{went} ~ +/ through+ the street. ＝ He +across+ / \dotuline{crossed} the street.
+:END:
 *** act
-\fillin[act] /aækt/
+\fillin[act   /aækt/]
 - v. 扮演；表演；行动
 *** active
-\fillin[active] /'aektiv/
+\fillin[active   /'aektiv/]
 - adj. 积极的；活跃的
+:EXAMPLE:
   - be ~ in sth ＝ take an~part in 积极参与
   - an ~ child  活泼好动的孩子
+:END:
 *** activity
-\fillin[activity] /eek'tiveti/
+\fillin[activity   /eek'tiveti/]
 - n. [pl.-ties] 活动
 *** actor
-\fillin[actor] /'aæktə/
+\fillin[actor   /'aæktə/]
 - n. [pl.-s]  男演员
 *** actress
-\fillin[actress] /'æktrəs/
+\fillin[actress   /'æktrəs/]
 - n.[pl.-es] 女演员
 *** actually
-\fillin[actually] /'æktfuəli/
+\fillin[actually   /'æktfuəli/]
 - adv. （actual,adj.) ＝in fact 实际上；事实上（纠正说法、强调事实）
+:EXAMPLE:
   - I'm not Japanese, ~ . I'm Chinese.  我其实不是日本人。我是中国人。
   - Actually, I didn't tell you the truth.  实际上，我并没有对你说实话。
+:END:
 *** add
-\fillin[add] /æd/
+\fillin[add   /æd/]
 - v. 加上；增加；添加
+:EXAMPLE:
   - Add one to five.You get six. 1+5=6
   - The new words ~ to the difficulty.  ＝ increase 生词加大了难度。
+:END:
 - v. 补充说；继续说；接着说
+:EXAMPLE:
   - “And don't be late again,” she \dotuline{added}.
+:END:
 *** addition
-\fillin[addition] /ə'difn/
+\fillin[addition   /ə'difn/]
 - n. 加法；此外
-  in ~ (to sth) = besides(sth)  此外；还有
+:EXAMPLE:
+  - in ~ (to sth) = besides(sth)  此外；还有
+:END:
 *** address
-\fillin[address] /ə'dres/
+\fillin[address   /ə'dres/]
 - n. [pl.-es] 地址
-- What's your ~ ? = Where do you live?
+:EXAMPLE:
+  - What's your ~ ? = Where do you live?
+:END:
 *** adult
-\fillin[adult] /'ædalt/
+\fillin[adult   /'ædalt/]
 - n. [pl.-s]  成年人
+:EXAMPLE:
   - Parents are ~s while we're teenagers.
+:END:
 - adj. （适合）成年人的
+:EXAMPLE:
   - an ~ education programme 成人教育课程
+:END:
 *** advantage
-\fillin[advantage] /əd'va:ntid3/
+\fillin[advantage   /əd'va:ntid3/]
 - n.[pl.-s] 优势；
+:EXAMPLE:
   -（opp.dis-) 好处
+:END:
 *** advertisement
-\fillin[advertisement] /əd'vэ:tismənt/
+\fillin[advertisement   /əd'vэ:tismənt/]
 - n. [pl.-s] ＝ ad. /aed/ 广告
 *** advice
-\fillin[advice] /ad'vais/
+\fillin[advice   /ad'vais/]
 - n. [U] 劝告；忠告；建议
 - v. advi\dotuline{s}e /əd' vaiz/ 
+:EXAMPLE:
   - a piece of/some ~
+:END:
 *** afford
-\fillin[afford] /alfo:d/
+\fillin[afford   /alfo:d/]
 - v. 买得起；抽得出（时间）
+:EXAMPLE:
   - can't / couldn't ~ (to buy) sth 买不起
+:END:
 - ~ (to buy) sth
+:EXAMPLE:
   - I'm too busy to~the coming holiday. 假期即将来临但我太忙，没空度假。
+:END:
 *** afraid
-\fillin[afraid] /ə'fred/
+\fillin[afraid   /ə'fred/]
 - adj. 害怕的；担心的
+:EXAMPLE:
   - be ~ to do sth 害怕；不敢 \\
      be ~ of (doing) sth
   - I'm afraid (not) . \dotuline{恐怕；很遗憾／抱歉} 谈及令人不快的、失望的、遗憾的事：
@@ -126,124 +167,168 @@
       \dotuline{I'm} ~ you \dotuline{must}.
     - May I use your pen? \\
       \dotuline{I'm} ~ \dotuline{not}. I'm using it now.
+:END:
 *** Africa
-\fillin[Africa] /'eæfrikə/
+\fillin[Africa   /'eæfrikə/]
 - n. 非洲
 *** African
-\fillin[African] /'aæfrikən/
+\fillin[African   /'aæfrikən/]
 - adj. 非洲的
 - n. [pl.-s] 非洲人
 *** after
-\fillin[after] /'a:ftə/
+\fillin[after   /'a:ftə/]
 - prep. , conj.  在···之后
 - adv. soon ~ 不久之后
 *** afternoon
-\fillin[afternoon] /la:ftə'nu:n/
+\fillin[afternoon   /la:ftə'nu:n/]
 - n. 下午
+:EXAMPLE:
   - in \dotuline{the} ~ - p.m.
+:END:
 *** again
-\fillin[again] /ə'gen/
+\fillin[again   /ə'gen/]
 - adv. 再一次；又一次
+:EXAMPLE:
   - Pardon? Will you \dotuline{repeat} that again? 对不起，请再说一遍好吗？
+:END:
 *** against
-\fillin[against] /a'genst/
+\fillin[against   /a'genst/]
 - prep. 反对；违反；违背
+:EXAMPLE:
   - I \dotuline{am} ~ keeping pets. 我反对养宠物。
   - Running the red light \dotuline{is ~ the law}. 闯红灯是违法的。
+:END:
 *** age
-\fillin[age] /eid3/
+\fillin[age   /eid3/]
 - n. [pl.-s] 年龄；时代
+:EXAMPLE:
   - What's.your ~ ? = How old are you?
   - at the ~ of... 在···岁数时
   - the in formation ~ 信息时代
+:END:
 *** aged
-\fillin[aged] /eid3d/
+\fillin[aged   /eid3d/]
 - adj. 有···岁数的
+:EXAMPLE:
   - aboy ~ \dotuline{ten} ＝a boy of ten=a ten-year-oldboy \dotuline{10岁的}男孩 
   - the aged/'etd3id/ + are...  年迈者；老人
+:END:
 *** ...ago
-\fillin[...ago] /ə'gəu/
+\fillin[...ago   /ə'gəu/]
 - adv. ···以前；···之前 （从“\dotuline{说话时}”往前推算）
 *** agree
-\fillin[agree] /ə'gri:/
+\fillin[agree   /ə'gri:/]
 - v. (opp.dis-) 同意；赞同
+:EXAMPLE:
   - ~ \dotuline{to do} sth 同意做
   - I \dotuline{couldn't} ~ \dotuline{more}. 绝对赞同。
+:END:
 *** ahead
-\fillin[ahead] /ə'hed/
+\fillin[ahead   /ə'hed/]
 - adv. 向前方；提前
+:EXAMPLE:
   - Go straight ~.
   - --- May I use your pen? \\
     --- Sure. Go ~.
   - I finished the work \dotuline{hours} ~.
+:END:
 *** aim
-\fillin[aim] /eim/
+\fillin[aim   /eim/]
 - n.[pl.-s]  = goal = purpose  目的；目标
+:EXAMPLE:
   - His ~ is \dotuline{to enter| a key high school. \dotuline{他的目标}是要考人重点高中。
+:END:
 - v. 目的是；打算；瞄准
+:EXAMPLE:
   - He ~ s to enter a key high school.
   - The robber \dotuline{~d the gun at} her head. 劫匪用枪\dotuline{对准了}她的头。
+:END:
 *** air
-\fillin[air] /cə/
+\fillin[air   /cə/]
 - n. [U] 空气；大气
 *** airline
-\fillin[airline] /'cəlam/
+\fillin[airline   /'cəlam/]
 - n.[pl.-s] 航空公司
+:EXAMPLE:
   - China Eastern Airline 中国东航
+:END:
 *** airport
-\fillin[airport] /'capot/
+\fillin[airport   /'capot/]
 - n. [pl.-s] 机场
+:EXAMPLE:
   - meet sb/see sb of f at the ~ 去机场迎接 ／ 为···送行
+:END:
 *** alarm
-\fillin[alarm] /ə'la:m/
+\fillin[alarm   /ə'la:m/]
 - n. [pl.-s] 闹钟；警报（器）
+:EXAMPLE:
   - sound an ~ 摁响警报器
+:END:
 *** alive
-\fillin[alive] /ə'laiv/
+\fillin[alive   /ə'laiv/]
 - adj. (-live) 活着的
+:EXAMPLE:
   - The wounded man \dotuline{is} still ~. = not dead
+:END:
 *** all
-\fillin[all] /ol/
+\fillin[all /ol/]
 - adv. 全部；都
 - pron. 全部；全体人员
 - adj. (opp.none)  (≥3)全部的； 所有的
+:EXAMPLE:
   - \dotuline{All} of us \dotuline{like} English.
   - \dotuline{None} of us \dotuline{likes} /like English.
+:END:
 *** allow
-\fillin[allow] /əllau/
+\fillin[allow /əllau/]
 - v. 允许；准许
+:EXAMPLE:
   - ~ sb \dotuline{to do sth}
     - People \dotuline{aren't allowed to smoke} in schools. = mustn't 禁止；不准
+:END:
 *** almost
-\fillin[almost] /'ə:lməust/
+\fillin[almost /'ə:lməust/]
 - adv. 几乎；将近；差不多 （修饰“动作、程度、范围” 但 +“数量”+ ）
+:EXAMPLE:
   - She ~ / nearly \dotuline{missed} the train. 她差点\dotuline{误了}火车。
   - Almost / Nearly \dotuline{everybody} knows it. 几乎\dotuline{人人}皆知。
   - +Almost+ / Nearly \dotuline{40 kids} are in a class. 每个班级有将近\dotuline{40}名学生。
+:END:
 *** alone
-\fillin[alone] /ə'ləun/
+\fillin[alone /ə'ləun/]
 - adj. 独自一人的
+:EXAMPLE:
   - Tom \dotuline{is ~ at home} but doesn't \dotuline{feel lonely}.  Tom一人在家但并不觉得寂寞。
+:END:
 - adv. 单独地；独立地
+:EXAMPLE:
   - do my homework ~ =（by) myself = on my oum
+:END:
 *** along
-\fillin[along] /a'lpr/
+\fillin[along /a'lpr/]
 - prep. 沿着；顺着（水平道路）
+:EXAMPLE:
   - A + ~ with + B  以及；连同
     - \dotuline{Tom} ~ with his parents \dotuline{is} fond of music. （“就\dotuline{远}原则”）
+:END:
 - adv. = on  进展；相处；向前
+:EXAMPLE:
   - How are you getting ~ with your study?  你的学习怎么样啊？
   - I'm getting ~ well with my classmates.  我与同学们\dotuline{相处融洽}。
   - We drove ~ (=ahead).  我们驱车\dotuline{前行}。
+:END:
 *** already
-\fillin[already] /o:l'redi/
+\fillin[already /o:l'redi/]
 - adv. （肯定句）已经 （在否定句、疑问句中：被yet替换）
+:EXAMPLE:
   - Jim has already finished his work. \\
     → Has Jim finished ... yet? \\
     → Jim hasn't finished ... yet. 
+:END:
 *** also
-\fillin[also] /'s:lsəu/
+\fillin[also /'s:lsəu/]
 - adv. 此外；还有；也 
+:EXAMPLE:
   - 注意also在句中的位置：
     - 1.在句首＝besides
     - 2.在句中＝too/as well
@@ -251,436 +336,560 @@
       - b. 置于 be动词 之后：Li Hui is from China and I am ~ from China.
       - c. 置于 can/must/will 等情态、助动词后：Ican sing and I can ~ playmusic.
       - d. 置于have...done之间：Amy has been to Paris and I have ~been there.
+:END:
 *** although
-\fillin[although] /ə:l'ðəu/
+\fillin[although /ə:l'ðəu/]
 - conj.  ＝ though /ǒau/  虽然；尽管
+:EXAMPLE:
   - ~ ... +but+ /, + (and) yet...
+:END:
 *** altogether
-\fillin[altogether] /o:1'təgeða/
+\fillin[altogether /o:1'təgeða/]
 - adv. ＝ in all  总共；合计
 - adv. ＝ completely 全部地；完全地
+:EXAMPLE:
   - The strong building \dotuline{wasn't} ~ \dotuline{destroyed}. 那楼很坚固，\dotuline{没有被完全}毁坏。
+:END:
 *** always
-\fillin[always] /'ə:lweiz/
+\fillin[always /'ə:lweiz/]
 - adv. 总是；一直；永远
 *** A.M.(a.m.)
-\fillin[A.M.(a.m.)] = in the morning  上午
+\fillin[A.M.(a.m.)]
 *** amazing
-\fillin[amazing] /ə'merzin/
+\fillin[amazing /ə'merzin/]
 - adj. (amaze v.)  ＝ wonderful 极美的；极好的；精彩的；令人惊叹的
 *** ambition
-\fillin[ambition] /aæm'bifn/
+\fillin[ambition /aæm'bifn/]
 - n. [U,C] 志向；雄心
+:EXAMPLE:
   - My ~ is \dotuline{to be} a spaceman in the future.  我的\dotuline{志向}是将来当一名宇航员。
+:END:
 *** America
-\fillin[America] /ə'merikə/
+\fillin[America /ə'merikə/]
 - n.  美国；美洲
 *** American
-\fillin[American]  /ə'merikon/
+\fillin[American  /ə'merikon/]
 - adj. 美国（人）的； 美洲（人）的
+:EXAMPLE:
   - Tom is ~ . 
+:END:
 - n. ［pl.-s] 美国人
+:EXAMPLE:
   - Tom is an ~ .
+:END:
 *** among
-\fillin[among] /a'man/
+\fillin[among /a'man/]
 - prep.  在（≥3)之中； ＝one of...   ···中之一
+:EXAMPLE:
   - a. Helen is sitting ~ the kids.
   - b. Shanghai is ~ the biggest cities.
   - c. Jay Chou \dotuline{is popular} ~ teenagers. ＝ be popular with
+:END:
 *** amount
-\fillin[amount] /a'maunt/
+\fillin[amount /a'maunt/]
 - n. [C,pl.-s]  量；总量
+:EXAMPLE:
   - A huge amount of money \dotuline{has} been spent on education. \\
     = Huge amounts of money \dotuline{have} been spent on... \\
     大量的经费已被投人到教育上。
+:END:
 *** amusing
-\fillin[amusing] /ə'mju:zin/
+\fillin[amusing /ə'mju:zin/]
 - adj.(amuse v.) ＝funny 逗人笑的；好笑的
 *** amusement
-\fillin[amusement]  /ə'mju:zmənt/
+\fillin[amusement  /ə'mju:zmənt/]
 - n. 好笑；愉悦 娱乐（活动）
+:EXAMPLE:
   - to one's ~   令人好笑的是
   - an ~ park  游乐场；娱乐园
   - traditional ~ s  传统的娱乐活动
   - Reading classics brings us~.  阅读名著给人以愉悦。
+:END:
 *** ancient
-\fillin[an\dotuline{cie}nt] /'enfant/
+\fillin[an\dotuline{cie}nt /'enfant/]
 - adj. 古代的；远古的
+:EXAMPLE:
   - in ~ times  古时候；在古代
+:END:
 *** and
-\fillin[and] /and;aænd/
+\fillin[and /and;aænd/]
 - conj.  和；以及；并且（连接“祈使句”，代替“if-条件句”）
+:EXAMPLE:
   - Be careful and you'll make fewer mis takes.\\
     = \dotuline{If you are} careful, +and+ you'll make \dotuline{fewer}...
     (如果）细心点，你就会\dotuline{少犯错}。
   - Be careful or you'll make more mistakes. \\
     = If you aren't careful, +or+ you'll make more...
     细心点，否则你会犯更多 的错误。
+:END:
 *** angry
-\fillin[angry] /'aængri/
+\fillin[angry /'aængri/]
 - adj. 生气的；愤怒的
 *** angrily
-\fillin[angrily] /'aengrali/
+\fillin[angrily /'aengrali/]
 - adv. 生气地；愤怒地
+:EXAMPLE:
   - Mum \dotuline{looked angry}/ +angrily+ then.  \dotuline{看上去}（linking -v.) + \dotuline{adj}.
   - Mum \dotuline{looked} +angry+ ~ at me then.  \dotuline{朝}···\dotuline{看}（action -v.) + \dotuline{adv}.
+:END:
 *** animal
-\fillin[animal] /'æntml/
+\fillin[animal /'æntml/]
 - n. [pl.-s] 动物
 *** another
-\fillin[another] /ə'nnðə/
+\fillin[another /ə'nnðə/]
 - adj.  (≥3)另／又一个的；（\dotuline{在原有基数上}）额外的；添加的
+:EXAMPLE:
   - We need ~ \dotuline{two} days to finish the work. = \dotuline{two more} days 我们\dotuline{还需2天}才能完工。
+:END:
 - pron.  (≥3)另一个（人／物）
+:EXAMPLE:
   - I don't like the color of the shoes. Will you show me +another+ / another pair?
     我不喜欢这双鞋的颜色，再拿\dotuline{一双（鞋）}给我看看好吗？
+:END:
 *** answer
-\fillin[answer] /'a:nsə/
+\fillin[answer /'a:nsə/]
 - n. [pl.-s]  答复（案）；回信
+:EXAMPLE:
   - the ansuer \dotuline{to} the question 问题的答案
+:END:
 - v. 回答；回信
+:EXAMPLE:
   - ~ the door/phone （应声）开门／接电话
+:END:
 *** any
-\fillin[any] /'eni/
+\fillin[any /'eni/]
 - adj.  (≥3)任一的；任何的；一些（在疑问句、否定句、条件句中\dotuline{替换}some)
 - pron. （在肯定句中\dotuline{加强语气}） 无论哪一个（哪些）；随便哪一个（些）
+:EXAMPLE:
   - --- Which book do you want? \\
     --- \dotuline{Any one} is Ok. \dotuline{随便哪本}都行。
+:END:
 *** anybody
-\fillin[anybody] /'enubodi/
+\fillin[anybody /'enubodi/]
 - pron.  ＝anyone /'eniwAn/ 任何人
 *** anything
-\fillin[anything] /'enrθtn/
+\fillin[anything /'enrθtn/]
 - pron. 任何事（物）
 *** anywhere
-\fillin[anywhere] /'enrwea/
+\fillin[anywhere /'enrwea/]
 - adv. 在任何地方；无论哪里
 *** apologize
-\fillin[apologize] /ə'polad3aiz/
+\fillin[apologize /ə'polad3aiz/]
 - v. 道歉（apologyn.)
+:EXAMPLE:
   - ～ to sb for (doing) sth \\
     = say sorry to sb for (doing) sth
     因···向···道歉
+:END:
 *** appear
-\fillin[appear] /ə'prə/
+\fillin[appear /ə'prə/]
 - v. (dis-;re-) 出现
 *** apple
-\fillin[apple] /'æpl/
+\fillin[apple /'æpl/]
 - n. [pl.-s] 苹果（公司）
 *** apply
-\fillin[apply] /a'plai/
+\fillin[apply /a'plai/]
 - v. 申请；应用
+:EXAMPLE:
   - ~ \dotuline{for} a job 申请工作
   - ~ new technology \dotuline{to} sth \dotuline{把}···\dotuline{应用于}
+:END:
 *** April
-\fillin[April] /'erpral/
+\fillin[April /'erpral/]
 - n. 四月
 *** area
-\fillin[area] /'carra/
+\fillin[area /'carra/]
 - n. [pl.-s] 面积；地区；领域
+:EXAMPLE:
   - --- What's the ~ of Shanghai? \\
     --- It covers an ~ of 6340 $km^2$.
+:END:
 *** argue
-\fillin[argue] /'a:gju:/
+\fillin[argue /'a:gju:/]
 - v. (argument n.) 争吵；争辩
+:EXAMPLE:
   - Mum often ~s \dotuline{with Dad about money}, （表示“\dotuline{不同的观点}”时）则认为；辩称
   - David ~s that English is important. ＝thinks   David\dotuline{则认为}
+:END:
 *** arm
-\fillin[arm] /a:m/
+\fillin[arm /a:m/]
 - n. [pl.-s] 手臂；胳膊
 *** army
-\fillin[army] /'a:mi/
+\fillin[army /'a:mi/]
 - n. 军队
+:EXAMPLE:
   - My cousin \dotuline{joined} +in+ the army 2 \dotuline{years ago}.\\
     = ... \dotuline{has been in} the army for 2 years / \dotuline{since} 2 years \dotuline{ago}.
     我表哥参军已 两年了。
+:END:
 *** around
-\fillin[around] /a'raund/
+\fillin[around /a'raund/]
 - prep. 在···周围；环绕
 - adv. 在周围；在附近
 *** arrange
-\fillin[arrange] /a'rend3/
+\fillin[arrange /a'rend3/]
 - v. 安排；布置；筹备
+:EXAMPLE:
   - ~ seats/the classroom/a party 安排座位／布置教室／筹备晚会
+:END:
 *** arrive
-\fillin[arrive] /ə'raiv/
+\fillin[arrive /ə'raiv/]
 - v. (arrival,n.) 到达；抵达
+:EXAMPLE:
   - ~ +in+ / \dotuline{at} + the village / town(小地方）
   - ~ \dotuline{in} / +at+ + Shanghai / China(大地方）
   - ＝ get \dotuline{to} / reach + sth
+:END:
 *** art
-\fillin[art] /a:t/
+\fillin[art /a:t/]
 - n. [U] 美术；艺术（影视、文学）
 *** artist
-\fillin[artist] /'a:tist/
+\fillin[artist /'a:tist/]
 - n. [pl.-s] 艺术家；画家
 *** article
-\fillin[article] /'a:trkl/
+\fillin[article /'a:trkl/]
 - n. [pl.-s 文章
+:EXAMPLE:
   - write an ~ for the newspaper 为报社撰写文章
+:END:
 *** as
-\fillin[as] /az;æz/
+\fillin[as /az;æz/]
 - conj.
+:EXAMPLE:
   - a. =becuuse/since/for/now that 因为；由于
   - b. =when    随着···;一边···一边
     - \dotuline{As} time \dotuline{passes by}, we're getting older. \dotuline{随着}时光的流逝，我们渐渐长大。
   - c. =like(Am E.)  像···(一样）；按照
     - Do \dotuline{as} Ido. 照我的样子做。
+:END:
 - adv.
+:EXAMPLE:
   - ... as / +so+ ... as ...    与···一样
   - ··* not as / so ... as ...    不如···;没有···
+:END:
 - prep.
   - （“时间”）当···时
+:EXAMPLE:
     - \dotuline{As a child}, Edison wasn't clever enough. ＝ When he was young... 小时候···
+:END:
   - （“身份、职业”）身为；作为
+:EXAMPLE:
     - \dotuline{As} students, we must obey school rules.
+:END:
 *** Asia
-\fillin[Asia] /'eifə/
+\fillin[Asia /'eifə/]
 - n. 亚洲
 *** Asian
-\fillin[Asian] /'erfn/
+\fillin[Asian /'erfn/]
 - adj. ［pl.-s]  亚洲（人）的，亚洲人
 *** ask
-\fillin[ask] /a:sk/
+\fillin[ask /a:sk/]
 - v. 问；请求；要求
+:EXAMPLE:
   - ~ （sb) a question  提问；问个问题
   - ~ sb (not) to do sth  要求···(不）做···
+:END:
 *** assistant
-\fillin[assistant] /ə'sistənt/
+\fillin[assistant /ə'sistənt/]
 - n. [pl.-s] 助手；助理
+:EXAMPLE:
   - an ~ = a shop ~ (BrE.)   营业员
+:END:
 *** at
-\fillin[at] /at;aet/
+\fillin[at /at;aet/]
 - prep.  在···(几点几分）； 在···(小）地方
 *** attack
-\fillin[attack] /altæk/
+\fillin[attack /altæk/]
 - v. 袭击；攻击；攻占
+:EXAMPLE:
   - ~ ＋ the enemy/a country 攻击敌人／攻占某国
+:END:
 *** attend
-\fillin[attend] /a'tend/
+\fillin[attend /a'tend/]
 - v. 出席（会议）；上学
+:EXAMPLE:
   - ~ a meeting / school / college = go to 
   - I've got a meeting \dotuline{to} ~ tomorrow. 我明天有个会议要出席。
+:END:
 *** attention
-\fillin[attention] /ə'tenfn/
+\fillin[attention /ə'tenfn/]
 - n. [U]  注意；关心；关注
+:EXAMPLE:
   - pay ~ \dotuline{to} (\dotuline{doing}) sth
+:END:
 *** attitude
-\fillin[attitude] /'ætitju:d/
+\fillin[attitude /'ætitju:d/]
 - n. [pl.-s] 态度；看法
+:EXAMPLE:
   - have \dotuline{a} good / bad attitude \dotuline{to} (wards) sth  对···持（不）端正的态度
+:END:
 *** attract
-\fillin[attract] /ətrækt/
+\fillin[attract /ətrækt/]
 - v. 吸引；引起（兴趣、注意）
+:EXAMPLE:
   - The Bund ~\dotuline{s} lots of tourists every year.
   - ~ one's interest / attention
+:END:
 *** attractive
-\fillin[attractive] /ə'træktiv/
+\fillin[attractive /ə'træktiv/]
 - adj. 迷人的；漂亮的；有吸引力的；有魅力的
+:EXAMPLE:
   - Fan Bingbing is an ~ actress.
   - The Bund \dotuline{is} ~ \dotuline{to} lots of tourists.
+:END:
 *** audience
-\fillin[audience] /'o:dəns/
+\fillin[audience /'o:dəns/]
 - n. 观众；听众 ［C,pl.audience(s)]
+:EXAMPLE:
   - A small / large ~ \dotuline{was} / \dotuline{were} watching the film.  少数／大量的观众正在看电影。
+:END:
 *** August
-\fillin[August] /'o:gast/
+\fillin[August /'o:gast/]
 - n. 八月
 *** aunt
-\fillin[aunt] /a:nt/
+\fillin[aunt /a:nt/]
 - n. [pl.-s]  姑妈；阿姨；姨娘
 *** Australia
-\fillin[Australia] /p'strerlrə/
+\fillin[Australia /p'strerlrə/]
 - n. 澳大利亚
 *** Australian
 \fillin[Australian]
 - adj. 澳大利亚（人）的
 - n.[pl.-s]  澳大利亚人
 *** automatic
-\fillin[automatic] /o:tə'mætik/
+\fillin[automatic /o:tə'mætik/]
 - adj. 自动的
+:EXAMPLE:
   - an ~ door / washing machine
+:END:
 *** autumn
-\fillin[autumn] /'ə:təm/
+\fillin[autumn /'ə:təm/]
 - n. ＝fall (AmE.) 秋天；秋季
+:EXAMPLE:
   - in (the) ~ / winter / spring / summer
+:END:
 *** available
-\fillin[available] /ə velləbl/
+\fillin[available /ə velləbl/]
 - adj. （avail o.)  可获取的；可买到的；可查到的
 *** average
-\fillin[average] /'ævərid3/
+\fillin[average /'ævərid3/]
 - n. 平均（数）
+:EXAMPLE:
   - Each class has 38 studetns \dotuline{on} ~. \\
     = Each class has \dotuline{an} ~ \dotuline{of} 38 students. 各班平均有38名学生。
+:END:
 - adj. 中等水平的；普通的
+:EXAMPLE:
   - Tom is \dotuline{of} ~ \dotuline{height}.  Tom中等身高。
   - an ~ student   中等、普通学生
+:END:
 *** award
-\fillin[award] /ə'wo:d/
+\fillin[award /ə'wo:d/]
 - n. 奖项（名字）；奖品；奖励
+:EXAMPLE:
   - the Best Director Auard 最佳导演奖
   - win an' ~ for sth =a prize. 因···而获奖
+:END:
 - v. 授予；颁发
+:EXAMPLE:
   - ~ a prize to sb=give
+:END:
 *** away
-\fillin[away] /ə'wet/
+\fillin[away /ə'wet/]
 - adv. 离开；远离
+:EXAMPLE:
   - be ~    外出；不在家
   - be far ~ from   离···很远
+:END:
 *** awful
-\fillin[awful] /'o:fl/
+\fillin[awful /'o:fl/]
 - adj.  可怕的；糟糕的
+:EXAMPLE:
   - ~ wars  令人恐怖的战争
   - What ~ weather it is! =terrible 鬼天气！
-
+:END:
 #+LATEX: \end{questions}
 
 ** B
 #+LATEX: \begin{questions}
 *** baby
-\fillin[baby] /'betbi/
+\fillin[baby /'betbi/]
 - n.[pl.-bies]  婴儿；小宝宝
 *** back
-\fillin[back] /bæk/
+\fillin[back /bæk/]
 - adv. 向后；回来  后背；后部
 - n. 背着
+:EXAMPLE:
   - carry sb on the ~
   - sit \dotuline{at the} ~ \dotuline{of} the bus  坐在车后部。
+:END:
 *** background
-\fillin[background] /'bækgraund/
+\fillin[background /'bækgraund/]
 - n. [pl.-s] 背景
+:EXAMPLE:
   - family / cultural / educational ~ 家庭背景／文化背景／教育背景（学历）
+:END:
 *** bad
-\fillin[bad] /baæd/
+\fillin[bad /baæd/]
 - adj. （worse; worst) 糟糕的；严重的；坏的；不利的；有害的
 *** bag
-\fillin[bag] /beeg/
+\fillin[bag /beeg/]
 - n. [pl.-s]  书包；提包；袋子
 *** bakery
-\fillin[bakery] /'berkari/
+\fillin[bakery /'berkari/]
 - n. [pl.-ries]  面包店
 *** balance
-\fillin[balance] /'baelans/
+\fillin[balance /'baelans/]
 - n. 平衡
+:EXAMPLE:
   - keep a ~ between study and play  劳逸结合
   - have a ~\dotuline{d} diet 吃\dotuline{营养均衡}的饮食
+:END:
 *** ball
-\fillin[ball] /bo:l/
+\fillin[ball /bo:l/]
 - n. [pl.-s]  球
+:EXAMPLE:
   - ~ games   球类运动
+:END:
 *** balloon
-\fillin[balloon] /ba'lu:n/
+\fillin[balloon /ba'lu:n/]
 - n. [pl.-s] 气球
 *** banana
-\fillin[banana] /bə'na:nə/
+\fillin[banana /bə'na:nə/]
 - n. [pl.-s] 香蕉
 *** bank
-\fillin[bank] /beegk/
+\fillin[bank /beegk/]
 - n. [pl.-s] 银行；（河流）岸边
+:EXAMPLE:
   - \dotuline{on both ~s} of the river = \dotuline{on either} ~ of...  在河流两岸
+:END:
 *** bar
-\fillin[bar] /ba:/
+\fillin[bar /ba:/]
 - n. [pl.-s]  酒吧
 *** base
-\fillin[base] /beis/
+\fillin[base /beis/]
 - n. [pl.-s] 根据地；基地；基础
+:EXAMPLE:
   - a. \dotuline{based on} the survey ＝ according to.... 根据调查
   - b. The film \dotuline{is based on} a real story. 此片是以真实故事\dotuline{为素材的}。
   - c. a \dotuline{Shanghai based} company \dotuline{总部设在上海}的公司
+:END:
 *** basic
-\fillin[basic] /'berstk/
+\fillin[basic /'berstk/]
 - adj. 基础的；基本的
+:EXAMPLE:
   - ~ knowledge 基础知识
   - ~ needs  基本需求
+:END:
 *** basket
-\fillin[basket] /'ba:skit/
+\fillin[basket /'ba:skit/]
 - n. [pl.-s] 篮子；筐子
 *** basketball
-\fillin[basketball] /'ba:skrtbo:l/
+\fillin[basketball /'ba:skrtbo:l/]
 - n. 篮球
+:EXAMPLE:
   - play +the / a+ ~
+:END:
 *** bath
-\fillin[bath] /ba:0/
+\fillin[bath /ba:0/]
 - n. [pl.-s] 洗澡；盆浴
+:EXAMPLE:
   - take a ~ 洗澡
+:END:
 *** battery
-\fillin[battery] /'baetəri/
+\fillin[battery /'baetəri/]
 - n. [pl.-ries] 电池
+:EXAMPLE:
   - recycle used ~ries 回收废旧电池
+:END:
 *** battle
-\fillin[battle] /'bætl/
+\fillin[battle /'bætl/]
 - n. [pl.-s] 战争；战役；斗争
+:EXAMPLE:
   - fight a ~ against illness 与病魔作斗争
   - \dotuline{the ~ of Waterloo} \dotuline{滑铁卢战役}
+:END:
 *** be
 \fillin[be]
 - v. （am, is, are; was,were; been)  是；成为
 *** beach
-\fillin[beach] /bi:tf/
+\fillin[beach /bi:tf/]
 - n. [pl.-es]   海滩；沙滩
 *** bear
-\fillin[bear] /beə/
+\fillin[bear /beə/]
 - n. [pl.-s] 熊
 *** beat
-\fillin[beat] /bi:t/
+\fillin[beat /bi:t/]
 - v. （beat; beaten/'bi:tn/)  打败；战胜；（心脏）跳动 
+:EXAMPLE:
   - a. Our team \dotuline{beat} theirs in the game \\
     = Their'team \dotuline{was beaten by} ours. 在比赛中，我们队击败了他们队。
   - b. She's alive --- her heart is still ~ing. 她（还）活着一一她的心脏还在跳动。
+:END:
 *** beautiful
-\fillin[beautiful] /'bju:tifl/
+\fillin[beautiful /'bju:tifl/]
 - adj. 美丽的； 优美的；动听的
 *** beautifully
-\fillin[beautifully] /'bju:tifli/
+\fillin[beautifully /'bju:tifli/]
 - adv. 优美地；动听地
 *** because
-\fillin[because] /br'koz/
+\fillin[because /br'koz/]
 - conj. 因为；由于
 *** become
-\fillin[become] /br'kam/
+\fillin[become /br'kam/]
 - linking-v. （became;become)  变得；成为
 *** bed
-\fillin[bed] /bed/
+\fillin[bed /bed/]
 - n. [pl.-s]   床
 *** bedroom
-\fillin[bedroom] /'bedru:m/
+\fillin[bedroom /'bedru:m/]
 - n. [pl.-s] 卧室
 *** before
-\fillin[before] /br'fo:/
+\fillin[before /br'fo:/]
 - prep.,adv.,conj.  从前；在···前面；在···以前
 *** beg
-\fillin[beg] /beg/
+\fillin[beg /beg/]
 - v. （begged;begging)  恳求；乞求；乞讨
   - ~ sb \dotuline{to do} sth
 *** begin
-\fillin[begin] /bi'gm/
+\fillin[begin /bi'gm/]
 - v. （beg\dotuline{a}n /bi'gæn/; beg\dotuline{u}n /br'gan/)  开始；着手
+:EXAMPLE:
   - ~ + \dotuline{to do / doing} sth
   - to begin with,  （列举时）首先；第一点
+:END:
 *** beginning
-\fillin[beginning] /br'gnin/
+\fillin[beginning /br'gnin/]
 - n. 开始；开端
+:EXAMPLE:
   - \dotuline{at} / \dotuline{in} the ~ =at first   一开始；起初
   - \dotuline{at} +in+ \dotuline{the} ~ \dotuline{of} new term  在新学期初
+:END:
 *** behave
-\fillin[behave] /br'herv/
+\fillin[behave /br'herv/]
 - v. 表现；举止；言行
+:EXAMPLE:
   - Tom \dotuline{~ s well} in school.  Tom在\dotuline{校表}现良好。
   - We must ~ \dotuline{our selves} in public places.   在公共场合，我们要注意\dotuline{自己的言行}。
+:END:
 *** behavio(u)r
-\fillin[behavio\dotuline{(u)r}] /br'hervja/
+\fillin[behavio\dotuline{(u)r /br'hervja/}]
 - n.[U] 表现； 举止；行为
+:EXAMPLE:
   - Tom's ~ at school is good. Tom在校表现良好。
+:END:
 *** behind
-\fillin[behind] /bt'haind/
+\fillin[behind /bt'haind/]
 - prep. 在··后面
+:EXAMPLE:
   - fall ~ sb 落后于；
   - leave sth ~ 丢下；遗留
+:END:
 *** human beings
-\fillin[human beings] /hju:mən'biagz/
+\fillin[human beings /hju:mən'biagz/]
 - 人类；生物
 *** believe
-\fillin[believe] /br'li:v/
+\fillin[believe /br'li:v/]
 - v. =think 相信；认为
 
 #+LATEX: \end{questions}

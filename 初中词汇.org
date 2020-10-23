@@ -3869,8 +3869,10 @@
 *** gain
 \fillin[gain /gein/]
 - v. 获得；增加；增长
+:EXAMPLE:
   - No pain,no gain. 一分耕耘一分收获。
   - ~ knowledge/experience/weight  =increase 增长知／积累经验／增加体重
+:END:
 *** game
 \fillin[game /geim/]
 - n. [pl.-s] 比赛；运动；游戏
@@ -3886,5 +3888,265 @@
 *** general
 \fillin[general /'dzenərəl/]
 - adj. 大体的；笼统的；总的
+:EXAMPLE:
   - get a ~ idea of the passage  了解文章大意
-  - TV programs of ~ interest 普遍／大众感兴
+  - TV programs of ~ interest 普遍／大众感兴趣的电视节目
+:END:
+*** generation
+\fillin[generation /idsena'reifn/]
+- n. [pl.-s] 代；一代人；
+:EXAMPLE:
+  - the ~ gap  代沟
+  - the older/younger ~  老／年轻一代
+:END:
+*** generous
+\fillin[generous /'d3enaras/]
+- 慷慨的；大方的
+:EXAMPLE:
+  - It's ~ of Bill Gates to donate so much money.  Bill Gates 真慷慨，捐赠了这么多善款。
+:END:
+*** gentle
+\fillin[gentle /'dgentl/]
+- adj. 温柔的；温和的；轻轻的
+*** gently
+\fillin[gently /'d3entli/]
+- adv. 温柔地；轻声地
+*** gentleman
+\fillin[gentleman /'d3entlman/]
+- n. [pl.-men] 绅士； 先生
+*** geography
+\fillin[geography /d3ı'ogrəfi/]
+- n. 地理（学科）
+:EXAMPLE:
+  - a ~ lesson/teacher 地理课／老师
+:END:
+*** German
+\fillin[German /'d3э:mən/]
+- adj. 德国的
+- n. [U] 德语
+- n. [C,pl.-s] 德国人
+:EXAMPLE:
+  - a few Germans / +Germen+  几个德国人
+:END:
+*** Germany
+\fillin[Germany /'d33:məni/]
+- n. 德国
+*** get
+\fillin[get /get/]
+- v. 得到；变得；到达
+:EXAMPLE:
+  - (got/gpt/;got/gotten)
+  - have got sth (BrE.) =have （拥）有
+  - get +to+ / arrive in(+at+)/reach + there/here/home (adv.)  到达
+  - get to/arrive +in(at)+ / reach + Paris (n.)
+:END:
+*** gift
+\fillin[gift /gft/]
+- n. [pl.-s] =present  赠品；礼物
+*** girl
+\fillin[girl /ga:l/]
+- n. [pl.-s] 女孩；姑娘
+*** give
+\fillin[give /grv/]
+- v. 给予；赠送；颁发
+:EXAMPLE:
+  - (gave /gerv/; given /'givn/)
+:END:
+*** glad
+\fillin[glad /gled/]
+- adj. 高兴的；乐意的
+:EXAMPLE:
+  - sb + be ~ about sth 因···而高兴的
+  - sb + be ~ + to do sth
+:END:
+*** glass
+\fillin[glass /gla:s/]
+- n. [U] 玻璃
+- n. [C,pl.-es] 玻璃杯
+*** glasses
+\fillin[glasses /'glasiz/]
+- n. [C,always pl.] 眼
+:EXAMPLE:
+  - wear a pair of ~  戴副眼
+:END:
+*** go
+\fillin[go /gau/]
+- v. 去；驶向；到
+:EXAMPLE:
+  - (went/went/,gone/gon/)
+:END:
+- v. （从“好”）变（糟的）
+:EXAMPLE:
+  - Her face went red.  羞红
+  - The food has gone bad. 已变质
+  - The machine has gone wrong.  出故障
+:END:
+*** goal
+\fillin[goal /gəul/]
+- n. [pl.-s] =aim =purpose 目标；目的
+:EXAMPLE:
+  - achieve one's ~ of life 实现人生目标
+:END:
+*** gold
+\fillin[gold /gəuld/]
+- n. [U] 金子；黄金：金质（的）
+:EXAMPLE:
+  - win a ~ medal 赢得金牌
+:END:
+*** golden
+\fillin[golden /'gəuldən/]
+- adj. 金色的
+:EXAMPLE:
+  - ~ fish/hair/beaches 金鱼／金发／金色沙滩
+:END:
+*** good
+\fillin[good /gud/]
+- adj.(质量／品行）好的；良好的
+:EXAMPLE:
+  - (opp.well,ado.好；很好；出色）
+:END:
+*** government
+\fillin[government /'gavənmant/]
+- n. [pl.-s] 政府
+*** grade
+\fillin[grade /grerd/]
+- n. [pl.-s]  =score/mark 年级；等级；分数；成绩
+:EXAMPLE:
+  - I'm in Class Three, Grade Nine.
+  - as a grade nine (Grade Nine) student
+:END:
+*** graduate
+\fillin[graduate /'graæd3uət/]
+- n. [pl.-s] 毕业生
+:EXAMPLE:
+  - college / university ~s
+:END:
+- v. 毕业
+:EXAMPLE:
+  - /'graedsuert/
+  - ~ from school/college/university  =leave/finish 
+:END:
+*** grandma
+\fillin[grandma /'grænma:/]
+- n. 奶奶；外婆
+:EXAMPLE:
+  - =grandmother/'grænma:ǒa/
+:END:
+*** grandpa
+\fillin[grandpa /'grænpa:/]
+- n. 爷爷；外公
+:EXAMPLE:
+  - = gran dfather /'grænfa:ðə/
+:END:
+*** grass
+\fillin[grass /gra:s/]
+- n. [U] 草；牧草；草地
+:EXAMPLE:
+  - Don't walk on the ~. 勿踏草坪。
+:END:
+*** great
+\fillin[great /grett/]
+- adj. (－er;-est) 伟大的；重大的 （口语）好极的；太棒了
+*** greatly
+\fillin[greatly /'grertli/]
+- adv. 非常；极大地
+:EXAMPLE:
+  - Shanghai has ~ changed. 上海已发生巨变。
+:END:
+*** green
+\fillin[green /gri:n/]
+- n.,adj.  绿色的；环保的
+:EXAMPLE:
+  - ~ food  绿色食品；环保食品
+  - the greenhouse effect  温室效应
+:END:
+*** greet
+\fillin[greet /gri.t/]
+- v. 与···打招呼；迎接；接待
+:EXAMPLE:
+  - ~ the guests warmly 热情接待来宾
+  - ~ sb with a "Hello"  与···打招呼说···
+:END:
+*** ground
+\fillin[ground /graund/]
+- n. （室外）地面；
+:EXAMPLE:
+  - =playground （运动）场地
+:END:
+*** group
+\fillin[group /gru:p/]
+- n. [pl.-s] 群（组、队）；团体
+:EXAMPLE:
+  - A group of students is/are... 一群学生
+  - form a study ~ 成立学习小组
+:END:
+*** grow
+\fillin[grow /grau/]
+- v. 生长；发育；种植；变得；增长
+:EXAMPLE:
+  - (grew /gru:/; grown /grəun/)
+  - ~ rice/ flowers 种植水稻／养花
+  - The house prices have groum by 10%.  房价已涨了10%(by+增长幅度）。
+  - linking v.+adj.  变得；变化
+  - ~ older/taller 长大／长高
+:END:
+*** guess
+\fillin[guess /ges/]
+- v. 猜测；推测
+:EXAMPLE:
+  - ~ the meaning from the context 从上下文推测词义
+  - I ~ that ... = I think...  觉得；认为
+:END:
+*** guest
+\fillin[guest /gest/]
+- n. [pl.-s]  客人；嘉宾
+:EXAMPLE:
+  - receive ~s  接待来宾
+  - be a ~ on a TV show  担任电视嘉宾
+:END:
+*** guide
+\fillin[guide /gard/]
+- n. [pl.-s] （旅游）指南；手册
+:EXAMPLE:
+  - a (tour) guide 导游
+:END:
+*** gun
+\fillin[gun /gan/]
+- n. [pl.-s] 枪；炮
+:EXAMPLE:
+  - pass a ~ control act  通过控枪法案
+  - The robber held a ~ in his hand. 劫匪手持一把枪。
+:END:
+** H
+*** habit
+\fillin[habit /'hæbrt/]
+- n. [pl.-s] 习惯
+:EXAMPLE:
+  - make it a habit to do sth  养成···的习惯
+  - get rid of bad ~s  改掉陋习
+:END:
+*** hair
+\fillin[hair /heə/]
+- n. [U] 头发
+*** half
+\fillin[half /ha:f/]
+- n.,adj. 一半（的）
+:EXAMPLE:
+  - cut the apple in ~ 把···切成两半
+  - two hours and a ~  = two and a ~ hours 两个半小时
+:END:
+*** hall
+\fillin[hall /ho:l/]
+- n. [pl.-s] 大厅；礼堂
+:EXAMPLE:
+  - a concert / exhibition ~  音乐厅／展览厅
+:END:
+*** hamburger
+\fillin[hamburger /'hæmbagə/]
+- n. [pl.-s] 汉堡包
+*** hand
+\fillin[hand /haænd/]
+- n. [pl.-s] 手；（钟表）指针 （引导“不同的或对立的”观点）
+:EXAMPLE:
+  - on the one hand... on the other (hand)... 一方面···另一方面
+:END:

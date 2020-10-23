@@ -3299,4 +3299,592 @@
   - b. farther （仅指“距离”）更远
   - c. further （修饰“程度或距离”）更远（的）；更进一步地（的）
   - I'm too tired to go any farther / further. 我累得再也走不动了。
+  - make further / +farther+ progress in...  在···取得更大进步
 :END:
+*** fare
+\fillin[fare /fea/]
+- n. [pl.-s] 交通费；票价
+:EXAMPLE:
+  - bus / ship / plane + ~s  车／船／机票价
+:END:
+*** farm
+\fillin[farm  /fam/]
+- n. [pl.-s] 农场；农庄
+:EXAMPLE:
+  - on a ~  在农场
+:END:
+*** farmer
+\fillin[farmer /'fa:mə/]
+- n. [pl.-s] 农民；农夫
+*** fashion
+\fillin[fashion /'faæfn/]
+- n. 时装；流行；时尚
+:EXAMPLE:
+  - ~ show/model  时装表演／模特
+  - Jeans are still in ~ . =popular 牛仔服依然流行。
+  - Having long hair is out  (of~) today. 如今养长发已经过时了。
+:END:
+*** fast
+\fillin[fast /fast/]
+- adj.,adv. 快的（地）；迅速的（地）
+*** fat
+\fillin[fat /feet/]
+- adj. 肥胖的
+:EXAMPLE:
+  - (fatter; fattest)
+:END:
+- n. [U]  脂肪
+:EXAMPLE:
+  - Meat is rich in ~. 肉类脂肪含量高。
+:END:
+*** father
+\fillin[father /'fa:ðə/]
+- n. 父亲；爸爸
+*** favo(u)r
+\fillin[favo(u)r /'fervə/]
+- n. 恩惠；帮助；偏爱
+:EXAMPLE:
+  - be in ~ of 支持；赞同
+:END:
+*** favo(u)rite
+\fillin[favo(u)rite /'feivərtt/]
+- adj. 最喜爱的
+- n. 最喜爱的人／物
+:EXAMPLE:
+  - English is my ~ (subject). = My ~ (subject) is English.
+:END:
+*** fear
+\fillin[fear /frə/]
+- n. [C,U] 害怕；担心；恐惧
+:EXAMPLE:
+  - Mum shows -s about my sa fety. 老妈为我的安全担忧。
+  - The boy was shaking with ~. 那孩子吓得发抖。
+:END:
+*** February
+\fillin[February /'februəri/]
+- n. 二月
+*** feed
+\fillin[feed /fi:d/]
+- v. 喂养；饲养
+:EXAMPLE:
+  - (fed;fed/fed/)
+  - Have you fed the cat yet?  你给猫喂食了吗？
+:END:
+*** feel
+\fillin[feel /fi:l/]
+- v. 觉得；感觉；摸索
+:EXAMPLE:
+  - (felt; felt/felt/)
+  - Mum felt her way in the dark. 老妈在黑暗中摸索前行。
+  - linking v. + adj.  摸上去有···感觉
+  - Cotton - s/ +touches+ soft / +softly+ .
+:END:
+*** female
+\fillin[female /'fi:merl/]
+- adj. 女性的；雌性的
+:EXAMPLE:
+  - (opp. male adj.)
+:END:
+*** fence
+\fillin[fence /fens/]
+- n. [pl.-s] 围墙；栅栏
+*** ferry
+\fillin[ferry /'feri/]
+- n. [pl.-ries] 渡船；渡轮
+:EXAMPLE:
+  - take a ~ across the river = cross the river by ~   乘渡轮过江
+:END:
+*** festival
+\fillin[festival /'festivl/]
+- n. [pl.-s] 节日
+*** fever
+\fillin[fever /'fi:və/]
+- n. [C,sing.] 发烧
+:EXAMPLE:
+  - have a ~
+:END:
+*** few
+\fillin[few /fju:/]
+- adj. 很少；几乎没有
+:EXAMPLE:
+  - (fewer,fewest)
+  - “（半）\dotuline{否定}”意义 + [C,pl.] +[U]+
+  - very / so ~ + books 很少的书
+  - still / only / just a ~ + books (还）只有几本书
+  - Few people know about it, don't do they?  没什么人知道这事，是不是？
+:END:
+- pron. 少数人／物；一些人／物
+:EXAMPLE:
+  - Few of the films are worth seeing. 值得看的电影寥寥无几。
+  - I know a few of the guests. 客人中有几位我认识。
+:END:
+*** field
+\fillin[field /fi:ld/]
+- n. [pl.-s] 田野；田地；实地
+:EXAMPLE:
+  - The farmers are working in the ~s. 农民们正在田间劳动。
+  - go on a ~ trip to  去···实地考察
+:END:
+*** fight
+\fillin[fight /fart/]
+- v. 打仗；打架；斗争
+:EXAMPLE:
+  - (fought; fought/fo:t/)
+  - ~ (with / against) sb  与···打架
+  - ~ pollution  治理污染
+:END:
+*** figure
+\fillin[figure /'fagə/]
+- n. [pl.-s] 数字；身影；身材
+:EXAMPLE:
+  - the sales ~s  销售数字
+  - a ~ in the dark  黑暗中的身影
+  - Kate has a good ~.  Kate 体形健美。
+:END:
+*** fill
+\fillin[fill /fil/]
+- v. 装满；注满；充满；填写
+:EXAMPLE:
+  - The bottle is-edwith water. = is full of 瓶子里装满了水。
+:END:
+*** film
+\fillin[film /film/]
+- n. [pl.-s] = movie(AmE.) 电影；影片；胶卷
+:EXAMPLE:
+  - see / watch a ~ = go to the film(s)  看电影
+:END:
+*** final
+\fillin[final /'fanl/]
+- adj. 最后的；最终的
+:EXAMPLE:
+  - make the ~ decision 作出最后的决定
+  - take the ~ exam  参加期末考试
+:END:
+*** finally
+\fillin[finally /'fainəli/]
+- adv. 最后；终于；最后一点
+*** find
+\fillin[find /famd/]
+- v. =discover 找到；发现
+:EXAMPLE:
+  - (found;found/faund/)
+:END:
+*** fine
+\fillin[fine /faun/]
+- adj. 晴朗的；（身体）好的；很好（赞同）
+*** finger
+\fillin[finger /'fngə/]
+- n. [pl.-s] 手指
+*** finish
+\fillin[finish /'fmtf/]
+- v. 结束；做完
+:EXAMPLE:
+  - ~ doing sth
+:END:
+*** fire
+\fillin[fire /'farə/]
+- v. 向···开枪／火
+:EXAMPLE:
+  - ~ at sb
+:END:
+- n. [U,C] 火；火炉；火灾
+:EXAMPLE:
+  - sth + catch ~  （开始）起火；着火 \\
+    → sth + be on fire （持续）燃烧；着火
+:END:
+*** fireman
+\fillin[fireman /'farəmən/]
+- n. [pl.-men]  消防员
+*** fireworks
+\fillin[fireworks /'farəwa:ks/]
+- n. [always pl.] 烟火
+:EXAMPLE:
+  - set off ~  燃放烟火
+:END:
+*** first
+\fillin[first /fa:st/]
+- adj.  第一的；最初的； 最早一批的
+:EXAMPLE:
+  - Tom was the ~ to get to school.
+:END:
+- adv.  第一（点）；首先
+- n. =beginning/start 开始；开端
+:EXAMPLE:
+  - from the ~   从一开始
+  - from ~ to last  从头到尾；自始自终
+:END:
+*** fish
+\fillin[fish /faf/]
+- n. [C,pl. fish; fishes] （活）鱼
+:EXAMPLE:
+  - a few fish / +fishes+  几条鱼
+  - a few +fish+ / fishes  几种鱼
+:END:
+- n. [n] （煮熟的菜肴）鱼肉
+- v. 捕鱼；钓鱼
+:EXAMPLE:
+  - go ~ing
+:END:
+*** fisherman
+\fillin[fisherman /'fifemən/]
+- n. [pl.-men] 渔夫／民
+*** fit
+\fillin[fit /ftt/]
+- v. （大小、尺寸）适合；合身
+:EXAMPLE:
+  - (fit,fit; fitted,fitted)
+  - This pair of shoes doesn't ~ me. 不合脚
+:END:
+- adj. 健康的
+:EXAMPLE:
+  - keep ~ =keep healthy
+:END:
+*** fix
+\fillin[fix /ftks/]
+- v. =repair 固定；安装；修理
+:EXAMPLE:
+  - My.bike is broken. It needs ~ing / to be ~ed. 我的车坏了，它需要修理。
+  - ~ a camera on the wall 在墙上安装摄修机
+:END:
+*** flag
+\fillin[flag /flaæg/]
+- n. [pl.-s] 旗帜；旗舰（店）
+*** flash
+\fillin[flash /flaæf/]
+- n. [pl.-es] 闪光；闪光灯
+:EXAMPLE:
+  - The UFO disappeared in a ~. 转瞬即道
+:END:
+*** flat
+\fillin[flat /flaæt/]
+- n. [pl.-s]  =apartment(AmE.) 套房；公寓（楼）
+*** flight
+\fillin[flight /flart/]
+- n. [pl.-s] 飞行；航班；班机
+:EXAMPLE:
+  - (fly,v.)
+  - take a ~ to New York 飞往纽约
+  - take +a /the+ Flight CA 8868  （特定航班）
+:END:
+*** flood
+\fillin[flood /flad/]
+- n. [U;C,pl.-s] 洪水；水灾
+*** floor
+\fillin[floor /flo:/]
+- n. [pl.-s] （室内）地面（板）；楼层
+:EXAMPLE:
+  - They live on the ninth ~.
+:END:
+*** flower
+\fillin[flower /'flauə/]
+- n. [pl.-s] 花
+:EXAMPLE:
+  - grow / water ~s 养花／浇花
+:END:
+*** fly
+\fillin[fly /flai/]
+- v. 飞行；飞往；放飞（风筝）
+:EXAMPLE:
+  - (flew/flu:/,flown/fləun/)
+  - fly to... = go to ... by plane/air
+:END:
+- n. [C,pl.flies] 苍蝇
+*** focus
+\fillin[focus /'fəukas/]
+- v. 集中于；专心于
+:EXAMPLE:
+  - ~ on sth = concentrate on/'kpnsntreit/
+:END:
+*** follow
+\fillin[follow /'fpləu/]
+- v. 听从、跟随、准守
+:EXAMPLE:
+  - ~ one's advice 听从劝告；采纳建议
+  - ~ the rule /law  遵守规章／法律
+  - ~ sb 跟踪；跟随
+  - Sorry, Id idn't ~ you.  抱歉，我没听明白。
+:END:
+*** following
+\fillin[following /'fpləun/]
+- adj. 下列的；接下来的
+:EXAMPLE:
+  - answer the ~ questions 回答下列问题
+  - in the ~ week = next week 下一周
+:END:
+*** fond
+\fillin[fond  /fond/]
+- adj. 喜爱的
+:EXAMPLE:
+  - be ~ of
+:END:
+*** food
+\fillin[food /fu:d/]
+- n. [U] 食物；食品
+*** fool
+\fillin[fool /fu:l/]
+- n. [pl.-s] 傻子；傻蛋
+:EXAMPLE:
+  - Happy April Fool's Day!  愚人节快乐！
+:END:
+- v. 愚弄；骗··做
+:EXAMPLE:
+  - ~ sb into doing sth
+:END:
+*** foolish
+\fillin[foolish /'fu:lıf/]
+- adj. = stupid = silly 愚蠢的；傻的
+*** foot
+\fillin[foot /fut/]
+- n. 脚；英尺
+:EXAMPLE:
+  - [pl.feet/fit/]
+  - a. on foot (How...?) 步行
+  - b. It's a 100-foot-tall building. \\
+       = The building is 100 feet tall. 这是座100英尺高的大楼。
+:END:
+*** football
+\fillin[football /'futbo:l/]
+- n. 足球；橄榄球(AmE.)
+:EXAMPLE:
+  - play a / the ~
+:END:
+*** for
+\fillin[for /fə; fə:/]
+- conj. = because/as/since/now that 因为 (补充原因，必须在主句后）
+:EXAMPLE:
+  - Jack isn't at school, for he's ill. \\
+    +For Jack's ill, he isn't at schoot.+
+:END:
+- prep.
+  - a. 持续、长达（一段时间）
+:EXAMPLE:
+    - Tom has stayed in China ~ tuo years.
+:END:
+  - b.  相对于···而言
+:EXAMPLE:
+    - The weather is very hot ~ autumn.  就秋季而言，天气算是很热的。
+:END:
+*** forecast
+\fillin[forecast /'fo:ka:st/]
+- n.,o. 预报
+:EXAMPLE:
+  - listen to the weather ~ 收听天气预报
+:END:
+*** foreign
+\fillin[foreign /'fprən/]
+- adj. 外国的
+*** foreigner
+\fillin[foreigner /'fprənə/]
+- n. [pl.-s] 外国人
+*** forest
+\fillin[forest /'fprist/]
+- n. [pl.-s] 森林
+*** forever
+\fillin[forever /fə'revə/]
+- adv.  永远地；永久地
+*** forget
+\fillin[forget /fə'get/]
+- v. 忘记；忘掉
+:EXAMPLE:
+  - (forgot,forgot/forgotten)
+  - ~ to do sth 忘记（将要做的）
+  - ~ doing sth 忘记（曾经做过的）
+:END:
+*** forgetful
+\fillin[forgetful /fa'getfl/]
+- adj. 健忘的；记性不好的
+:EXAMPLE:
+  - 比较: unforgettable adj.  难忘的
+:END:
+*** fork
+\fillin[fork /fo:k/]
+- n. [pl.-s]  叉
+:EXAMPLE:
+  - Westerners eat with knives and ~s. 西方人用餐时，使用刀、叉。
+:END:
+*** form
+\fillin[form /fo:m/]
+- n. [pl.-s] 表格；形式；方式
+- v. 组成；成立；养成
+:EXAMPLE:
+  - ~ a study group =set up 成立学习小组
+  - ~ a good habit =develop  养成良好习惯
+:END:
+*** forward
+\fillin[forward /'fo:wad/]
+- adv. 向前；前进；往后
+:EXAMPLE:
+  - look ~ to (doing) sth  盼望；期待
+  - look back / ~  回首往事／展望未来
+:END:
+*** fountain
+\fillin[fountain /'fauntən/]
+- n. [pl.-s] 人造喷泉
+*** France
+\fillin[France /fra:ns/]
+- n. 法国
+:EXAMPLE:
+  - (French adj.)
+:END:
+*** free
+\fillin[free /fri:/]
+- adj. 自由的；空闲的；免费的
+:EXAMPLE:
+  - be ~ to do sth  可自由地做
+  - in my ~ time =spare  在空闲时
+  - The gift is ~.  免费的
+:END:
+*** freedom
+\fillin[freedom /'fri:dəm/]
+- n. [U] 自由
+:EXAMPLE:
+  - enjoy ~ of speech 享受言论自由
+:END:
+*** freeze
+\fillin[freeze /fri:z/]
+- v. 结冰；冻结
+:EXAMPLE:
+  - (froze,frozen)
+:END:
+*** freezing
+\fillin[freezing /'fri:zin/]
+- adj. =very cold 寒冷刺骨的
+:EXAMPLE:
+  - on a ~ night  在一个寒冷的夜晚
+:END:
+*** French
+\fillin[French /frentf/]
+- adj. 法国（人）的；法语的
+- n. [U] 法语
+:EXAMPLE:
+  - the French + are... 法国人（总称）
+  - a Frenchman  一个法国人（个体）
+:END:
+*** fresh
+\fillin[fresh /fref/]
+- adj. 新鲜的；淡（水）的
+*** Friday
+\fillin[Friday /'fraidel/]
+- n. 星期五
+*** fridge
+\fillin[fridge /frid3/]
+- n. [pl.-s] 冰箱
+*** fried
+\fillin[fried /fraid/]
+- adj. (fry,v.)  油煎的
+*** friend
+\fillin[friend /frend/]
+- n. [pl.-s] 朋友
+*** friendly
+\fillin[friendly /'frendli/]
+- adj.(adv.) 友好的
+:EXAMPLE:
+  - be ~ to sb =be kind to sb  对···友好的
+  - lier / more ~ + than ...  比···友好的
+  - (－friendly)  好用的；有利的；无害的
+  - user-~apps  方便用户的程序
+  - environment-~ food  环保食品
+:END:
+*** friendship
+\fillin[friendship /'frendfip/]
+- n. [U,C] 友谊；友情
+*** frighten
+\fillin[frighten /'frartn/]
+- v. 使害怕；吓唬；使恐惧
+:EXAMPLE:
+  - The horrible story ~ed me. 恐怖故事吓死我了。
+:END:
+*** frightened
+\fillin[frightened /'fraitnd/]
+- adj. (sb) 受惊吓的
+:EXAMPLE:
+  - I was ~ed to hear the horrible story...  听了那恐怖的故事，我感到害怕。
+:END:
+*** frightening
+\fillin[frightening]
+-  adj. (sth) 恐怖的；令人害怕的
+:EXAMPLE:
+   - The story was ~. =It was a ~ story.
+:END:
+*** from
+\fillin[from /frəm; from/]
+- prep.  从；距离；来自
+*** front
+\fillin[front /frant/]
+- adj. 前面的；前部的
+- n. 前面；前部；前线
+:EXAMPLE:
+  - in the front of bus  在···前部
+  - in front of / behind the bus 在···的前方／ 后方
+:END:
+*** frozen
+\fillin[frozen /'frauzn/]
+- adj. 冰冻的；冷冻的
+:EXAMPLE:
+  - ~ food 冷冻（冷藏）食物
+:END:
+*** fruit
+\fillin[fruit /frut/]
+- n. [U] 水果；果实
+*** fuel
+\fillin[fuel /'fju:əl/]
+- n. [C,pl.-s] 燃料
+:EXAMPLE:
+  - Coal,oil & natural gas are ~s.  煤、石油和天然气都是燃料。
+:END:
+*** full
+\fillin[full /ful/]
+- adj. 充满的；全部的；详细的
+:EXAMPLE:
+  - be ~ of =be filled with
+  - provide ~ personal in formation 提供详尽的个人资料
+:END:
+*** fun
+\fillin[fun /fAn/]
+- n. [U] 好玩；开心；乐趣；消遣
+:EXAMPLE:
+  - What +a+ fun it is!  +(How fun it is!)+ 真开心！真有意思！
+  - I read novels just for fun (=for pleasure).  我看小说纯粹是为了消遣。
+:END:
+*** funny
+\fillin[funny /'fani/]
+- adj. 滑稽的；可笑的
+:EXAMPLE:
+  - (funnier,funniest) 
+  - How funny the joke sounds! = How amusing...!
+:END:
+*** furniture
+\fillin[furniture /'fa:nitfə/]
+- n. [U] 家具
+:EXAMPLE:
+  - a piece of/some/a little/much + ~  一件／一些／很多家具
+:END:
+*** future
+\fillin[future  /'fju:tfə/]
+- n. 将来；未来
+:EXAMPLE:
+  - in the ~
+:END:
+** G
+*** gain
+\fillin[gain /gein/]
+- v. 获得；增加；增长
+  - No pain,no gain. 一分耕耘一分收获。
+  - ~ knowledge/experience/weight  =increase 增长知／积累经验／增加体重
+*** game
+\fillin[game /geim/]
+- n. [pl.-s] 比赛；运动；游戏
+*** garden
+\fillin[garden /'ga:dn/]
+- n. [pl.-s] 花园；菜园
+*** gas
+\fillin[gas /gaes/]
+- n. [U;C,pl.-s]  气体；汽油；煤气
+*** gate
+\fillin[gate /gert/]
+- n. [pl.-s] 大门
+*** general
+\fillin[general /'dzenərəl/]
+- adj. 大体的；笼统的；总的
+  - get a ~ idea of the passage  了解文章大意
+  - TV programs of ~ interest 普遍／大众感兴

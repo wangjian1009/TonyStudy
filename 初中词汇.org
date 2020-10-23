@@ -209,7 +209,7 @@
 \fillin[aged   /eid3d/]
 - adj. 有···岁数的
 :EXAMPLE:
-  - aboy ~ \dotuline{ten} ＝a boy of ten=a ten-year-oldboy \dotuline{10岁的}男孩 
+  - aboy ~ \dotuline{ten} ＝a boy of ten=a ten-year-old boy \dotuline{10岁的}男孩 
   - the aged/'etd3id/ + are...  年迈者；老人
 :END:
 *** ...ago
@@ -849,7 +849,9 @@
 *** beg
 \fillin[beg /beg/]
 - v. （begged;begging)  恳求；乞求；乞讨
+:EXAMPLE:
   - ~ sb \dotuline{to do} sth
+:END:
 *** begin
 \fillin[begin /bi'gm/]
 - v. （beg\dotuline{a}n /bi'gæn/; beg\dotuline{u}n /br'gan/)  开始；着手
@@ -890,6 +892,244 @@
 *** believe
 \fillin[believe /br'li:v/]
 - v. =think 相信；认为
+:EXAMPLE:
+  - I don't ~ you are right.  我觉得你不对。
+  - +I believe you are not right.+
+:END:
+*** bell
+\fillin[bell /bel/]
+- n..[pl.-s]  钟；（门）铃
+:EXAMPLE:
+  - ring the(door) ~   摁门铃
+:END:
+*** belong
+\fillin[belong /br'lpg/]
+- v.  属于···;归···所有
+:EXAMPLE:
+  - The new car ~s to me.(be belonged to-)
+:END:
+*** below
+\fillin[below /br'ləu/]
+- prep.  低于···;在···下方
+:EXAMPLE:
+  - The temperature is ~ zero.  ···零度以下。
+  - He went ~ the surface of the water.  他潜入水中。
+:END:
+*** belt
+\fillin[belt /belt/]
+- n. [pl.-s]  带子；裤带；安全带
+:EXAMPLE:
+  - wear a sa fety ~  系安全带
+  - One Belt, One Road  一带一路
+:END:
+*** beside
+\fillin[beside /br'said/]
+- prep.  =next to/close to  在···旁边；临近；紧挨着
+*** besides
+\fillin[besides /bi'saidz/]
+- prep. 除了···外（还有）
+:EXAMPLE:
+  - (opp.except)
+:END:
+- adv. 此外；而且
+*** best
+\fillin[best /best/]
+- adj.  （≥3)最好的；优秀的
+- adv. 最
+- n. 最好的（人或物）
+:EXAMPLE:
+  - (the best)
+:END:
+*** better
+\fillin[better /'betə/]
+- adj.  (of 2)较好的；更好的
+- adv.  更好地；更加
+- n.  更好者；较好者
+:EXAMPLE:
+  - (the better)
+:END:
+*** between
+\fillin[between /bi'twi:n/]
+- prep. 在（两者）之间
+:EXAMPLE:
+  - ~ ＋ him and me  （介词＋宾格代词）
+:END:
+*** bicycle
+\fillin[bicycle /'baisikl/]
+- n. [pl.-s] 自行车
+:EXAMPLE:
+  - by ~ / bike
+  - ride a ~ / bike  骑车
+:END:
+*** big
+\fillin[big /big/]
+- adj. 大的；重大的
+:EXAMPLE:
+  - (bigger; biggest)
+:END:
+*** bill
+\fillin[bill /brl/]
+- n. [pl.-s] 账单；钞票；纸币
+:EXAMPLE:
+  - paythe ~  买单；结账；付账
+  - a $100 ~ = note  面值100美元的纸币
+:END:
+*** bin
+\fillin[bin /bin/]
+- n. [pl.-s] 垃圾箱
+:EXAMPLE:
+  - = a rubbish ~
+:END:
+*** bird
+\fillin[bird /b3:d/]
+- n. [pl.-s]  鸟；禽类
+:EXAMPLE:
+  - bird flu  禽流感
+:END:
+*** birthday
+\fillin[birthday /'ba:0del/]
+- n.  生日
+:EXAMPLE:
+  - on his fifteenth ~
+:END:
+*** bit
+\fillin[bit /brt/]
+- n. 一点；一些；少量
+:EXAMPLE:
+  - It's a (little) bit of difficult. 有点难
+  - a bit o f in formation=a little 少量信息
+:END:
+*** bite
+\fillin[bite /bait/]
+- v. 咬；叮
+:EXAMPLE:
+  - (bit, bit /bit/; bit, bitten/'brtn/)
+  - A dog bit the kid. =The kid was bit /bittenby a dog. 一只狗咬了那孩子。
+:END:
+*** black
+\fillin[black /blæk/]
+- n.,adj.  黑色（的）
+:EXAMPLE:
+  - ~ boxes  黑匣子（飞行记录仪）
+  - a ~ horse  黑马；爆冷门
+:END:
+*** blackboard
+\fillin[blackboard /'blaekbo:d/]
+- n. [pl.-s] 黑板
+*** blanket
+\fillin[blanket /'blænktt/]
+- n. [pl.-s] 毯子；毛毯
+:EXAMPLE:
+  - cover the baby with a ~ 给宝宝盖上毛毯
+:END:
+*** blind
+\fillin[blind /blaind/]
+- adj. 瞎的；盲的
+:EXAMPLE:
+  - the ~ + are... 盲人（们）
+:END:
+*** block
+\fillin[block /blpk/]
+- n. [pl.-s]  大块；街区
+:EXAMPLE:
+  - a ~ of wood  一大块木头
+  - The school is 3 blocks away from my home. 学校离我家有3个街区的路程。
+:END:
+- v. =prevent/stop...(from) 堵塞；阻止
+:EXAMPLE:
+  - ~ sb from doing sth  
+:END:
+*** blood
+\fillin[blood /blad/]
+- n. [U] 血液
+:EXAMPLE:
+  - donate/give ~  献血
+:END:
+*** blow
+\fillin[blow /bləu/]
+- v. 吹；刮风；吹气
+:EXAMPLE:
+  - (blew  /blu:/;blown  /bləun/)
+  - The wind blew heavily.  狂风大作。
+:END:
+*** blue
+\fillin[blue/blu:/]
+- n.,adj.  蓝色（的）
+*** board
+\fillin[board /bo:d/]
+- n. [pl.-s] 木板
+- v. 登上／飞机／轮船／火车
+:EXAMPLE:
+  - ~ + a plane / a ship / a train = get on
+:END:
+*** boat
+\fillin[boat /beut/]
+- n. [pl.-s]  小船
+- v. go ~ing  划船（游玩）
+*** body
+\fillin[body /'bpdi/]
+- n. [pl.-dies]  身体；躯体
+:EXAMPLE:
+  - ~ language [U]  身体语言；身势语
+:END:
+*** boil
+\fillin[boil /boil/]
+- v.  煮（饭）；（水）沸腾
+:EXAMPLE:
+  - ~ eggs 水煮鸡蛋
+  - The water is ~ing. 水在沸腾。
+:END:
+*** book
+\fillin[book /buk/]
+- n. [pl.-s]  书；本子
+- v. =order 预订（票、座位、商品）
+:EXAMPLE:
+  - I want to ~ a table for 7 pm tonight. 我想预订一张今晚7点的餐桌。
+:END:
+*** boring
+\fillin[boring /'bo:rin/]
+- adj. =dull 无聊的；乏味的
+:EXAMPLE:
+  - (bore v.) 
+  - The lecture was ~. = It was a ~ lecture.
+:END:
+*** bored
+\fillin[bored /bo:d/]
+- adj. 感到无聊的／乏味的
+:EXAMPLE:
+  - sb + be ~ with + sth = sb + be tired of  对···感到厌烦的
+:END:
+*** born
+\fillin[born  /bon/]
+- adj. 出生
+:EXAMPLE:
+  -  (bear v.)
+  - sb + was / were born
+:END:
+*** borrow
+\fillin[borrow /'bprəu/]
+- v. (opp. lend...to) 借用
+:EXAMPLE:
+  - ~ sth from sb
+  - ~ sth (短暂) → keep sth(延续) → has/ have kept sth + for ... / since ... ago
+:END:
+*** both
+\fillin[both /bəuθ/]
+- pron.  两者（都）；两个（都）
+:EXAMPLE:
+  - Both of them like traveling. → Neither of them likes traveling.
+:END:
+- adj. 两边的；双边的
+:EXAMPLE:
+  - There are green trees on ~ sides(=either side) of the road.  道路两旁绿树成荫。
+:END:
+- adv. 两个／者都
+:EXAMPLE:
+  - My parents are ~ doctors.
+:END:
+*** bottle
+\fillin[bottle /'botl/]
+- n. [pl.-s] 瓶子
 
 #+LATEX: \end{questions}
 ** C

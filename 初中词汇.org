@@ -1159,6 +1159,224 @@
 *** bottle
 \fillin[bottle /'botl/]
 - n. [pl.-s] 瓶子
+*** bottom
+\fillin[bottom  /'bptəm/]
+- n. [pl.-s]  底部；山脚
+:EXAMPLE:
+  - at the ~ of the hill  在山脚下
+:END:
+*** bowl
+\fillin[bowl /bəul/]
+- n. [pl.-s]  碗
+:EXAMPLE:
+  - a ~ of rice/soup/noodles 一碗饭／汤／面
+:END:
+*** box
+\fillin[box /bpks/]
+- n. [pl.-es]  盒子；箱子；方框
+*** boy
+\fillin[boy /bəi/]
+- n. [pl.-s]  男孩
+*** brain
+\fillin[brain /bretn/]
+- n. [pl.-s]  大脑；头脑
+:EXAMPLE:
+  - The accident damaged his ~. 那场事故损伤了他的大脑。
+:END:
+*** brave
+\fillin[brave  /brerv/]
+- adj. 勇敢的
+*** bread
+\fillin[bread /bred/]
+- n. [U] 面包
+:EXAMPLE:
+  - a piece of/some/much ~  一片／一些／很多面包
+:END:
+*** break
+\fillin[break /brerk/]
+- v. 打碎（破、断）
+:EXAMPLE:
+  - (broke /brəuk/; broken /'brəukən/)
+  - ~ the law / rule  违法／违规
+  - ~ out             (a fire/a war)爆发；发生
+:END:
+- n. [C,pl.-s] （课间）休息
+:EXAMPLE:
+  - --- Let's have a~for now, shall we? \\
+    --- No. We just had one(break).  不，我们刚休息过了。
+:END:
+*** breakfast
+\fillin[breakfast /'brekfəst/]
+- n. [U] 早饭
+:EXAMPLE:
+  - --- What do you have for ~? \\
+    --- I have ... for break fast.
+:END:
+*** breath
+\fillin[breath /breθ/]
+- n. [C] 呼吸；气息；一口气
+:EXAMPLE:
+  - (breathe v.)
+  - be out of ~  喘气；上气不接下气
+  - Take a deep ~ if you're neruous.  若紧张，就深呼吸一下。
+:END:
+*** breathe
+\fillin[breathe /bri:ð/]
+- v. 呼吸
+:EXAMPLE:
+  - (breath,n.)
+  - The haze was so heavy that we could hardly ~.  雾霾太重，我们难以呼吸。
+:END:
+*** bridge
+\fillin[bridge /brid3/]
+- n. [pl.-s]  桥梁；桥牌
+:EXAMPLE:
+  - play the bridge  打桥牌
+:END:
+*** bright
+\fillin[bright /brait/]
+- adj. 明亮的；聪明的
+*** bring
+\fillin[bring /brin/]
+- v.  (给···)带来
+:EXAMPLE:
+  - (brought; brought /bro:t/)
+  - ~ sth for sb = ~ sb sth
+  - Bring / +Take+ some food here.  带来
+  - +Bring+ / Take some food there. 拿走
+:END:
+*** Britain
+    :PROPERTIES:
+    :ERROR:    1
+    :END:
+\fillin[Britain /'britn/]
+- n. 不列颠；英国
+*** British
+    :PROPERTIES:
+    :ERROR:    1
+    :END:
+\fillin[British /'britrf/]
+- adj. 英国的；英国人的；英国人（总称）
+:EXAMPLE:
+  - The British + are ... 
+:END:
+*** broadcast
+    :PROPERTIES:
+    :ERROR:    1
+    :END:
+\fillin[broadcast /'bro:dka:st/]
+- n. 广播；播送
+:EXAMPLE:
+  - watch a live ~ of the game  观看比赛的现场直播
+:END:
+*** brother
+\fillin[brother /'braðə/]
+- n. [pl.-s] 兄弟
+:EXAMPLE:
+  -  elder/the eldest ~  哥哥；大哥
+:END:
+*** brown
+\fillin[brown /braun/]
+- n.,adj.  棕色（的）；褐色（的）
+*** brush
+\fillin[brush /braf/]
+- n.[pl.-es]  刷子；毛笔
+- v.  刷洗；擦洗
+*** build
+\fillin[build /bild/]
+- v. 建造；建筑
+:EXAMPLE:
+  - (built; built)
+  - (re-;-ing)
+:END:
+*** building
+\fillin[building /'brldn/]
+- n. [pl.-s] 建筑物；大楼
+*** the Bund
+\fillin[the Bund  /band/]
+- n. 外滩
+*** burn
+\fillin[burn  /ba:n/]
+- v. (-t/-t;-ed/-ed) 燃烧；烧毁；烧死；烧伤；烫伤
+:EXAMPLE:
+  - The house is ~ing.  那房子着火了。
+  - 20 people were -ed/-t in the bus fire.  20人在公交火灾中被烧死。
+:END:
+*** bus
+\fillin[bus /bas/]
+- n. [pl.-es] 公交车
+*** business
+\fillin[business  /'biznas/]
+- n.  生意；商业（公司）
+:EXAMPLE:
+  - on ~  出差
+  - start a ~  创业；创办公司
+:END:
+*** businessman
+    :PROPERTIES:
+    :ERROR:    1
+    :END:
+\fillin[businessman  /'biznəsmæn/]
+- n. [pl.-men]  （男）商人；企业家
+*** busy
+\fillin[busy /'brzi/]
+- adj. 忙的；忙碌的；有事做的
+:EXAMPLE:
+  - be ~ + with / doing sth
+:END:
+*** but
+\fillin[but  /bat; bat/]
+- conj. 但是；可是；不过
+- prep. =except  除了··以外
+:EXAMPLE:
+  - Ever yone went out ~ Tom.  除Tom外，大家都出去了。
+:END:
+*** butter
+\fillin[butter /'batə/]
+- n. [U] 黄油；奶油
+*** butterfly
+\fillin[butterfly  /'batəflai/]
+- n. [pl.-lies] 蝴蝶
+*** button
+\fillin[button /'batn/]
+- n. [pl.-s] 按钮；纽扣
+*** buy
+\fillin[buy /bai/]
+- v. 购买
+:EXAMPLE:
+  - (bought, bought/bo:t/)
+  - ~ sb + sth = ~ sth for sb  给···买
+  - My dad bought the car five years ago. \\
+    → My dad has had/bought the car for 5 years.  这辆车，我爸已经买了5年了。
+:END:
+*** by
+\fillin[by  /ba1/]
+- prep.
+  - a. 靠近；在···旁边
+:EXAMPLE:
+    - She sits ~ the window. 她坐在窗边。
+:END:
+  - b. 不迟于···;到···时为止
+:EXAMPLE:
+    - By the time we got there, the train had left. 在我们到达那儿前，火车早已开走了。
+:END:
+  - c. 用···方法、手段
+:EXAMPLE:
+    - --- Howdo you protect the environment?
+      --- By recycling rubbish.
+:END:
+  - d. 乘坐（交通工具）；用（通讯设备）
+:EXAMPLE:
+    - ~ +the/a+ bus/train/taxi/plane/ship/phone/email
+:END:
+  - e. （被动语态）被···;由···
+:EXAMPLE:
+    - The telephone was invented ~ Bell(him).
+:END:
+*** bye
+\fillin[bye  /bau/]
+- int. 再见
+
 ** C
 *** cabbage
 \fillin[cabbage   /'kaæbrd3/]

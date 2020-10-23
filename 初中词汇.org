@@ -4150,3 +4150,512 @@
 :EXAMPLE:
   - on the one hand... on the other (hand)... 一方面···另一方面
 :END:
+- v. 上交；呈交；递给
+:EXAMPLE:
+  - ~ in one's homework
+:END:
+*** hang
+\fillin[hang /haæn/]
+- v. 悬挂；吊起
+:EXAMPLE:
+  - (hung;hung/han/)
+  - The lights ~ on the Christmas tree. 彩灯悬挂在圣诞树上。
+:END:
+*** hang
+\fillin[hang /haæn/]
+- v. 绞死；吊死；处以绞刑
+:EXAMPLE:
+  - (hanged,hanged)
+  - The robber was ~ed: 劫匪被绞死。
+:END:
+*** happen
+\fillin[happen /'haæpən/]
+- v. （偶然）发生；碰巧
+:EXAMPLE:
+  - (happened,happening)
+:END:
+*** happy
+\fillin[happy /'hæpi/]
+- adj. 幸福的；快乐的；开心的
+:EXAMPLE:
+  - (happier; happiest)
+:END:
+*** happily
+\fillin[happily /'hæpili/]
+- adv. 幸福地；快乐地；开心地
+*** happiness
+\fillin[happiness /'haæpinəs/]
+- n. [U] 幸福；快乐；开心
+*** hard
+\fillin[hard /ha:d/]
+- adj. 困难的；艰难的；坚硬的
+- adv. 努力地；使劲地；（雨、雪、风）猛烈地
+*** hardly
+\fillin[hardly /'ha:dli/]
+- adv.  =rarely/seldom 几乎不；几乎没有
+:EXAMPLE:
+  - Li Jin hardly travels, does he?
+:END:
+*** hardworking
+\fillin[hardworking /ha:d'w3:kn/]
+- adj. 勤奋的
+:EXAMPLE:
+  - a. Tom is ~. (adj.作“表语”）
+  - b. Tom is a ~ boy. (adj.作“定语”）
+  - c. Tom works hard. (v. 短语作“谓语”）
+  - d. Hard work is key to success. (n. 短语作“主语”）
+:END:
+*** harm
+\fillin[harm /ha:m/]
+- n. [U] 危害；伤害；有害
+:EXAMPLE:
+  - do ~ to  对···有害；伤害
+:END:
+*** harmful
+\fillin[harmful /'ha:mfl/]
+- adj. 有害的
+:EXAMPLE:
+  - be ~ to = be bad for
+:END:
+*** hat
+\fillin[hat /haæt/]
+- n. [pl.-s] 帽子
+*** hate
+\fillin[hate /heit/]
+- n.,v. =dislike 憎恨；讨厌
+:EXAMPLE:
+  - ~ ＋ doing / to do sth
+:END:
+*** have
+\fillin[have /həv;haæv/]
+- v. 拥有；吃；喝；进行
+:EXAMPLE:
+  - (had;had/haæd/)
+:END:
+*** head
+\fillin[head /hed/]
+- n. [pl.-s] 头（部）；头脑；首脑
+:EXAMPLE:
+  - President Xi is the ~ of state. 习主席是国家元首。
+:END:
+*** headache
+\fillin[headache /'hederk/]
+- n. [C] 头痛
+:EXAMPLE:
+  - have a ~ 感到头痛
+:END:
+*** headline
+\fillin[headline /'hedlain/]
+- n. [pl.-s] 大字标题；头条／重大新闻
+:EXAMPLE:
+  - ~ netws
+  - (sb/sth) make the ~s 成为重大新闻
+:END:
+*** headmaster
+\fillin[headmaster /'hedma:stə/]
+- n. [pl.-s] 校长
+*** health
+\fillin[health /helθ/]
+- n. [U] 健康
+:EXAMPLE:
+  - ~ food/care/centre 保健品／医疗服务／保健中心
+:END:
+*** healthy
+\fillin[healthy /'hel0i/]
+- adj. （有利）健康的
+:EXAMPLE:
+  - healthier / more ~ than  比···健康的
+:END:
+*** hear
+\fillin[hear /huə/]
+- v. 听见；听说；得知
+:EXAMPLE:
+  - (heard,heard/ha:d/)
+  - ~ sb + doing / do sth  (see / watch / notice + sb + doing / do sth)
+:END:
+*** heart
+\fillin[heart /ha:t/]
+- n. [pl.-s] 心；心脏
+:EXAMPLE:
+  - know / learn ... by ~ 背诵；牢记
+:END:
+*** heat
+\fillin[heat /hi:t/]
+- n. [U]  热量；热能
+:EXAMPLE:
+  - (hot adj.)
+  - The Sun gives off light and ~. 太阳发出光和热。
+:END:
+- v. 加热
+:EXAMPLE:
+  - Cold food must be heated before you eat it. 冷食物需加热一下再吃。
+:END:
+*** heavy
+\fillin[heavy /'hevi/]
+- adj. (opp.light) 沉重的
+:EXAMPLE:
+  - ~ traffic  繁忙的交通
+  - a ~ rain/snow/fog  大大雨／大雪／浓雾
+:END:
+*** heavily
+\fillin[heavily /'hevili/]
+- adv. 沉重地；大量地  （雨、雪下得／风刮得）很大、猛烈地
+:EXAMPLE:
+  - It rained/snowed/blew ~.
+:END:
+*** height
+\fillin[height /hait/]
+- n. 高度
+:EXAMPLE:
+  - (high adj.)
+  - The hill is 300 metres in ~. \\
+    = The ~ of the hill is 300 metres. \\
+    = The hill is 300 metres high.
+:END:
+*** hello
+\fillin[hello /hə'ləu/]
+- int. 喂（电话用语）；你好（问候语）
+*** help
+\fillin[help /help/]
+- v. 帮助；帮忙
+:EXAMPLE:
+  - ~ sb (to) do sth = ~ sb with sth
+  - can't/couldn't help + crying/laguhing  禁不住；情不自禁（哭了、大笑）
+:END:
+- n. [U]  帮助
+:EXAMPLE:
+  - give sb much ~  给···很多帮助
+:END:
+- n. [C,sing.]  有帮助的人／事
+:EXAMPLE:
+  - Your advice is a big ~.  你的建议很有帮助。
+:END:
+*** helpful
+\fillin[helpful /'helpfl/]
+- adj. 有帮助的；有益的
+:EXAMPLE:
+  - It's ~ for sb to do sth.
+  - sth + be ~ to for sb
+:END:
+*** helpless
+\fillin[helpless /'helplas/]
+- adj. 无助的；绝望的
+*** here
+\fillin[here  /hrə/]
+- adv. （在、向、到）这里
+*** hero
+\fillin[hero /ne.lery,/]
+- v. [pl.-es] (also:tomatoes; potatoes) 英雄；勇士；男主角
+*** hesitate
+\fillin[hesitate /'hezitett/]
+- v. 犹豫；踌躇
+:EXAMPLE:
+  - A boss never ~s be fore making a decision. 老板在做决定前不可犹豫不决。
+:END:
+*** hide
+\fillin[hide /haid/]
+- v. 躲藏；隐藏；掩饰；掩盖
+:EXAMPLE:
+  - (hid/hud/,hidden/'hidn/)
+  - ~ one self in a cave  藏身于山洞
+  - ~ one's sadness 掩饰悲伤
+:END:
+*** high
+\fillin[high /hai/]
+- adj. （楼、山）高的
+:EXAMPLE:
+  - (heightn.)
+:END:
+*** hill
+\fillin[hill /hil/]
+- n. [pl.-s]  小山；山丘
+*** history
+\fillin[history /'hstri/]
+- n. [U] 历史（学科）
+:EXAMPLE:
+  - in the history 在历史上
+  - in the history of  在···的历史上
+:END:
+*** historical
+\fillin[historical /hr'stprikl/]
+- adj. （有关）历史的
+:EXAMPLE:
+  - ~ novels 历史题材小说
+  - ~ background 历史背景
+  - a building of ~ importance 有历史价值的建筑
+:END:
+*** hit
+\fillin[hit /hit/]
+- v. 打击；撞击；（灾害）发生在（某地）
+:EXAMPLE:
+  - (hit,hit)
+  - a. ~ him on the/his head (+hit his head+) (on + the/one's + 硬部位）
+  - b. ~ me in the/my face (+hit my face+) (in + the/one's + 软部位）
+  - c. An earthquake hit Wenchuan. =happened to/in 汶川发生了地震。
+:END:
+*** hobby
+\fillin[hobby /'hpbi/]
+- n. [pl.-bies] 爱好；嗜好
+:EXAMPLE:
+  - When did you take up your ~? 你何时开始有此爱好的？
+:END:
+*** hold
+\fillin[hold /həuld/]
+- v. 举行；举办；握住；容纳
+:EXAMPLE:
+  - (held; held/held/)
+  - We held a meeting yesterday. =A meeting was held (by us) yesterday.
+  - The classroom can ~ 40 students.
+:END:
+*** hole
+\fillin[hole /həul/]
+- n. [pl.-s] 洞；坑；孔
+*** holiday
+\fillin[holiday /'hpləder/]
+- n. [pl.-s] 假日；假期
+:EXAMPLE:
+  - go for a ~  去度假
+:END:
+*** home
+\fillin[home /həum/]
+- n. [pl.-s] 家；房屋
+- adv.  在家；到家；回家
+:EXAMPLE:
+  go +to+ home
+:END:
+*** homeless
+\fillin[homeless /'həumləs/]
+- adj. 无家可归的；失去家园的
+:EXAMPLE:
+  - The flood left the villagers ~.
+  - The ~ + are...
+:END:
+*** hometown
+\fillin[hometown /'həumtaun/]
+- n. 家乡；故乡
+:EXAMPLE:
+  - Shanghai is our ~.
+:END:
+*** homework
+\fillin[homework /!həumw3:k/]
+- n. [U] 家庭作业
+*** honest
+\fillin[honest /'onust/]
+- adj. 诚实的；正直的
+:EXAMPLE:
+  - an / a ~ boy
+:END:
+*** honesty
+\fillin[honesty /'pnasti/]
+- n. [U] 诚实；诚信
+:EXAMPLE:
+  - Honesty Honest matters most. 诚信最重要。
+:END:
+*** honey
+\fillin[honey /'hani/]
+- n. [U] 蜂蜜
+*** hono(u)r
+\fillin[hono(u)r /'bnə/]
+- n. [U] 荣誉；光荣
+- n. [C] 一件光荣的事
+:EXAMPLE:
+  - We sweep tombs in ~ of the dead.  扫墓是为了纪念故人。
+  - It's a great ~ for me to speak here. 能在此发言，我感到很荣幸。
+:END:
+*** hope
+\fillin[hope /həup/]
+- n. [C,pl.-s] 希望
+:EXAMPLE:
+  - My ~ is to enter a key high school.
+:END:
+- v. 
+:EXAMPLE:
+  - (hope vs. wish)
+  - a. I hope / wish to be an artist.
+  - b. My dad hopes / wishes me to be...
+  - c. I hope +wish+ (that) I will be...
+  - d. I +hope+ wish (that) I would be...
+:END:
+*** horrible
+\fillin[horrible /'hprəbl/]
+- adj. =terrible =awful =frightening 可怕的；恐怖的
+*** horse
+\fillin[horse /hos/]
+- n. [pl.-s] 马
+*** hospital
+\fillin[hospital /'hpsprtl/]
+- n. [pl.-s] 医院
+:EXAMPLE:
+  - go to ~ =go to the ~ (AmE.)
+:END:
+*** host
+\fillin[host /həust/]
+- n. [pl.-s]  男主人；（男）主持人
+*** hot
+\fillin[hot /hpt/]
+- adj. 热的
+:EXAMPLE:
+  - (heat n.,o.)
+  - (hotter; hottest)
+:END:
+*** hot-dog
+\fillin[hot-dog /'hptdpg/]
+- n. [pl.-s] 热狗
+*** hotel
+\fillin[hotel /həu'tel/]
+- n. [pl.-s]  旅馆；宾馆
+:EXAMPLE:
+  - stay at a hotel 住宾馆
+:END:
+*** hour
+\fillin[hour /'auə/]
+- n. [pl.-s] 小时
+:EXAMPLE:
+  - an ~ 一小时
+  - half an ~ 半小时
+  - an ~ and a half =one and a half ~s 一个半小时
+:END:
+*** house
+\fillin[house /haus/]
+- n. 房屋；住宅；家
+:EXAMPLE:
+  - [pl.houses/'hauziz/]
+:END:
+*** housework
+\fillin[housework /'hausw3:k/]
+- n. [U] 家务活
+*** how
+\fillin[how /hau/]
+- adv. 怎样；多么···啊！
+:EXAMPLE:
+  - a. （出行、做事、通讯）方式；方法
+    - --- How do you go to school? \\
+      --- By bike.
+  - b. 感叹词：How+adj./adv....!
+    - How bad the weather is!
+    - How quickly the car is traveling!
+:END:
+*** however
+\fillin[however /hau'eva/]
+- adv.,conj. 尽管如此 （转折）然而；但是
+*** huge
+\fillin[huge /hju:d3/]
+- adj. 巨大的；巨量的
+:EXAMPLE:
+  - a ~ amount of + [U] 大量的
+  - a ~ number of + [C,pl.] 许多
+:END:
+*** human
+\fillin[human /'hju:mən/]
+- adj. 人的；人类的
+:EXAMPLE:
+  - protect ~ rights 保护人权
+:END:
+- n. [pl.-s] = ~beings 人们；人类
+*** humo(u)rous
+\fillin[humo(u)rous /'hju:mərəs/]
+- adj. 幽默的；风趣的
+:EXAMPLE:
+  - (humo(u)r n.)
+:END:
+*** hungry
+\fillin[hungry /'hangri/]
+- adj. (hunger n.) 饥饿的
+:EXAMPLE:
+  - go ~  挨饿
+:END:
+*** hunt
+\fillin[hunt /hant/]
+- v. 狩猎；猎杀；寻找
+:EXAMPLE:
+  - ~ wild animals
+  - ~ for/look for/search for a job 找工作
+:END:
+*** hurry
+\fillin[hurry /'hAri/]
+- v.,n.  急忙；匆忙去；赶紧
+:EXAMPLE:
+  - Tom went to school in a ~ this morning. =hurried to school  ··急忙去上学。
+:END:
+*** hurt
+\fillin[hurt /ha:t/]
+- v. 受伤；伤害；疼痛
+:EXAMPLE:
+  - (hurt; hurt)
+  - sb + be badly/seriously hurt 身受重伤
+  - My back ~s. 我的背部疼痛。
+:END:
+*** husband
+\fillin[husband /'hnzbənd/]
+- n. [pl.-s] 丈夫；老公
+** I
+*** ice
+\fillin[ice /ars/]
+- n. [U] 冰
+*** ice-cream
+\fillin[ice-cream  /lais'kri:m/]
+- n. [U,C] 冰淇淋
+*** idea
+\fillin[idea /an'drə/]
+- n. [pl.-s] 主意；想法；意见
+:EXAMPLE:
+  - I've no ~. =I don't know. 我不清楚。
+:END:
+*** if
+\fillin[if /tf/]
+- conj. (opp.unless) 如果；假使
+:EXAMPLE:
+  - 1. (引导条件状语）If it rains tomorrow, I will...  （主将、从现）
+  - 2. (引导宾语从句）Tom asked ~ whether we would...  是否
+:END:
+*** ill
+\fillin[ill /1l/]
+- adj. 有病的；不健康的
+:EXAMPLE:
+  - sb + be /fall + ~ / sick 生病；病倒
+  - a sick boy/an ill boy  一个生病的孩子
+:END:
+*** illness
+\fillin[illness /'ilnas/]
+- n. [C,pl.-es] 病；疾病
+:EXAMPLE:
+  - have an ~ 患病；得病
+:END:
+*** imagine
+\fillin[imagine /1'maæd3n/]
+- v. 想象；设想
+:EXAMPLE:
+  - ~ (him / his) + doing sth
+:END:
+*** immediately
+\fillin[immediately /1'mi:drətli/]
+- adv. 立刻；马上
+:EXAMPLE:
+  - at once/right away(now)
+:END:
+*** importance
+\fillin[importance /m'po:tns/]
+- n. [U] 重要性
+*** important
+\fillin[important /m'po:tnt/]
+- adj. 重要（大）的
+*** impossible
+\fillin[impossible /m'ppsəbl/]
+- adj. 不可能的
+:EXAMPLE:
+  - Impossible is nothing. 一切皆有可能。
+:END:
+*** impression
+\fillin[impression /m'prefn/]
+- n. [C] 印象
+:EXAMPLE:
+  - (impress v.)
+  - My first ~ of Tom was good. 我对Tom的第一印象良好。
+  - Tom left a good ~ on me. Tom给我留下了良好印象。
+:END:
+*** improve
+\fillin[improve /m'pru:v/]
+- v. =become better or make...better 改善；改进；提高
+*** in
+\fillin[in /m/]
+- prep.

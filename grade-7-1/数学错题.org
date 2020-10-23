@@ -21,7 +21,6 @@
 
 * 重要考试
 ** 七年级阶段性诊断1
-#+LATEX: \begin{questions}
 *** 原3
 下列说法中，正确的有\fillin
   
@@ -114,7 +113,6 @@
 #+LATEX: \end{questions}
 
 ** 七年级期中
-#+LATEX: \begin{questions}
 *** 原4
 如果关于 $x$ 的不等式组 $\begin{cases} m-4x>4 \\ x-\frac{11}{2}<3(x+\frac{1}{2}) \end{cases}$ 有且仅有三个奇数解，
 且关于 $x$ 的方程式 $\frac{2-mx}{2-x}-\frac{30}{x-12}=13$ 有非负数解，
@@ -239,10 +237,8 @@ $$
 #+END_EXPORT
 
 #+LATEX: \end{parts}
-#+LATEX: \end{questions}
 
 ** 七年级阶段性诊断2
-#+LATEX: \begin{questions}
 *** [#B] 原6
 计算: $(x+y)(-x-y)$ = \fillin[$-x^2-2xy-y^2$]
 
@@ -344,10 +340,7 @@ $$
 \end{solution}
 #+END_EXPORT
 
-#+LATEX: \end{questions}
-
 ** 数学达人赛
-#+LATEX: \begin{questions}
 *** 原8
 已知 $a^2-4a-1=0$, 则 $a^4+\frac{1}{a^4}=$ \fillin[$322$]
 \vspace*{1in}
@@ -493,11 +486,8 @@ $$
   \end{solution}
 #+END_EXPORT
 
-#+LATEX: \end{questions}
-
 * 周测
 ** 周测一
-#+LATEX: \begin{questions}
 *** 原4
 如果 $a^{n^2}=(a^n)^x$ ( $n$ 为正整数)，那么 $x$ 等于
   
@@ -660,10 +650,7 @@ $(x-2)$ [注：把 $x=a$ 代入多项式，能使多项式的值为0，则多项
 \end{solution}
 #+END_EXPORT
 
-#+LATEX: \end{questions}
-
 ** 周测二
-#+LATEX: \begin{questions}
 *** 原13
 因式分解: $(m^2 + 3m)^2 - 8(m^2 + 3m) - 20=$ \fillin[$(m-2)(m+2)(m-1)(m+5)$]
 
@@ -817,10 +804,7 @@ $$,
     
 #+LATEX: \end{parts}
 
-#+LATEX: \end{questions}
-
 ** 周测三
-#+LATEX: \begin{questions}
 *** 原7
 $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 
@@ -967,10 +951,8 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
   \]
 \end{solution}
 #+END_EXPORT
-#+LATEX: \end{questions}
 
 ** 周测四
-#+LATEX: \begin{questions}
 *** 原3
 分式 $\frac{x + y}{2xy}$ 中的 $x$ 和 $y$ 都扩大3倍，那么分式的值为
 
@@ -1121,10 +1103,8 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
   \]
 \end{solution}
 #+END_EXPORT
-#+LATEX: \end{questions}
 
 ** 周测五
-#+LATEX: \begin{questions}
 *** 原3
 已知 $a=\sqrt{2} - 1$, $b=\sqrt{2} + 1$, 则 $a$ 和 $b$ 的关系是
 
@@ -1212,10 +1192,7 @@ $4x^3 - 8x^2$, $2x^2 - 8$, $4x^2 - 4x - 8$ 中的公因式为 \fillin[$2(x-2)$]
 
 #+LATEX: \end{parts}
 
-#+LATEX: \end{questions}
-
 ** 周测六
-#+LATEX: \begin{questions}
 *** [#B] 原9
 若 $\sqrt{x^3 + 2x^2} = -x \sqrt{x + 2}$, 则 $x$ 的取值范围是 \fillin[ $-2 \leq x \leq 0$ ].
 
@@ -1370,10 +1347,7 @@ $OP$ \fillin[ $=$ ] $OP_1$ \fillin[ $=$ ] $OP_2$ (填空,不要求写出过程)
 求当 $n=12$, 点 $P_{12}$ 与点 $P$ 第一次重合时, $a$ 的值. (直接写出结果,不要求写出过程)
 #+LATEX: \end{parts}
 
-#+LATEX: \end{questions}
-
 ** 周测七
-#+LATEX: \begin{questions}
 *** 原8
 已知 $\sqrt{1.234} \approx 1.111$, $\sqrt{12.34} \approx 3.513$, $x^2 = 0.1234$ 则 $x$ 的取值范围是 \fillin[ $\pm 0.3513$ ]
 
@@ -1480,10 +1454,8 @@ $OP$ \fillin[ $=$ ] $OP_1$ \fillin[ $=$ ] $OP_2$ (填空,不要求写出过程)
 
 #+LATEX: \end{parts}
 
-#+LATEX: \end{questions}
 * 预习导航
 ** 16.1 二次根式预习导航
-#+LATEX: \begin{questions}
 #+BEGIN_EXPORT latex
 \question
 当$x$\fillin[$ \ge 1$]时，$\frac{\sqrt{x-1}}{\sqrt{x}}$有意义；
@@ -1528,17 +1500,13 @@ $OP$ \fillin[ $=$ ] $OP_1$ \fillin[ $=$ ] $OP_2$ (填空,不要求写出过程)
 \end{solution}  
 
 #+END_EXPORT
-#+LATEX: \end{questions}
 
 ** 16.2(1) 最简二次根式预习导航
-#+LATEX: \begin{questions}
 #+BEGIN_EXPORT latex
 \question 化简 $a\sqrt{\frac{1}{a^2}-\frac{1}{b^2}}$
 #+END_EXPORT
-#+LATEX: \end{questions}
 
 ** 16.2(2) 最简二次根式预习导航
-#+LATEX: \begin{questions}
 #+BEGIN_EXPORT latex
 \question 下面说法正确的是
   \begin{choices}
@@ -1549,10 +1517,8 @@ $OP$ \fillin[ $=$ ] $OP_1$ \fillin[ $=$ ] $OP_2$ (填空,不要求写出过程)
   \end{choices}
 
 #+END_EXPORT
-#+LATEX: \end{questions}
 
 ** 16.3(2) 二次根式的运算预习导航（乘除）
-#+LATEX: \begin{questions}
 #+BEGIN_EXPORT latex
 \question
 计算：$3 \sqrt{5a} \cdot 2 \sqrt{10b}$=\fillin
@@ -1563,10 +1529,8 @@ $OP$ \fillin[ $=$ ] $OP_1$ \fillin[ $=$ ] $OP_2$ (填空,不要求写出过程)
 使等式$\sqrt{(x+1)(x-1)}=\sqrt{x-1} \cdot \sqrt{x+1}$成立的条件是\fillin
 
 #+END_EXPORT
-#+LATEX: \end{questions}
 
 ** 16.3(3) 二次根式的混合运算预习导航
-#+LATEX: \begin{questions}
 #+BEGIN_EXPORT latex
 \question
 已知$x=\frac{\sqrt{3}-\sqrt{2}}{\sqrt{3}+\sqrt{2}},y=\frac{\sqrt{3}+\sqrt{2}}{\sqrt{3}-\sqrt{2}}$,则$x^2+y^2$的值为\underline{\quad\quad}
@@ -1582,11 +1546,9 @@ $OP$ \fillin[ $=$ ] $OP_1$ \fillin[ $=$ ] $OP_2$ (填空,不要求写出过程)
 解答$[\frac{4}{(\sqrt{a}+\sqrt{b})(\sqrt{a}-\sqrt{b})} + \frac{\sqrt{a}+\sqrt{b}}{\sqrt{ab}(\sqrt{b}-\sqrt{a})}] \div \frac{\sqrt{a}-\sqrt{b}}{\sqrt{ab}}$，其中$a=4,b=4$
 
 #+END_EXPORT
-#+LATEX: \end{questions}
 
 * 新竹
 ** 16.1(1) 二次根式
-#+LATEX: \begin{questions}
 #+BEGIN_EXPORT latex
 \question 如果$\sqrt{1-2a}$有意义，那么a的取值范围是\underline{\quad\quad}
 
@@ -1595,10 +1557,8 @@ $OP$ \fillin[ $=$ ] $OP_1$ \fillin[ $=$ ] $OP_2$ (填空,不要求写出过程)
 \question 化简: $\sqrt{x^2-6x+9} + \left| 1-x \right| (1<x<3)$
 
 #+END_EXPORT
-#+LATEX: \end{questions}
 
 ** 16.1(2) 二次根式
-#+LATEX: \begin{questions}
 #+BEGIN_EXPORT latex
 \question
 写出使下列等式成立的$x$的取值范围: $\sqrt{x^2(3-x)}=x \sqrt{3-x}$
@@ -1619,11 +1579,9 @@ $\sqrt{\frac{3-y}{3+y}}=\frac{\sqrt{3-y}}{\sqrt{3+y}}$成立的条件是\underli
 #+BEGIN_EXPORT latex
 \question 已知实数满足$|1-x|=1+|x|$，化简$\sqrt{x^2(x-1)^2}$.
 #+END_EXPORT
-#+LATEX: \end{questions}
 
 * 十每
 ** 12月17
-#+LATEX: \begin{questions}
 #+BEGIN_EXPORT latex
 \question
   $\frac{1}{3}\sqrt{75a} - 10 \sqrt{ab^4} - \frac{2}{a}\sqrt{3a^3} + ab^2 \sqrt{\frac{121}{a}} $
@@ -1715,10 +1673,8 @@ $\sqrt{\frac{3-y}{3+y}}=\frac{\sqrt{3-y}}{\sqrt{3+y}}$成立的条件是\underli
   
 \end{parts}
 #+END_EXPORT
-#+LATEX: \end{questions}
 
 ** 12月18
-#+LATEX: \begin{questions}
 #+BEGIN_EXPORT latex
 \question
   如图，已知$\triangle ABC$，将$\triangle ABC$沿直线$BC$平移得到
@@ -1774,10 +1730,8 @@ $\sqrt{\frac{3-y}{3+y}}=\frac{\sqrt{3-y}}{\sqrt{3+y}}$成立的条件是\underli
   \end{solution}
 #+END_EXPORT
 
-#+LATEX: \end{questions}
 
 ** 12月19
-#+LATEX: \begin{questions}
 *** 原4
 小明家到公园的路程为 $38$ 千米，一天小明8点10分从家出发到公园游玩,
 他先步行了 $1.5$ 千米然后换乘坐公交车,下车后又步行了 $0.5$ 千米, 9点40分到达公园.
@@ -1852,10 +1806,8 @@ $\sqrt{\frac{3-y}{3+y}}=\frac{\sqrt{3-y}}{\sqrt{3+y}}$成立的条件是\underli
 \end{solution}
 
 #+END_EXPORT
-#+LATEX: \end{questions}
 
 ** 21月20
-#+LATEX: \begin{questions}
 *** 原5
 化简 $\frac{x \sqrt{y} - y \sqrt{x}}{x \sqrt{y} + y \sqrt{x}} - \frac{y \sqrt{x} + x \sqrt{y}}{y \sqrt{x} - x \sqrt{y}}$
 \vspace*{1in}
@@ -1921,16 +1873,12 @@ $\sqrt{\frac{3-y}{3+y}}=\frac{\sqrt{3-y}}{\sqrt{3+y}}$成立的条件是\underli
 \end{solution}
 
 #+END_EXPORT
-#+LATEX: \end{questions}
 
 * 期末复习
 ** 图形运动
-#+LATEX: \begin{questions}
 *** a
-#+LATEX: \end{questions}
 
 ** 整式
-#+LATEX: \begin{questions}
 *** 原8
 已知 $1 + x + x^2 + \cdots + x^{2004} + x^{2005} + x^{2006} = 0$, 则 $x^{2007}$ = \fillin[ $1$ ].
 
@@ -1962,10 +1910,8 @@ $\sqrt{\frac{3-y}{3+y}}=\frac{\sqrt{3-y}}{\sqrt{3+y}}$成立的条件是\underli
 *** 原15
 已知二次三项式 $x^2 - px - 16$ 能在有理数范围内分解因式, 求整数 $p$ 的所有可能值 \fillin[ $15$, $-15$, $6$, $-6$ ].
 
-#+LATEX: \end{questions}
 
 ** 分式
-#+LATEX: \begin{questions}
 *** 原9
 $\frac{1}{(x+1)(x-2)} + \frac{1}{(x - 2)(x - 5)} + \frac{1}{(x - 5)(x - 8)}$
 \vspace*{1in}
@@ -1984,10 +1930,8 @@ $\frac{1}{(x+1)(x-2)} + \frac{1}{(x - 2)(x - 5)} + \frac{1}{(x - 5)(x - 8)}$
   \]
 \end{solution}
 #+END_EXPORT
-#+LATEX: \end{questions}
 
 ** 实数和二次根式
-#+LATEX: \begin{questions}
 
 *** 原 一.2
 如果 $x^{2}=81$, 那么 $x$ 的立方根为 \fillin
@@ -2136,10 +2080,7 @@ $\frac{2}{b} \sqrt{ab^5} \times (- \frac{3}{2} \sqrt{a^3b}) \times 3 \sqrt{\frac
 \end{solution}
 #+END_EXPORT
 
-#+LATEX: \end{questions}
-
 ** 周测错题
-#+LATEX: \begin{questions}
 *** 原30
 $x$ 是 $(-\sqrt{27})^2$ 的立方根, $\sqrt{y^2} = 2$, 则 $x+y$ 的平方根为 \fillin[ $\pm \sqrt{5}$ 或 $\pm 1$ ]
 
@@ -2155,10 +2096,7 @@ $x$ 是 $(-\sqrt{27})^2$ 的立方根, $\sqrt{y^2} = 2$, 则 $x+y$ 的平方根�
 \end{solution}
 #+END_EXPORT
 
-#+LATEX: \end{questions}
-
 ** 十美错题
-#+LATEX: \begin{questions}
 *** 原3
 若 $(x^3 - 3 + \frac{1}{x^2})^2 + \sqrt{a - x - \frac{1}{x}} = 0$, 求 $\sqrt{(a - 2)^2}$ 的值 \fillin[ $\sqrt{5} - 2$ 或 $\sqrt{5} + 2$ ]
 
@@ -2248,5 +2186,3 @@ $\frac{m - n}{\sqrt{m} - \sqrt{n}} + \frac{m + 9n - 6 \sqrt{mn}}{\sqrt{m} - 3 \s
   \]
 \end{solution}
 #+END_EXPORT
-
-#+LATEX: \end{questions}

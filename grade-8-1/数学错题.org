@@ -23,7 +23,6 @@
 * 周测
 * 欣竹
 ** 待补充
-#+LATEX: \begin{questions}
 *** 熟练 1.2 
 方程 $5x^{2}-4\sqrt{5}x+4=0$ 的根号判别式的值为 \fillin[0] ，该方程 \fillin[有] 实数跟。
 *** 熟练 1.3
@@ -78,5 +77,3 @@ $k$ 为何值时，方程 $(k-1)x^{2}-(2k+3)x+(k+3)=0$ 有实数根？
 \begin{solution}
 
 \end{solution}
-
-#+LATEX: \end{questions}

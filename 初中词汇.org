@@ -13,7 +13,6 @@
 
 * （一）单词（Vocabulary)
 ** A
-#+LATEX: \begin{questions}
 *** able 
 \fillin[able   /'erbl/]- adj.  能够的；有能力的
 :EXAMPLE:
@@ -68,7 +67,7 @@
 \fillin[across   /ə'kros/]
 - prep. (在平面上）穿过；横过
 :EXAMPLE:
-  - He \dotuline{went} ~ +/ through+ the street. ＝ He +across+ / \dotuline{crossed} the street.
+  - He \dotuline{went} ~ +/ through+ the street. = He +across+ / \dotuline{crossed} the street.
 :END:
 *** act
 \fillin[act   /aækt/]
@@ -77,7 +76,7 @@
 \fillin[active   /'aektiv/]
 - adj. 积极的；活跃的
 :EXAMPLE:
-  - be ~ in sth ＝ take an~part in 积极参与
+  - be ~ in sth = take an~part in 积极参与
   - an ~ child  活泼好动的孩子
 :END:
 *** activity
@@ -91,7 +90,7 @@
 - n.[pl.-es] 女演员
 *** actually
 \fillin[actually   /'æktfuəli/]
-- adv. （actual,adj.) ＝in fact 实际上；事实上（纠正说法、强调事实）
+- adv. （actual,adj.) =in fact 实际上；事实上（纠正说法、强调事实）
 :EXAMPLE:
   - I'm not Japanese, ~ . I'm Chinese.  我其实不是日本人。我是中国人。
   - Actually, I didn't tell you the truth.  实际上，我并没有对你说实话。
@@ -101,7 +100,7 @@
 - v. 加上；增加；添加
 :EXAMPLE:
   - Add one to five.You get six. 1+5=6
-  - The new words ~ to the difficulty.  ＝ increase 生词加大了难度。
+  - The new words ~ to the difficulty.  = increase 生词加大了难度。
 :END:
 - v. 补充说；继续说；接着说
 :EXAMPLE:
@@ -137,7 +136,7 @@
 :END:
 *** advertisement
 \fillin[advertisement   /əd'vэ:tismənt/]
-- n. [pl.-s] ＝ ad. /aed/ 广告
+- n. [pl.-s] = ad. /aed/ 广告
 *** advice
 \fillin[advice   /ad'vais/]
 - n. [U] 劝告；忠告；建议
@@ -209,10 +208,13 @@
 \fillin[aged   /eid3d/]
 - adj. 有···岁数的
 :EXAMPLE:
-  - aboy ~ \dotuline{ten} ＝a boy of ten=a ten-year-old boy \dotuline{10岁的}男孩 
+  - aboy ~ \dotuline{ten} =a boy of ten=a ten-year-old boy \dotuline{10岁的}男孩 
   - the aged/'etd3id/ + are...  年迈者；老人
 :END:
 *** ...ago
+    :PROPERTIES:
+    :ERROR:    1
+    :END:
 \fillin[...ago   /ə'gəu/]
 - adv. ···以前；···之前 （从“\dotuline{说话时}”往前推算）
 *** agree
@@ -329,8 +331,8 @@
 - adv. 此外；还有；也 
 :EXAMPLE:
   - 注意also在句中的位置：
-    - 1.在句首＝besides
-    - 2.在句中＝too/as well
+    - 1.在句首=besides
+    - 2.在句中=too/as well
       - a. 置于行为动词之前：Amy likes music and I ~ like music.
       - b. 置于 be动词 之后：Li Hui is from China and I am ~ from China.
       - c. 置于 can/must/will 等情态、助动词后：Ican sing and I can ~ playmusic.
@@ -338,14 +340,14 @@
 :END:
 *** although
 \fillin[although /ə:l'ðəu/]
-- conj.  ＝ though /ǒau/  虽然；尽管
+- conj.  = though /ǒau/  虽然；尽管
 :EXAMPLE:
   - ~ ... +but+ /, + (and) yet...
 :END:
 *** altogether
 \fillin[altogether /o:1'təgeða/]
-- adv. ＝ in all  总共；合计
-- adv. ＝ completely 全部地；完全地
+- adv. = in all  总共；合计
+- adv. = completely 全部地；完全地
 :EXAMPLE:
   - The strong building \dotuline{wasn't} ~ \dotuline{destroyed}. 那楼很坚固，\dotuline{没有被完全}毁坏。
 :END:
@@ -353,10 +355,13 @@
 \fillin[always /'ə:lweiz/]
 - adv. 总是；一直；永远
 *** A.M.(a.m.)
-\fillin[A.M.(a.m.)]
+    :PROPERTIES:
+    :ERROR:    1
+    :END:
+\fillin[A.M.(a.m.)] = in the morning 上午
 *** amazing
 \fillin[amazing /ə'merzin/]
-- adj. (amaze v.)  ＝ wonderful 极美的；极好的；精彩的；令人惊叹的
+- adj. (amaze v.)  = wonderful 极美的；极好的；精彩的；令人惊叹的
 *** ambition
 \fillin[ambition /aæm'bifn/]
 - n. [U,C] 志向；雄心
@@ -364,6 +369,9 @@
   - My ~ is \dotuline{to be} a spaceman in the future.  我的\dotuline{志向}是将来当一名宇航员。
 :END:
 *** America
+    :PROPERTIES:
+    :ERROR:    1
+    :END:
 \fillin[America /ə'merikə/]
 - n.  美国；美洲
 *** American
@@ -378,11 +386,11 @@
 :END:
 *** among
 \fillin[among /a'man/]
-- prep.  在（≥3)之中； ＝one of...   ···中之一
+- prep.  在（≥3)之中； =one of...   ···中之一
 :EXAMPLE:
   - a. Helen is sitting ~ the kids.
   - b. Shanghai is ~ the biggest cities.
-  - c. Jay Chou \dotuline{is popular} ~ teenagers. ＝ be popular with
+  - c. Jay Chou \dotuline{is popular} ~ teenagers. = be popular with
 :END:
 *** amount
 \fillin[amount /a'maunt/]
@@ -394,8 +402,11 @@
 :END:
 *** amusing
 \fillin[amusing /ə'mju:zin/]
-- adj.(amuse v.) ＝funny 逗人笑的；好笑的
+- adj.(amuse v.) =funny 逗人笑的；好笑的
 *** amusement
+    :PROPERTIES:
+    :ERROR:    1
+    :END:
 \fillin[amusement  /ə'mju:zmənt/]
 - n. 好笑；愉悦 娱乐（活动）
 :EXAMPLE:
@@ -405,6 +416,9 @@
   - Reading classics brings us~.  阅读名著给人以愉悦。
 :END:
 *** ancient
+    :PROPERTIES:
+    :ERROR:    1
+    :END:
 \fillin[an\dotuline{cie}nt /'enfant/]
 - adj. 古代的；远古的
 :EXAMPLE:
@@ -465,7 +479,7 @@
 :END:
 *** anybody
 \fillin[anybody /'enubodi/]
-- pron.  ＝anyone /'eniwAn/ 任何人
+- pron.  =anyone /'eniwAn/ 任何人
 *** anything
 \fillin[anything /'enrθtn/]
 - pron. 任何事（物）
@@ -508,7 +522,7 @@
 - v. (argument n.) 争吵；争辩
 :EXAMPLE:
   - Mum often ~s \dotuline{with Dad about money}, （表示“\dotuline{不同的观点}”时）则认为；辩称
-  - David ~s that English is important. ＝thinks   David\dotuline{则认为}
+  - David ~s that English is important. =thinks   David\dotuline{则认为}
 :END:
 *** arm
 \fillin[arm /a:m/]
@@ -537,9 +551,12 @@
 :EXAMPLE:
   - ~ +in+ / \dotuline{at} + the village / town(小地方）
   - ~ \dotuline{in} / +at+ + Shanghai / China(大地方）
-  - ＝ get \dotuline{to} / reach + sth
+  - = get \dotuline{to} / reach + sth
 :END:
 *** art
+    :PROPERTIES:
+    :ERROR:    1
+    :END:
 \fillin[art /a:t/]
 - n. [U] 美术；艺术（影视、文学）
 *** artist
@@ -569,7 +586,7 @@
 - prep.
   - （“时间”）当···时
 :EXAMPLE:
-    - \dotuline{As a child}, Edison wasn't clever enough. ＝ When he was young... 小时候···
+    - \dotuline{As a child}, Edison wasn't clever enough. = When he was young... 小时候···
 :END:
   - （“身份、职业”）身为；作为
 :EXAMPLE:
@@ -662,15 +679,24 @@
   - an ~ door / washing machine
 :END:
 *** autumn
+    :PROPERTIES:
+    :ERROR:    1
+    :END:
 \fillin[autumn /'ə:təm/]
-- n. ＝fall (AmE.) 秋天；秋季
+- n. =fall (AmE.) 秋天；秋季
 :EXAMPLE:
   - in (the) ~ / winter / spring / summer
 :END:
 *** available
+    :PROPERTIES:
+    :ERROR:    1
+    :END:
 \fillin[available /ə velləbl/]
 - adj. （avail o.)  可获取的；可买到的；可查到的
 *** average
+    :PROPERTIES:
+    :ERROR:    1
+    :END:
 \fillin[average /'ævərid3/]
 - n. 平均（数）
 :EXAMPLE:
@@ -707,10 +733,7 @@
   - ~ wars  令人恐怖的战争
   - What ~ weather it is! =terrible 鬼天气！
 :END:
-#+LATEX: \end{questions}
-
 ** B
-#+LATEX: \begin{questions}
 *** baby
 \fillin[baby /'betbi/]
 - n.[pl.-bies]  婴儿；小宝宝
@@ -723,6 +746,9 @@
   - sit \dotuline{at the} ~ \dotuline{of} the bus  坐在车后部。
 :END:
 *** background
+    :PROPERTIES:
+    :ERROR:    1
+    :END:
 \fillin[background /'bækgraund/]
 - n. [pl.-s] 背景
 :EXAMPLE:
@@ -769,7 +795,7 @@
 \fillin[base /beis/]
 - n. [pl.-s] 根据地；基地；基础
 :EXAMPLE:
-  - a. \dotuline{based on} the survey ＝ according to.... 根据调查
+  - a. \dotuline{based on} the survey = according to.... 根据调查
   - b. The film \dotuline{is based on} a real story. 此片是以真实故事\dotuline{为素材的}。
   - c. a \dotuline{Shanghai based} company \dotuline{总部设在上海}的公司
 :END:
@@ -1023,6 +1049,9 @@
   - cover the baby with a ~ 给宝宝盖上毛毯
 :END:
 *** blind
+    :PROPERTIES:
+    :ERROR:    1
+    :END:
 \fillin[blind /blaind/]
 - adj. 瞎的；盲的
 :EXAMPLE:
@@ -1130,10 +1159,7 @@
 *** bottle
 \fillin[bottle /'botl/]
 - n. [pl.-s] 瓶子
-
-#+LATEX: \end{questions}
 ** C
-#+LATEX: \begin{questions}
 *** cabbage
 \fillin[cabbage   /'kaæbrd3/]
 - n. [pl.-s] 卷心菜
@@ -1209,8 +1235,8 @@
 - v. 
 :EXAMPLE:
   - a. ~ \dotuline{about} 关心；关爱；在乎
-  - b. ~ \dotuline{for} sb ＝ take care of = look after  照顾 \\
-       ＝ love / like ... very much   很喜欢
+  - b. ~ \dotuline{for} sb = take care of = look after  照顾 \\
+       = love / like ... very much   很喜欢
   - c. I don't ~.  我不在乎。
 :END:
 *** careful
@@ -1262,7 +1288,7 @@
 :END:
 - v. 促使；导致···发生；引发（问题）
 :EXAMPLE:
-  - a. ~ sb \dotuline{to do} sth ＝ make/let/have + sb + \dotuline{do} sth
+  - a. ~ sb \dotuline{to do} sth = make/let/have + sb + \dotuline{do} sth
   - b. The haze may ~ health problems.
 :END:
 *** cave
@@ -1418,7 +1444,7 @@
 :END:
 *** child
 \fillin[child   /tfarld/]
-- n. [pl.-ren  /'tjildrən/]  ＝kid(AmE.)  孩子；儿童
+- n. [pl.-ren  /'tjildrən/]  =kid(AmE.)  孩子；儿童
 *** childhood
 \fillin[childhood   /'tfarldhud/]
 - n.  童年（时期）
@@ -1740,7 +1766,7 @@
 :EXAMPLE:
   - ~ A + \dotuline{to / with} + B
     - My computer \dotuline{is ~ed to / with} the Internet. \\
-    ＝be \dotuline{linked} to/with... 我的电脑联网了。
+    =be \dotuline{linked} to/with... 我的电脑联网了。
 :END:
 *** consider
 \fillin[consider   /kən'sidə/]
@@ -1951,7 +1977,7 @@
 \fillin[cut   /kat/]
 - v. (cut,cut,cutting)   切；砍；降低；减少
 :EXAMPLE:
-  - ~ prices/pollution ＝reduce  降价／减少污染
+  - ~ prices/pollution =reduce  降价／减少污染
 :END:
 *** cute
 \fillin[cute   /kjut/]
@@ -1962,10 +1988,7 @@
 :EXAMPLE:
   - go cycling
 :END:
-#+LATEX: \end{questions}
-
 ** D
-#+LATEX: \begin{questions}
 *** dad
 \fillin[dad  /daæd/] 
 - n.  爸爸；老爸
@@ -2166,7 +2189,7 @@
 - v. 死亡（短暂）
 :EXAMPLE:
   - (died; dying)
-  - ＝be killed
+  - =be killed
   - Never say die!  永不言弃！
 :END:
 *** diet
@@ -2264,7 +2287,7 @@
 - v. 发现，看出
 :EXAMPLE:
   - (cover v.)
-  - ＝find
+  - =find
 :END:
 *** discuss
 \fillin[discuss  /dr'skns/]
@@ -2292,14 +2315,14 @@
 - v. 不喜欢；厌恶
 :EXAMPLE:
   - (like)  
-  - ＝hate
+  - =hate
 :END:
 *** distance
 \fillin[distance  /'distəns/]
 - n. 距离
 :EXAMPLE:
   - (distant adj.)
-  - a. What's the ~ between A and B? ＝How far is it from...to...? A、B之间距离是多少？
+  - a. What's the ~ between A and B? =How far is it from...to...? A、B之间距离是多少？
   - b. The school is within walking ~.   学校走走就到了。
 :END:
 *** disturb
@@ -2382,7 +2405,7 @@
 - n. [C,sing.]  车程；驾车兜风
 :EXAMPLE:
   - It's a two-hour ~/ride from A to B.
-   ＝ It's two hours'~/ride...
+   = It's two hours'~/ride...
    A到B有2小时的车程。
 :END:
 - v. 驾驶；开车；驱赶
@@ -2439,9 +2462,7 @@
 :EXAMPLE:
   - It's ever yone's ~ to protect the environment. 保护环境，人人有责。
 :END:
-#+LATEX: \end{questions}
 ** E
-#+LATEX: \begin{questions}
 *** each
 \fillin[each /itj/]
 - adj.,pron.  (≥2)每人／个／件
@@ -2693,7 +2714,7 @@
     - fast + ~ (+enough + fast+)  十分快
   - b. The problem is too hard for me to sole.  \\
     = The problem isn't easy ~ for me to solve.  \\
-    这个问题太难（＝不太容易），我无法解答。
+    这个问题太难（=不太容易），我无法解答。
 :END:
 *** enrich
 \fillin[enrich  /m'ritf/]
@@ -2987,9 +3008,7 @@
 :EXAMPLE:
   - see sth with one's own ~s 亲眼所见
 :END:
-#+LATEX: \end{questions}
 ** F
-#+LATEX: \begin{questions}
 *** fable
 \fillin[fable  /'ferbl/]
 - n. [pl.-s] 寓言
@@ -3063,5 +3082,3 @@
   - c. further （修饰“程度或距离”）更远（的）；更进一步地（的）
   - I'm too tired to go any farther / further. 我累得再也走不动了。
 :END:
-
-#+LATEX: \end{questions}

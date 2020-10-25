@@ -220,12 +220,53 @@
 *** 解答题 27
 如图，长方形 $OABC$ 的边长，$BC=4$ ,  $AB=2$
 
+\begin{tikzpicture}
+  \tikzset{
+    dot/.style={
+      circle, fill=black, inner sep=1pt, outer sep=0pt
+    },
+    dot label/.style={
+      circle, inner sep=0pt, outer sep=1pt
+    },
+  }
+
+  \draw[->](-1,0)--(5,0);
+  \draw[->](0,-1)--(0,3);
+
+  \coordinate (A) at (4, 0);
+  \coordinate (C) at (0, 2);
+  \coordinate (B) at (4, 2);
+  \coordinate (D) at (0, 0);
+  \coordinate (P) at ($ (A)!.6!(B) $);
+
+  % \draw[->](0,-1)--(0,3);
+
+  \draw[line width=.5pt] 
+    (C) -- (B)
+    (A) -- (B)
+    ($ (D)!-.2!(P) $) -- ($ (D)!1.2!(P) $)
+    ;
+
+  \foreach \i/\angle in {A/-90, B/90, C/60, D/120, P/0 } {
+    \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+  }
+\end{tikzpicture}
+
 \begin{parts}
 \epart 直线 $y=kx \quad (k \neq 0)$ 交边 $AB$ 于点 $P$ , 求 $k$ 的取值范围；
 \vspace*{1in}
 
+
 \begin{solution}
 \[
+   \begin{aligned}
+   & \mbox{当} x = 4 \mbox{时} \\
+   & y = 4k \\
+   & \because P \mbox{在} BA \mbox{之间} \\
+   & \therefore 0 \leq 4k \leq 2 \\
+   & \because k \neq 0 \\
+   & \therefore 0 < k < \frac{1}{2}
+   \end{aligned}
 \]
 \end{solution}
 
@@ -234,6 +275,25 @@
 
 \begin{solution}
 \[
+   \begin{aligned}
+     & \begin{aligned}
+          S_{\Box}DABC &= ab \\
+                       &= 8
+       \end{aligned} \\
+     & \begin{aligned}
+       1. & P \mbox{在} BC \mbox{上} \\
+          & S_{\triangle} PDA = \frac{16}{5} \mbox{或} \frac{24}{5} \\
+          & x = 4 \\
+          & \therefore y1 = \frac{8}{5} \quad y2 = \frac{12}{5} \\
+          & k1 = \frac{2}{5} \quad k2=\frac{3}{5} \\
+       2. & P \mbox{在} BC \mbox{上} \\
+          & S_{\triangle} PDC = \frac{16}{5} \mbox{或} \frac{24}{5} \\
+          & y = 0 \\
+          & \therefore X_{1} = \frac{15}{5} \quad x_{2} = frac{24}{5} \\
+          & k4 = \frac{5}{8}
+       \end{aligned} \\
+     & \mbox{综上所述} \mbox{当} k = \frac{5}{8} \mbox{或} \frac{2}{5} \mbox{或} \frac{3}{5} \mbox{时，可以}
+   \end{aligned}
 \]
 \end{solution}
 

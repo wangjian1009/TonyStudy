@@ -17,10 +17,93 @@
 #+LATEX_HEADER: \newcommand\degree{^\circ}
 #+LATEX_HEADER: \renewcommand{\solutiontitle}{\noindent\textbf{解：}\par\noindent}
 #+LATEX_HEADER: \everymath{\displaystyle}
-#+LATEX_CLASS_OPTIONS: [answers]
+#+LATEX_CLASS_OPTIONS: [answer]
 :END:
 
 * 重要考试
+** 小达人
+*** 填空 12                                                       :no_answer:
+在实数范围内分解因式: $(x^{2} + x)^{2} - 2x(x^{2} + x) - 2 =$ \fillin[]
+*** 填空 15                                                       :no_answer:
+对于方程 $x^{2} - 2 |x| + 2 = m$ , 如果方程实根的个数恰为 $3$ 个，则 $m$ 值等于 \fillin[]
+
+#+begin_src latex
+\begin{solution}
+\[
+   \begin{aligned}
+     & |x|^{2} - |x| = m - 2 \\
+     & (|x| -1)^{2} = m - 1 \\
+     & m - 1 > 0 \\
+     & \begin{cases}
+         x^{2} = |x|^{2} \\
+         |x| - 1 = \sqrt{m - 1}
+       \end{cases} \\
+     & \rightarrow |x| = 1 + \sqrt{m - 1} \\
+     & 
+   \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+*** 解答题 21                                                     :no_answer:
+如果 $2x^{2} + xy - y^{2} + my - 2$ 在实数范围内能分解成两个一次因式之积，求实数 $m$ 的值，并将它分解。
+
+*** 解答题 23                                                     :no_answer:
+某批发商以每件 $50$ 元的价格购进 $800$ 件T恤，第一个月以单价 $80$ 元销售，售出了 $200$ 件；
+第二个月如果单价不变，预计仍可售出 $200$ 件，批发商为增加销售量，决定降价销售，根据市场调查，单价每降低 $1$ 元，可多售出 $10$ 件，
+但最低单价应高于购进的价格，第二个月结束后，批发商将对剩余的T恤一次性清仓销售，清仓时单价为 $40$ 元。设第二个月单价降低 $x$ 元。
+
+#+LATEX: \begin{parts}
+
+\epart 填空（不需化简）：
+
+| 时间         | 第一个月 | 第二个月 | 清仓时 |
+|--------------+----------+----------+--------|
+| 单价（元）   |       80 |          |  40    |
+| 销售量（件） |      200 |          |        |
+
+#+LATEX: \begin{solution}
+| 时间         | 第一个月 | 第二个月    | 清仓时                |
+|--------------+----------+-------------+-----------------------|
+| 单价（元）   |       80 | $80-x$      | 40                    |
+| 销售量（件） |      200 | $200 + 10x$ | $800 - 200 - 200-10x$ |
+#+LATEX: \end{solution}
+
+\epart 如果批发商希望通过销售这批T恤获利9000元，那么第二个月的单价应是多少元？
+\vspace*{1in}
+
+#+begin_src latex
+\begin{solution}
+\[
+  \begin{aligned}
+    (30 - x)(200 + 10x) + 10(400 - 10x) &= 3000 \\
+    600 + 10x - x^{2} &= 200
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+#+LATEX: \end{parts}
+
+*** 计算 25
+已知：如图点 $A(6,8)$ 在正比例函数图像上，点 $B$ 坐标 $(12,0)$ ,联结 $AB$ , $A0=AB=10$ ,
+点 $C$ 是线段 $AB$ 的中点，点 $P$ 在线段 $B0$ 上以每秒2个单位的速度由点 $B$ 向点 $O$ 运动，
+点 $Q$ 在线段 $AO$ 上由点 $A$ 向点 $O$ 运动，$P$ 、$Q$ 两点同时运动，同时停止，运动时间为 $t$ 秒。
+
+#+begin_src latex
+\begin{tikzpicture}
+\end{tikzpicture}
+#+end_src
+
+#+LATEX: \begin{parts}
+\epart 求该正比例函数的解析式；
+\vspace*{1in}
+
+\epart 联结 $CP$ ,在点 $P$ 、$Q$ 运动过程中，$ΔOPQ$ 与 $ΔBPC$ 是否全等？ 如果全等，请求出点 $Q$ 的运动速度；如果不全等，请说明理由。
+\vspace*{1in}
+
+#+LATEX: \end{parts}
+
 ** 阶段1
 *** 填空 8
 当整数 $x$ = \fillin[2] 时，$\sqrt{x^{5 - x^{2}}}$ 是最简二次根式.
@@ -42,7 +125,7 @@
 *** 填空 14
 若正比例函数图像上的点到x轴的距离与到y轴距离的比为2:3,则函数的解析式为 \fillin[ $y = \frac{2}{3}x$ 或 $y=-\frac{2}{3}x$ ]
 
-*** 填空 16
+*** 填空 16                                                       :no_answer:
 如图，点 $A_{1} (2,2)$ 在直线 $y=x$ 上，过点 $A_{1}$ 作 $A_{1}B_{1} \parallel y$ 轴交直线 $y=\frac{1}{2}x$ 于点 $B_{1}$ ，
 以点 $A_{1}$ 为直角顶点， $A_{1}B_{1}$ 为直角边在 $A_{1}B_{1}$ 的右侧作等腰直角 $\triangle A_{1}B_{1}C_{1}$,
 再过点 $C_{1}$ 作 $A_{2}B_{2} \parallel y$ 轴，分别交直线 $y=x$ 和 $y=\frac{1}{2}x$ 于 $A_{2}$，$B_{2}$ 两点，
@@ -63,11 +146,76 @@
   \draw[->](-1,0)--(4.7,0) node at (5,0){$x$};
   \draw[->](0,-1)--(0,2.7) node at (0,3){$y$};
 
-  \draw[domain=-0.5:2.5] plot(\x,\x) node at (2.7,2.7){$y=x$};
-  \draw[domain=-0.5:3.7] plot(\x,0.5*\x) node at (4,2){$y=\frac{1}{2}x$};
+  \draw[domain=-0.5:2.5,name path = Fn1] plot(\x,\x) node at (2.7,2.7){$y=x$};
+  \draw[domain=-0.5:3.7,name path = Fn2] plot(\x,0.5*\x) node at (4,2){$y=\frac{1}{2}x$};
 
+  %三角形2
+  \path[name path=l1] (0.8,0) --+ (0, 2.7);
+  \fill[name intersections={of=l1 and Fn1,by=A1},
+        name intersections={of=l1 and Fn2,by=B1}];
+  \coordinate (C1) at ($ (A1)!1!90:(B1) $);
+  \draw[line width=.5pt]  (A1) -- (B1) -- (C1) -- cycle;
+
+  \foreach \i/\angle in {A1/90,B1/-90,C1/30} {
+    \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+  }
+
+  %三角形2
+  \path[name path=l2] ($(C1) - (0, 3)$) -- ($(C1) + (0, 3)$);
+  \fill[name intersections={of=l2 and Fn1,by=A2},
+        name intersections={of=l2 and Fn2,by=B2}];
+  \coordinate (C2) at ($ (A2)!1!90:(B2) $);
+  \draw[line width=.5pt]  (A2) -- (B2) -- (C2) -- cycle;
+
+  \foreach \i/\angle in {A2/90,B2/-90,C2/30} {
+    \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+  }
+
+  %三角形3
+  \path[name path=l3] ($(C2) - (0, 3)$) -- ($(C2) + (0, 3)$);
+  \fill[name intersections={of=l3 and Fn1,by=A3},
+        name intersections={of=l3 and Fn2,by=B3}];
+  \coordinate (C3) at ($ (A3)!1!90:(B3) $);
+  \draw[line width=.5pt]  (A3) -- (B3) -- (C3) -- cycle;
+
+  \foreach \i/\angle in {A3/90,B3/-90,C3/30} {
+    \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+  }
+
+  \node[draw] at ($(C3) + (0.8,0.8)$) {....};
 \end{tikzpicture}
 #+end_src
+
+#+RESULTS:
+#+begin_export latex
+\begin{tikzpicture}
+  \tikzset{
+    dot/.style={
+      circle, fill=black, inner sep=1pt, outer sep=0pt
+    },
+    dot label/.style={
+      circle, inner sep=0pt, outer sep=1pt
+    },
+  }
+
+  \draw[->](-1,0)--(4.7,0) node at (5,0){$x$};
+  \draw[->](0,-1)--(0,2.7) node at (0,3){$y$};
+
+  \draw[domain=-0.5:2.5,name path = Fn1] plot(\x,\x) node at (2.7,2.7){$y=x$};
+  \draw[domain=-0.5:3.7,name path = Fn2] plot(\x,0.5*\x) node at (4,2){$y=\frac{1}{2}x$};
+
+  \path[draw,name path=l1] (0.5,0) --+ (0, 2.7);
+  \fill[red,name intersections={of=l1 and Fn1,by=A}];
+
+  % \coordinate (A1) at (intersection of Fn1 and l1);
+  % \coordinate (B1) at (intersection of f-2 and l-1);
+
+  % \foreach \i/\angle in {A1/90, B1/180} {
+  %   \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+  % }
+
+\end{tikzpicture}
+#+end_export
 
 *** 计算和简答 17
 \[\frac{2}{b} \sqrt{ab^{5}} \times (-\frac{3}{2}\sqrt{a^{3}b} \times 3\sqrt{\frac{a}{b}} \quad (a<0,b<0)\]

@@ -656,24 +656,6 @@ $y$ 与 $3x$ 成正比例，当 $x=8$ 时，$y=-12$ ,则 $y$ 与 $x$ 的函数�
 求点 $B$ 所在双曲线的函数解析式。
 
 #+begin_src latex
-\begin{tikzpicture}[scale=0.5]
-\draw[->](-1,0)--(9,0) node at (9,-0.25){$x$};
-\draw[->](0,-1)--(0,9) node at (-0.25,9){$y$};
-
-\coordinate (O) at (0, 0);
-\coordinate (A) at (2, 4);
-\coordinate (C) at (4, 2);
-
-\draw[domain=1:8, name path=F1] plot(\x,{8/\x});
-
-\foreach \i/\angle in {O/-145,A/-90,C/-45} {
-  \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
-}
-\end{tikzpicture}
-#+end_src
-
-
-#+begin_src latex
 \begin{tikzpicture}
 \draw[->](-1,0)--(2.5,0) node at (2.5,-0.5){$x$};
 \draw[->](0,-2.5)--(0,0.5) node at (-0.5,0.5){$y$};
@@ -710,6 +692,29 @@ $y$ 与 $3x$ 成正比例，当 $x=8$ 时，$y=-12$ ,则 $y$ 与 $x$ 的函数�
 
 *** 问答题36                                                      :no_answer:
 已知双曲线上两点 $A(2,4)$ , $C(4,2)$ , 且 $AB \perp OB$ , $CD \ perp OD$ ,
+
+#+begin_src latex
+\begin{tikzpicture}[scale=0.5]
+\draw[->](-1,0)--(9,0) node at (9,-0.25){$x$};
+\draw[->](0,-1)--(0,9) node at (-0.25,9){$y$};
+
+\coordinate (O) at (0, 0);
+\coordinate (A) at (2, 4);
+\coordinate (C) at (4, 2);
+\coordinate (B) at ($(O)!(A)!($(O) + (10,0)$)$);
+\coordinate (D) at ($(O)!(C)!($(O) + (10,0)$)$);
+\coordinate (E) at (intersection of A--B and O--C);
+
+\draw[domain=1:8, name path=F1] plot(\x,{8/\x});
+\draw[-]
+  (O) -- (A) -- (B)
+  (O) -- (C) -- (D);
+
+\foreach \i/\angle in {O/-145,A/-90,B/-90,C/-45,D/-90,E/135} {
+  \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+\end{tikzpicture}
+#+end_src
 
 #+LATEX: \begin{parts}
 \part

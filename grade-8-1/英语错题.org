@@ -1,0 +1,12 @@
+#+TITLE: 八年级上英语错题
+:PROPERTIES:
+#+STARTUP: content
+#+STARTUP: noptag
+#+STARTUP: hideblocks
+#+OPTIONS: author:nil date:nil
+#+TAGS: no_answer(a) \n no_pic(p)
+#+LATEX_CLASS: exam
+#+LATEX_HEADER: \usepackage{xeCJK}
+#+LATEX_HEADER: \newcommand\epart{\part}
+#+LATEX_CLASS_OPTIONS: [answers]
+:END:

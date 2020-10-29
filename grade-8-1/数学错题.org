@@ -4,7 +4,7 @@
 #+STARTUP: noptag
 #+STARTUP: hideblocks
 #+OPTIONS: author:nil date:nil
-#+TAGS: no_answer(a) \n no_pic(p)
+#+TAGS: no_answer(a) \e error(p)
 #+LATEX_CLASS: exam
 #+LATEX_HEADER: \usepackage{xeCJK}
 #+LATEX_HEADER: \usepackage{amsmath}
@@ -17,7 +17,22 @@
 #+LATEX_HEADER: \newcommand\degree{^\circ}
 #+LATEX_HEADER: \renewcommand{\solutiontitle}{\noindent\textbf{解：}\par\noindent}
 #+LATEX_HEADER: \everymath{\displaystyle}
-#+LATEX_CLASS_OPTIONS: [answer]
+#+LATEX_CLASS_OPTIONS: [answers]
+
+#+begin_src latex
+\tikzset{
+  dot/.style={
+    circle, fill=black, inner sep=1pt, outer sep=0pt
+  },
+  dot label/.style={
+    circle, inner sep=0pt, outer sep=1pt
+  },
+  % style for every pics named "right angle"
+  pics/right angle/.append style={
+    /tikz/draw, /tikz/angle radius=5pt
+  }
+}
+#+end_src
 :END:
 
 * 重要考试
@@ -85,13 +100,41 @@
 
 #+LATEX: \end{parts}
 
-*** 计算 25
+*** 计算 25                                                       :no_answer:
 已知：如图点 $A(6,8)$ 在正比例函数图像上，点 $B$ 坐标 $(12,0)$ ,联结 $AB$ , $A0=AB=10$ ,
 点 $C$ 是线段 $AB$ 的中点，点 $P$ 在线段 $B0$ 上以每秒2个单位的速度由点 $B$ 向点 $O$ 运动，
 点 $Q$ 在线段 $AO$ 上由点 $A$ 向点 $O$ 运动，$P$ 、$Q$ 两点同时运动，同时停止，运动时间为 $t$ 秒。
 
-#+begin_src latex
-\begin{tikzpicture}
+#+begin_src latex :noweb yes
+\begin{tikzpicture}[scale=0.4]
+\draw[->](-2.5,0)--(14.5,0) node at (15,0){$x$};
+\draw[->](0,-2.5)--(0,9.5) node at (0,10){$y$};
+
+\foreach \i in {-2,-1,1,2,3,4,5,6,7,8,9,10,11,12,13,14} {
+    \draw (\i,0) --+ (0,-0.2);
+}
+
+\foreach \i in {-2,-1,1,2,3,4,5,6,7,8,9} {
+    \draw (0,\i) --+ (-0.2,0);
+}
+
+\coordinate (O) at (0,0);
+\coordinate (A) at (6,8);
+\coordinate (B) at (12,0);
+\coordinate (C) at ($ (B)!.5!(A) $);
+
+
+\coordinate (P) at ($ (O)!.6!(B) $);
+\coordinate (Q) at ($ (O)!.7!(A) $);
+
+\foreach \i/\angle in {O/-45,A/120,B/-90,C/45,P/-90,Q/135} {
+    \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+
+\draw[line width=.5pt]
+  (O) -- (A) -- (B)
+  (Q) -- (P) -- (C);
+
 \end{tikzpicture}
 #+end_src
 
@@ -99,8 +142,27 @@
 \epart 求该正比例函数的解析式；
 \vspace*{1in}
 
-\epart 联结 $CP$ ,在点 $P$ 、$Q$ 运动过程中，$ΔOPQ$ 与 $ΔBPC$ 是否全等？ 如果全等，请求出点 $Q$ 的运动速度；如果不全等，请说明理由。
+#+begin_src latex
+\begin{solution}
+\[
+    \begin{aligned}
+      & y = kx (k \neq 0) \\
+      & \mbox{当} y = 8, x = 6 \mbox{时} \\
+      & 8 = k6 \\
+      & k = \frac{4}{3} \\
+      & \mbox{答：该正比例函数的解析式为} y = \frac{4}{3}k
+    \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+\epart 联结 $CP$ ,在点 $P$ 、$Q$ 运动过程中，$\triangle OPQ$ 与 $\triangle BPC$ 是否全等？ 如果全等，请求出点 $Q$ 的运动速度；如果不全等，请说明理由。
 \vspace*{1in}
+
+#+begin_src latex
+\begin{solution}
+\end{solution}
+#+end_src
 
 #+LATEX: \end{parts}
 
@@ -134,22 +196,13 @@
 
 #+begin_src latex
 \begin{tikzpicture}
-  \tikzset{
-    dot/.style={
-      circle, fill=black, inner sep=1pt, outer sep=0pt
-    },
-    dot label/.style={
-      circle, inner sep=0pt, outer sep=1pt
-    },
-  }
-
   \draw[->](-1,0)--(4.7,0) node at (5,0){$x$};
   \draw[->](0,-1)--(0,2.7) node at (0,3){$y$};
 
   \draw[domain=-0.5:2.5,name path = Fn1] plot(\x,\x) node at (2.7,2.7){$y=x$};
   \draw[domain=-0.5:3.7,name path = Fn2] plot(\x,0.5*\x) node at (4,2){$y=\frac{1}{2}x$};
 
-  %三角形2
+  %三角形1
   \path[name path=l1] (0.8,0) --+ (0, 2.7);
   \fill[name intersections={of=l1 and Fn1,by=A1},
         name intersections={of=l1 and Fn2,by=B1}];
@@ -185,37 +238,6 @@
   \node[draw] at ($(C3) + (0.8,0.8)$) {....};
 \end{tikzpicture}
 #+end_src
-
-#+RESULTS:
-#+begin_export latex
-\begin{tikzpicture}
-  \tikzset{
-    dot/.style={
-      circle, fill=black, inner sep=1pt, outer sep=0pt
-    },
-    dot label/.style={
-      circle, inner sep=0pt, outer sep=1pt
-    },
-  }
-
-  \draw[->](-1,0)--(4.7,0) node at (5,0){$x$};
-  \draw[->](0,-1)--(0,2.7) node at (0,3){$y$};
-
-  \draw[domain=-0.5:2.5,name path = Fn1] plot(\x,\x) node at (2.7,2.7){$y=x$};
-  \draw[domain=-0.5:3.7,name path = Fn2] plot(\x,0.5*\x) node at (4,2){$y=\frac{1}{2}x$};
-
-  \path[draw,name path=l1] (0.5,0) --+ (0, 2.7);
-  \fill[red,name intersections={of=l1 and Fn1,by=A}];
-
-  % \coordinate (A1) at (intersection of Fn1 and l1);
-  % \coordinate (B1) at (intersection of f-2 and l-1);
-
-  % \foreach \i/\angle in {A1/90, B1/180} {
-  %   \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
-  % }
-
-\end{tikzpicture}
-#+end_export
 
 *** 计算和简答 17
 \[\frac{2}{b} \sqrt{ab^{5}} \times (-\frac{3}{2}\sqrt{a^{3}b} \times 3\sqrt{\frac{a}{b}} \quad (a<0,b<0)\]
@@ -320,19 +342,6 @@
 #+name: picture
 #+begin_src latex
 \begin{tikzpicture}
-  \tikzset{
-    dot/.style={
-      circle, fill=black, inner sep=1pt, outer sep=0pt
-    },
-    dot label/.style={
-      circle, inner sep=0pt, outer sep=1pt
-    },
-    % style for every pics named "right angle"
-    pics/right angle/.append style={
-      /tikz/draw, /tikz/angle radius=5pt
-    }
-  }
-
   \coordinate (B) at (0, 0);
   \coordinate (A) at (4, 4);
   \coordinate (C) at (4, 0);
@@ -482,6 +491,260 @@
        \end{aligned} \\
      & \mbox{综上所述} \mbox{当} k = \frac{5}{8} \mbox{或} \frac{2}{5} \mbox{或} \frac{3}{5} \mbox{时，可以}
    \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+#+LATEX: \end{parts}
+
+* 专项练习
+** 正比例函数和反比例函数
+*** 填空1
+在问题研究过程中，可以取不同数值的量叫 \fillin[自变量]。
+保持数值不变的量叫做 \fillin[常量]。
+表达两个变量之间依赖关系的数学式子称为 \fillin[函数解析式]。
+
+*** 填空9
+函数有三种表示法，分别为 \fillin[图像法] ， \fillin[列表发] ， \fillin[解析法] 。
+
+*** 填空21
+$y$ 与 $3x$ 成正比例，当 $x=8$ 时，$y=-12$ ,则 $y$ 与 $x$ 的函数解析式为 \fillin[ $y=-\frac{3}{2}x$ ]。
+
+*** 填空25
+下列函数中，$y$ 随 $x$ 的增大而减少的函数是 \fillin[]
+
+#+begin_src latex
+\begin{oneparchoices}
+  \choice $y=2x$
+  \choice $y=\frac{1}{x}$
+  \choice $y=- \frac{1}{x}$
+  \correctchoice $y=\frac{2}{x} (x > 0)$
+\end{oneparchoices}
+#+end_src
+
+*** 填空题26
+甲、乙两地相距 $100$ 千米，某人开车从甲地到乙地，那么它的速度 $v$ (千米／小时）与时间 $t$ (时）之间的函数关系用图象表示大致为 \fillin[D]
+
+#+name: pic.正比例函数和反比例函数.25.base
+#+begin_src latex :noweb yes :exports none
+\draw[->](-1,0)--(1,0) node at (1,-0.2){$t$};
+\draw[->](0,-1)--(0,1) node at (-0.2,1){$v$};
+\draw node at (0.2, -0.2){$O$};
+#+end_src
+
+#+begin_src latex :noweb yes
+\begin{oneparchoices}
+\choice
+\begin{tikzpicture}
+<<pic.正比例函数和反比例函数.25.base>>
+\draw[domain=-0.8:0.8] plot(\x,\x);
+\end{tikzpicture}
+
+\choice
+\begin{tikzpicture}
+<<pic.正比例函数和反比例函数.25.base>>
+\draw[domain=0:0.8] plot(\x,\x);
+\end{tikzpicture}
+
+\choice
+\begin{tikzpicture}
+<<pic.正比例函数和反比例函数.25.base>>
+\draw[domain=-1/0.8:-0.8] plot(\x,{1/\x});
+\end{tikzpicture}
+
+\correctchoice
+\begin{tikzpicture}
+<<pic.正比例函数和反比例函数.25.base>>
+\draw[domain=-1/0.8:-0.8] plot(\x,{1/\x});
+\draw[domain=1/0.8:0.8] plot(\x,{1/\x});
+\end{tikzpicture}
+
+\end{oneparchoices}
+#+end_src
+
+*** 填空题27
+如果点 $A(x1,y1)$ 、$B(x2,y2)$ 在反比例函数 $y=\frac{k}{x} (k<0)$ 的图象上，
+如果 $x_1 > x_2 > 0$ 则 $y_{1}$ 与 $y_{2}$ ,的大小关系是 \fillin[A]
+
+#+begin_src latex
+\begin{oneparchoices}
+\correctchoice $y_{1} > y_{2}$
+\choice $y_{1} < y_{2}$
+\choice $y_{1} = y_{2}$
+\choice 不能确定
+\end{oneparchoices}
+#+end_src
+
+*** 问答题29                                                          :error:
+已知 $y = y_1 + y_2$ , $y_1$ 与 $x^2$ 成正比例， $y_2$ 与 $x-1$ 成反比例，当 $x=-1$ 时，$y=3$ ； 当 $x=2$ 时，$y=-3$ ，
+
+#+LATEX: \begin{parts}
+\part 求 $y$ 与 $x$ 之间的函数关系式；
+\vspace*{1in}
+
+#+begin_src latex
+\begin{solution}
+\[
+  \begin{aligned}
+    & \mbox{设正比例函数解析式为} y_{1}=k_{1}x^{2} \quad (k_{1} \neq 0) \\
+    & \mbox{反比例函数解析式为} y_{2}=\frac{k_{2}}{x - 1} \quad (k_{2} \neq 0) \\
+    & \mbox{当} x = -1 \mbox{时} , y = 3 \\
+    & \Rightarrow 3 = k_{1} - \frac{k_{2}}{2} \\
+    & \mbox{当} x = 2 \mbox{时} , y = -3 \\
+    & \Rightarrow -3 = 4k_{1} + k_{2} \\
+    & \mbox{解得} k_{1} = \frac{1}{2} \quad k_{2} = -5 \\
+    & \therefore y = \frac{x^{2}}{2} - \frac{5}{x - 1}
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+\part 当 $x = \sqrt{2}$ 时，求 $y$ 的值。
+\vspace*{1in}
+
+#+begin_src latex
+\begin{solution}
+\[
+  \begin{aligned}
+    & \mbox{当} x = \sqrt{2} \mbox{时} \\
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+#+LATEX: \end{parts}
+
+*** 问答题31                                                      :no_answer:
+如图，直线 $l$ 交 $x$ 轴、$y$ 轴与点 $A$ 、$B$ ，与反比例函数额图像交于 $C$ 、 $D$ 两点，如果 $A(2,0)$ ，
+点 $C$ 、$D$ 分别在一、三象限，且 $OA = OB = AC = BD$ ， 求反比例函数的解析式。
+
+#+begin_src latex
+\begin{tikzpicture}[scale=0.6]
+\draw[->](-5,0)--(5,0) node at (5,-0.5){$x$};
+\draw[->](0,-5)--(0,5) node at (-0.5,5){$y$};
+
+\draw[domain=1/0.25:0.25, name path=F1] plot(\x,{1/\x});
+\draw[domain=-1/0.25:-0.25, name path=F2] plot(\x,{1/\x});
+
+\coordinate (O) at (0, 0);
+\coordinate (A) at (2, 0);
+\coordinate (B) at (0, -2);
+
+\draw[-,name path=line]($(A)!2!(B)$)--($(B)!2!(A)$) ;
+
+\fill[name intersections={of=F1 and line,by=C},
+      name intersections={of=F2 and line,by=D}];
+
+\foreach \i/\angle in {O/-145,A/-90,B/0,C/90,D/-90} {
+  \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+
+\end{tikzpicture}
+#+end_src
+
+#+begin_src latex
+\begin{solution}
+\[
+  \begin{aligned}
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+*** 问答题33
+如图，在 $\triangle AOB$ 中， $AB=OB$ ,点 $B$ 在双曲线上，点 $A$ 的坐标为 $(2,0)$ , $S_{\triangle ABO}=4$ ,
+求点 $B$ 所在双曲线的函数解析式。
+
+#+begin_src latex
+\begin{tikzpicture}[scale=0.5]
+\draw[->](-1,0)--(9,0) node at (9,-0.25){$x$};
+\draw[->](0,-1)--(0,9) node at (-0.25,9){$y$};
+
+\coordinate (O) at (0, 0);
+\coordinate (A) at (2, 4);
+\coordinate (C) at (4, 2);
+
+\draw[domain=1:8, name path=F1] plot(\x,{8/\x});
+
+\foreach \i/\angle in {O/-145,A/-90,C/-45} {
+  \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+\end{tikzpicture}
+#+end_src
+
+
+#+begin_src latex
+\begin{tikzpicture}
+\draw[->](-1,0)--(2.5,0) node at (2.5,-0.5){$x$};
+\draw[->](0,-2.5)--(0,0.5) node at (-0.5,0.5){$y$};
+
+\coordinate (O) at (0, 0);
+\coordinate (A) at (2, 0);
+
+\draw[domain=1/0.5:0.5, name path=F1] plot(\x,{-1/\x});
+
+\path[name path=line] ($(O)!.5!(A)$) --+ (0,-2.5);
+\fill[name intersections={of=F1 and line,by=B}];
+
+\draw[-] (O) -- (B) -- (A);
+
+\foreach \i/\angle in {O/-145,A/-90,B/-45} {
+  \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+\end{tikzpicture}
+#+end_src
+
+#+begin_src latex
+\begin{solution}
+\[
+  \begin{aligned}
+    & \because AB = OB \\
+    & \therefore OE = OA = 1 \\
+    & S_{\triangle AOB} = \frac{1}{2} \times OA \times BC = 4 \\
+    & \therefore BC = 4 \\
+    & \therefore y = \frac{4}{x}
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+*** 问答题36                                                      :no_answer:
+已知双曲线上两点 $A(2,4)$ , $C(4,2)$ , 且 $AB \perp OB$ , $CD \ perp OD$ ,
+
+#+LATEX: \begin{parts}
+\part
+双曲线的函数解析式；
+\vspace*{1in}
+
+#+begin_src latex
+\begin{solution}
+$$y=\frac{8}{x}$$
+\end{solution}
+#+end_src
+
+\part
+$\triangle OAB$ 的面积；
+\vspace*{1in}
+
+#+begin_src latex
+\begin{solution}
+\[ \S_{\triangle OAB} = \frac{|k|}{2} = \frac{8}{2} = 4 \]
+\end{solution}
+#+end_src
+
+\part
+$\triangle OAC$ 的面积；
+\vspace*{1in}
+
+#+begin_src latex
+\begin{solution}
+\[
+  \begin{aligned}
+    & \because S_{\triangle AOB} = S_{\triangle OCD} \\
+    & \therefore S_{\triangle AOE} = S_{ECDB} \\
+    & \therefore S_{\triangle AOC} = S_{ABDC} \\
+    & S_{ABDC} = S_{\triangle AOB} \frac{(2 + 4)2}{2} = 6
+  \end{aligned}
 \]
 \end{solution}
 #+end_src

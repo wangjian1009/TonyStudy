@@ -10,3 +10,44 @@
 #+LATEX_HEADER: \newcommand\epart{\part}
 #+LATEX_CLASS_OPTIONS: [answers]
 :END:
+
+* 重要考试
+** 小达人
+
+* 平时
+** Good beginning is half done
+*** 选用（success 的相关词）
+选用（success 的相关词）
+My ambition is to become a \fillin[successful] man. 
+Therefore, I try hard to have \fillin[success] in getting the prizes in various contests.
+Now my efforts \fillin[successed]. 
+I'm very proud of it. I can tell everybody I have done it \fillin[sccestully].
+*** Newspaper feedback 1
+v. 提议；打算 \fillin[propose]
+*** Newspaper feedback 5
+v. 延伸 \fillin[extend]
+*** TODO Newspaper feedbactk 18
+他们不习惯寻找户外的娱乐活动，也没有培养创造地娱乐自己的能力。
+\fillin[The don't get ability to looking for outdoor entertainment][2in].
+*** Choose the best answer 7
+Today newly-produced mobile phones which can take photos \fillin a camera is famous \fillin its powerful function.
+
+#+begin_src latex
+\begin{oneparchoices}
+\choice as, for
+\choice as, as
+\correctchoice like for
+\choice like, as
+\end{oneparchoices}
+#+end_src
+
+*** Choose the best answer 10
+Daisy is a student who is always strict \fillin her study.
+#+begin_src latex
+\begin{oneparchoices}
+\choice with
+\choice to
+\choice for
+\correctchoice in
+\end{oneparchoices}
+#+end_src

@@ -756,6 +756,87 @@ $\triangle OAC$ 的面积；
 
 #+LATEX: \end{parts}
 
+** 一元二次方程根与系数的关系
+*** 填空1
+若 $2x(x+3)=1$ 的两根分别为 $x_{1}$ , $x_{2}$ 则有 $x_{1} + x_{2} =$ \fillin[-3] , $x_{1}x_{2}=$ \fillin[ $-\frac{1}{2}$ ]
+${x_1}^2 x_2 + x_1 {x_2}^{2}=$ \fillin[ $\frac{3}{2}$ ] , 
+${x_1}^2 + {x_2}^2=$ \fillin[10] , 
+$\frac{4}{x_1} + \frac{4}{x_2}=$ \fillin[ $-\frac{2}{3}$ ]
+
+*** 填空2
+已知：关于 $x$ 的方程 $x^2-(m+1)x+m-2=0$ ,
+1. 若两根的和为 $3$ , 则 $m=$ \fillin[2]
+2. 若两根互为相反数, 则 $m=$ \fillin[-1]
+3. 若两根互为倒数, 则 $m=$ \fillin[3]
+4. 若有一个根为 $0$ , 则 $m=$ \fillin[2]
+
+*** 填空3
+已知实数 $m$ 、$n$ 满足 $m^{2} + m - 4 = 0$ , $\frac{1}{n^{2}} + \frac{1}{n} - 4 = 0$ 且 $m \neq \frac{1}{n}$ , 
+则 $m+\frac{1}{n}=$ \fillin[-1] 。
+
+#+begin_src latex
+\begin{solution}
+\[
+\begin{aligned}
+m , \frac{1}{n} \mbox{为} x^2 + x - 4 \mbox{的解} \\
+m + \frac{1}{n} = - \frac{b}{a} = -1
+\end{aligned}
+\]
+\end{solution}
+#+end_src
+
+*** 解答题 4
+已知 $a$ , $b$ 是方程 $x^2 + x - 2009 = 0$ 的两个实数根，求 $a^2 + 2a + b$ 的值。
+\vspace*{1in}
+
+#+begin_src latex
+\begin{solution}
+\[
+  \begin{aligned}
+  & \begin{aligned}
+      a + b &= -1 \\
+      ab &= - 2009 \\
+      a^2 &= 2009 - a \\
+     \end{aligned} \\
+  & \begin{aligned} 
+       \mbox{原式} &= 2009 + a + b \\
+                  &= 2009 - 1 \\
+                  &= 2008
+    \end{aligned}
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+*** 解答题 5                                                      :no_answer:
+已知 $3m^{2} - 2m - 5 = 0$ , $5n^2 + 2n - 3 = 0$ , 其中 $m \cdot n$ 为实数，求 $|m - \frac{1}{n}|$ 的值。
+\vspace*{1in}
+
+#+begin_src latex
+\begin{solution}
+\[
+  \begin{aligned}
+  & \begin{aligned}
+      5n^2 + 2n - 3 &= 0 \\
+       5 + 2 \frac{1}{n} - 3 \frac{1}{n^2} &= 0 \\
+       3 \frac{1}{n^2} - 2 \frac{1}{n} - 5 &= 0 \\
+       3x^2 - 2x - 5 &= 0
+    \end{aligned} \\
+  & \begin{cases} 
+      \textcircled{1} m \neq \frac{1}{n} \\
+      \begin{aligned}
+      \qquad 
+      \end{aligned} \\
+      \textcircled{2} m = \frac{1}{n} \\
+      \begin{aligned}
+      \qquad |m - \frac{1}{n}| = 0
+      \end{aligned}
+    \end{cases}
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
+
 * 周测
 * 十每
 ** 十每（第二周）
@@ -766,9 +847,142 @@ $\triangle OAC$ 的面积；
 #+LATEX: \begin{parts}
 \part
 当 $a=25$ 时，求矩形仓库的长与宽分别为多少？
+\vspace*{1in}
+
+#+begin_src latex
+\begin{solution}
+\[
+  \begin{aligned}
+  & \mbox{设垂直于墙为} x \\
+  & x(35-2x) = 150 \\
+  & -2x^{2} + 35x - 150 = 0 \\
+  & (x - 10)(-2x + 15) = 0 \\
+  & x_{1} = 10 \quad x_{2} = frac{15}{2} \\
+  & \mbox{当} x_{1} = 10 \mbox{时} 35-2x=15 \\
+  & \mbox{当} x_{2} = \frac{15}{2} \mbox{时} 35-2x=20 \\
+  & \mbox{答： 长为} 10, \mbox{宽为} 15 \quad \mbox{或} \quad \mbox{长为} \frac{15}{2}, \mbox{宽为} 20 \mbox{。}
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
 
 \part
 题中的墙长 $a$ 对矩形仓库的长与宽有怎样的影响？请具体说明。
+\vspace*{1in}
+
+#+begin_src latex
+\begin{solution}
+\[
+  \begin{aligned}
+    & \mbox{当} a \geq 20 \mbox{时} \quad \mbox{两者都行} \\
+    & \mbox{当} 15 \leq a \leq 20 \mbox{时} \quad \mbox{长为} 10 \mbox{宽为} 15 \\
+    & \mbox{当} a \leq 15 \mbox{时} \quad \mbox{不存在}
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+#+LATEX: \end{parts}
+
+*** 问答题 P2-1
+如图，某农场利用夹角为135°的两面墙，再用总长为24米的铁丝网围成一个 为42平方米的直角菜园（图中为ABCD),求AB,BC的长为多少米？
+
+#+begin_src latex
+\begin{tikzpicture}
+\coordinate (D) at (0,0);
+\coordinate (C) at (-2,-2);
+\coordinate (A) at (4,0);
+\coordinate (B) at (4,-2);
+\coordinate (E) at (0,-2);
+
+\draw[-] (A) -- (B) -- (C) -- (D) -- cycle;
+
+\foreach \i/\angle in {A/45,B/-45,C/225,D/135,E/-90} {
+  \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+\end{tikzpicture}
+#+end_src
+
+*** 问答题 P3-情景对话-例10
+春秋旅行社为吸引市民组团去天水湾风景区旅游，推出了如下的对话中收费标准.
+1. 如果人数超过25人，人均旅游费用为1000元，
+2. 如果人数超过25人，每增加1人，人均旅游费用降低20元，但人均旅游费用不得低于700元．
+某单位组织员工去天水湾风景区旅游，共支付给春秋旅行社旅游费用27000元．请问该单位这次共有多少员工去天水湾风景区旅游？
+\vspace*{1in}
+
+#+begin_src latex
+\begin{solution}
+\[
+  \begin{aligned}
+    & \mbox{设有} x \mbox{人参加} \\
+    & \begin{aligned}
+      & \textcircled{1} x \leq 25 \\
+      & \begin{aligned}
+         1000 x &= 27000 \\
+              x &= 27 \\
+        \end{aligned} \\
+      & x=27 \mbox{不符合题意，舍}
+      \end{aligned}
+    \qquad
+    \begin{aligned}
+      & \textcircled{2} x > 25 \\
+      & \begin{aligned}
+          x(1000 - 20(x - 25)) &= 27000 \\
+               x(50 - x + 25) &= 1350 \\
+                 75x - x^{2} &= 1350 \\
+                 x^{2} -75x + 1350 = 0 \\
+        \end{aligned} \\
+       & x_1 = 30 \qquad x_2 = 45 \\
+       & x_2 = 45 \mbox{不符合题意，舍} \\
+       & x_1 = 30 \mbox{符合题意}
+    \end{aligned} \\
+    & \mbox{答：这次共有30人去天水湾风景区旅游}
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+*** 问答题 P4-2                                                   :no_answer:
+某商品进价为每件 $40$ 元，如果售价为每件 $50$ 元，每个月可卖出 $210$ 件，如果售价超过 $50$ 元，但不超过 $80$ 元，
+每件商品的售价每上涨 $1$ 元，每个月少卖 $1$ 件，如果售价超过 $80$ 元后，若再涨价，每件商品的售价每涨 $1$ 元，
+每个月少卖 $3$ 件。设该商品的售价为 $x$ 元。
+
+#+LATEX: \begin{parts}
+\part
+每件商品的利润为 \fillin[ $x-40$ ] 元。
+若超过 $50$ 元，但不超过 $80$ 元，每月售 \fillin[ $260-x$ ] 件。
+若超过80元，每月售 \fillin[ $420 - 3x$ ] 件。（用 $x$ 的式子填空。）
+
+\part
+若超过 $50$ 元但是不超过 $80$ 元，售价为多少时 利润可达到 $7200$ 元
+\vspace*{1in}
+
+#+begin_src latex
+\begin{solution}
+\[
+  \begin{aligned}
+    & \begin{aligned} 
+      (260 - x)(x - 40) &= 7200 \\
+      260x - x^{2} +40x &= 17600 \\
+      x^{2} - 300x + 17600 &= 0
+      \end{aligned} \\
+    & x = 220 \mbox{或} x = 80 \\
+    & x = 220 \mbox{不符合题意，舍} \\
+    & x = 80 \mbox{符合题意} \\
+    & \mbox{答：售价为} 80 \mbox{元，利润可达} 7200 \mbox{元}
+  \end{aligned}
+\]
+\end{solution}
+#+end_src latex
+
+\part
+若超过 $80$ 元，售价为多少时利润为 $7500$ 元。
+\vspace*{1in}
+
+#+begin_src latex
+\begin{solution}
+\end{solution}
+#+end_src latex
 
 #+LATEX: \end{parts}
 

@@ -837,6 +837,113 @@ m + \frac{1}{n} = - \frac{b}{a} = -1
 \end{solution}
 #+end_src
 
+*** 解答题 6
+已知实数 $m$ 、$n$ 满足 $m^{2} - 7m + 2 = 0$ , $n^{2} - 7n + 2 = 0$ , 求 $\frac{n}{m} + \frac{m}{n}$ 的值。
+\vspace*{1in}
+
+#+begin_src latex
+\begin{solution}
+\[
+  \begin{aligned}
+    & x^{2} - 7m + 2 = 0
+      \qquad \Rightarrow \qquad
+      \begin{cases}
+        & mn = 2 \\
+        & m + n = 7
+      \end{cases} \\
+    & \begin{aligned}
+        \mbox{原式} &= \frac{(m + n)^2}{mn} - 2 \\
+                   &= \frac{49}{2} - 2 \\
+                   &= \frac{45}{2}
+      \end{aligned}
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+*** 解答题 7                                                      :no_answer:
+已知实数 $m$ 、$n$ , 满足 $19m^{2} + 99m + 1 = 0$ , $n^{2} + 99n + 19 = 0$ , $mn \neq 1$ 求 $\frac{mn+4m+1}{n}$ 的值。
+
+#+begin_src latex
+\begin{solution}
+\[
+  \begin{aligned}
+  & \begin{aligned}
+      n^{2} + 99n + 19 &= 0 \\
+      19 \frac{1}{n^{2}} + 99 \frac{1}{n} + 1 &= 0 \\
+      \mbox{令：} x = \frac{1}{n} \\
+      19 x^{2} + 99x + 1 &= 0 \\
+    \end{aligned} \\
+   & \begin{aligned}
+       \mbox{原式} &= m + \frac{1}{n} + 4 \frac{m}{n} \\
+                  &= - \frac{99}{19} + \frac{4}{19} \\
+                  &= -5
+     \end{aligned}
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+*** 解答题 8                                                      :no_answer:
+若 $m$ 、$n$ 是方程 $x^{2} + 2x - 7 = 0$ 的两个实数根，求：$m^{3} - 5n^{2} + n + 76$ 的值。
+
+#+begin_src latex
+\begin{solution}
+\[
+  \begin{aligned}
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+*** 解答题 11                                                     :no_answer:
+
+已知关于 $x$ 的方程 $x^{2} - (k+1)x + \frac{1}{4}k^{2} + 1 = 0$ .
+
+#+LATEX: \begin{parts}
+\part
+$k$ 取何值时，方程存在两个正实数根？
+
+\part
+若方程的两根是一个矩形相邻两边的长，当矩形的对角线长是 $\sqrt{5}$ 时，求 $K$ 的值。
+
+#+LATEX: \end{parts}
+
+*** 解答题 10(2)
+已知关于 $x$ 的方程 $(k-1)x^{2} + (2k-3)x + k + 1 = 0$ 有两个不相等的实数根 $x_{1}$ , $x_{2}$ ·
+
+#+LATEX: \begin{parts}
+\part 求k的取值范围；
+\vspace*{1in}
+
+#+begin_src latex
+\begin{solution}
+\[
+  \begin{aligned}
+  & \begin{cases}
+      k \neq 1 \\
+      \Delta > 0
+    \end{cases} \\
+  & \begin{aligned}
+    \Delta &= (2k - 3)^{2} - 4(k^{2} - 1) \\
+           &= 4k^{2} + 9 - 12k - 4k^{2} + 4 \\
+           &= 13 - 12k
+    \end{aligned} \\
+  & \therefore
+    \begin{aligned}
+      & 13 - 12k > 0
+      & k < \frac{13}{12}
+    \end{aligned} \\
+  & \mbox{答：} k < \frac{13}{12} \quad \mbox{且} \quad k \neq 1
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+\part 是否存在实数 $k$ ,使方程的两实根互为相反数？如果存在，求出 $k$ 的值；如果不存在，请你说明理由。
+
+#+LATEX: \end{parts}
+
 * 周测
 * 十每
 ** 十每（第二周）

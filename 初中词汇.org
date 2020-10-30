@@ -4659,3 +4659,335 @@
 *** in
 \fillin[in /m/]
 - prep.
+  - talk ~ English  用（语言）
+  - the girl ~ red 穿着（···色的衣服）
+- adv. 在家；在办公室
+:EXAMPLE:
+  - Is Tom ~ ? =at home/the office
+:END:
+*** inch
+\fillin[inch /mtf/]
+- n. [pl.-es] 英寸
+:EXAMPLE:
+  - There are 12 ~es in a foot.一英尺等于12英寸。
+:END:
+*** include
+\fillin[include /n'klu:d/]
+- v. 包括；包含···在内
+:EXAMPLE:
+  - Our main subjects ~ Chinese, Math and English. 
+    我们的主科包括···(v.作“谓语”）
+:END:
+*** including
+\fillin[including /m'klu:dug/]
+- prep. 包括；包含在内
+:EXAMPLE:
+  - We have three main subjects, ~ Chinese, Math and English. 
+    我们上3门主科，包括··· （已有v.have,prep.短语作“状语”）
+:END:
+*** income
+\fillin[income /'mkAm/]
+- n. [C,pl.-s] （总）收入
+:EXAMPLE:
+  - increase my family ~s  提高家庭收入
+:END:
+*** increase
+\fillin[increase /in'kri:s/]
+- v. 增加；增长；增进
+:EXAMPLE:
+  - The munber of the students has ~d to 35 from 30. (...has-ed by 5.) 
+    学生人数已从30增加到35.(增加了5位）
+:END:
+- n. [C] 增加；增长
+:EXAMPLE:
+  - There's an ~ in house prices.  房价涨了。
+:END:
+*** independent
+\fillin[independent /iindi'pendənt/]
+- adj. 独立的；有主见的
+:EXAMPLE:
+  - (independence n.)
+  - ~ thinking   独立思考／思维
+:END:
+*** indoor
+\fillin[indoor /'ındə:/]
+- adj. 户内的；室内的
+:EXAMPLE:
+  - (opp.out-)
+  - ~ sports 室内运动
+:END:
+*** industry
+\fillin[industry /'indəstri/]
+- n. 工业；行业；产业  develop ~ 发展工业
+:EXAMPLE:
+  - film/tourist/service ~   电影业／旅游业／服务行业
+:END:
+*** information
+\fillin[information /nfa'mefn/]
+- n. [U] 信息；情报；情况；资料
+*** ink
+\fillin[ink /ηk/]
+- n. [U] 墨水；油墨
+:EXAMPLE:
+  - write in ~ 用墨水书写；用钢笔书写
+:END:
+*** inside
+\fillin[inside /ın'said/]
+- prep.,adv. 在···里面
+:EXAMPLE:
+  - (opp.out-)
+:END:
+*** instead
+\fillin[instead /in'sted/]
+- adv. 而不；反而；代替
+:EXAMPLE:
+  - I didn't go out. Instead,I stayed at home. \\
+    = I didn't go out. I stayed at home~. \\
+    = I stayed at home~of going out. \\
+    我没有外出，而是呆在家里。\\
+:END:
+*** interest
+\fillin[interest /'intrəst/]
+- n. [U,C] 兴趣； 趣味；爱好
+:EXAMPLE:
+  - show (an) ~ insth  对···表现出兴趣
+  - a place of great ~  名胜；著名景点
+:END:
+*** interested
+\fillin[interested /'Intrəstid/]
+- adj. 对···感兴趣的
+:EXAMPLE:
+  - sb + be ~ in
+:END:
+*** interesting
+\fillin[interesting /'mtrəstn/]
+- adj. 有趣的；有意思的
+*** international
+\fillin[international /ıntə'næfnəl/]
+- adj. 国际的
+:EXAMPLE:
+  - an ~ school/meeting 国际学校／国际会议
+:END:
+*** Internet
+\fillin[Internet /'Intənet/]
+- n. 英特网；互联网
+:EXAMPLE:
+  - on the Internet  在网上
+:END:
+*** interview
+\fillin[interview /'ntəvju:/]
+- v.,n.  [pl.-s]  采访；面试
+:EXAMPLE:
+  - ~ sb = have an ~ with sb
+:END:
+*** into
+\fillin[into /'mtə/]
+- prep. (过程）到···内；进入
+:EXAMPLE:
+  - (opp.out of)
+:END:
+*** introduce
+\fillin[introduce /ntra'djuss/]
+- v. 介绍
+:EXAMPLE:
+  - ~ oneself to sb
+:END:
+*** invent
+\fillin[invent /in'vent/]
+- v. =create 发明；创造
+*** invention
+\fillin[invention /m'venfn/]
+- n. [U] 发明；创造
+:EXAMPLE:
+  - the ~ of the telephone 电话的发明
+:END:
+- [C,pl.-s] 发明物
+:EXAMPLE:
+  - make a lot of -s 作出很多发明
+:END:
+*** Vinventor
+\fillin[Vinventor /m'ventə/]
+- n. [pl.-s] 发明者（家）
+*** investigate
+\fillin[investigate /in'vestigert/]
+- v. 调查；侦查
+:EXAMPLE:
+  - ~ the cause of the fire 调查火因
+  - The police are ~ting the robbery. 劫案还在警方侦破之中。
+:END:
+*** invite
+\fillin[invite /m'vait/]
+- v. 邀请
+:EXAMPLE:
+  - ~ sb to (do) sth
+:END:
+*** invitation
+\fillin[invitation /mvi'terfn/]
+- n. [pl.-s] 邀请（函）
+:EXAMPLE:
+  - receive an ~ from sb
+:END:
+*** iron
+\fillin[iron /'arən/]
+- n. [U] 铁
+:EXAMPLE:
+  - Iron is one of metals. 铁是一种金属。
+:END:
+*** island
+\fillin[island /'ailənd/]
+- n. [pl.-s] 岛屿
+:EXAMPLE:
+  - on an ~ 在岛上
+  - the Diaoyu Islands 钓鱼岛
+:END:
+*** it
+\fillin[it /tt/]
+- pron. 它
+:EXAMPLE:
+  - 指代前文提到过的事物、事件
+  - 指代时间、天气、婴儿、性别不详者
+  - 在句首做形式主语，代替“to do sth”：
+    - It +(This/That)+ is hard to learn English well. 学好英语很难。
+  - 在动词后作形式宾语，代替“to do sth":
+    - I think it +(this/that)+ hard to learm English well. \\
+      =I think (that) it is hard to ...  \\
+      我觉得学好英语很难。
+:END:
+*** Italy
+\fillin[Italy /'itəli/]
+- n. 意大利
+*** Italian
+\fillin[Italian /r'tæljən/]
+- n.,adj.  意大利人（的）； 意大利语（的）
+*** item
+\fillin[item /'artəm/]
+- n. [pl.-s] 商品；物品； 节目；项目
+
+** J
+*** jacket
+\fillin[jacket /'d3ækit/]
+- n. [pl.-s] 夹克衫；短上衣
+*** jam
+\fillin[jam /d3æm/]
+- n.[U] 果酱
+- [C,pl.-s] 交通堵塞
+:EXAMPLE:
+  - traffic ~s
+:END:
+*** January
+\fillin[January /'dgænjuəri/]
+- n. 一月
+*** Japan
+\fillin[Japan /d3ə'paæn/]
+- n. 日本
+*** Japanese
+\fillin[Japanese /dgæpə'niz/]
+- adj. 日语的；日本人的
+- n.[U] 日语
+- [C,pl.Japanese] 日本人
+*** jeans
+\fillin[jeans /dgi:nz/]
+- n. [C,always pl.] 牛仔裤
+:EXAMPLE:
+  - a pair of ~  一条牛仔裤
+:END:
+*** job
+\fillin[job /d3ob/]
+- n. [C,pl.-s] 工作；职业
+:EXAMPLE:
+  - look for a ~/work 找工作
+  - be out of job/work 失业
+:END:
+*** join
+\fillin[join /dgoin/]
+- v. 参加；加入；连接
+:EXAMPLE:
+  - a. ~ in the club/singing group/army  加入社团／合唱队／参军
+  - b. Will you ~ +in+ me/us/them?  和···一起（做···),好吗？
+  - c. 短暂 join → 延续 be in
+    - My cousin ~ed the army 2 years ago.
+      = ... has been in ... stnce2 years ago
+  - d. The two cities are -ed by a briade.
+    = connected/linked   桥连通了两城。
+:END:
+*** joke
+\fillin[joke /dsouk/]
+- n. [pl.-s]   玩笑
+:EXAMPLE:
+  - tell a ~
+:END:
+- v. 开玩笑说；讲笑话
+:EXAMPLE:
+  - Mum ~d, "A little bird told me." 妈咪开玩笑说，“就不告诉你我是怎么知道的。”
+:END:
+*** journalist
+\fillin[journalist /'dgsnalist/]
+- n. [pl.-s] =reporter  新闻工作者
+*** journey
+\fillin[journey /'dgani/]
+- n. [pl.-s]. =trip/tour 旅行；旅程
+:EXAMPLE:
+  - go on/for + a ~ to  前往··旅行
+:END:
+*** joy
+\fillin[joy /djor/]
+- n. [U] 开心；高兴；欢乐
+:EXAMPLE:
+  - to one's joy 令人开心的是
+:END:
+*** judge
+\fillin[judge /dsnd3/]
+- n. [pl.-s] 法官；裁判；评委
+- v. 断定；评判；评价
+:EXAMPLE:
+  - A student shouldn't be ~d by their clothes, 不应当根据服装来评价学生（的品行）。
+  - Don't ~ a book by it's cover. 勿以貌取人。
+:END:
+*** juice
+\fillin[juice /dgus/]
+- n. [U] 果汁
+*** July
+\fillin[July /dgu'lai/]
+- n. 七月
+*** jump
+\fillin[jump /d3amp/]
+- n.,v. 跳；跳跃
+:EXAMPLE:
+  - ~ rope 跳绳
+  - ~ to a conclusion 匆忙下结论
+:END:
+*** June
+\fillin[June /dgu:n/]
+- n. 六月
+*** junior
+\fillin[junior /'dgu:nra/]
+- adj. 初级的；年少的
+:EXAMPLE:
+  - (opp, senior adj. 高级的；资历老的）
+  - a ~/senior high school 初中／高中
+:END:
+*** just
+\fillin[just /dgast/]
+- adv.  刚才；刚刚；只有
+:EXAMPLE:
+  - a. have/has ~ done sth 刚才；刚刚
+  - b. =only  仅仅；只有
+    - not ~ ...but also... 不仅··而且··
+  - c. (加强语气） 就是；正是；恰恰是
+    - That's ~ what I want. =exactly
+:END:
+** K
+*** keen
+\fillin[keen /kin/]
+- adj. 热心的；热衷的；痴迷的
+:EXAMPLE:
+  - ~ audience 热心的观众
+  - be ~ on  迷上；特喜欢
+:END:
+*** keep
+\fillin[keep /ki:p/]
+- v.  保持、保留
+:EXAMPLE:
+  - (kept; kept /kept/)
+
+:END:

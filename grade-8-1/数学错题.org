@@ -10,6 +10,7 @@
 #+LATEX_HEADER: \usepackage{amsmath}
 #+LATEX_HEADER: \usepackage{amssymb}
 #+LATEX_HEADER: \usepackage{polynom}
+#+LATEX_HEADER: \usepackage{mathtools}
 #+LATEX_HEADER: \usepackage{ulem}
 #+LATEX_HEADER: \usepackage{tikz}
 #+LATEX_HEADER: \usepackage{tkz-euclide}
@@ -17,7 +18,7 @@
 #+LATEX_HEADER: \newcommand\degree{^\circ}
 #+LATEX_HEADER: \renewcommand{\solutiontitle}{\noindent\textbf{解：}\par\noindent}
 #+LATEX_HEADER: \everymath{\displaystyle}
-#+LATEX_CLASS_OPTIONS: [answers]
+#+LATEX_CLASS_OPTIONS: [answer]
 
 #+begin_src latex
 \tikzset{
@@ -32,6 +33,11 @@
     /tikz/draw, /tikz/angle radius=5pt
   }
 }
+
+%平行
+\newcommand\pxx{%
+\mathrel{\text{\tikz[baseline] \draw (0em,-0.3ex) -- (.4em,1.7ex) (.2em,-0.3ex) -- (.6em,1.7ex);}%
+}}
 #+end_src
 :END:
 
@@ -950,6 +956,168 @@ $k$ 取何值时，方程存在两个正实数根？
 \]
 \end{solution}
 #+end_src
+
+#+LATEX: \end{parts}
+
+* 复习卷
+** 期中复习（几何）
+*** 填空题6
+如图, 在 $\triangle ABC$ 中， $\angle C = 90 \degree$ , $E$ 为 $AB$ 的中点，且 $DE \perp AB$ 于 $F$ , 交 $BC$ 于点 $D$ ,
+如果 $\angle CAD : \angle ADC = 3:2$ , 那么 $\angle BAC=$ \fillin[ $12 \degree$ ]
+
+#+begin_src latex
+\begin{tikzpicture}
+\coordinate (A) at (0,2);
+\coordinate (C) at (0,0);
+\coordinate (B) at (5,0);
+\coordinate (E) at ($(A)!.5!(B)$);
+\coordinate (D) at (intersection of E--$(E)!1!90:(A)$ and B--C);
+
+\draw[-] (A) -- (B) -- (C) -- cycle
+($(E)!1.8!(D)$) -- ($(D)!1.8!(E)$)
+(A) -- (D)
+;
+
+\foreach \i/\angle in {A/135,B/45,C/-135,D/-45,E/45} {
+  \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+\end{tikzpicture}
+#+end_src
+
+*** 填空题7
+如图, $\mbox{等腰} \triangle ABC$ 的周长 $50cm$ , $AB$ 的垂直平分线交另一腰 $AC$ 于 $D$ , 
+$\triangle BCD$ 的周长为 $36cm$ , 则底边 $BC=$ \fillin[ $22cm$ ]
+
+#+begin_src latex
+\begin{tikzpicture}
+\coordinate (A) at (1.5,4);
+\coordinate (B) at (0,0);
+\coordinate (C) at (3,0);
+\coordinate (M) at ($(A)!.5!(B)$);
+\coordinate (D) at (intersection of M--$(M)!1!90:(A)$ and A--C);
+
+\draw[-] (A) -- (B) -- (C) -- cycle
+($(M)!1.8!(D)$) -- ($(D)!1.8!(M)$)
+(B) -- (D)
+;
+
+\foreach \i/\angle in {A/135,B/45,C/-135,D/-45,M/135} {
+  \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+\end{tikzpicture}
+#+end_src
+
+*** 填空题8
+已知如图, 在 $\triangle ABC$ 中， $\angle C = 90 \degree$ , $AC=BC$ , 点 $D$ 在 $BC$ 上, $DE \perp AB$ ,
+点 $E$ 为垂足, 且 $DE=DC$ ， 连接 $AD$ . 则 $\angle ADB=$ \fillin[ $112.5 \degree$ ]
+
+#+begin_src latex
+\begin{tikzpicture}
+\coordinate (A) at (0,0);
+\coordinate (B) at (4,0);
+\coordinate (C) at (2,2);
+\coordinate (D) at ($(C)!.45!(B)$);
+\coordinate (E) at ($(A)!(D)!(B)$);
+
+\draw[-] (A) -- (B) -- (C) -- cycle
+(A) -- (D)
+(D) -- (E)
+;
+
+\foreach \i/\angle in {A/-90,B/-45,C/90,D/45,E/-90} {
+  \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+\end{tikzpicture}
+#+end_src
+
+*** 填空题10
+$Rt \triangle ABC$ 中，$\angle B = 90 \degree$ , $D$ 在 $BC$ 上，$DE \perp AC$ , 垂足为 $E$ , $BD=DE$ ; 
+如 $\angle C=32 \degree$, $\angle ADE=$ \fillin[ $61 \degree$ ]
+
+*** 填空题 11
+一个三角形的两条边长分别为 $5$ 和 $3$ , 第三边的中线长为 $x$ , 则 $x$ 的取值范围是 \fillin[ $2 < 2x < 8 \Rightarrow 1 < x < 4$ ]
+
+*** 选择题 1
+下列四个命题的逆命题是假命题的是 \fillin[ C ]
+
+\begin{choices}
+\choice A. 直角三角形的两个锐角互余
+\choice B. 等腰三角形的两个底角相等
+\correctchoice C. 全等三角形的对应角相等
+\choice D. 相等的两个角是对顶角
+\end{choices}
+
+*** 证明题 1
+在四边形 $ABCD$ 中，$\angle BAD = \angle BCD$ , $\angle ABC$ 的平分线交直线 $AD$ 于点 $P$ ,
+经过点 $A$ 与 $BP$ 垂直的直线交直线 $BC$ 下点 $Q$ . 求证： $PQ \pxx CD$
+
+#+begin_src latex
+\begin{tikzpicture}
+\coordinate (R) at (0,0);
+\coordinate (A) at (0,-2);
+\coordinate (B) at (-3.5,0);
+\coordinate (Q) at (0,2);
+\coordinate (P) at (2.2,0);
+\coordinate (C) at ($(B)!.78!(Q)$);
+\coordinate (D) at ($(A)!.78!(P)$);
+
+\draw[-] (A) -- (B) -- (Q) -- (P) -- cycle
+(B) -- (P)
+(A) -- (Q)
+(C) -- (D)
+;
+
+\foreach \i/\angle in {A/-45,B/-135,C/90,D/-45,R/-135,P/-45,Q/90} {
+  \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+\end{tikzpicture}
+#+end_src
+
+#+begin_src latex
+\[
+  \begin{aligned}
+    & \begin{rcases}
+      AQ \perp BP \\
+      BP \mbox{平分} \angle ABC
+    \end{rcases}  \\
+    \Rightarrow & \angle BAQ = \angle BQA \\
+    \Rightarrow & BA = BQ \\
+    \Rightarrow & PQ = PA \\
+    \Rightarrow & \angle PAQ = \angle PQA \\
+    \Rightarrow & \angle BAD = \angle BQP \\
+    \Rightarrow & CD \pxx PQ
+  \end{aligned}
+\]
+#+end_src
+
+***  证明2
+如图，已知 $\triangle ABC$ 是等腰直角三角, $\angle ACB = 90 \degree$ , $\triangle ADB$ 是等边三角形，
+点 $C$ 在 $\triangle ADB$ 内部, $DE \perp AC$ 交直线 $AC$ 于点 $E$ 。
+
+#+begin_src latex
+\begin{tikzpicture}
+\coordinate (C) at (0,3.5);
+\coordinate (A) at ($(C)!2cm!-135:($(C)+(1,0)$)$);
+\coordinate (B) at ($(C)!2cm!-45:($(C)+(1,0)$)$);
+
+\coordinate (D) at ($(C)+(0,1)$);
+\coordinate (E) at ($(A)!(D)!(C)$);
+
+\draw[-] (A) -- (B) -- (C) -- cycle
+(A) -- (D) -- (B)
+(D) -- (E) -- (C)
+;
+
+\foreach \i/\angle in {A/-45,B/-135,C/90,D/90,E/45} {
+  \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+\end{tikzpicture}
+#+end_src
+
+#+LATEX: \begin{parts}
+\part 求证： $DE=CE$
+
+\part 若 $C$ 在 $\triangle ADB$ 外部， $DE=CE$ 的关系是否成立？如不成立，请说明理由，如成立请证明。
 
 #+LATEX: \end{parts}
 

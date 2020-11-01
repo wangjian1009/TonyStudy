@@ -12,9 +12,267 @@
 :END:
 
 * 重要考试
-** 小达人
+** 阶段一
+
+* 期中复习
+** 期中复习卷一
+*** Choose the best answer 5
+Don’t \fillin[], everyone. Follow me and we’ll get out of from the cave.
+\begin{oneparchoices}
+\choice fright
+\correctchoice panic
+\choice afraid
+\choice worried
+\end{oneparchoices}
+*** Choose the best answer 16
+\fillin[] Li Hong \fillin[] her classmates is going to visit the museum.
+\begin{oneparchoices}
+\correctchoice /;as well as
+\choice Not only; but also
+\choice Both; and
+\choice Neither; nor
+\end{oneparchoices}
+
+*** Choose the best answer 22
+If Mike is \fillin[], he will go to school tomorrow.
+\begin{oneparchoices}
+\choice good enough
+\correctchoice well enough
+\choice enough good
+\choice enough well
+\end{oneparchoices}
+
+*** A.Complete the sentences with the given words in their proper forms 3
+I managed to work for two hours without \fillin[interruption]. (interrupt)
+
+*** A.Complete the sentences with the given words in their proper forms 10
+She was \fillin[hit] by a falling vase from the building. (hit)
+
+*** A.Complete the sentences with the given words in their proper forms 19
+We \fillin[have exchanged] our ideas with each other during the meeting yesterday. (change)
+
+** 期中复习卷二
+*** A. Choose the best answer 16                                  :no_answer:
+There Jack found a map on the wall, \fillin[] ?
+\begin{oneparchoices}
+\choice wasn‘t there
+\choice didn’t there
+\choice didn’t he
+\choice wasn’t he
+\end{oneparchoices}
+
+*** A. Choose the best answer 19                                  :no_answer:
+The student wrote a book report that was \fillin.
+\begin{oneparchoices}
+\choice ten-page-long
+\choice ten pages long
+\choice ten-pages-long
+\choice ten-page long
+\end{oneparchoices}
+
+*** A. Rewrite the following sentences as required 2
+A protractor is used for measuring angles. （就划线部分提问） \\
+What is protractor \fillin[used] \fillin[doing]?  \\
+What is protractor \fillin[used] \fillin[to] \fillin[do]?
+
+*** A. Rewrite the following sentences as required 4
+As I don’t know his address I couldn’t find him easily. (保持原意) \\
+\fillin[Without] \fillin[knowing] has address, I couldn’t find him easily.
+
+*** A. Rewrite the following sentences as required 5
+John runs fastest in his class. (保持原意) \\
+John runs \fillin[faster] than \fillin[the] \fillin[other] students in his class. \\
+\fillin[Nobody] \fillin[else] runs as \fillin[fast] as John in his class.
+
+*** A. Rewrite the following sentences as required 6
+In order to make himself heard, the man at the door shouted as loudly as possible.（保持原意） \\
+In order to make himself heard, the man at the door shouted \fillin[at] the \fillin[top] of his voice.
+
+*** A. Rewrite the following sentences as required 9
+He’s already used to the county life.（改为反义疑问句） \\
+\fillin[He has used to the country life, hasn't he?][10cm]
+
+*** A. Rewrite the following sentences as required 15
+He told me that he would come back soon.（改被动） \\
+\fillin[I was told that he would come back soon.][10cm]
+
+*** A. Rewrite the following sentences as required 16
+You can find a lot of differences between the two languages.（改被动） \\
+\fillin[A lot of differences between the two languages can found by you][10cm].
+
+*** A. Rewrite the following sentences as required 17             :no_answer:
+Do you water your flowers every day?（改被动） \\
+\fillin[Are the flowers watered every day by you?][10cm].
+
+*** A. Rewrite the following sentences as required 20             :no_answer:
+Mother was not mending the trousers.（改被动） \\
+\fillin[The trousers aren't mented by mother.][10cm]
 
 * 平时
+** 8A 语法训练1
+*** A. Choose the best answer 10
+They wanted to know whether they \fillin a rehearsal(排演) before performing on stage.
+\begin{oneparchoices}
+\choice will have
+\choice had
+\correctchoice would have
+\choice have had
+\end{oneparchoices}
+
+*** A. Rewrite the sentence ad required 1
+My husband has never sent flowers to his mother on Mother's Day.（改为一般疑问句）\\
+\fillin[Has your husband ever sent flowers] to his mother on Mother's Day?
+
+*** A. Rewrite the sentence ad required 3
+John denied cheating in the English test.（改为反义疑问句）\\
+John denied cheating in the English test, \fillin[didn't he]?
+
+*** B. Choose the best answer 1
+Which of the following underlined parts is different in pronunciation from the others?
+\begin{oneparchoices}
+\choice small
+\choice talk
+\choice chalk
+\correctchoice salt
+\end{oneparchoices}
+
+*** B. Choose the best answer 3
+The manager is very busy and always calls his client \fillin[] .
+\begin{oneparchoices}
+\choice On his way to home
+\choice his way home
+\choice on her way home
+\correctchoice on the way home
+\end{oneparchoices}
+
+*** B. Choose the best answer 5
+We try our best to make our country \fillin in the world.
+\begin{oneparchoices}
+\choice More beautiful
+\choice more beautifully
+\choice more beauty
+\correctchoice the most beautiful
+\end{oneparchoices}
+
+*** B. Choose the best answer 6                                   :no_answer:
+Mr. Black \fillin to the cinema last Sunday because he \fillin the film.
+\begin{oneparchoices}
+\choice Hasn’t gone; has seen
+\choice didn’t go; has seen
+\choice didn’t go; has seen
+\choice hasn’t gone; had seen
+\end{oneparchoices}
+
+*** B. Choose the best answer 11
+It is \fillin of the girl to say no to the computer game.
+\begin{oneparchoices}
+\choice sensitive
+\choice honest
+\choice kind
+\correctchoice sensible
+\end{oneparchoices}
+
+*** B. Choose the best answer 12
+The students were talking happily when suddenly the alarm \fillin[].
+\begin{oneparchoices}
+\choice Went out
+\choice went in
+\choice went up
+\choice went off
+\end{oneparchoices}
+
+*** B. Fill in the blank with a proper word 2
+We've made \fillin[unbelievable] progress, and hopefully we can continue that. (believe)
+
+** 8A 语法训练2
+*** A. Choose the best answer 7
+My uncle \fillin[] as a manager since he came back from the USA five years ago.
+\begin{oneparchoices}
+\choice Worked
+\correctchoice has worked
+\choice works
+\choice had worked
+\end{oneparchoices}
+
+*** A. Fill in the blank with a proper word 3
+The parents often have \fillin[arguments] about the education of their children. (argue)
+
+*** A. Fill in the blank with a proper word 7                     :no_answer:
+If you don't listen to the teacher \fillin[], you are likely to miss some important points.(attention)
+
+*** A.Rewrite the sentence as required 2
+My father bought me a new computer.(改为被动语态） \\
+A new computer \fillin[was broght for me by my father.][10cm].
+
+*** A.Rewrite the sentence as required 6                          :no_answer:
+annoying,always,buy,asks,unnecessary,me,something,salesman,the,to,(连词成句） \\
+\fillin[][12cm]
+
+*** B. Choose the best answer 3
+Betty used to \fillin to school, but now she \fillin to school by bus on weekdays.
+\begin{oneparchoices}
+\choice walking,goes
+\choice walking, is going
+\correctchoice walk,goes
+\choice walk,is going
+\end{oneparchoices}
+
+*** B. Choose the best answer 6
+Learning \fillin country's language is a better way of knowing \fillin culture behind it.
+\begin{oneparchoices}
+\choice the,a
+\choice a,the
+\choice /,the
+\choice a,/
+\end{oneparchoices}
+
+*** B. Fill in the blank with a proper word. 3
+Betty's \fillin[success] in winning the gold medal made all of us proud of her.(successful)
+
+*** B. Rewrite the sentences as required. 2
+The bookshelf is so high that the boy can't reach the top of it.(保持原句意思） \\
+The bookshelf isn't \fillin[low enough for the boy to][5cm] reach the top.
+
+*** B. Rewrite the sentences as required. 5
+The headmaster wrote an email to the students who won the top prize in the contest.(改被动语态） \\
+The students who won the top prize \fillin[were written an email to][5cm] by headmaster in the contest.
+
+*** C.Choices 4
+It is \fillin to send a letter by air mail than by ordinary mail.
+\begin{oneparchoices}
+\choice much quickly
+\correctchoice much quicker
+\choice more quickly
+\choice more quicker
+\end{oneparchoices}
+
+*** C.Choices 7                                                   :no_answer:
+The prices of the film tickets nowadays are far \fillin . Some of the citizens can't afford them.
+\begin{oneparchoices}
+\correctchoice more expensive
+\choice cheaper
+\choice higher
+\choice expensive
+\end{oneparchoices}
+
+*** C.Choices 14
+Jim \fillin to answer the questions that was \fillin by the teachers.
+\begin{oneparchoices}
+\correctchoice rose / raised
+\choice raised / rise
+\choice rose /risen
+\choice raised /raised
+\end{oneparchoices}
+
+*** C.Choices 20
+\fillin of us knows that Jack Ma is the founder of Alibaba.
+\begin{oneparchoices}
+\choice All
+\correctchoice Every one
+\choice Everyone
+\choice both
+\end{oneparchoices}
+
 ** Good beginning is half done
 *** 选用（success 的相关词）
 选用（success 的相关词）
@@ -31,7 +289,6 @@ v. 延伸 \fillin[extend]
 \fillin[The don't get ability to looking for outdoor entertainment][2in].
 *** Choose the best answer 7
 Today newly-produced mobile phones which can take photos \fillin a camera is famous \fillin its powerful function.
-
 #+begin_src latex
 \begin{oneparchoices}
 \choice as, for
@@ -43,11 +300,17 @@ Today newly-produced mobile phones which can take photos \fillin a camera is fam
 
 *** Choose the best answer 10
 Daisy is a student who is always strict \fillin her study.
-#+begin_src latex
+
 \begin{oneparchoices}
 \choice with
 \choice to
 \choice for
 \correctchoice in
 \end{oneparchoices}
-#+end_src
+
+*** Rewrite the following setence 4
+"John, will you go abroad to continue your study next year?" Susan asked.（改宾从句）
+\fillin[]
+
+
+

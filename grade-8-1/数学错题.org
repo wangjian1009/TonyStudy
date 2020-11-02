@@ -18,7 +18,7 @@
 #+LATEX_HEADER: \newcommand\degree{^\circ}
 #+LATEX_HEADER: \renewcommand{\solutiontitle}{\noindent\textbf{解：}\par\noindent}
 #+LATEX_HEADER: \everymath{\displaystyle}
-#+LATEX_CLASS_OPTIONS: [answer]
+#+LATEX_CLASS_OPTIONS: [answers]
 
 #+begin_src latex
 \tikzset{
@@ -505,18 +505,18 @@
 
 * 专项练习
 ** 正比例函数和反比例函数
-*** 填空1
+*** 填空 1
 在问题研究过程中，可以取不同数值的量叫 \fillin[自变量]。
 保持数值不变的量叫做 \fillin[常量]。
 表达两个变量之间依赖关系的数学式子称为 \fillin[函数解析式]。
 
-*** 填空9
+*** 填空 9
 函数有三种表示法，分别为 \fillin[图像法] ， \fillin[列表发] ， \fillin[解析法] 。
 
-*** 填空21
+*** 填空 21
 $y$ 与 $3x$ 成正比例，当 $x=8$ 时，$y=-12$ ,则 $y$ 与 $x$ 的函数解析式为 \fillin[ $y=-\frac{3}{2}x$ ]。
 
-*** 填空25
+*** 填空 25
 下列函数中，$y$ 随 $x$ 的增大而减少的函数是 \fillin[]
 
 #+begin_src latex
@@ -528,7 +528,7 @@ $y$ 与 $3x$ 成正比例，当 $x=8$ 时，$y=-12$ ,则 $y$ 与 $x$ 的函数�
 \end{oneparchoices}
 #+end_src
 
-*** 填空题26
+*** 填空题 26
 甲、乙两地相距 $100$ 千米，某人开车从甲地到乙地，那么它的速度 $v$ (千米／小时）与时间 $t$ (时）之间的函数关系用图象表示大致为 \fillin[D]
 
 #+name: pic.正比例函数和反比例函数.25.base
@@ -568,7 +568,7 @@ $y$ 与 $3x$ 成正比例，当 $x=8$ 时，$y=-12$ ,则 $y$ 与 $x$ 的函数�
 \end{oneparchoices}
 #+end_src
 
-*** 填空题27
+*** 填空题 27
 如果点 $A(x1,y1)$ 、$B(x2,y2)$ 在反比例函数 $y=\frac{k}{x} (k<0)$ 的图象上，
 如果 $x_1 > x_2 > 0$ 则 $y_{1}$ 与 $y_{2}$ ,的大小关系是 \fillin[A]
 
@@ -581,7 +581,7 @@ $y$ 与 $3x$ 成正比例，当 $x=8$ 时，$y=-12$ ,则 $y$ 与 $x$ 的函数�
 \end{oneparchoices}
 #+end_src
 
-*** 问答题29                                                          :error:
+*** 问答题 29                                                         :error:
 已知 $y = y_1 + y_2$ , $y_1$ 与 $x^2$ 成正比例， $y_2$ 与 $x-1$ 成反比例，当 $x=-1$ 时，$y=3$ ； 当 $x=2$ 时，$y=-3$ ，
 
 #+LATEX: \begin{parts}
@@ -620,7 +620,7 @@ $y$ 与 $3x$ 成正比例，当 $x=8$ 时，$y=-12$ ,则 $y$ 与 $x$ 的函数�
 
 #+LATEX: \end{parts}
 
-*** 问答题31                                                      :no_answer:
+*** 问答题 31                                                     :no_answer:
 如图，直线 $l$ 交 $x$ 轴、$y$ 轴与点 $A$ 、$B$ ，与反比例函数额图像交于 $C$ 、 $D$ 两点，如果 $A(2,0)$ ，
 点 $C$ 、$D$ 分别在一、三象限，且 $OA = OB = AC = BD$ ， 求反比例函数的解析式。
 
@@ -657,7 +657,7 @@ $y$ 与 $3x$ 成正比例，当 $x=8$ 时，$y=-12$ ,则 $y$ 与 $x$ 的函数�
 \end{solution}
 #+end_src
 
-*** 问答题33
+*** 问答题 33
 如图，在 $\triangle AOB$ 中， $AB=OB$ ,点 $B$ 在双曲线上，点 $A$ 的坐标为 $(2,0)$ , $S_{\triangle ABO}=4$ ,
 求点 $B$ 所在双曲线的函数解析式。
 
@@ -696,7 +696,7 @@ $y$ 与 $3x$ 成正比例，当 $x=8$ 时，$y=-12$ ,则 $y$ 与 $x$ 的函数�
 \end{solution}
 #+end_src
 
-*** 问答题36                                                      :no_answer:
+*** 问答题 36                                                     :no_answer:
 已知双曲线上两点 $A(2,4)$ , $C(4,2)$ , 且 $AB \perp OB$ , $CD \ perp OD$ ,
 
 #+begin_src latex
@@ -764,6 +764,10 @@ $\triangle OAC$ 的面积；
 
 ** 一元二次方程根与系数的关系
 *** 填空1
+    :PROPERTIES:
+    :ERROR:    1
+    :END:
+
 若 $2x(x+3)=1$ 的两根分别为 $x_{1}$ , $x_{2}$ 则有 $x_{1} + x_{2} =$ \fillin[-3] , $x_{1}x_{2}=$ \fillin[ $-\frac{1}{2}$ ]
 ${x_1}^2 x_2 + x_1 {x_2}^{2}=$ \fillin[ $\frac{3}{2}$ ] , 
 ${x_1}^2 + {x_2}^2=$ \fillin[10] , 
@@ -814,7 +818,7 @@ m + \frac{1}{n} = - \frac{b}{a} = -1
 \end{solution}
 #+end_src
 
-*** 解答题 5                                                      :no_answer:
+*** 解答题 5
 已知 $3m^{2} - 2m - 5 = 0$ , $5n^2 + 2n - 3 = 0$ , 其中 $m \cdot n$ 为实数，求 $|m - \frac{1}{n}|$ 的值。
 \vspace*{1in}
 
@@ -826,12 +830,19 @@ m + \frac{1}{n} = - \frac{b}{a} = -1
       5n^2 + 2n - 3 &= 0 \\
        5 + 2 \frac{1}{n} - 3 \frac{1}{n^2} &= 0 \\
        3 \frac{1}{n^2} - 2 \frac{1}{n} - 5 &= 0 \\
-       3x^2 - 2x - 5 &= 0
     \end{aligned} \\
-  & \begin{cases} 
+  \therefore & m \mbox{和} \frac{1}{n} \mbox{是方程} 3x^2 - 2x - 5 = 0 \mbox{的两个根} \\
+  \therefore & \begin{cases}
+                  m + \frac{1}{n} = \frac{2}{3} \\
+                  m \cdot \frac{1}{n} = -\frac{5}{3}
+               \end{cases} \\
+  \therefore & \begin{cases} 
       \textcircled{1} m \neq \frac{1}{n} \\
       \begin{aligned}
-      \qquad 
+      \qquad | m - \frac{1}{n} | &= \sqrt{(m + \frac{1}{n})^{2} - 4 m \cdot \frac{1}{n} } \\
+                                 &= \sqrt{\frac{4}{9} + \frac{20}{3}} \\
+                                 &= \sqrt{\frac{64}{9}} \\
+                                 &= \frac{8}{3}
       \end{aligned} \\
       \textcircled{2} m = \frac{1}{n} \\
       \begin{aligned}
@@ -867,8 +878,9 @@ m + \frac{1}{n} = - \frac{b}{a} = -1
 \end{solution}
 #+end_src
 
-*** 解答题 7                                                      :no_answer:
+*** 解答题 7
 已知实数 $m$ 、$n$ , 满足 $19m^{2} + 99m + 1 = 0$ , $n^{2} + 99n + 19 = 0$ , $mn \neq 1$ 求 $\frac{mn+4m+1}{n}$ 的值。
+\vspace*{1in}
 
 #+begin_src latex
 \begin{solution}
@@ -890,28 +902,75 @@ m + \frac{1}{n} = - \frac{b}{a} = -1
 \end{solution}
 #+end_src
 
-*** 解答题 8                                                      :no_answer:
-若 $m$ 、$n$ 是方程 $x^{2} + 2x - 7 = 0$ 的两个实数根，求：$m^{3} - 5n^{2} + n + 76$ 的值。
+*** 解答题 8
+若 $m$ 、$n$ 是方程 $x^2 + 2x - 7 = 0$ 的两个实数根，求：$m^3 - 5n^2 + n + 76$ 的值。
+\vspace*{1in}
 
 #+begin_src latex
 \begin{solution}
 \[
   \begin{aligned}
+    & \because m n \mbox{是方程} x^2 + 2x - 7 = 0 \mbox{的两个实数根} \\
+    & \therefore \begin{cases}
+                    m^2 = 7 - 2m
+                    n^2 = 7 - 2n
+                 \end{cases} \\
+    & \begin{aligned}
+      m^{2} &= 7 - 2m \\
+      m^{3} &= 7m - 2m^{2} \\
+            &= 7m - 14 + 4m
+      \end{aligned} \\
+    & \begin{aligned}
+        \mbox{原式} &= 11m - 14 - 35 + 10n + 76 + n \\
+                   &= 11(m + n) + 27 \\
+                   &= 5 
+      \end{aligned}
   \end{aligned}
 \]
 \end{solution}
 #+end_src
 
-*** 解答题 11                                                     :no_answer:
-
+*** 解答题 11
 已知关于 $x$ 的方程 $x^{2} - (k+1)x + \frac{1}{4}k^{2} + 1 = 0$ .
 
 #+LATEX: \begin{parts}
 \part
 $k$ 取何值时，方程存在两个正实数根？
+\vspace*{1in}
 
-\part
-若方程的两根是一个矩形相邻两边的长，当矩形的对角线长是 $\sqrt{5}$ 时，求 $K$ 的值。
+#+begin_src latex
+\begin{solution}
+\[
+  \begin{aligned}
+    & \begin{cases}
+        x_{1} x_{2} > 0 \\
+        x_{1} + x_{2} > 0
+      \end{cases} \\
+    & \frac{1}{4} k^2 > 0 \Rightarrow k^2 > -4 \\
+    & k + 1 > 0 \Rightarrow k > -1 \\
+    \therefore & k > -1 \mbox{时,方程有两个实数根}
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+\part 若方程的两根是一个矩形相邻两边的长，当矩形的对角线长是 $\sqrt{5}$ 时，求 $K$ 的值。
+\vspace*{1in}
+
+#+begin_src latex
+\begin{solution}
+\[
+  \begin{aligned}
+    & x_1^2 + x_2^2 = 5 \\
+    \Rightarrow & (x_1 + x_2)^2 - 2 x_1 x_2 = 5 \\
+    \Rightarrow & (k + 1)^2 - \frac{1}{2} k^{2} - 2 = 5 \\
+                & \frac{1}{2} k^{2} - 1 + 2k = 5 \\
+                & k^{2} + 4k - 12 = 0 \\
+    \Rightarrow & k_1 = 2 \qquad k_2 = -6
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
 
 #+LATEX: \end{parts}
 
@@ -919,7 +978,7 @@ $k$ 取何值时，方程存在两个正实数根？
 已知关于 $x$ 的方程 $(k-1)x^{2} + (2k-3)x + k + 1 = 0$ 有两个不相等的实数根 $x_{1}$ , $x_{2}$ ·
 
 #+LATEX: \begin{parts}
-\part 求k的取值范围；
+\part 求 $k$ 的取值范围；
 \vspace*{1in}
 
 #+begin_src latex
@@ -947,11 +1006,15 @@ $k$ 取何值时，方程存在两个正实数根？
 #+end_src
 
 \part 是否存在实数 $k$ ,使方程的两实根互为相反数？如果存在，求出 $k$ 的值；如果不存在，请你说明理由。
+\vspace*{1in}
 
 #+begin_src latex
 \begin{solution}
 \[
   \begin{aligned}
+    & - \frac{2k-3}{k-1} = 0 \\
+    & 2k - 3 = 0 \\
+    & k = \frac{2}{3}
   \end{aligned}
 \]
 \end{solution}
@@ -961,9 +1024,9 @@ $k$ 取何值时，方程存在两个正实数根？
 
 * 复习卷
 ** 期中复习（几何）
-*** 填空题6
+*** 填空题 6
 如图, 在 $\triangle ABC$ 中， $\angle C = 90 \degree$ , $E$ 为 $AB$ 的中点，且 $DE \perp AB$ 于 $F$ , 交 $BC$ 于点 $D$ ,
-如果 $\angle CAD : \angle ADC = 3:2$ , 那么 $\angle BAC=$ \fillin[ $12 \degree$ ]
+如果 $\angle CAD : \angle ADC = 3:2$ , 那么 $\angle BAC=$ \fillin[ $72 \degree$ ]
 
 #+begin_src latex
 \begin{tikzpicture}
@@ -984,7 +1047,7 @@ $k$ 取何值时，方程存在两个正实数根？
 \end{tikzpicture}
 #+end_src
 
-*** 填空题7
+*** 填空题 7
 如图, $\mbox{等腰} \triangle ABC$ 的周长 $50cm$ , $AB$ 的垂直平分线交另一腰 $AC$ 于 $D$ , 
 $\triangle BCD$ 的周长为 $36cm$ , 则底边 $BC=$ \fillin[ $22cm$ ]
 
@@ -1007,7 +1070,7 @@ $\triangle BCD$ 的周长为 $36cm$ , 则底边 $BC=$ \fillin[ $22cm$ ]
 \end{tikzpicture}
 #+end_src
 
-*** 填空题8
+*** 填空题 8
 已知如图, 在 $\triangle ABC$ 中， $\angle C = 90 \degree$ , $AC=BC$ , 点 $D$ 在 $BC$ 上, $DE \perp AB$ ,
 点 $E$ 为垂足, 且 $DE=DC$ ， 连接 $AD$ . 则 $\angle ADB=$ \fillin[ $112.5 \degree$ ]
 
@@ -1030,7 +1093,7 @@ $\triangle BCD$ 的周长为 $36cm$ , 则底边 $BC=$ \fillin[ $22cm$ ]
 \end{tikzpicture}
 #+end_src
 
-*** 填空题10
+*** 填空题 10
 $Rt \triangle ABC$ 中，$\angle B = 90 \degree$ , $D$ 在 $BC$ 上，$DE \perp AC$ , 垂足为 $E$ , $BD=DE$ ; 
 如 $\angle C=32 \degree$, $\angle ADE=$ \fillin[ $61 \degree$ ]
 
@@ -1090,7 +1153,7 @@ $Rt \triangle ABC$ 中，$\angle B = 90 \degree$ , $D$ 在 $BC$ 上，$DE \perp 
 \]
 #+end_src
 
-***  证明2
+*** 证明2
 如图，已知 $\triangle ABC$ 是等腰直角三角, $\angle ACB = 90 \degree$ , $\triangle ADB$ 是等边三角形，
 点 $C$ 在 $\triangle ADB$ 内部, $DE \perp AC$ 交直线 $AC$ 于点 $E$ 。
 
@@ -1116,10 +1179,70 @@ $Rt \triangle ABC$ 中，$\angle B = 90 \degree$ , $D$ 在 $BC$ 上，$DE \perp 
 
 #+LATEX: \begin{parts}
 \part 求证： $DE=CE$
+\vspace*{1in}
+
+#+begin_src latex
+\begin{solution}
+\[
+  \begin{aligned}
+               & \mbox{延长} DC \mbox{交} AB \mbox{于} F \\
+    \because   & AD = DB , AC = CB \\
+    \therefore & D, C \mbox{在} AB \mbox{的垂直平分线上} \\
+    \therefore & DC \mbox{垂直平分} AB \\
+    \therefore & \angle ACF = \angle BCF \\
+    \mbox{又}  & \angle ACB = 90 \degree \\
+    \therefore & \angle DCE = \angle ACF = 45 \degree \\
+    \because   & DE \perp AE \\
+    \therefore & \angle EDC = \angle DCF = 45 \degree \\
+    \therefore & DE = CE
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
 
 \part 若 $C$ 在 $\triangle ADB$ 外部， $DE=CE$ 的关系是否成立？如不成立，请说明理由，如成立请证明。
+\vspace*{1in}
+
 
 #+LATEX: \end{parts}
+
+#+begin_src latex
+\begin{solution}
+
+\begin{tikzpicture}
+\coordinate (C) at (0,3.5);
+\coordinate (A) at ($(C)!2cm!-135:($(C)+(1,0)$)$);
+\coordinate (B) at ($(C)!2cm!-45:($(C)+(1,0)$)$);
+
+\coordinate (D) at ($(C)+(0,-4)$);
+\coordinate (E) at ($(A)!(D)!(C)$);
+
+\draw[-] (A) -- (B) -- (C) -- cycle
+(A) -- (D) -- (B)
+(D) -- (E) -- (C)
+;
+
+\foreach \i/\angle in {A/-45,B/-135,C/90,D/90,E/45} {
+  \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+\end{tikzpicture}
+
+\[
+  \begin{aligned}
+               & \mbox{延长} DC \mbox{交} AB \mbox{于} F \\
+    \because   & AD = DB , AC = CB \\
+    \therefore & D, C \mbox{在} AB \mbox{的垂直平分线上} \\
+    \therefore & DC \mbox{垂直平分} AB \\
+    \therefore & \angle ACF = \angle BCF \\
+    \mbox{又}  & \angle ACB = 90 \degree \\
+    \therefore & \angle DCE = \angle ACF = 45 \degree \\
+    \because   & DE \perp AE \\
+    \therefore & \angle EDC = \angle DCF = 45 \degree \\
+    \therefore & DE = CE
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
 
 * 周测
 * 十每

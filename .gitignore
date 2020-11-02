@@ -1,6 +1,7 @@
 *.aux
 *.pdf
 *.log
+*.dvi
 \_*.*
 *.toc
 *.tex

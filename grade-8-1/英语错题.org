@@ -13,6 +13,67 @@
 
 * 重要考试
 ** 阶段一
+*** Choose the best answer 5
+I usually spend half of my spare time reading and  \fillin doing my homework.
+\begin{oneparchoices}
+\correctchoice the other
+\choice the others
+\choice others
+\choice the rest
+\end{oneparchoices}
+
+*** Choose the best answer 8
+You have been to Beijing. How long \fillin you \fillin there?
+\begin{oneparchoices}
+\correctchoice will...stay
+\choice did...stay
+\choice have...stayed
+\choice do...stay
+\end{oneparchoices}
+
+*** Choose the best answer 9
+He promised that he \fillin us how to make a model plane the next week.
+\begin{oneparchoices}
+\choice will teach
+\correctchoice would teach
+\choice has taught
+\choice had taught
+\end{oneparchoices}
+
+*** Choose the best answer 10                                     :no_answer:
+His experience of doing business \fillin a hot topic to discuss.
+\begin{oneparchoices}
+\choice raised
+\choice rose
+\choice was raised
+\choice was risen
+\end{oneparchoices}
+
+*** Choose the best answer 11
+-- My parents never stop going on about(唠叨)how I should study hard. \\
+-- \fillin[].
+
+\begin{oneparchoices}
+\choice So my parents do.
+\choice Nor my parents.
+\choice So do my parents.
+\correctchoice Neither do my parents.
+\end{oneparchoices}
+
+*** Choose the best answer 12                                     :no_answer:
+-- The T-shirt is too small for me. Would you mind giving me a large one?
+-- \fillin[]
+
+\begin{oneparchoices}
+\choice Yes,please.
+\choice I'm busy now.
+\choice Not at all.
+\choice You're welcome
+\end{oneparchoices}
+
+*** Rewrite the sentences as required 3
+After a quick breakfast, Mary left in a hurry.(保持句意不变) \\
+After a quick breakfast, Mary \fillin[hurried] \fillin[off] .
 
 * 期中复习
 ** 期中复习卷一
@@ -71,7 +132,7 @@ The student wrote a book report that was \fillin.
 \end{oneparchoices}
 
 *** A. Rewrite the following sentences as required 2
-A protractor is used for measuring angles. （就划线部分提问） \\
+A protractor is used for measuring angles. (就划线部分提问) \\
 What is protractor \fillin[used] \fillin[doing]?  \\
 What is protractor \fillin[used] \fillin[to] \fillin[do]?
 
@@ -85,28 +146,134 @@ John runs \fillin[faster] than \fillin[the] \fillin[other] students in his class
 \fillin[Nobody] \fillin[else] runs as \fillin[fast] as John in his class.
 
 *** A. Rewrite the following sentences as required 6
-In order to make himself heard, the man at the door shouted as loudly as possible.（保持原意） \\
+In order to make himself heard, the man at the door shouted as loudly as possible.(保持原意) \\
 In order to make himself heard, the man at the door shouted \fillin[at] the \fillin[top] of his voice.
 
 *** A. Rewrite the following sentences as required 9
-He’s already used to the county life.（改为反义疑问句） \\
-\fillin[He has used to the country life, hasn't he?][10cm]
+He’s already used to the county life.(改为反义疑问句) \\
+\fillin[He has used to the country life, hasn't he?][5cm]
 
 *** A. Rewrite the following sentences as required 15
-He told me that he would come back soon.（改被动） \\
+He told me that he would come back soon.(改被动) \\
 \fillin[I was told that he would come back soon.][10cm]
 
 *** A. Rewrite the following sentences as required 16
-You can find a lot of differences between the two languages.（改被动） \\
+You can find a lot of differences between the two languages.(改被动) \\
 \fillin[A lot of differences between the two languages can found by you][10cm].
 
 *** A. Rewrite the following sentences as required 17             :no_answer:
-Do you water your flowers every day?（改被动） \\
+Do you water your flowers every day?(改被动) \\
 \fillin[Are the flowers watered every day by you?][10cm].
 
 *** A. Rewrite the following sentences as required 20             :no_answer:
-Mother was not mending the trousers.（改被动） \\
+Mother was not mending the trousers.(改被动) \\
 \fillin[The trousers aren't mented by mother.][10cm]
+
+* 周拓
+** 8A 英语周末拓展(一)
+*** Translation 1
+n. 挑战 艰巨任务 \fillin[challenge]
+
+*** Translation 7
+adj. 有益的 \fillin[beneficial]
+
+*** Translation 8
+adj. 有影响力的 \fillin[Influential] (influence n.)
+
+*** Translation 13
+adj. 偶然的 意外的 \fillin[accidental]
+
+*** Translation 15
+v. 壮大 \fillin[enrich]
+
+*** Translation 19
+v. 回应 \fillin[Respond]
+
+*** Translation 21                                                :no_answer:
+Many foreigners consider Spaniards lazy. Few of them know that people there \fillin[place value on] (很重视) family time.
+*** Translation 23                                                :no_answer:
+直到20世纪50年代冰箱才开始流行起来。 \\
+\fillin[][5cm]
+
+*** Choose the best answer 1
+Which of the following underlined parts is different in pronunciation from others?
+
+\begin{choices}
+\correctchoice We need some water to keep healthy.
+\choice There is a special watch on the floor.
+\choice I want to get there by underground.
+\choice Don't wash the clothes in hot water.
+\end{choices}
+
+*** Choose the best answer 14
+The round cake \fillin the moon is called a moon cake.
+\begin{oneparchoices}
+\correctchoice like
+\choice is like
+\choice likes
+\choice looks like
+\end{oneparchoices}
+
+*** Choose the best answer 16
+No one but his parents \fillin how naughty he is.
+\begin{oneparchoices}
+\choice know
+\correctchoice knows
+\choice are knowing
+\choice knew
+\end{oneparchoices}
+
+*** Choose the best answer 17                                     :no_answer:
+Only then \fillin that he didn't know English at all.
+\begin{oneparchoices}
+\fillin I realized
+\fillin I did realize
+\fillin did I realize
+\fillin realize I
+\end{oneparchoices}
+
+*** Complete the sentences with the given words 3
+Yesterday Mr.Green \fillin[was told] (tell)that the sales meeting \fillin[would be held] (hold) in the following week.
+
+*** Complete the sentences with the given words 4                 :no_answer:
+The police have issued the \fillin[] of the criminals. (describe)
+
+*** Complete the sentences with the given words 6
+Many elderly people live in \fillin[poverty] (poor)
+
+*** Complete the sentences with the given words 7                 :no_answer:
+Can you express your idea in a rather clear way without any \fillin[]? (repeat)
+
+*** Complete the sentences with the given words 9
+There are some \fillin[simibrities] between the two plays.(similar)
+
+*** Complete the sentences with the given words 10
+Can you give me a(n) \fillin[explation] for this? (explain)
+
+*** Complete the sentences with the given words 11
+If you \fillin[simplify] that story, the little boy will be sure to understand it.(simple)
+
+*** Complete the sentences with the given words 13                :no_answer:
+I noticed with great \fillin[] that you made great progress.(satisfied)
+
+*** Rewrite the following sentences 3                             :no_answer:
+The building was owned by a local businessman.(保持句意基本不变） \\
+The building \fillin[] \fillin[] a local businessman.
+
+*** Rewrite the following sentences 4                             :no_answer:
+You like playing basketball, and he likes running, \fillin[] (改为反义疑问句)
+
+*** Rewrite the following sentences 5
+All of us know something about the traditional skill of cormorant fishing. (改为否定句) \\
+\fillin[None] \fillin[of] \fillin[us] \fillin[knows] \fillin[anything] about the traditional skill of cornorant fishing.
+
+*** Rewrite the following sentences 6
+He doesn't watch TV every day,I think. (合并为复合句) \\
+\fillin[I don't think that he watches TV][6cm]
+
+*** Rewrite the following sentences 10                            :no_answer:
+You mustn't get off the bus. It doesn't completely stop.(合并为一句）
+You mustn't get off the bus \fillin[untill it stop].
 
 * 平时
 ** 8A 语法训练1
@@ -120,11 +287,11 @@ They wanted to know whether they \fillin a rehearsal(排演) before performing o
 \end{oneparchoices}
 
 *** A. Rewrite the sentence ad required 1
-My husband has never sent flowers to his mother on Mother's Day.（改为一般疑问句）\\
+My husband has never sent flowers to his mother on Mother's Day.(改为一般疑问句)\\
 \fillin[Has your husband ever sent flowers] to his mother on Mother's Day?
 
 *** A. Rewrite the sentence ad required 3
-John denied cheating in the English test.（改为反义疑问句）\\
+John denied cheating in the English test.(改为反义疑问句)\\
 John denied cheating in the English test, \fillin[didn't he]?
 
 *** B. Choose the best answer 1
@@ -198,18 +365,18 @@ My uncle \fillin[] as a manager since he came back from the USA five years ago.
 The parents often have \fillin[arguments] about the education of their children. (argue)
 
 *** A. Fill in the blank with a proper word 7                     :no_answer:
-If you don't listen to the teacher \fillin[], you are likely to miss some important points.(attention)
+If you don't listen to the teacher \fillin[] , you are likely to miss some important points.(attention)
 
 *** A.Rewrite the sentence as required 2
-My father bought me a new computer.(改为被动语态） \\
+My father bought me a new computer.(改为被动语态) \\
 A new computer \fillin[was broght for me by my father.][10cm].
 
 *** A.Rewrite the sentence as required 6                          :no_answer:
-annoying,always,buy,asks,unnecessary,me,something,salesman,the,to,(连词成句） \\
+annoying,always,buy,asks,unnecessary,me,something,salesman,the,to,(连词成句) \\
 \fillin[][12cm]
 
 *** B. Choose the best answer 3
-Betty used to \fillin to school, but now she \fillin to school by bus on weekdays.
+Betty used to \fillin[] to school, but now she \fillin[] to school by bus on weekdays.
 \begin{oneparchoices}
 \choice walking,goes
 \choice walking, is going
@@ -218,7 +385,7 @@ Betty used to \fillin to school, but now she \fillin to school by bus on weekday
 \end{oneparchoices}
 
 *** B. Choose the best answer 6
-Learning \fillin country's language is a better way of knowing \fillin culture behind it.
+Learning \fillin[] country's language is a better way of knowing \fillin[] culture behind it.
 \begin{oneparchoices}
 \choice the,a
 \choice a,the
@@ -230,11 +397,11 @@ Learning \fillin country's language is a better way of knowing \fillin culture b
 Betty's \fillin[success] in winning the gold medal made all of us proud of her.(successful)
 
 *** B. Rewrite the sentences as required. 2
-The bookshelf is so high that the boy can't reach the top of it.(保持原句意思） \\
+The bookshelf is so high that the boy can't reach the top of it.(保持原句意思) \\
 The bookshelf isn't \fillin[low enough for the boy to][5cm] reach the top.
 
 *** B. Rewrite the sentences as required. 5
-The headmaster wrote an email to the students who won the top prize in the contest.(改被动语态） \\
+The headmaster wrote an email to the students who won the top prize in the contest.(改被动语态) \\
 The students who won the top prize \fillin[were written an email to][5cm] by headmaster in the contest.
 
 *** C.Choices 4
@@ -274,8 +441,8 @@ Jim \fillin to answer the questions that was \fillin by the teachers.
 \end{oneparchoices}
 
 ** Good beginning is half done
-*** 选用（success 的相关词）
-选用（success 的相关词）
+*** 选用(success 的相关词)
+选用(success 的相关词)
 My ambition is to become a \fillin[successful] man. 
 Therefore, I try hard to have \fillin[success] in getting the prizes in various contests.
 Now my efforts \fillin[successed]. 
@@ -309,7 +476,7 @@ Daisy is a student who is always strict \fillin her study.
 \end{oneparchoices}
 
 *** Rewrite the following setence 4
-"John, will you go abroad to continue your study next year?" Susan asked.（改宾从句）
+"John, will you go abroad to continue your study next year?" Susan asked.(改宾从句)
 \fillin[]
 
 

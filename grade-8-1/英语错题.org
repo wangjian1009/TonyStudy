@@ -8,13 +8,14 @@
 #+LATEX_CLASS: exam
 #+LATEX_HEADER: \usepackage{xeCJK}
 #+LATEX_HEADER: \newcommand\epart{\part}
-#+LATEX_CLASS_OPTIONS: [answers]
+#+LATEX_CLASS_OPTIONS: [answers-]
 :END:
 
 * 重要考试
 ** 阶段一
 *** Choose the best answer 5
 I usually spend half of my spare time reading and  \fillin doing my homework.
+
 \begin{oneparchoices}
 \correctchoice the other
 \choice the others
@@ -24,6 +25,7 @@ I usually spend half of my spare time reading and  \fillin doing my homework.
 
 *** Choose the best answer 8
 You have been to Beijing. How long \fillin you \fillin there?
+
 \begin{oneparchoices}
 \correctchoice will...stay
 \choice did...stay
@@ -33,6 +35,7 @@ You have been to Beijing. How long \fillin you \fillin there?
 
 *** Choose the best answer 9
 He promised that he \fillin us how to make a model plane the next week.
+
 \begin{oneparchoices}
 \choice will teach
 \correctchoice would teach
@@ -42,6 +45,7 @@ He promised that he \fillin us how to make a model plane the next week.
 
 *** Choose the best answer 10                                     :no_answer:
 His experience of doing business \fillin a hot topic to discuss.
+
 \begin{oneparchoices}
 \choice raised
 \choice rose
@@ -79,14 +83,17 @@ After a quick breakfast, Mary \fillin[hurried] \fillin[off] .
 ** 期中复习卷一
 *** Choose the best answer 5
 Don’t \fillin[], everyone. Follow me and we’ll get out of from the cave.
+
 \begin{oneparchoices}
 \choice fright
 \correctchoice panic
 \choice afraid
 \choice worried
 \end{oneparchoices}
+
 *** Choose the best answer 16
 \fillin[] Li Hong \fillin[] her classmates is going to visit the museum.
+
 \begin{oneparchoices}
 \correctchoice /;as well as
 \choice Not only; but also
@@ -96,6 +103,7 @@ Don’t \fillin[], everyone. Follow me and we’ll get out of from the cave.
 
 *** Choose the best answer 22
 If Mike is \fillin[], he will go to school tomorrow.
+
 \begin{oneparchoices}
 \choice good enough
 \correctchoice well enough
@@ -115,6 +123,7 @@ We \fillin[have exchanged] our ideas with each other during the meeting yesterda
 ** 期中复习卷二
 *** A. Choose the best answer 16                                  :no_answer:
 There Jack found a map on the wall, \fillin[] ?
+
 \begin{oneparchoices}
 \choice wasn‘t there
 \choice didn’t there
@@ -124,6 +133,7 @@ There Jack found a map on the wall, \fillin[] ?
 
 *** A. Choose the best answer 19                                  :no_answer:
 The student wrote a book report that was \fillin.
+
 \begin{oneparchoices}
 \choice ten-page-long
 \choice ten pages long
@@ -207,6 +217,7 @@ Which of the following underlined parts is different in pronunciation from other
 
 *** Choose the best answer 14
 The round cake \fillin the moon is called a moon cake.
+
 \begin{oneparchoices}
 \correctchoice like
 \choice is like
@@ -216,6 +227,7 @@ The round cake \fillin the moon is called a moon cake.
 
 *** Choose the best answer 16
 No one but his parents \fillin how naughty he is.
+
 \begin{oneparchoices}
 \choice know
 \correctchoice knows
@@ -225,6 +237,7 @@ No one but his parents \fillin how naughty he is.
 
 *** Choose the best answer 17                                     :no_answer:
 Only then \fillin that he didn't know English at all.
+
 \begin{oneparchoices}
 \fillin I realized
 \fillin I did realize
@@ -277,10 +290,86 @@ You mustn't get off the bus \fillin[untill it stop].
 
 ** 8A 英语周末拓展(二)
 *** Vocabulary 2
+职业运动员 n. \fillin[athlete]
+*** Vocabulary 4
+隔离；孤立 n. \fillin[isolation]
+*** Vocabulary 7                                                  :no_answer:
+运输 n. \fillin[]
+*** Vocabulary 9                                                  :no_answer:
+申请人 n. \fillin[]
+*** Vocabulary 15                                                 :no_answer:
+The price of an island \fillin[depend] on several foctory.
+They include how much the island will be developed and for what \fillin[purpose]
+*** Vocabulary 16
+这个故事不仅以推动情节慢慢前进的方式而且以让观众能够逐步发现真相的方式讲述。
+\begin{solutionorlines}[.5in]
+The way it tell the story not only puhu the plot slowly forward, 
+but also enables the audience to find out the truth step by step.
+\end{solutionorlines}
+*** Vocabulary 17
+除此以外，我特别喜欢这部电影的开放式结局。它留给观众写作的空间。
+\begin{solutionorlines}[.5in]
+In addition, I particularly like the film's open ending, it leaves some places for audience to fill in.
+\end{solutionorlines}
+*** Vocabulary 18
+肯定的是，我们没有超能力去拯救世界，但是我们仍然被五个美少女战士的故事所鼓舞，并且将爱和正义留于我们的心中。
+\begin{solutionorlines}[.5in]
+For sure, we don't have super power to save the world, 
+but we can stlll be inspired by the stroy of fine soldier and keep love and justice ih our heart.
+\end{solutionorlines}
+*** Choose the best answer 3                                      :no_answer:
+I have just watched a good film about \fillin elderly fisherman in Guilin.
+
+\begin{oneparchoices}
+\choice a
+\choice an
+\choice the
+\choice /
+\end{oneparchoices}
+
+*** Choose the best answer 5
+Please retell the story \fillin your own words.
+
+\begin{oneparchoices}
+\choice on
+\correctchoice in
+\choice with
+\choice by
+\end{oneparchoices}
+
+*** Choose the best answer 6
+Working for a TV station is \fillin interesting work.
+
+\begin{oneparchoices}
+\choice a
+\choice an
+\choice the
+\correctchoice \
+\end{oneparchoices}
+
+*** Complete the sentences with the given words 2
+Please be \fillin[seated] at the table.(seat)
+
+*** Complete the sentences with the given words 8
+Please stay after the meeting. I have a few \fillin[announcement] to make.(announce)
+
+*** Complete the sentences with the given words 9
+Sometimes they hold brightly \fillin[colored] scarves when they dance. (color)
+
+*** Complete the sentences with the given words 10
+The \fillin[decorations] for the party are bright and cheery. (decorate)
+
+*** Rewrite the folow ag sionences 3
+The teacher told us to finish the project in a week. (改为被动语态) 
+\begin{solutionorlines}[.25in]
+We were told to finish the projet ih a wek by the teacher.
+\end{solutionorlines}
+
 * 平时
 ** 8A 语法训练1
 *** A. Choose the best answer 10
 They wanted to know whether they \fillin a rehearsal(排演) before performing on stage.
+
 \begin{oneparchoices}
 \choice will have
 \choice had
@@ -298,6 +387,7 @@ John denied cheating in the English test, \fillin[didn't he]?
 
 *** B. Choose the best answer 1
 Which of the following underlined parts is different in pronunciation from the others?
+
 \begin{oneparchoices}
 \choice small
 \choice talk
@@ -307,6 +397,7 @@ Which of the following underlined parts is different in pronunciation from the o
 
 *** B. Choose the best answer 3
 The manager is very busy and always calls his client \fillin[] .
+
 \begin{oneparchoices}
 \choice On his way to home
 \choice his way home
@@ -316,6 +407,7 @@ The manager is very busy and always calls his client \fillin[] .
 
 *** B. Choose the best answer 5
 We try our best to make our country \fillin in the world.
+
 \begin{oneparchoices}
 \choice More beautiful
 \choice more beautifully
@@ -325,6 +417,7 @@ We try our best to make our country \fillin in the world.
 
 *** B. Choose the best answer 6                                   :no_answer:
 Mr. Black \fillin to the cinema last Sunday because he \fillin the film.
+
 \begin{oneparchoices}
 \choice Hasn’t gone; has seen
 \choice didn’t go; has seen
@@ -334,6 +427,7 @@ Mr. Black \fillin to the cinema last Sunday because he \fillin the film.
 
 *** B. Choose the best answer 11
 It is \fillin of the girl to say no to the computer game.
+
 \begin{oneparchoices}
 \choice sensitive
 \choice honest
@@ -343,6 +437,7 @@ It is \fillin of the girl to say no to the computer game.
 
 *** B. Choose the best answer 12
 The students were talking happily when suddenly the alarm \fillin[].
+
 \begin{oneparchoices}
 \choice Went out
 \choice went in
@@ -356,6 +451,7 @@ We've made \fillin[unbelievable] progress, and hopefully we can continue that. (
 ** 8A 语法训练2
 *** A. Choose the best answer 7
 My uncle \fillin[] as a manager since he came back from the USA five years ago.
+
 \begin{oneparchoices}
 \choice Worked
 \correctchoice has worked
@@ -379,6 +475,7 @@ annoying,always,buy,asks,unnecessary,me,something,salesman,the,to,(连词成句)
 
 *** B. Choose the best answer 3
 Betty used to \fillin[] to school, but now she \fillin[] to school by bus on weekdays.
+
 \begin{oneparchoices}
 \choice walking,goes
 \choice walking, is going
@@ -388,6 +485,7 @@ Betty used to \fillin[] to school, but now she \fillin[] to school by bus on wee
 
 *** B. Choose the best answer 6
 Learning \fillin[] country's language is a better way of knowing \fillin[] culture behind it.
+
 \begin{oneparchoices}
 \choice the,a
 \choice a,the
@@ -408,6 +506,7 @@ The students who won the top prize \fillin[were written an email to][5cm] by hea
 
 *** C.Choices 4
 It is \fillin to send a letter by air mail than by ordinary mail.
+
 \begin{oneparchoices}
 \choice much quickly
 \correctchoice much quicker
@@ -417,6 +516,7 @@ It is \fillin to send a letter by air mail than by ordinary mail.
 
 *** C.Choices 7                                                   :no_answer:
 The prices of the film tickets nowadays are far \fillin . Some of the citizens can't afford them.
+
 \begin{oneparchoices}
 \correctchoice more expensive
 \choice cheaper
@@ -426,6 +526,7 @@ The prices of the film tickets nowadays are far \fillin . Some of the citizens c
 
 *** C.Choices 14
 Jim \fillin to answer the questions that was \fillin by the teachers.
+
 \begin{oneparchoices}
 \correctchoice rose / raised
 \choice raised / rise
@@ -435,6 +536,7 @@ Jim \fillin to answer the questions that was \fillin by the teachers.
 
 *** C.Choices 20
 \fillin of us knows that Jack Ma is the founder of Alibaba.
+
 \begin{oneparchoices}
 \choice All
 \correctchoice Every one
@@ -458,14 +560,13 @@ v. 延伸 \fillin[extend]
 \fillin[The don't get ability to looking for outdoor entertainment][2in].
 *** Choose the best answer 7
 Today newly-produced mobile phones which can take photos \fillin a camera is famous \fillin its powerful function.
-#+begin_src latex
+
 \begin{oneparchoices}
 \choice as, for
 \choice as, as
 \correctchoice like for
 \choice like, as
 \end{oneparchoices}
-#+end_src
 
 *** Choose the best answer 10
 Daisy is a student who is always strict \fillin her study.

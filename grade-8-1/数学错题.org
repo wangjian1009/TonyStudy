@@ -1,6 +1,6 @@
 #+TITLE: 八年级上数学错题
 :PROPERTIES:
-#+STARTUP: content
+#+STARTUP: overview
 #+STARTUP: noptag
 #+STARTUP: hideblocks
 #+OPTIONS: author:nil date:nil
@@ -1219,17 +1219,16 @@ $Rt \triangle ABC$ 中，$\angle B = 90 \degree$ , $D$ 在 $BC$ 上，$DE \perp 
 
 #+LATEX: \end{parts}
 
-
 * 周测
 ** 周测1
 *** 选择题 5
 等腰直角三角形 $ABC$ 位于第一象限，$AB=AC=2$ ,直角顶点 $A$ 在直线 $y=x$ 上，
-其中$A$点的横坐标为 $1$ ,且两条直角边 $AB$ 、 $AC$ 分别平行于 $x$ 轴、$y$ 轴，
+其中 $A$ 点的横坐标为 $1$ ,且两条直角边 $AB$ 、 $AC$ 分别平行于 $x$ 轴、$y$ 轴，
 若双曲线 $y= \frac{k}{x}(k \neq 0)$ 与 $\triangle ABC$ 有交点，
 则k的取值范围是 \fillin
 
 #+begin_src latex
-\begin{tikzpicture}[scale=0.5]
+\begin{tikzpicture}[scale=0.7]
 \draw[->](-1,0)--(4.5,0) node at (5,0){$x$};
 \draw[->](0,-1)--(0,4.5) node at (0,5){$y$};
 
@@ -1278,6 +1277,95 @@ $Rt \triangle ABC$ 中，$\angle B = 90 \degree$ , $D$ 在 $BC$ 上，$DE \perp 
 \]
 \end{solution}
 #+end_src
+
+*** 解答题 19                                                     :no_answer:
+如图，四边形 $ABCD$ 中, $AB=CB$ , $\angle ABC = 60 \degree$ , $\angle ADC = 120 \degree$ , 
+请你猜想线段 $DA$ 、 $DC$ 、 $BD$ 的数量关系? 并证明你的结论。
+
+#+begin_src latex
+\begin{tikzpicture}
+
+\coordinate (A) at (0,0);
+\coordinate (B) at ($(A)!1!-45:($(A)+(0,-2)$)$);
+\coordinate (C) at ($(B)!1!-60:(A)$);
+\coordinate (D) at (intersection of C--{$(C)!1!-90:(B)$}
+                                and A--{$(A)!1!90:(B)$});
+
+\draw (A) -- (B) -- (C) -- (D) -- cycle;
+
+\foreach \i/\angle in {A/90,B/-180,C/-90,D/15} {
+    \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+
+\end{tikzpicture}
+#+end_src
+
+#+begin_src latex
+\begin{solution}[.5in]
+\end{solution}
+#+end_src
+
+*** 解答题 21                                                     :no_answer:
+如图，在等腰直角三角形 $ABC$ 中，$O$ 是斜边 $AC$ 的中点，
+$P$ 是斜边 $AC$ 上的一个动点，（不与 $A$ , $C$ 重合）
+$D$ 为射线 $BC$ 上的一点，且 $PB=PD$ ,
+过 $D$ 点作 $AC$ 边上的高 $DE$ .
+
+#+begin_src latex
+\begin{tikzpicture}[scale=1.5]
+
+\coordinate (A) at (0,2);
+\coordinate (B) at (0,0);
+\coordinate (C) at (2,0);
+\coordinate (O) at ($(A)!.5!(C)$);
+\coordinate (P) at ($(A)!.3!(C)$);
+\coordinate (D) at ($(B)!($(B)!2!(P)$)!(C)$);
+\coordinate (E) at ($(A)!(D)!(C)$);
+
+\draw (A) -- (B) -- (C) -- cycle
+(B) -- (O)
+(B) -- (P) -- (D) -- (E)
+;
+
+\foreach \i/\angle in {A/90,B/-180,C/-90,O/45,P/45,D/-90,E/45} {
+    \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+
+\end{tikzpicture}
+
+\begin{tikzpicture}[scale=1.5]
+
+\coordinate (A) at (0,2);
+\coordinate (B) at (0,0);
+\coordinate (C) at (2,0);
+\coordinate (O) at ($(A)!.5!(C)$);
+\coordinate (P) at ($(A)!.7!(C)$);
+\coordinate (D) at ($(B)!($(B)!2!(P)$)!(C)$);
+\coordinate (E) at ($(A)!(D)!(C)$);
+
+\draw (A) -- (B) -- (C) -- cycle
+(B) -- (O)
+(B) -- (P) -- (D) -- (E)
+(E) -- (C)
+(D) -- (C)
+;
+
+\foreach \i/\angle in {A/90,B/-180,C/-90,O/45,P/45,D/-90,E/-90} {
+    \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+
+\end{tikzpicture}
+#+end_src
+
+#+LATEX: \begin{parts}
+\part 探索当 $D$ 在线段 $BC$ 上或当 $D$ 在 $BC$ 延长线上时， $PE$ 与 $BO$ 分别有什么数量关系？说明理由；
+
+\part 设 $AC=8$ , $AP=x$ , $S_{\triangle PBD}=y$ , 求 $y$ 与 $x$ 之间的函数关系式，并写出自变量 $x$ 的取值范围:
+
+\part 是否存在这样的 $P$ 点，是的 $\triangle PBD$ 的面积是 $\triangle ABC$ 面积的 $\frac{3}{8}$ ?
+如果存在，求出 $AP$ 的长；如果不存在，请说明理由。
+
+#+LATEX: \end{parts}
 
 * 十每
 ** 十每（第二周）
@@ -1434,7 +1522,7 @@ $Rt \triangle ABC$ 中，$\angle B = 90 \degree$ , $D$ 在 $BC$ 上，$DE \perp 
 当 $m$ 取何值时，关于 $x$ 的方程 $mx^{2} + 2x -1 = 0$ 有两个实数根:
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[.5in]
   \[
     \begin{aligned}
     & \begin{cases}
@@ -1459,7 +1547,7 @@ $Rt \triangle ABC$ 中，$\angle B = 90 \degree$ , $D$ 在 $BC$ 上，$DE \perp 
 求证：不论实数 $m$ 取何值，关于 $x$ 的方程 $(m^{2} + 1)x^{2}+2mx+m^{2}+4=0$ 没有实数根。
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
   \[
     \begin{aligned}
       & \Delta = -4m^{4} -16m^{2} - 16 \\
@@ -1471,20 +1559,18 @@ $Rt \triangle ABC$ 中，$\angle B = 90 \degree$ , $D$ 在 $BC$ 上，$DE \perp 
 \end{solution}
 #+end_src
 
-*** 探究 1
+*** 探究 1                                                        :no_answer:
 $k$ 为何值时，方程 $(k-1)x^{2}-(2k+3)x+(k+3)=0$ 有实数根？
 
 #+begin_src latex
-\begin{solution}
-
+\begin{solution}[1in]
 \end{solution}
 #+end_src
 
-*** 探究 2
+*** 探究 2                                                        :no_answer:
 若 $m$ 为非负整数，且一元二次方程 $(1-m^{2})x^{2}+2(1-m)x-1=0$
 
 #+begin_src latex
-\begin{solution}
-
+\begin{solution}[1in]
 \end{solution}
 #+end_src

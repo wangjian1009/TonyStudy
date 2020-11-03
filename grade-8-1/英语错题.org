@@ -1,6 +1,6 @@
 #+TITLE: 八年级上英语错题
 :PROPERTIES:
-#+STARTUP: content
+#+STARTUP: overview
 #+STARTUP: noptag
 #+STARTUP: hideblocks
 #+OPTIONS: author:nil date:nil
@@ -188,7 +188,7 @@ n. 挑战 艰巨任务 \fillin[challenge]
 adj. 有益的 \fillin[beneficial]
 
 *** Translation 8
-adj. 有影响力的 \fillin[Influential] (influence n.)
+adj. 有影响力的 \fillin[influential] (influence n.)
 
 *** Translation 13
 adj. 偶然的 意外的 \fillin[accidental]
@@ -633,6 +633,69 @@ My offce is on the 11th floor of a building with 18 s\fillin[toreys] (levels of 
 
 *** Complete the sentences with the given words in their propertors 9
 We s\fillin[prang](rose up quickly) to our feet when the master entered the room.
+
+** 8A Exercise for U7
+*** Vocabulary 15
+有益的 adj. \fillin[beneficial]
+
+*** Vocabulary 16
+有影响力的 \fillin[influential]
+
+*** Vocabulary 17
+存在 n. \fillin[existence]
+
+*** Vocabulary 18
+不可思议的 adj. \fillin[incredible]
+
+*** Choose the best answers 2
+John plays basketball \fillin , if not better than Jim.
+
+\begin{oneparchoices}
+\choice as well
+\choice so well as
+\choice so well
+\correctchoice as well as
+\end{oneparchoices}
+
+*** Choose the best answers 5
+Professor Liu gave us a very useful \fillin on how to prepare for the exam.
+
+\begin{oneparchoices}
+\choice advice
+\choice experience
+\choice information
+\correctchoice suggestion
+\end{oneparchoices}
+
+*** Choose the best answers 8
+If you \fillin water, it \fillin steam.
+
+\begin{oneparchoices}
+\choice boil,will become
+\choice boil,become
+\choice will boil,will become
+\correctchoice boil,becomes
+\end{oneparchoices}
+
+*** Choose the best answers 14
+The old man was too weak and \fillin down on the bed.
+
+\begin{oneparchoices}
+\choice lied
+\correctchoice lay
+\choice lain
+\choice laid
+\end{oneparchoices}
+
+*** Complete the.sentences with the proper words 12
+Many things left by the ancient \fillin[Egyptians] in tombs have been brought to light. (Egypt)
+
+*** Complete the.sentences with the proper words 13
+Early diagnosis(诊断） and treatment can prevent \fillin[blindness] (blind)
+
+*** Rewrite the sentences 8
+His handwriting is the best in the class.(保持句意不变）
+His handwriting is \fillin[better] than anyone \fillin[else's] in the class.
 
 ** 8A 语法训练1
 *** A. Choose the best answer 10

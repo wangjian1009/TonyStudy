@@ -8,7 +8,7 @@
 #+LATEX_CLASS: exam
 #+LATEX_HEADER: \usepackage{xeCJK}
 #+LATEX_HEADER: \newcommand\epart{\part}
-#+LATEX_CLASS_OPTIONS: [answers-]
+#+LATEX_CLASS_OPTIONS: [answers]
 :END:
 
 * 重要考试
@@ -365,7 +365,275 @@ The teacher told us to finish the project in a week. (改为被动语态)
 We were told to finish the projet ih a wek by the teacher.
 \end{solutionorlines}
 
+** 8A 英语周末拓展(三)
+*** SSP 1
+场面，场景 n. \fillin[sense]
+*** SSP 2
+(社会）运动 n. \fillin[campaign]
+*** SSP 4
+个人的 adj. \fillin[individual]
+*** SSP 6
+目的地 n. \fillin[destination]
+*** SSP 10
+著名的 adj. \fillin[celebrated]
+*** SSP 11
+有影响力的 adj. \fillin[influential]
+
+*** Vocabulary 3
+In addition, pårents often have a strong \fillin[sense  of dignity] (尊严感).
+
+*** Choose the best answers 5
+-- John, there is \fillin Mr.Wilson on the phone for you. \\
+-- I'm in \fillin bath.
+
+\begin{oneparchoices}
+\choice a; the
+\choice the; a
+\correctchoice a; /
+\choice the; /
+\end{oneparchoices}
+
+*** Choose the best answers 8
+There is a flower shop on \fillin side of the street. Let's go and buy some flowers.
+
+\begin{oneparchoices}
+\choice another
+\choice other
+\choice others
+\correctchoice the other 
+\end{oneparchoices}
+
+*** Choose the best answers 11
+You never imagine whát great trouble I have \fillin this paper in my house.
+
+\begin{oneparchoices}
+\choice for finding
+\choice to find
+\choice found
+\correctchoice finding
+\end{oneparchoices}
+
+*** Choose the best answers 15
+The monkey was hanging \fillin the tree \fillin his tail and laughing.
+
+\begin{oneparchoices}
+\choice on, by
+\choice to, as
+\choice above, by
+\correctchoice from, by
+\end{oneparchoices}
+
+*** Choose the best answers 20
+He \fillin a dollar bill in the suit he was sending to the cleaner's.
+
+\begin{oneparchoices}
+\choice came to
+\choice came out
+\correctchoice came across
+\choice came up
+\end{oneparchoices}
+
+*** Fill in the blanks according to the given words 1
+On the Double \fillin[Ninth] Festival, people usually climb mountains. (nine)
+
+*** Fill in the blanks according to the given words 5
+Let Tom tell you the truth \fillin[straight]. (straight)
+
+*** Fill in the blanks according to the given words 6             :no_answer:
+\fillin[] by the results, the child returned home in silence. (courage)
+
+*** Fill in the blanks according to the given words 8
+The mountain climbers were lost in the snow and nearly \fillin[freeze] to death. (freeze)
+
+*** Fill in the blanks according to the given words 10            :no_answer:
+If we as \fillin[] don't change our behavior, more disasters will come.(human)
+
+*** Rewrite the following sentences as required 7
+I won't go to Kate's birthday party if she doesn't invite me. (保持句意不变) \\
+I won't go to Kate's birthday party \fillin[unless] she \fillin[invites] me.
+
+*** Rewrite the following sentences as required 8                 :no_answer:
+Nobody knew what had happened, \fillin[] \fillin[they]? (反意疑问句)
+
+*** Rewrite the following sentences as required 9
+He is a good basketball player.(感叹) \fillin[How] \fillin[well] he plays basketball!
+
 * 平时
+** 8A Exercise for U5
+*** Dictation 6
+v. 达到 \fillin[achieve]
+
+*** Dictation 10
+n. 小偷 \fillin[thief]
+
+*** Dictation 12
+adj. 正确无误的 \fillin[correct]
+
+*** Dictation 13
+n. 闪电 \fillin[lightning]
+
+*** Choose the best answer 10                                     :no_answer:
+Her cousin can draw \fillin an artist.
+
+\begin{oneparchoices}
+\choice not as good as
+\choice as good as
+\choice not as well as
+\choice as well as
+\end{oneparchoices}
+
+*** Fill in the blanks with proper forms 6
+The phone rang, while the Lis \fillin[watching](watch) TV in the sitting-room.
+
+*** Replace words in blod 2
+It is *a drawing or film of drawings* that usually makes you laugh.
+Replace words in blod: \fillin[cartoon]
+
+*** Replace words in blod 8                                       :no_answer:
+The rice wine was kept in huge *containers for holding food or drink* .  \\
+Replace words in blod: \fillin[]
+
+*** Replace words in blod 9                                       :no_answer:
+Tommy looked through the *letters, parcel sent by post* to see if there were any letters for him.  \\
+Replace words in blod: \fillin[]
+
+*** Replace words in blod 10
+Tommy is so *thin* that he *looks like as* \fillin[Skeleton].
+
+*** Fill in the blanks with proper prepositions 2                 :no_answer:
+Guangzhou is famous \fillin[] its beautiful views along the Pearl River. (珠江)
+
+*** Fill in the blanks with proper prepositions 5                 :no_answer:
+Can you write this sentence \fillin[] three languages?
+
+*** Fill in the blanks with proper prepositions 6                 :no_answer:
+Ancient Egyptian was not a language \fillin[with] letters and words \fillin[] English.
+
+*** Fill in the blanks with proper prepositions 10
+Look \fillin[at] the pictures \fillin[on] the next page.
+
+*** Fill in the blanks with proper prepositions 11                :no_answer:
+\fillin[] most other students, Tom is very clever.
+
+*** Fill in the blanks with proper prepositions 12                :no_answer:
+We knew \fillin[about] the facts \fillin[] an encyclopaedia.
+
+*** Fill in the blanks with proper prepositions 14
+They were drinking beer \fillin[with]  big bottles.
+
+*** Fill in the blanks with proper prepositions 15
+She is listening to a travel programme about Nanjing \fillin[on] the radio.
+
+*** Fill in the blanks with proper prepositions 18                :no_answer:
+It is over 160 hectares \fillin[] size.
+
+** 8A Exercise for U6
+*** Vocabulary 1
+描写 v. \fillin[describe] -- n. \fillin[description]
+
+*** Vocabulary 4
+存在 n. \fillin[existence]
+
+*** Choose the best answer 2
+At last he taught Peter a lesson \fillin a trick.
+
+\begin{oneparchoices}
+\choice in
+\choice for
+\correctchoice by
+\choice with
+\end{oneparchoices}
+
+*** Choose the best answer 9
+The little boy put the ladder \fillin the wall and left.
+
+\begin{oneparchoices}
+\choice at
+\choice on
+\choice off
+\correctchoice against
+\end{oneparchoices}
+
+*** Choose the best answer 13
+Are you going to \fillin us \fillin the lecture \fillin the Chinese culture?
+
+\begin{oneparchoices}
+\choice attend, in, of
+\correctchoice join, in, on
+\choice take part in, at, about
+\choice join, at, of
+\end{oneparchoices}
+
+*** Choose the best answer 18
+\fillin trees is becoming smaller and smaller.
+
+\begin{oneparchoices}
+\choice A number of
+\choice Many
+\correctchoice The number of
+\choice Some
+\end{oneparchoices}
+
+*** Choose the best answer 21
+The film "War of the Worlds" has \fillin for a week.
+
+\begin{oneparchoices}
+\correctchoice been over
+\choice finished
+\choice ended
+\choice been off
+\end{oneparchoices}
+
+*** Choose the best answer 22                                     :no_answer:
+My car \fillin
+
+\begin{oneparchoices}
+\choice needs to fepair
+\choice need repair
+\choice needs repairing
+\choice needs repair
+\end{oneparchoices}
+
+*** Choose the best answer 27                                     :no_answer:
+He asked me \fillin
+
+\begin{oneparchoices}
+\choice where did Tom spend his last holiday
+\choice that he was going to buy a new bicycle
+\choice why he had given them such a lecture
+\choice if I have a lovely time at Christmas
+\end{oneparchoices}
+
+*** Choose the best answer 29                                     :no_answer:
+Would you like to give us an introduction \fillin the film?
+
+\begin{oneparchoices}
+\choice to
+\choice for
+\choice of
+\choice in
+\end{oneparchoices}
+
+*** Choose the best answer 33                                     :no_answer:
+Jim sat \fillin to his mother with his eyes half \fillin .
+
+\begin{oneparchoices}
+\choice closed; opened
+\choice close; open
+\choice closely; opening
+\choice close; opened
+\end{oneparchoices}
+
+*** Complete the sentences with the given words in their propertors 2
+The n\fillin[avigator] (person who finds the way on the plane) 
+looked at the map and told the pilot which direction to go for the airplane.
+
+*** Complete the sentences with the given words in their propertors 6
+My offce is on the 11th floor of a building with 18 s\fillin[toreys] (levels of a building)
+
+*** Complete the sentences with the given words in their propertors 9
+We s\fillin[prang](rose up quickly) to our feet when the master entered the room.
+
 ** 8A 语法训练1
 *** A. Choose the best answer 10
 They wanted to know whether they \fillin a rehearsal(排演) before performing on stage.

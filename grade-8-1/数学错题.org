@@ -91,10 +91,9 @@
 #+LATEX: \end{solution}
 
 \epart 如果批发商希望通过销售这批T恤获利9000元，那么第二个月的单价应是多少元？
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
   \begin{aligned}
     (30 - x)(200 + 10x) + 10(400 - 10x) &= 3000 \\
@@ -146,10 +145,9 @@
 
 #+LATEX: \begin{parts}
 \epart 求该正比例函数的解析式；
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
     \begin{aligned}
       & y = kx (k \neq 0) \\
@@ -163,10 +161,9 @@
 #+end_src
 
 \epart 联结 $CP$ ,在点 $P$ 、$Q$ 运动过程中，$\triangle OPQ$ 与 $\triangle BPC$ 是否全等？ 如果全等，请求出点 $Q$ 的运动速度；如果不全等，请说明理由。
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \end{solution}
 #+end_src
 
@@ -247,10 +244,9 @@
 
 *** 计算和简答 17
 \[\frac{2}{b} \sqrt{ab^{5}} \times (-\frac{3}{2}\sqrt{a^{3}b} \times 3\sqrt{\frac{a}{b}} \quad (a<0,b<0)\]
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
   \[
     \begin{aligned}
     \mbox{原式} &= \frac{2 \times -3 \times 3}{b \times 2 } \sqrt{ ab^{5} \times a^{3}b \times \frac{a}{b} } \\
@@ -267,10 +263,9 @@
 
 #+LATEX: \begin{parts}
 \epart 求 $m^{2}$ 的取值范围；
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
    \begin{aligned}
     & \begin{cases}
@@ -295,10 +290,9 @@
 #+end_src
 
 \epart 当 $m + \frac{1}{m}=11$ 时，求 $\sqrt{m} - \frac{1}{\sqrt{m}}$ 的值。
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
    \begin{aligned}
      ( \sqrt{m} - \frac{1}{ \sqrt{m} } )^{2} &= m + \frac{1}{m} - 2 \\
@@ -316,10 +310,9 @@
 
 *** 计算和简答 22
 已知方程 $x^{2} + 2(a+1)x + 3a^{2} + 4ab + 4b^{2} + 2 = 0$ 有2个相等的实数根，求 $a$ , $b$ 的值
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
    \begin{aligned}
      & \begin{aligned}
@@ -391,10 +384,9 @@
 *** 解答题 25
 已知直线 $y=kx$ 过点 $(- \frac{1}{2},3)$ , $A$ 是直线 $y=kx$ 上一点，若过点 $A$ 向 $x$ 轴引垂线，垂足为 $B$ , 
 且 $S_{\triangle AOB}=5$ , 求点 $B$ 的坐标。
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
    \begin{aligned}
     & \because \begin{aligned}
@@ -455,10 +447,9 @@
 
 #+LATEX: \begin{parts}
 \epart 直线 $y=kx \quad (k \neq 0)$ 交边 $AB$ 于点 $P$ , 求 $k$ 的取值范围；
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
    \begin{aligned}
    & \mbox{当} x = 4 \mbox{时} \\
@@ -473,10 +464,9 @@
 #+end_src
 
 \epart 直线 $y=kx \quad (k \neq 0)$ 是否可能将长方形 $OABC$ 的面积分成 2:3 两部分？若能，求出 $k$ 的值，若不能，说明理由。
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
    \begin{aligned}
      & \begin{aligned}
@@ -586,10 +576,9 @@ $y$ 与 $3x$ 成正比例，当 $x=8$ 时，$y=-12$ ,则 $y$ 与 $x$ 的函数�
 
 #+LATEX: \begin{parts}
 \part 求 $y$ 与 $x$ 之间的函数关系式；
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
   \begin{aligned}
     & \mbox{设正比例函数解析式为} y_{1}=k_{1}x^{2} \quad (k_{1} \neq 0) \\
@@ -606,10 +595,9 @@ $y$ 与 $3x$ 成正比例，当 $x=8$ 时，$y=-12$ ,则 $y$ 与 $x$ 的函数�
 #+end_src
 
 \part 当 $x = \sqrt{2}$ 时，求 $y$ 的值。
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
   \begin{aligned}
     & \mbox{当} x = \sqrt{2} \mbox{时} \\
@@ -725,30 +713,27 @@ $y$ 与 $3x$ 成正比例，当 $x=8$ 时，$y=-12$ ,则 $y$ 与 $x$ 的函数�
 #+LATEX: \begin{parts}
 \part
 双曲线的函数解析式；
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[.5in]
 $$y=\frac{8}{x}$$
 \end{solution}
 #+end_src
 
 \part
 $\triangle OAB$ 的面积；
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[.5in]
 \[ \S_{\triangle OAB} = \frac{|k|}{2} = \frac{8}{2} = 4 \]
 \end{solution}
 #+end_src
 
 \part
 $\triangle OAC$ 的面积；
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
   \begin{aligned}
     & \because S_{\triangle AOB} = S_{\triangle OCD} \\
@@ -797,10 +782,9 @@ m + \frac{1}{n} = - \frac{b}{a} = -1
 
 *** 解答题 4
 已知 $a$ , $b$ 是方程 $x^2 + x - 2009 = 0$ 的两个实数根，求 $a^2 + 2a + b$ 的值。
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
   \begin{aligned}
   & \begin{aligned}
@@ -820,10 +804,9 @@ m + \frac{1}{n} = - \frac{b}{a} = -1
 
 *** 解答题 5
 已知 $3m^{2} - 2m - 5 = 0$ , $5n^2 + 2n - 3 = 0$ , 其中 $m \cdot n$ 为实数，求 $|m - \frac{1}{n}|$ 的值。
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
   \begin{aligned}
   & \begin{aligned}
@@ -856,10 +839,9 @@ m + \frac{1}{n} = - \frac{b}{a} = -1
 
 *** 解答题 6
 已知实数 $m$ 、$n$ 满足 $m^{2} - 7m + 2 = 0$ , $n^{2} - 7n + 2 = 0$ , 求 $\frac{n}{m} + \frac{m}{n}$ 的值。
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
   \begin{aligned}
     & x^{2} - 7m + 2 = 0
@@ -880,10 +862,9 @@ m + \frac{1}{n} = - \frac{b}{a} = -1
 
 *** 解答题 7
 已知实数 $m$ 、$n$ , 满足 $19m^{2} + 99m + 1 = 0$ , $n^{2} + 99n + 19 = 0$ , $mn \neq 1$ 求 $\frac{mn+4m+1}{n}$ 的值。
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
   \begin{aligned}
   & \begin{aligned}
@@ -904,10 +885,9 @@ m + \frac{1}{n} = - \frac{b}{a} = -1
 
 *** 解答题 8
 若 $m$ 、$n$ 是方程 $x^2 + 2x - 7 = 0$ 的两个实数根，求：$m^3 - 5n^2 + n + 76$ 的值。
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
   \begin{aligned}
     & \because m n \mbox{是方程} x^2 + 2x - 7 = 0 \mbox{的两个实数根} \\
@@ -936,10 +916,9 @@ m + \frac{1}{n} = - \frac{b}{a} = -1
 #+LATEX: \begin{parts}
 \part
 $k$ 取何值时，方程存在两个正实数根？
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
   \begin{aligned}
     & \begin{cases}
@@ -955,10 +934,9 @@ $k$ 取何值时，方程存在两个正实数根？
 #+end_src
 
 \part 若方程的两根是一个矩形相邻两边的长，当矩形的对角线长是 $\sqrt{5}$ 时，求 $K$ 的值。
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
   \begin{aligned}
     & x_1^2 + x_2^2 = 5 \\
@@ -979,10 +957,9 @@ $k$ 取何值时，方程存在两个正实数根？
 
 #+LATEX: \begin{parts}
 \part 求 $k$ 的取值范围；
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
   \begin{aligned}
   & \begin{cases}
@@ -1006,10 +983,9 @@ $k$ 取何值时，方程存在两个正实数根？
 #+end_src
 
 \part 是否存在实数 $k$ ,使方程的两实根互为相反数？如果存在，求出 $k$ 的值；如果不存在，请你说明理由。
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
   \begin{aligned}
     & - \frac{2k-3}{k-1} = 0 \\
@@ -1104,10 +1080,10 @@ $Rt \triangle ABC$ 中，$\angle B = 90 \degree$ , $D$ 在 $BC$ 上，$DE \perp 
 下列四个命题的逆命题是假命题的是 \fillin[ C ]
 
 \begin{choices}
-\choice A. 直角三角形的两个锐角互余
-\choice B. 等腰三角形的两个底角相等
-\correctchoice C. 全等三角形的对应角相等
-\choice D. 相等的两个角是对顶角
+\choice 直角三角形的两个锐角互余
+\choice 等腰三角形的两个底角相等
+\correctchoice 全等三角形的对应角相等
+\choice 相等的两个角是对顶角
 \end{choices}
 
 *** 证明题 1
@@ -1137,6 +1113,7 @@ $Rt \triangle ABC$ 中，$\angle B = 90 \degree$ , $D$ 在 $BC$ 上，$DE \perp 
 #+end_src
 
 #+begin_src latex
+\begin{solution}
 \[
   \begin{aligned}
     & \begin{rcases}
@@ -1151,6 +1128,7 @@ $Rt \triangle ABC$ 中，$\angle B = 90 \degree$ , $D$ 在 $BC$ 上，$DE \perp 
     \Rightarrow & CD \pxx PQ
   \end{aligned}
 \]
+\end{solution}
 #+end_src
 
 *** 证明2
@@ -1179,10 +1157,9 @@ $Rt \triangle ABC$ 中，$\angle B = 90 \degree$ , $D$ 在 $BC$ 上，$DE \perp 
 
 #+LATEX: \begin{parts}
 \part 求证： $DE=CE$
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
   \begin{aligned}
                & \mbox{延长} DC \mbox{交} AB \mbox{于} F \\
@@ -1201,13 +1178,9 @@ $Rt \triangle ABC$ 中，$\angle B = 90 \degree$ , $D$ 在 $BC$ 上，$DE \perp 
 #+end_src
 
 \part 若 $C$ 在 $\triangle ADB$ 外部， $DE=CE$ 的关系是否成立？如不成立，请说明理由，如成立请证明。
-\vspace*{1in}
-
-
-#+LATEX: \end{parts}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 
 \begin{tikzpicture}
 \coordinate (C) at (0,3.5);
@@ -1244,7 +1217,68 @@ $Rt \triangle ABC$ 中，$\angle B = 90 \degree$ , $D$ 在 $BC$ 上，$DE \perp 
 \end{solution}
 #+end_src
 
+#+LATEX: \end{parts}
+
+
 * 周测
+** 周测1
+*** 选择题 5
+等腰直角三角形 $ABC$ 位于第一象限，$AB=AC=2$ ,直角顶点 $A$ 在直线 $y=x$ 上，
+其中$A$点的横坐标为 $1$ ,且两条直角边 $AB$ 、 $AC$ 分别平行于 $x$ 轴、$y$ 轴，
+若双曲线 $y= \frac{k}{x}(k \neq 0)$ 与 $\triangle ABC$ 有交点，
+则k的取值范围是 \fillin
+
+#+begin_src latex
+\begin{tikzpicture}[scale=0.5]
+\draw[->](-1,0)--(4.5,0) node at (5,0){$x$};
+\draw[->](0,-1)--(0,4.5) node at (0,5){$y$};
+
+\coordinate (A) at (1,1);
+\coordinate (B) at (3,1);
+\coordinate (C) at (1,3);
+
+\draw[domain=-1:3] plot(\x,\x);
+\draw (A) -- (B) -- (C) -- cycle;
+
+\draw[domain=0.7:4.1] plot(\x,{2.5/\x});
+
+\foreach \i/\angle in {A/120,B/-90,C/45} {
+    \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+
+\end{tikzpicture}
+#+end_src
+
+\begin{oneparchoices}
+\choice $1 < k < 2$
+\choice $1 \leq k \leq 3$
+\correctchoice $1 \leq k \leq 4$
+\choice $1 \leq k < 4$
+\end{oneparchoices}
+
+*** 填空题 6                                                      :no_answer:
+实数范围内因式分解: $2x^2y^2 - 3xy - 1=$ \fillin[ ]
+
+*** 填空题 11
+设反比例函数 $y=-6x^{1}$ , 当 $-6 \leq x \leq -2$ 时，函数的最大值是 \fillin[3]
+
+*** 简答题 17
+解方程: $2x(x-2)=x^{2}-3$
+
+#+begin_src latex
+\begin{solution}[.5in]
+\[
+  \begin{aligned}
+    & 2x^{2} - 4x = x^{2} - 3 \\
+    & x^{2} - 4x + 3 = 0 \\
+    & x - 3 = 0 \qquad x - 1 = 0 \\
+    & x = 3 \qquad x = 1 \\
+    \therefore & \mbox{方程的解为} x_{1} = 1 \quad x_{2} = 3
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
+
 * 十每
 ** 十每（第二周）
 *** 问答题3
@@ -1254,10 +1288,9 @@ $Rt \triangle ABC$ 中，$\angle B = 90 \degree$ , $D$ 在 $BC$ 上，$DE \perp 
 #+LATEX: \begin{parts}
 \part
 当 $a=25$ 时，求矩形仓库的长与宽分别为多少？
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
   \begin{aligned}
   & \mbox{设垂直于墙为} x \\
@@ -1275,10 +1308,9 @@ $Rt \triangle ABC$ 中，$\angle B = 90 \degree$ , $D$ 在 $BC$ 上，$DE \perp 
 
 \part
 题中的墙长 $a$ 对矩形仓库的长与宽有怎样的影响？请具体说明。
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
   \begin{aligned}
     & \mbox{当} a \geq 20 \mbox{时} \quad \mbox{两者都行} \\
@@ -1315,10 +1347,9 @@ $Rt \triangle ABC$ 中，$\angle B = 90 \degree$ , $D$ 在 $BC$ 上，$DE \perp 
 1. 如果人数超过25人，人均旅游费用为1000元，
 2. 如果人数超过25人，每增加1人，人均旅游费用降低20元，但人均旅游费用不得低于700元．
 某单位组织员工去天水湾风景区旅游，共支付给春秋旅行社旅游费用27000元．请问该单位这次共有多少员工去天水湾风景区旅游？
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
   \begin{aligned}
     & \mbox{设有} x \mbox{人参加} \\
@@ -1362,10 +1393,9 @@ $Rt \triangle ABC$ 中，$\angle B = 90 \degree$ , $D$ 在 $BC$ 上，$DE \perp 
 
 \part
 若超过 $50$ 元但是不超过 $80$ 元，售价为多少时 利润可达到 $7200$ 元
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \[
   \begin{aligned}
     & \begin{aligned} 
@@ -1384,10 +1414,9 @@ $Rt \triangle ABC$ 中，$\angle B = 90 \degree$ , $D$ 在 $BC$ 上，$DE \perp 
 
 \part
 若超过 $80$ 元，售价为多少时利润为 $7500$ 元。
-\vspace*{1in}
 
 #+begin_src latex
-\begin{solution}
+\begin{solution}[1in]
 \end{solution}
 #+end_src
 

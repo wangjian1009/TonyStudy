@@ -14,6 +14,8 @@
 #+LATEX_HEADER: \usepackage{ulem}
 #+LATEX_HEADER: \usepackage{tikz}
 #+LATEX_HEADER: \usepackage{tkz-euclide}
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LATEX_HEADER: \usepackage{subfigure}
 #+LATEX_HEADER: \newcommand\epart{\part}
 #+LATEX_HEADER: \newcommand\degree{^\circ}
 #+LATEX_HEADER: \renewcommand{\solutiontitle}{\noindent\textbf{解：}\par\noindent}
@@ -1312,6 +1314,11 @@ $D$ 为射线 $BC$ 上的一点，且 $PB=PD$ ,
 过 $D$ 点作 $AC$ 边上的高 $DE$ .
 
 #+begin_src latex
+\begin{figure}[htbp]
+\centering
+\subfigure {
+\begin{minipage}[b]{0.4\linewidth}
+\centering
 \begin{tikzpicture}[scale=1.5]
 
 \coordinate (A) at (0,2);
@@ -1330,9 +1337,12 @@ $D$ 为射线 $BC$ 上的一点，且 $PB=PD$ ,
 \foreach \i/\angle in {A/90,B/-180,C/-90,O/45,P/45,D/-90,E/45} {
     \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
 }
-
 \end{tikzpicture}
-
+\end{minipage}
+}
+\subfigure {
+\begin{minipage}[b]{0.4\linewidth}
+\centering
 \begin{tikzpicture}[scale=1.5]
 
 \coordinate (A) at (0,2);
@@ -1353,17 +1363,34 @@ $D$ 为射线 $BC$ 上的一点，且 $PB=PD$ ,
 \foreach \i/\angle in {A/90,B/-180,C/-90,O/45,P/45,D/-90,E/-90} {
     \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
 }
-
 \end{tikzpicture}
+\end{minipage}
+}
+\end{figure}
 #+end_src
 
 #+LATEX: \begin{parts}
 \part 探索当 $D$ 在线段 $BC$ 上或当 $D$ 在 $BC$ 延长线上时， $PE$ 与 $BO$ 分别有什么数量关系？说明理由；
 
+#+begin_src latex
+\begin{solution}[.5in]
+\end{solution}
+#+end_src
+
 \part 设 $AC=8$ , $AP=x$ , $S_{\triangle PBD}=y$ , 求 $y$ 与 $x$ 之间的函数关系式，并写出自变量 $x$ 的取值范围:
+
+#+begin_src latex
+\begin{solution}[.5in]
+\end{solution}
+#+end_src
 
 \part 是否存在这样的 $P$ 点，是的 $\triangle PBD$ 的面积是 $\triangle ABC$ 面积的 $\frac{3}{8}$ ?
 如果存在，求出 $AP$ 的长；如果不存在，请说明理由。
+
+#+begin_src latex
+\begin{solution}[1in]
+\end{solution}
+#+end_src
 
 #+LATEX: \end{parts}
 

@@ -1079,7 +1079,7 @@ $\triangle ABD$ 的周长为 $12cm$ , $AC=5cm$,则 $\triangle ABC$ 的周长为 
 \end{solution}
 #+end_src
 
-*** 问答题  16
+*** 问答题 16                                                     :no_answer:
 已知如图, $CD$ 是 $RT \triangle ABC$ 斜边上的高， $\triangle A$ 的平分线交 $CD$ 于 $H$ , 交 $\angle BCD$ 的平分线于 $G$ ,
 求证： $HF \pxx BC$ .
 
@@ -1123,6 +1123,127 @@ $\triangle ABD$ 的周长为 $12cm$ , $AC=5cm$,则 $\triangle ABC$ 的周长为 
 }
 \end{tikzpicture}
 #+end_src
+
+#+begin_src latex
+\begin{solution}
+\[
+  \begin{aligned}
+    & \angle A \mbox{的平分线，} \angle ADC = \angle ACE = 90 \degree \\
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+*** 问答题 17                                                     :no_answer:
+已知在 $RT \triangle ABC$ 中， $\angle BAC = 90 \degree$ , $AD$ 是斜边 $BC$ 上的高， $BF$ 平分 $\angle ABC$ , 
+交 $AC$ 于点 $F$ 交 $AD$ 于点 $E$ , $EG \pxx BC$ 交 $AC$ 于点 $G$ , 求证 $AF=CG$
+
+#+begin_src latex
+\begin{tikzpicture}
+
+\coordinate (B) at (0, 0);
+\coordinate (C) at (4, 0);
+\coordinate (A) at ($(C)!(B)!($(C)!1!-55:(B)$)$);
+\coordinate (D) at ($(B)!(A)!(C)$);
+
+% 求角 CAB 的平分线的交点
+\path (B) [name path=CircleB] circle (1); 
+\path [name path=a1] (B) -- (A);
+\path [name path=a2] (B) -- (C);
+\fill[name intersections={of=CircleB and a1,by=B1},
+      name intersections={of=CircleB and a2,by=B2}];
+\coordinate (F) at (intersection of B--$(B)!5!($(B1)!.5!(B2)$)$ and A--C);
+\coordinate (E) at (intersection of B--F and A--D);
+
+% 平行线
+\coordinate (G) at (intersection of E--$($(E) - (B)$) + (C)$
+                                 and A--C);
+
+% 画线
+\draw (A) -- (B) -- (C) -- cycle
+(A) -- (D)
+(B) -- (F)
+(E) -- (G)
+;
+
+% 标点
+\foreach \i/\angle in {A/-135,B/-45,C/90,D/45,E/135,F/45,G/45} {
+  \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+\end{tikzpicture}
+#+end_src
+
+#+begin_src latex
+\begin{solution}
+\[
+  \begin{aligned}
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+*** 问答题 18                                                     :no_answer:
+$AD$ 是等腰三角形 $ABC$ 底边上的高，$E$ , $F$ 为 $AD$ 上的两点， 且 $\angle ABE = \angle EBF = \angle FBC$ ,
+连接 $CF$ 并延长交 $AB$ 于点 $G$.
+
+#+begin_src latex
+\begin{tikzpicture}
+
+\coordinate (B) at (0, 0);
+\coordinate (C) at (2.5, 0);
+\coordinate (A) at (intersection of B--$(B)!2!69:(C)$
+                                 and C--{$(C)!2!-69:(B)$});
+\coordinate (D) at ($(B)!.5!(C)$);
+
+\coordinate (E) at (intersection of B--$(B)!1!46:(C)$
+                                 and A--D);
+
+\coordinate (F) at (intersection of B--$(B)!1!23:(C)$
+                                 and A--D);
+
+\coordinate (G) at (intersection of C--$(C)!3!(F)$
+                                 and A--B);
+
+% 画线
+\draw (A) -- (B) -- (C) -- cycle
+(A) -- (D)
+(C) -- (G)
+(B) -- (E)
+(B) -- (F)
+(G) -- (E)
+;
+
+% 标点
+\foreach \i/\angle in {A/90,B/-135,C/-45,D/-90,E/45,F/45,G/135} {
+  \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+\end{tikzpicture}
+#+end_src
+
+#+LATEX: \begin{parts}
+\part 求证 $\triangle GBF$ 为等腰三角形
+
+#+begin_src latex
+\begin{solution}[1in]
+\[
+  \begin{aligned}
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+\part 求证 $GE \pxx BF$
+
+#+begin_src latex
+\begin{solution}[1in]
+\[
+  \begin{aligned}
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+#+LATEX: \end{parts}
 
 * 复习卷
 ** 期中复习（几何）
@@ -1599,6 +1720,137 @@ $\angle PAB$ 的角平分线 $AE$ 与线段 $PB$ 的垂直平分线 $CD$ 交于�
 作 $DF$ 垂直 $AB$ 于点 $F$ ,请求点 $D$ 的横坐标。
 
 * 十每
+** 十每
+*** 问答题 1
+如图， $\triangle ABC$ 是边长为 $4$ 的等边三角形， $\triangle BCD$ 是顶角 $\angle BCD=120 \degree$ 的等腰三角形，
+以 $D$ 为定点做一个 $60 \degree$ 的角，角的两边交 $AB$ , $AC$ 于 $M$ 、 $N$ 两点，连 $MN$ ，
+求 $\triangle AMN$ 的周长?
+
+#+name: pic.十每.1.base
+#+begin_src latex :exports none
+\coordinate (B) at (0, 0);
+\coordinate (C) at (2.5, 0);
+\coordinate (A) at ($(B)!1!60:(C)$);
+
+\coordinate (D) at (intersection of B--$(B)!2!-30:(C)$
+                                 and C--{$(C)!2!30:(B)$});
+
+\coordinate (M) at (intersection of D--$(D)!1!45:(A)$
+                                 and A--B);
+
+\coordinate (N) at (intersection of D--$(D)!2!-60:(M)$ and C--A);
+
+% 画线
+\draw (A) -- (B) -- (C) -- cycle
+(B) -- (D) -- (C)
+(D) -- (M) -- (N) -- cycle
+;
+
+% 标点
+\foreach \i/\angle in {A/90,B/-135,C/-45,D/-90,M/135,N/0} {
+  \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+#+end_src
+
+#+begin_src latex :noweb yes
+\begin{tikzpicture}
+<<pic.十每.1.base>>
+\end{tikzpicture}
+#+end_src
+
+#+begin_src latex :noweb yes
+\begin{solution}
+
+\begin{tikzpicture}
+<<pic.十每.1.base>>
+\coordinate (E) at (intersection of D--$(C)+($(D)-(B)$)$ and C--A);
+
+\draw [dashed] (C) -- (E) -- (D);
+
+% 标点
+\foreach \i/\angle in {E/0} {
+  \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+
+\end{tikzpicture}
+
+\[
+  \begin{aligned}
+  & \mbox{延长} AC \mbox{至} E, \quad CE=MB, \quad \mbox{连结} ED \\
+  & \because \angle MDN = 60 \degree, \angle BDC = 120 \degree \\
+  & \therefore \angle DCN = \angle ABD = 90 \degree \\
+  & \therefore \angle DCE = 90 \degree \\
+  & \mbox{在} \triangle MBD \mbox{和} \triangle DCE \mbox{中} \\
+  & \begin{cases}
+      & DC = DB \\
+      & CE = MB \\
+      & \angle DCE = \angle MBD
+    \end{cases} \\
+  & \therefore \triangle MBD \cong \triangle ECD \\
+  & \therefore MD = DE \\
+  & \mbox{在} \triangle MDN \mbox{和} \triangle EDN \mbox{中} \\
+  & \begin{cases}
+      & MD = DE \\
+      & DN = DM \\
+      & \angle MDN = \angle EDN
+    \end{cases} \\
+  & \therefore \triangle MDN \cong \triangle EDN \\
+  & \therefore MN = BM + NC \\
+  & \therefore \triangle AMN \mbox{的周长为} 8
+  \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+#+RESULTS:
+#+begin_export latex
+\begin{solution}
+
+\begin{tikzpicture}
+\coordinate (B) at (0, 0);
+\coordinate (C) at (2.5, 0);
+\coordinate (A) at ($(B)!1!60:(C)$);
+
+\coordinate (D) at (intersection of B--$(B)!2!-30:(C)$
+                                 and C--{$(C)!2!30:(B)$});
+
+\coordinate (M) at (intersection of D--$(D)!1!45:(A)$
+                                 and A--B);
+
+\coordinate (N) at (intersection of D--$(D)!2!-60:(M)$ and C--A);
+
+% 画线
+\draw (A) -- (B) -- (C) -- cycle
+(B) -- (D) -- (C)
+(D) -- (M) -- (N) -- cycle
+;
+
+% 标点
+\foreach \i/\angle in {A/90,B/-135,C/-45,D/-90,M/135,N/0} {
+  \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+\coordinate (E) at (intersection of D--$(C)+($(D)-(B)$)$ and C--A);
+
+\draw [dashed] (C) -- (E) -- (D);
+
+% 标点
+\foreach \i/\angle in {E/0} {
+  \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+
+\end{tikzpicture}
+
+\[
+  \begin{aligned}
+  & \mbox{延长} AC \mbox{至} E, \quad CE=MB, \quad \mbox{连结} ED \\
+  & \because \angle MDN = 60 \degree, \angle BDC = 120 \degree \\
+  & \therefore \angle DCN = \angle ABD = 90 \degree \\
+  & \therefore \angle DCE = 90 \angle \\
+  \end{aligned}
+\]
+\end{solution}
+#+end_export
+
 ** 十每（第二周）
 *** 问答题3
 要建造一个面积为 $150$ 平方米的矩形仓库，为了节省原料，仓库的一边靠墙，墙长为 $a$ 米，

@@ -496,6 +496,21 @@
 
 #+LATEX: \end{parts}
 
+** 期中考试
+*** 选择题 4
+已知关于 $x$ 的方程 $(x+1)^{2} + a(x+1)+2=0$ 的两个实数根为 $m$ , $n$ 
+则关于 $y$ 的方程 $2y^{2} + ay + 1 = 0$ 的根的情况是 \fillin
+
+\begin{oneparchoices}
+\choice $m+1$ , $n+1$
+\choice $m-1$ , $n-1$
+\choice $\frac{1}{m + 1}$ , $\frac{1}{n + 1}$
+\choice $\frac{1}{m - 1}$ , $\frac{1}{n - 1}$
+\end{oneparchoices}
+
+*** 填空题 18                                                     :no_answer:
+已知 $a$ , $b$ 是实数，且$(\sqrt{1+a^{2}} + a)(\sqrt{1+b^{2}}+b)=1$ , 问 $a$ , $b$ 之间有怎样的关系： \fillin[]
+
 * 专项练习
 ** 正比例函数和反比例函数
 *** 填空 1
@@ -1850,6 +1865,37 @@ $\angle PAB$ 的角平分线 $AE$ 与线段 $PB$ 的垂直平分线 $CD$ 交于�
 \]
 \end{solution}
 #+end_export
+
+*** 问答题 P2-2
+如图，已知 $\triangle ABC$ 是等边三角形，点 $D$ 在边 $BC$ 上， $DE \pxx AB$ 交 $AC$ 于 $E$ , 延长 $DE$ 至点 $E$ ,
+使 $EF=AE$ ,联结 $AF$ 、 $BE$ 和 $CF$ .
+
+#+begin_src latex
+\begin{tikzpicture}
+\coordinate (B) at (0, 0);
+\coordinate (C) at (2.5, 0);
+\coordinate (A) at ($(B)!1!60:(C)$);
+\coordinate (D) at ($(B)!.7!(C)$);
+% 画线
+\draw (A) -- (B) -- (C) -- cycle;
+
+% 标点
+\foreach \i/\angle in {A/-180,B/-135,C/-45,D/-90} {
+  \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+}
+
+\end{tikzpicture}
+#+end_src
+
+#+latex: \begin{parts}
+
+\part 求证： $\triangle EDC$ 是等边三角形；
+
+\part 找出图中所有的全等三角形，用符号“二”表示，并对其中的一组加以证明；
+
+\part 若 $BE \perp AC$ , 试说明点 $D$ 在 $BC$ 上的位置．
+
+#+latex: \end{parts}
 
 ** 十每（第二周）
 *** 问答题3

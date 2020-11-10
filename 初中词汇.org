@@ -14,7 +14,8 @@
 * （一）单词（Vocabulary)
 ** A
 *** able 
-\fillin[able   /'erbl/]- adj.  能够的；有能力的
+\fillin[able   /'erbl/]
+- adj.  能够的；有能力的
 :EXAMPLE:
   - be ~ to do sth = can do sth   会；能
 :END:
@@ -2249,8 +2250,86 @@
 :EXAMPLE:
   - 行为v. ~ + (\dotuline{to}) \dotuline{do} sth \\
     情态v. ~ + \dotuline{do} sth
-  - 行为v. Tom \dotuline{dares} (to) \dotuline{go} out at night.
+  - 1. 
+    - -- 行为v. Tom \dotuline{dares} (to) \dotuline{go} out at night.
+    - +情态v. Tom dare go out at nigh+
+  - 2. 
+    - 行为 v. -- Does Tom dare (to) go out..? \\
+      -- Yes, he does./ No,he doesn't
+    - 情态 v. -- Dare Tom go out..? \\
+      -- Yes, he dare./No, he daran't
+  - 3.
+    - 行为 v. Tom doesn't dare (to) go out..
+    - 情态 v. Tom daren't go out..
 :END:
+*** dark
+\fillin[dark /da:k/]
+- n. [U] 黑暗；黑色
+:EXAMPLE:
+  - disappear in the ~ 消失在黑暗之中
+:END:
+- adj. 黑暗的；黑色的
+:EXAMPLE:
+  - a ~ house 昏暗的屋子
+  - a ~ red dress 深红色的长裙
+:END:
+*** date
+\fillin[date  /dert/]
+- n. [pl.-s] 日期；约会
+:EXAMPLE:
+  - What's the ~ today? 今天几号？
+  - have a ~ with sb 与···约会
+:END:
+*** daughter
+\fillin[daughter /'do:tə/]
+- n. [pl.-s] 女儿
+*** day
+\fillin[day /der/]
+- n. [pl.-s] 天；日；白天
+*** dead
+\fillin[dead /ded/]
+- adj. 死的；无生命的
+:EXAMPLE:
+  - We sweep tombs in honor of the ~. 扫墓是为了悼念故人。
+  - be dead(持续）die(短暂）
+    - Jobs died a few years ago.
+    - Jobs has been dead for a few years.
+:END:
+*** deal
+\fillin[deal /di:l/]
+- v. 处理；应对；解决
+:EXAMPLE:
+  - (dealt; dealt/delt/)
+  - How/What -do you dea! with study stres?
+  - Hotw/What do you do with...? 你如何应对学习压力？
+:END:
+- n. 交易；大量
+:EXAMPLE:
+  - make a ~ with sb  与···达成一笔交易
+  - a great ~ of + [U][C,pl.]  大量的
+    = a huge amount of
+:END:
+*** dear
+\fillin[dear /diə/]
+- adj. 亲爱的；昂贵的
+:EXAMPLE:
+  = expensive
+:END:
+*** death
+\fillin[death /deθ/]
+- n. 死亡；逝世
+:EXAMPLE:
+  - the ~ of Jobs Jobs的去世
+:END:
+*** debate
+\fillin[debate /dr'bert/]
+- v.,n. 辩论；讨论
+:EXAMPLE:
+  - ~ with sb =have a ~ with sb
+:END:
+*** December
+\fillin[December /dr'sembə/]
+- n. 十二月
 *** decide
 \fillin[decide]
 - v. 决定；决心
@@ -7244,4 +7323,347 @@
   - a. ~ Chinese dream 实现中国梦
   - b. He has ~d his dream.
     =His dream has been-d/has come true.
+  - c. I ~ that I was wrong. 我意识到自己错了。
+:END:
+*** reason
+\fillin[reason /'rizn/]
+- n. [pl.-s] 原因；理由；解释
+:EXAMPLE:
+  - give a ~ for sth 说明原因
+  - Linda left her job for a personal ~. 出于个人原因，Linda辞去了工作。
+:END:
+*** rebuild
+\fillin[rebuild /ri:'bild/]
+- v. 重建；再建
+:EXAMPLE:
+  - (rebuilt; rebuilt)
+:END:
+*** receive
+\fillin[receive /rr'si:v/]
+- v. 收到；接收；接待
+:EXAMPLE:
+  - ~ a letter from sb=hear from sb
+  - I ~d his inuitation to dimmer but didn't accept it. 我收到了他的宴请，但没有接受（没有赴宴）。
+:END:
+*** recent
+\fillin[recent /'ri:snt/]
+- adj. 最近的；近来的
+:EXAMPLE:
+  - a ~ photo/graduate 近照／刚毕业的学生
+  - Many changes have taken place in ~ years.
+:END:
+*** recently
+\fillin[recently /'ri:sntli/]
+- adv. 最近；近来
+:EXAMPLE:
+  - (＋have/has done)
+:END:
+*** recognize
+\fillin[recognize /'rekagnaiz/]
+- v. 辨认出；公认
+:EXAMPLE:
+  - It's you, Tom. I +don't+ didn't ~ you. 是你呀，Tom.我（刚才）没认出你。
+:END:
+*** record
+\fillin[record /'reko:d/]
+- n. [pl.-s] 记录；纪录；唱片
+:EXAMPLE:
+  - keep a ~ of 记下；记录
+  - break a world ~ 破世界纪录
+  - a ~ company 一家唱片公司
+:END:
+- v. 记录；录像；录音
+:EXAMPLE:
+  - ~ a new song/conversation/show  录制新歌／录音交谈／录像演出
+:END:
+*** red
+\fillin[red /red/]
+- n.,adj. 红色（的）
+*** reduce
+\fillin[reduce /rr'dju:s/]
+- v. 减少；降低
+:EXAMPLE:
+  - ~ air pollution/costs=cut
+:END:
+*** refer
+\fillin[refer /rn'fa:/]
+- v. 参考；指代；提及；论述
+:EXAMPLE:
+  - (referred; referred)
+  - a. ~ to my class note 参考课堂笔记
+  - b. ~ to the dictionary 查阅词典
+  - c. ~ to sb/sth 指代、提及
+:END:
+*** reference
+\fillin[reference /'refrəns/]
+- n. 参考
+:EXAMPLE:
+  - ~ books 参考书
+:END:
+*** refuse
+\fillin[refuse /rn'fju:z/]
+- v. 拒绝；不愿
+:EXAMPLE:
+  - ~ ＋ to do sth
+  - ~ an invitation
+:END:
+*** regular
+\fillin[regular /'regjələ/]
+- adj. 规则的；有规律的 经常的；频繁的
+:EXAMPLE:
+  - ~ verbs 规则动词
+  - take ~ exercise 经常运动
+  - a ~ customer 常客；老主顾
+:END:
+*** relative
+\fillin[relative /'relətiv/]
+- n. [pl.-s] 亲戚；亲属
+:EXAMPLE:
+  - My aunt,uncle and cousins are all -s.
+:END:
+*** relationship
+\fillin[relationship /rr'lerfnfrp/]
+- n. [U,C] 关系
+:EXAMPLE:
+  - (relation n.)
+  - What's the probable ~ between the two speakers? 两个说话人之间可能是什么关系？
+:END:
+*** relax
+\fillin[relax /rr'laæks/]
+- v. 放松；休息
+:EXAMPLE:
+  - I like to ~ my self by listening to music. 我喜欢听听音乐，放松放松。
+:END:
+*** rely
+\fillin[rely /rr'lai/]
+- v. 依靠；信任
+:EXAMPLE:
+  - ~ on sb=depend on
+:END:
+*** remember
+\fillin[remember /ri'membə/]
+- v. 记得；回想起
+:EXAMPLE:
+  - ~ ＋ to do sth 记住（将要做的）
+  - ~ ＋ doing sth 记得（曾经做过的）
+:END:
+*** repair
+\fillin[repair /rr'peə/]
+- v.=fix 修理；修复
+*** repeat
+\fillin[repeat /rr'pi:t/]
+- v. 重复；再说（做）
+:EXAMPLE:
+  - ~ ＋ doing sth
+  - Pardon? Will you please ~ that again?
+:END:
+*** reply
+\fillin[reply /ri'plai/]
+- n. [pl.-lies] 回答；答复
+:EXAMPLE:
+  - =answer/response
+  - give a ~ to sb 答复；回信
+:END:
+- v. 回复
+:EXAMPLE:
+  - ~ to sb=answer to-sb 回答；回信
+:END:
+*** report
+\fillin[report /rr'po:t/]
+- n. [pl.-s] 报道；报告；成绩单
+- v. 报道；报告
+:EXAMPLE:
+  - listen to news ~s 收听新闻报道
+  - It is ~ed that... 据报道···
+:END:
+*** reporter
+\fillin[reporter /rr'po:tə/]
+- n. [pl.-s] 记者
+:EXAMPLE:
+  - =journalist
+:END:
+*** republic
+\fillin[republic /ri'pablik/]
+- n. 共和国
+*** ring
+\fillin[ring /rm/]
+- n. [pL-s] 通话；戒指；铃声；环状物
+:EXAMPLE:
+  - give sb a ~ (BrE)=give sb a call 
+:END:
+- v 电话响；打电话
+:EXAMPLE:
+  - (rang /raæn/; rung /ran/)
+  - ~ sb (up) = call sb(up) 给···打电话
+:END:
+*** rise
+\fillin[rise /raiz/]
+- v. 上升；上涨；起立；起床
+:EXAMPLE:
+  - (rose/rəuz/; risen/'rizn/)
+  - a. The prices are rising/raising now.
+  - b. The Sun-s/raises-in the east.
+  - c. Tom rose from his desk.=stood up
+:END:
+*** river
+\fillin[river /'rivə/]
+- n. [pl.-s] 江；河
+:EXAMPLE:
+  - the Yangtze River 长江；扬子江
+:END:
+*** road
+\fillin[road /rəud/]
+- n. [pl.-s] 路；道路；街道
+*** roast
+\fillin[roast /raust/]
+- v. 烘烤
+:EXAMPLE:
+  - ~ chicken/meat 烤鸡／烤肉
+  - Beijing ~ duck 北京烤鸭
+:END:
+*** rob
+\fillin[rob /rpb/]
+- v. 抢劫
+:EXAMPLE:
+  - (-bed;-bed,-bing)
+:END:
+*** robbery
+\fillin[robbery /'rpbəri/]
+- n. [pl.-ries] 抢劫案；劫案
+:EXAMPLE:
+  - A ~ happened near the bank.
+:END:
+*** robot
+\fillin[robot /'rəubpt/]
+- n. [pl.-s] 机器人
+*** rock
+\fillin[rock /rok/]
+- n. [pl.-s] 岩石；大石块
+*** rocket
+\fillin[rocket /'rokit/]
+- n. [pl.-s] 火箭
+:EXAMPLE:
+  - China sent up another ~ into space. 中国向太空又发射了一枚火箭。
+:END:
+*** room
+\fillin[room /ru:m/]
+- n. [pl.-s] 房间；室
+:EXAMPLE:
+  - [U]=space 空间；空地方
+  - We'll have to make much ~ for the piano. 我们得腾出一大块地方放钢琴。
+:END:
+*** root
+\fillin[root /ru:t/]
+- n. [pl.-s] (植物）根；根源；起源
+:EXAMPLE:
+  - Money is the ~ of all bad things. 金钱乃万恶之源。
+  - Jazz music has its ~s in Africa. 爵士乐起源于非洲。
+:END:
+*** rope
+\fillin[rope /rəup/]
+- n. [U,C] 绳子
+:EXAMPLE:
+  - jump ~. 跳绳（运动）
+  - tie sb with ~ 用绳子捆绑
+:END:
+*** rose
+\fillin[rose /rəuz/]
+- n. [pl.-s] 玫瑰花
+*** rough
+\fillin[rough /raf/]
+- adj. 粗躁、崎岖
+:EXAMPLE:
+  - ~ skin 粗糙的皮肤
+  - ~ road 崎岖的道路
+  - ~ sea 风急浪高的大海
+:END:
+*** round
+\fillin[round /raund/]
+- adj. 圆的；圆形的
+- prep.,adv. 在周围；环绕；旋转
+:EXAMPLE:
+  - =around 
+:END:
+*** row
+\fillin[row /rəu/]
+- n. [pl.-s] 排；行
+:EXAMPLE:
+  - ~ s of trees 一排排树木
+  - sit in the front/back ~ 坐在前／后排
+:END:
+*** rubbish
+\fillin[rubbish /'rabif/]
+- n. [U] 垃圾；废物；废话
+*** rule
+\fillin[rule /ru:l/]
+- n. [pl.-s] 规章；规定
+:EXAMPLE:
+  - follow/break the ~ 遵守／违反规章
+:END:
+- v. 统治；控制
+:EXAMPLE:
+  - Queen Elizabeth II has ~d England for years. 女王伊丽莎白二世统治英国多年。
+:END:
+*** run
+\fillin[run /rAn/]
+- n. [C] 跑步（的时间、路程）
+:EXAMPLE:
+  - I often go for a ~ . 我经常跑步锻炼。
+  - The school is a five-minute ~. 跑步5分钟就可到学校。
+:END:
+- v. 奔跑；经营；管理
+:EXAMPLE:
+  - (ran,run,running)
+  - ~ a hotel/company 开旅店／办公司
+:END:
+*** rush
+\fillin[rush /raf/]
+- v. 冲；奔
+:EXAMPLE:
+  - The girl cried and ~ed out of her room.
+:END:
+** S
+*** sad
+\fillin[sad /saæd/]
+- adj. 悲伤的；难过的
+*** sadly
+\fillin[sadly /'sædli/]
+- adv. 不幸地；伤心地；忧伤地
+:EXAMPLE:
+  - Her mum shook her head ~.
+  - Sadly, Helen lost her leg in the accident.
+    = Unluckily/Un fortunately
+:END:
+*** safe
+\fillin[safe /serf/]
+- adj. 安全的；平安的
+- n. [C,pl.-s] 保险柜；保险箱
+*** safely
+\fillin[safely /'serfli/]
+- adv. 安全地；平安地
+:EXAMPLE:
+  - The plane landed ~. 安全降落
+:END:
+*** safety
+\fillin[safety /'seifti/]
+- n. [U] 安全；安全地方
+:EXAMPLE:
+  - food / road ~ 食品安全／道路安全
+:END:
+*** salad
+\fillin[salad /'sæləd/]
+- n. [U] 色拉
+*** salary
+\fillin[salary /'sæləri/]
+- n. [pl.-ries]  月薪；薪水
+:EXAMPLE:
+  - My father's ~ is $4000 per month.
+:END:
+*** sale
+\fillin[sale /seil/]
+- n. 折价销售；卖
+:EXAMPLE:
+  - (sell v.)
+  - This house is for ~. 此房待售。
+  - Most goods are on ~ at Christmas.多数
 :END:

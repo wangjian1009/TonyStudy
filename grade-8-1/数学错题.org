@@ -504,12 +504,129 @@
 \begin{oneparchoices}
 \choice $m+1$ , $n+1$
 \choice $m-1$ , $n-1$
-\choice $\frac{1}{m + 1}$ , $\frac{1}{n + 1}$
+\correctchoice $\frac{1}{m + 1}$ , $\frac{1}{n + 1}$
 \choice $\frac{1}{m - 1}$ , $\frac{1}{n - 1}$
 \end{oneparchoices}
 
 *** 填空题 18                                                     :no_answer:
-已知 $a$ , $b$ 是实数，且$(\sqrt{1+a^{2}} + a)(\sqrt{1+b^{2}}+b)=1$ , 问 $a$ , $b$ 之间有怎样的关系： \fillin[]
+已知 $a$ , $b$ 是实数，且$(\sqrt{1+a^{2}} + a)(\sqrt{1+b^{2}}+b)=1$ , 问 $a$ , $b$ 之间有怎样的关系： \fillin[ $a+b=0$ ]
+
+*** 解答题 25
+某文具店有一种练习簿出售，每本的成本价为 $2$ 元，在销售的过程中价格有些调整，
+按原来的价格每本 $8.25$ 元，卖出 $36$ 本；经过两次涨价，按第二次涨价后的价格卖出了 $25$ 本．
+发现按原价格和第二次涨价后的价格销售，分别获得的销售利润恰好相等。
+
+#+latex: \begin{parts}
+\epart 求第二次涨价后每本练习簿的价格；
+
+#+begin_src latex
+\begin{solution}[1in]
+\[
+   \begin{aligned}
+   & \mbox{设第二次} x \mbox{元} \\
+   & (8.25 - 2) \times 36 = 25x - 50 \\
+   & 6.26 \times 36 = 25x - 50 \\
+   & x = 11
+   \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+\epart
+在两次涨价过程中，假设每本练习簿平均获得利润的增长率完全相同，求这个增长率．
+\[
+\mbox{注:} \mbox{利润增长率} = \frac{( \mbox{后一次的利润} - \mbox{前一次的利润} )}{ \mbox{前一次的利润} } \times 100\%
+\]
+
+#+begin_src latex
+\begin{solution}[1in]
+\[
+   \begin{aligned}
+   & (8.25 - 2)(1 + y)^{2} = 11 - 2 \\
+   13.5y + 6.25 + 6.25y^2 = 9 \\
+   6.25y^{2} + 13.5y - 2.75 = 0 \\
+   25y^{2} + 54y - 11 = 0 \\
+   y = 0.2
+   \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+#+latex: \end{parts}
+
+*** 解答题 26
+已知：如图， 在 $\triangle ABC$ 中， $\angle ACB = 90 \degree$ ， $AC=BC$ ，点 $D$ 是边 $AB$ 上的一动点，
+过点 $A$ 作 $AE \perp AB$ ， 联结 $CE$ 、 $DE$ , $DE$ 与 $AC$ 相交于点 $F$ 。
+
+#+begin_src latex
+\begin{tikzpicture}
+  \coordinate (A) at (0, 2);
+  \coordinate (C) at (0, 0);
+  \coordinate (B) at (2, 0);
+  \coordinate (D) at ($(A)!.7!(B)$);
+  \coordinate (E) at ($($(B)!2!(C)$)!.7!(A)$);
+
+  % \draw[->](0,-1)--(0,3);
+
+  \draw (A) -- (B) -- (C) -- cycle
+    (A) -- (E) -- (D) -- (C) -- (E)
+    ;
+
+  \foreach \i/\angle in {A/90, B/0, C/-135, D/45, E/180 } {
+    \node[dot, label={[dot label]\angle:$\i$}] at (\i) {};
+  }
+\end{tikzpicture}
+#+end_src
+
+#+latex: \begin{parts}
+\part 猜想 $\triangle DCE$ 的形状并给予证明。
+
+#+begin_src latex
+\begin{solution}[1in]
+\[
+   \begin{aligned}
+   & \because AB = AC, \triangle ACB = 90 \degree \\
+   & \therefore \triangle ABC \mbox{为等腰直角三角形} \\
+   & \therefore \angle ABC = 45 \degree = \triangle CAB \\
+   & \because AE \perp AB \mbox{即} \angle EAB = 90 \degree \\
+   & \therefore \angle EAC = 45 \degree \\
+   & \mbox{在} \triangle EAC \mbox{和} \triangle DBC \mbox{中} \\
+   & \begin{cases}
+       EA = DB \\
+       \angle EAC = \angle DBC \\
+       AC = BC
+     \end{cases} \\
+   & \therefore \angle EAC \cong \angle DBC \\
+   & \therefore CE = CD \\
+   & \angle ACE = \angle BCD \\
+   & \because \angle ACD + \angle BCD = 90 \degree \\
+   & \therefore \angle ECD = 90 \degree \\
+   & \mbox{即} \angle CED \mbox{为等腰直角三角形}
+   \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+\part 设 $BD=x$ ， 若 $AC=1$ ， $BC=1$ ， $AB=\sqrt{2}$ ， 试探究： $x$ 为何值时，能使 $\triangle AEF$ 是等腰三角形。
+
+#+begin_src latex
+\textcircled{1}
+\begin{solution}[1in]
+\[
+   \begin{aligned}
+   & AE = AF
+   \end{aligned}
+\]
+\textcircled{1}
+\[
+   \begin{aligned}
+   & AE = AF
+   \end{aligned}
+\]
+\end{solution}
+#+end_src
+
+#+latex: \end{parts}
 
 * 专项练习
 ** 正比例函数和反比例函数

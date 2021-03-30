@@ -374,7 +374,7 @@
     :ERROR:    1
     :END:
 \fillin[America /ə'merikə/]
-- n.  美国；美洲
+- n. 美国(U.S.A.);美洲
 *** American
 \fillin[American  /ə'merikon/]
 - adj. 美国（人）的； 美洲（人）的
@@ -1030,8 +1030,8 @@
 \fillin[bite /bait/]
 - v. 咬；叮
 :EXAMPLE:
-  - (bit, bit /bit/; bit, bitten/'brtn/)
-  - A dog bit the kid. =The kid was bit /bittenby a dog. 一只狗咬了那孩子。
+  - (bit, bitten/'brtn/)
+  - A dog bit the kid. =The kid was bitten by a dog. 一只狗咬了那孩子。
 :END:
 *** black
 \fillin[black /blæk/]
@@ -1236,7 +1236,7 @@
 :END:
 *** bright
 \fillin[bright /brait/]
-- adj. 明亮的；聪明的
+- adj. 明亮的；聪明的；灿烂的；
 *** bring
 \fillin[bring /brin/]
 - v.  (给···)带来
@@ -1246,12 +1246,18 @@
   - Bring / +Take+ some food here.  带来
   - +Bring+ / Take some food there. 拿走
 :END:
+*** Briton
+    :PROPERTIES:
+    :added: 2020
+    :END:
+\fillin[Briton]
+- n. 英国人
 *** Britain
     :PROPERTIES:
     :ERROR:    1
     :END:
 \fillin[Britain /'britn/]
-- n. 不列颠；英国
+- n. 英国 +不列颠+
 *** British
     :PROPERTIES:
     :ERROR:    1
@@ -3765,7 +3771,7 @@
 \fillin[forget /fə'get/]
 - v. 忘记；忘掉
 :EXAMPLE:
-  - (forgot,forgot/forgotten)
+  - (forgot, +forgot+ /forgotten)
   - ~ to do sth 忘记（将要做的）
   - ~ doing sth 忘记（曾经做过的）
 :END:
@@ -7667,3 +7673,196 @@
   - This house is for ~. 此房待售。
   - Most goods are on ~ at Christmas.多数
 :END:
+
+* 新增词汇
+**  2018 新增词
+*** affect
+\fillin[affect]
+- v. 影响
+*** arrival
+\fillin[arrival]
+-  n. 到达
+*** beauty
+\fillin[beauty]
+-  n. 美
+*** bright
+\fillin[bright]
+- 加词条灿烂
+*** creative
+\fillin[creative]
+- adj. 创造性的，有创意的
+*** departure
+\fillin[departure]
+- n. 离开
+*** download
+\fillin[download]
+- v. 下载
+*** exist
+\fillin[exist]
+- v. 存在
+*** fog
+\fillin[fog]
+- n. 雾
+*** forgive
+\fillin[forgive]
+- v. 原谅，饶恕
+*** form
+\fillin[form]
+- n. 形式
+*** mood
+\fillin[mood]
+- n. 心情， 语气，气氛
+*** probable
+\fillin[probable]
+- adj. 可能的，大概的
+*** quality
+\fillin[quality]
+- n. 质量
+*** recycle
+\fillin[recycle]
+- v. 回收利用; 使再循环
+*** release
+\fillin[release]
+- v. & n. 释放，排放
+*** schedule
+\fillin[schedule]
+- n. 时间表
+*** trust
+\fillin[trust]
+- n. & v. 信任，相信
+*** web
+\fillin[web]
+- n. 网， 网状物
+*** work
+\fillin[work] 
+- 加词条 作品
+*** as long as
+\fillin[as long as]
+- 只要
+*** be supposed to
+\fillin[be supposed to]
+- 应该，被期望
+*** even if
+\fillin[even if]
+- 哪怕; 虽然; 即使，纵然
+*** focus on
+\fillin[focus on]
+- 聚焦于
+*** in brief
+\fillin[in brief]
+- 简而言之
+*** take action
+\fillin[take action]
+- 采取行动
+*** tour guide
+\fillin[tour guide]
+- 导游
+
+** 2020 中考新增
+*** strawberry
+\fillin[strawberry]
+- n. 草莓
+*** grape
+\fillin[grape]
+- n. 葡萄
+*** instruction
+\fillin[instruction]
+- n. 指令，命令;指示;教导;用法说明
+*** forgive
+\fillin[forgive]
+- v. 原谅;宽恕
+*** super
+\fillin[super]
+- adj. 超级的;极好的;特级的
+*** confidence
+\fillin[confidence]
+- n. 自信心;信任
+*** stress
+\fillin[stress]
+- n. 压力;紧张;强调;
+- v. 加压力于;使紧张;强调
+*** salty
+\fillin[salty]
+- adj. 咸的;含盐的
+*** explore
+\fillin[explore]
+- v. 探索;探测
+*** adventure
+\fillin[adventure]
+- n. 冒险;冒险经历;冒险精神
+- v. 冒险
+*** value
+\fillin[value]
+- n. 价值;价格
+*** ignore
+\fillin[ignore]
+- v. 忽视;不理睬
+*** harmful
+\fillin[harmful]
+- adj. 有害的;能造成损害的
+*** bathroom
+\fillin[bathroom]
+- n. 浴室;厕所;盥洗室
+*** entertainment
+\fillin[entertainment]
+- n. 娱乐;消遣;款待
+*** challenge
+\fillin[challenge]
+- n. 挑战;质疑
+*** professional
+\fillin[professional]
+- adj. 专业的;职业的
+- n. 专业人员;职业运动员
+*** truck
+\fillin[truck]
+- n. 卡车;货车
+*** style
+\fillin[style]
+- n. 风格;时尚;类型
+*** advise
+\fillin[advise]
+- v. 建议;劝告，忠告
+** 增加词组2个
+*** go hiking
+\fillin[go hiking]
+- 去远足;去徒步旅行
+*** go sailing
+\fillin[go sailing]
+- 去航海，去航行
+**  原有单词补充词条释义
+*** face
+\fillin[face]
+- v. 面对
+*** fair
+\fillin[fair]
+- n. 集市
+*** hot
+\fillin[hot]
+- adj. 辣的
+*** item
+\fillin[item]
+- n.一件商品(物品);一则
+*** journey
+\fillin[journey]
+- n. 旅程
+*** mean
+\fillin[mean]
+- adj. 刻薄的
+*** model
+\fillin[model] 模特
+*** release
+\fillin[release]
+- n. & v. 发行，发表
+*** waste
+\fillin[waste]
+- n. 垃圾
+** 完善及修改
+*** subway
+\fillin[subway]
+ 补充在 underground 后面
+
+** 删减单词或过去分词不常用的形式
+3. show (showed, shown 或 showed, showed)
+4. dumpling n.馄饨;汤圆
+5. rob v. 抢夺，抢劫
+6. robbery n. 抢劫

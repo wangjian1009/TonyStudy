@@ -1,0 +1,655 @@
+#+TITLE: 2021年暑假安排
+:PROPERTIES:
+#+SEQ_TODO: TODO(t) INPROGRESS(p) | DONE(d) ABORT(a@/!)
+#+TAGS:
+#+TAGS: 待安排
+#+STARTUP: logdrawer
+#+STARTUP: content
+#+STARTUP: hidestars
+#+STARTUP: indent
+#+CATEGORY: 牛牛
+:END:
+
+* [13/41] 蓄水池
+:PROPERTIES:
+:COOKIE_DATA: todo recursive
+:END:
+** [2/2] 蓄水池 1  
+*** DONE 蓄水池 1 上课
+SCHEDULED: <2021-07-04 Sun>
+*** DONE 蓄水池 1 作业
+SCHEDULED: <2021-07-04 Sun>
+** [2/2] 蓄水池 2
+*** DONE 蓄水池 2 上课
+SCHEDULED: <2021-07-05 Mon>
+*** DONE 蓄水池 2 作业
+SCHEDULED: <2021-07-05 Mon>
+** [2/2] 蓄水池 3
+*** DONE 蓄水池 3 上课
+SCHEDULED: <2021-07-07 Wed>
+*** DONE 蓄水池 3 作业
+SCHEDULED: <2021-07-07 Wed>
+** [2/2] 蓄水池 4
+*** DONE 蓄水池 4 上课
+SCHEDULED: <2021-07-09 Fri>
+*** DONE 蓄水池 4 作业
+SCHEDULED: <2021-07-09 Fri>
+** [2/2] 蓄水池 5
+*** DONE 蓄水池 5 上课
+SCHEDULED: <2021-07-11 Sun>
+*** DONE 蓄水池 5 作业
+SCHEDULED: <2021-07-11 Sun>
+** [2/2] 蓄水池 6
+*** DONE 蓄水池 6 上课
+SCHEDULED: <2021-07-12 Mon>
+*** DONE 蓄水池 6 作业
+SCHEDULED: <2021-07-12 Mon>
+** [1/2] 蓄水池 7
+*** DONE 蓄水池 7 上课
+SCHEDULED: <2021-07-14 Wed>
+*** TODO 蓄水池 7 作业
+SCHEDULED: <2021-07-15 Thu>
+** TODO 蓄水池 8
+*** TODO 蓄水池 8 上课
+SCHEDULED: <2021-07-16 Fri>
+*** TODO 蓄水池 8 作业
+SCHEDULED: <2021-07-16 Fri>
+** TODO 蓄水池 9
+*** TODO 蓄水池 9 上课
+SCHEDULED: <2021-07-18 Sun>
+*** TODO 蓄水池 9 作业
+SCHEDULED: <2021-07-18 Sun>
+** TODO 蓄水池 10
+*** TODO 蓄水池 10 上课
+*** TODO 蓄水池 10 作业
+   SCHEDULED: <2021-07-19 Mon>
+** TODO 蓄水池 11
+*** TODO 蓄水池 11 上课
+SCHEDULED: <2021-07-21 Wed>
+*** TODO 蓄水池 11 作业
+SCHEDULED: <2021-07-21 Wed>
+** TODO 蓄水池 12
+*** TODO 蓄水池 12 上课
+SCHEDULED: <2021-07-23 Fri>
+*** TODO 蓄水池 12 作业
+SCHEDULED: <2021-07-23 Fri>
+** TODO 蓄水池 13
+*** TODO 蓄水池 13 上课
+SCHEDULED: <2021-07-25 Sun>
+*** TODO 蓄水池 13 作业
+SCHEDULED: <2021-07-25 Sun>
+** TODO 蓄水池 14
+*** TODO 蓄水池 14 上课
+SCHEDULED: <2021-07-26 Mon>
+*** TODO 蓄水池 14 作业
+SCHEDULED: <2021-07-26 Mon>
+** TODO 蓄水池 15
+*** TODO 蓄水池 15 上课
+SCHEDULED: <2021-07-28 Wed>
+*** TODO 蓄水池 15 作业
+SCHEDULED: <2021-07-28 Wed>
+** TODO 蓄水池 16
+*** TODO 蓄水池 16 上课
+SCHEDULED: <2021-07-30 Fri>
+*** TODO 蓄水池 16 作业
+SCHEDULED: <2021-07-30 Fri>
+* [5/56] 格物
+:PROPERTIES:
+:COOKIE_DATA: todo recursive
+:END:
+** [4/32] 数学
+*** [1/2] 格物 数学 1 @ 7-2
+**** DONE 格物 数学 1 - 回看
+SCHEDULED: <2021-07-03 Sat>
+**** TODO 格物 数学 1 - 作业
+SCHEDULED: <2021-08-03 Tue>
+*** [1/2] 格物 数学 2 @ 7-4
+**** DONE 格物 数学 2 - 回看
+SCHEDULED: <2021-07-06 Tue>
+**** TODO 格物 数学 2 - 作业
+SCHEDULED: <2021-07-17 Sat>
+*** [1/2] 格物 数学 3 @ 7-7
+**** DONE 格物 数学 3 - 回看
+SCHEDULED: <2021-07-08 Thu>
+**** TODO 格物 数学 3 - 作业
+SCHEDULED: <2021-07-20 Tue>
+*** [1/2] 格物 数学 4 @ 7-9
+**** DONE 格物 数学 4 - 回看
+SCHEDULED: <2021-07-10 Sat>
+**** TODO 格物 数学 4 - 作业
+SCHEDULED: <2021-07-22 Thu>
+*** [0/2] 格物 数学 5 @ 7-11
+**** TODO 格物 数学 5 - 回看
+SCHEDULED: <2021-07-17 Sat>
+**** TODO 格物 数学 5 - 作业
+SCHEDULED: <2021-07-17 Sat>
+*** [0/2] 格物 数学 6 @ 7-14
+**** TODO 格物 数学 6 - 回看
+SCHEDULED: <2021-07-15 Thu>
+**** TODO 格物 数学 6 - 作业
+SCHEDULED: <2021-07-15 Thu>
+*** [0/2] 格物 数学 7 @ 7-16
+**** TODO 格物 数学 7 - 回看
+SCHEDULED: <2021-07-17 Sat>
+**** TODO 格物 数学 7 - 作业
+SCHEDULED: <2021-07-17 Sat>
+*** [0/2] 格物 数学 8 @ 7-18
+**** TODO 格物 数学 8 - 回看
+SCHEDULED: <2021-07-20 Tue>
+**** TODO 格物 数学 8 - 作业
+SCHEDULED: <2021-07-20 Tue>
+*** [0/2] 格物 数学 9 @ 7-21
+**** TODO 格物 数学 9 - 回看
+SCHEDULED: <2021-07-22 Thu>
+**** TODO 格物 数学 9 - 作业
+SCHEDULED: <2021-07-22 Thu>
+*** [0/2] 格物 数学 10 @ 7-23
+**** TODO 格物 数学 10 - 回看
+SCHEDULED: <2021-07-24 Sat>
+**** TODO 格物 数学 10 - 作业
+SCHEDULED: <2021-07-24 Sat>
+*** [0/2] 格物 数学 11 @ 7-25
+**** TODO 格物 数学 11 - 回看
+SCHEDULED: <2021-07-27 Tue>
+**** TODO 格物 数学 11 - 作业
+SCHEDULED: <2021-07-27 Tue>
+*** [0/2] 格物 数学 12 @ 7-28
+**** TODO 格物 数学 12 - 回看
+SCHEDULED: <2021-07-29 Thu>
+**** TODO 格物 数学 12 - 作业
+SCHEDULED: <2021-07-29 Thu>
+*** [0/2] 格物 数学 13 @ 7-30
+**** TODO 格物 数学 13 - 回看
+SCHEDULED: <2021-07-31 Sat>
+**** TODO 格物 数学 13 - 作业
+SCHEDULED: <2021-07-31 Sat>
+*** [0/2] 格物 数学 14 @ 8-1
+**** TODO 格物 数学 14 - 上课
+SCHEDULED: <2021-08-01 Sun>
+**** TODO 格物 数学 14 - 作业
+SCHEDULED: <2021-08-02 Mon>
+*** [0/2] 格物 数学 15 @ 8-4
+**** TODO 格物 数学 15 - 上课
+SCHEDULED: <2021-08-04 Wed>
+**** TODO 格物 数学 15 - 作业
+SCHEDULED: <2021-08-05 Thu>
+*** [0/2] 格物 数学 16 @ 8-6
+**** TODO 格物 数学 16 - 上课
+SCHEDULED: <2021-08-06 Fri>
+**** TODO 格物 数学 16 - 作业
+SCHEDULED: <2021-08-07 Sat>
+** [1/24] 物理
+*** [1/2] 格物 物理 1 @ 7-11
+**** DONE 格物 物理 1 - 回看
+SCHEDULED: <2021-07-13 Tue>
+**** TODO 格物 物理 1 - 作业
+SCHEDULED: <2021-07-15 Thu>
+*** [0/2] 格物 物理 2 @ 7-14
+**** TODO 格物 物理 2 - 回看
+SCHEDULED: <2021-07-15 Thu>
+**** TODO 格物 物理 2 - 作业
+SCHEDULED: <2021-07-15 Thu>
+*** [0/2] 格物 物理 3 @ 7-16
+**** TODO 格物 物理 3 - 回看
+SCHEDULED: <2021-07-17 Sat>
+**** TODO 格物 物理 3 - 作业
+SCHEDULED: <2021-07-17 Sat>
+*** [0/2] 格物 物理 4 @ 7-18
+**** TODO 格物 物理 4 - 回看
+SCHEDULED: <2021-07-20 Tue>
+**** TODO 格物 物理 4 - 作业
+SCHEDULED: <2021-07-20 Tue>
+*** [0/2] 格物 物理 5 @ 7-21
+**** TODO 格物 物理 5 - 回看
+SCHEDULED: <2021-07-22 Thu>
+**** TODO 格物 物理 5 - 作业
+SCHEDULED: <2021-07-22 Thu>
+*** [0/2] 格物 物理 6 @ 7-23
+**** TODO 格物 物理 6 - 回看
+SCHEDULED: <2021-07-24 Sat>
+**** TODO 格物 物理 6 - 作业
+SCHEDULED: <2021-07-24 Sat>
+*** [0/2] 格物 物理 7 @ 7-25
+**** TODO 格物 物理 7 - 回看
+SCHEDULED: <2021-07-27 Tue>
+**** TODO 格物 物理 7 - 作业
+SCHEDULED: <2021-07-27 Tue>
+*** [0/2] 格物 物理 8 @ 7-28
+**** TODO 格物 物理 8 - 回看
+SCHEDULED: <2021-07-29 Thu>
+**** TODO 格物 物理 8 - 作业
+SCHEDULED: <2021-07-22 Thu>
+*** [0/2] 格物 物理 9 @ 7-30
+**** TODO 格物 物理 9 - 回看
+SCHEDULED: <2021-07-31 Sat>
+**** TODO 格物 物理 9 - 作业
+SCHEDULED: <2021-07-31 Sat>
+*** [0/2] 格物 物理 10 @ 8-1
+**** TODO 格物 物理 10 - 上课
+SCHEDULED: <2021-08-01 Sun>
+**** TODO 格物 物理 10 - 作业
+SCHEDULED: <2021-08-01 Sun>
+*** [0/2] 格物 物理 11 @ 8-4
+**** TODO 格物 物理 11 - 上课
+SCHEDULED: <2021-08-04 Wed>
+**** TODO 格物 物理 11 - 作业
+SCHEDULED: <2021-08-04 Wed>
+*** [0/2] 格物 物理 12 @ 8-6
+**** TODO 格物 物理 12 - 上课
+SCHEDULED: <2021-08-06 Fri>
+**** TODO 格物 物理 12 - 作业
+SCHEDULED: <2021-08-06 Fri>
+* [0/1] 英语网课
+** TODO VIP Kid  @ 7-15
+SCHEDULED: <2021-07-15 Thu>
+* [48/203] 暑假作业
+:PROPERTIES:
+:COOKIE_DATA: todo recursive
+:END:
+** [12/56] 语文
+*** [6/16] 模卷
+**** DONE 语文模卷 1
+SCHEDULED: <2021-07-01 Thu>
+**** DONE 语文模卷 2
+SCHEDULED: <2021-07-04 Sun>
+**** DONE 语文模卷 3
+SCHEDULED: <2021-07-07 Wed>
+**** DONE 语文模卷 4
+SCHEDULED: <2021-07-10 Sat>
+**** DONE 语文模卷 5
+SCHEDULED: <2021-07-13 Tue>
+**** DONE 语文模卷 6
+SCHEDULED: <2021-07-15 Thu>
+**** TODO 语文模卷 7
+SCHEDULED: <2021-07-17 Sat>
+**** TODO 语文模卷 8
+SCHEDULED: <2021-07-20 Tue>
+**** TODO 语文模卷 9
+SCHEDULED: <2021-08-02 Mon>
+**** TODO 语文模卷 10
+SCHEDULED: <2021-08-03 Tue>
+**** TODO 语文模卷 11
+SCHEDULED: <2021-08-05 Thu>
+**** TODO 语文模卷 12
+SCHEDULED: <2021-08-07 Sat>
+**** TODO 语文模卷 13
+SCHEDULED: <2021-08-09 Mon>
+**** TODO 语文模卷 14
+SCHEDULED: <2021-08-11 Wed>
+**** TODO 语文模卷 15
+SCHEDULED: <2021-08-13 Fri>
+**** TODO 语文模卷 16
+SCHEDULED: <2021-08-15 Sun>
+*** [3/32] 背诵
+**** [1/2] 语文背诵 1
+***** DONE 语文背诵 1 - 视频
+***** TODO 语文背诵 1 - 默写
+SCHEDULED: <2021-07-15 Thu>
+**** [1/2] 语文背诵 2
+***** DONE 语文背诵 2 - 视频
+***** TODO 语文背诵 2 - 默写
+SCHEDULED: <2021-07-15 Thu>
+**** [1/2] 语文背诵 3
+***** DONE 语文背诵 3 - 视频
+***** TODO 语文背诵 3 - 默写
+SCHEDULED: <2021-07-15 Thu>
+**** [0/2] 语文背诵 4
+***** TODO 语文背诵 4 - 视频
+SCHEDULED: <2021-07-20 Tue>
+***** TODO 语文背诵 4 - 默写
+SCHEDULED: <2021-07-20 Tue>
+**** [0/2] 语文背诵 5
+***** TODO 语文背诵 5 - 视频
+SCHEDULED: <2021-07-24 Sat>
+***** TODO 语文背诵 5 - 默写
+SCHEDULED: <2021-07-24 Sat>
+**** [0/2] 语文背诵 6
+***** TODO 语文背诵 6 - 视频
+SCHEDULED: <2021-07-27 Tue>
+***** TODO 语文背诵 6 - 默写
+SCHEDULED: <2021-07-27 Tue>
+**** [0/2] 语文背诵 7
+***** TODO 语文背诵 7 - 视频
+SCHEDULED: <2021-07-31 Sat>
+***** TODO 语文背诵 7 - 默写
+SCHEDULED: <2021-07-31 Sat>
+**** [0/2] 语文背诵 8
+***** TODO 语文背诵 8 - 视频
+SCHEDULED: <2021-08-03 Tue>
+***** TODO 语文背诵 8 - 默写
+SCHEDULED: <2021-08-03 Tue>
+**** [0/2] 语文背诵 9
+***** TODO 语文背诵 9 - 视频
+SCHEDULED: <2021-08-07 Sat>
+***** TODO 语文背诵 9 - 默写
+SCHEDULED: <2021-08-07 Sat>
+**** [0/2] 语文背诵 10
+***** TODO 语文背诵 10 - 视频
+SCHEDULED: <2021-08-10 Tue>
+***** TODO 语文背诵 10 - 默写
+SCHEDULED: <2021-08-10 Tue>
+**** [0/2] 语文背诵 11
+***** TODO 语文背诵 11 - 视频
+SCHEDULED: <2021-08-12 Thu>
+***** TODO 语文背诵 11 - 默写
+SCHEDULED: <2021-08-12 Thu>
+**** [0/2] 语文背诵 12
+***** TODO 语文背诵 12 - 视频
+SCHEDULED: <2021-08-14 Sat>
+***** TODO 语文背诵 12 - 默写
+SCHEDULED: <2021-08-14 Sat>
+**** [0/2] 语文背诵 13
+***** TODO 语文背诵 13 - 视频
+SCHEDULED: <2021-08-17 Tue>
+***** TODO 语文背诵 13 - 默写
+SCHEDULED: <2021-08-17 Tue>
+**** [0/2] 语文背诵 14
+***** TODO 语文背诵 14 - 视频
+SCHEDULED: <2021-08-19 Thu>
+***** TODO 语文背诵 14 - 默写
+SCHEDULED: <2021-08-19 Thu>
+**** [0/2] 语文背诵 15
+***** TODO 语文背诵 15 - 视频
+SCHEDULED: <2021-08-21 Sat>
+***** TODO 语文背诵 15 - 默写
+SCHEDULED: <2021-08-21 Sat>
+**** [0/2] 语文背诵 16
+***** TODO 语文背诵 16 - 视频
+SCHEDULED: <2021-08-24 Tue>
+***** TODO 语文背诵 16 - 默写
+SCHEDULED: <2021-08-24 Tue>
+*** [2/5] 作文素材
+**** DONE 作文素材 1
+SCHEDULED: <2021-07-14 Wed>
+**** DONE 作文素材 2
+SCHEDULED: <2021-07-14 Wed>
+**** TODO 作文素材 3
+SCHEDULED: <2021-08-03 Tue>
+**** TODO 作文素材 4
+SCHEDULED: <2021-08-10 Tue>
+**** TODO 作文素材 5
+SCHEDULED: <2021-08-17 Tue>
+*** [1/3] 语文作文
+**** DONE 语文作文 1
+SCHEDULED: <2021-07-14 Wed>
+**** TODO 语文作文 2
+SCHEDULED: <2021-08-09 Mon>
+**** TODO 语文作文 3
+SCHEDULED: <2021-08-16 Mon>
+** [0/29] 数学
+*** TODO 数学 1
+SCHEDULED: <2021-08-02 Mon>
+*** TODO 数学 2
+SCHEDULED: <2021-08-03 Tue>
+*** TODO 数学 3
+SCHEDULED: <2021-08-04 Wed>
+*** TODO 数学 4
+SCHEDULED: <2021-08-05 Thu>
+*** TODO 数学 5
+SCHEDULED: <2021-08-06 Fri>
+*** TODO 数学 6
+SCHEDULED: <2021-08-07 Sat>
+*** TODO 数学 7
+SCHEDULED: <2021-08-08 Sun>
+*** TODO 数学 8
+SCHEDULED: <2021-08-09 Mon>
+*** TODO 数学 9
+SCHEDULED: <2021-08-10 Tue>
+*** TODO 数学 10
+SCHEDULED: <2021-08-11 Wed>
+*** TODO 数学 11
+SCHEDULED: <2021-08-12 Thu>
+*** TODO 数学 12
+SCHEDULED: <2021-08-13 Fri>
+*** TODO 数学 13
+SCHEDULED: <2021-08-14 Sat>
+*** TODO 数学 14
+SCHEDULED: <2021-08-15 Sun>
+*** TODO 数学 15
+SCHEDULED: <2021-08-16 Mon>
+*** TODO 数学 16
+SCHEDULED: <2021-08-17 Tue>
+*** TODO 数学 17
+SCHEDULED: <2021-08-18 Wed>
+*** TODO 数学 18
+SCHEDULED: <2021-08-19 Thu>
+*** TODO 数学 19
+SCHEDULED: <2021-08-20 Fri>
+*** TODO 数学 20
+SCHEDULED: <2021-08-21 Sat>
+*** TODO 数学 21
+SCHEDULED: <2021-08-22 Sun>
+*** TODO 数学 22
+SCHEDULED: <2021-08-23 Mon>
+*** TODO 数学 23
+SCHEDULED: <2021-08-24 Tue>
+*** TODO 数学 24
+SCHEDULED: <2021-08-25 Wed>
+*** TODO 数学 25
+SCHEDULED: <2021-08-26 Thu>
+*** TODO 数学 26
+SCHEDULED: <2021-08-27 Fri>
+*** TODO 数学 27
+SCHEDULED: <2021-08-28 Sat>
+*** TODO 数学 28
+SCHEDULED: <2021-08-29 Sun>
+*** TODO 数学 29
+SCHEDULED: <2021-08-30 Mon>
+** [16/50] 英语
+*** [7/27] SSP
+**** DONE SSP 3页 - 1
+SCHEDULED: <2021-07-02 Fri>
+**** DONE SSP 3页 - 2
+SCHEDULED: <2021-07-04 Sun>
+**** DONE SSP 3页 - 3
+SCHEDULED: <2021-07-06 Tue>
+**** DONE SSP 3页 - 4
+SCHEDULED: <2021-07-08 Thu>
+**** DONE SSP 3页 - 5
+SCHEDULED: <2021-07-10 Sat>
+**** DONE SSP 3页 - 6
+SCHEDULED: <2021-07-12 Mon>
+**** DONE SSP 3页 - 7
+SCHEDULED: <2021-07-14 Wed>
+**** TODO SSP 3页 - 8
+SCHEDULED: <2021-07-16 Fri>
+**** TODO SSP 3页 - 9
+SCHEDULED: <2021-07-18 Sun>
+**** TODO SSP 3页 - 10
+SCHEDULED: <2021-07-20 Tue>
+**** TODO SSP 3页 - 11
+SCHEDULED: <2021-07-22 Thu>
+**** TODO SSP 3页 - 12
+SCHEDULED: <2021-07-24 Sat>
+**** TODO SSP 3页 - 13
+SCHEDULED: <2021-07-26 Mon>
+**** TODO SSP 3页 - 14
+SCHEDULED: <2021-07-28 Wed>
+**** TODO SSP 3页 - 15
+SCHEDULED: <2021-07-30 Fri>
+**** TODO SSP 3页 - 16
+SCHEDULED: <2021-08-01 Sun>
+**** TODO SSP 3页 - 17
+SCHEDULED: <2021-08-03 Tue>
+**** TODO SSP 3页 - 18
+SCHEDULED: <2021-08-05 Thu>
+**** TODO SSP 3页 - 19
+SCHEDULED: <2021-08-07 Sat>
+**** TODO SSP 3页 - 20
+SCHEDULED: <2021-08-09 Mon>
+**** TODO SSP 3页 - 21
+SCHEDULED: <2021-08-11 Wed>
+**** TODO SSP 3页 - 22
+SCHEDULED: <2021-08-13 Fri>
+**** TODO SSP 3页 - 23
+SCHEDULED: <2021-08-15 Sun>
+**** TODO SSP 3页 - 24
+SCHEDULED: <2021-08-17 Tue>
+**** TODO SSP 3页 - 25
+SCHEDULED: <2021-08-19 Thu>
+**** TODO SSP 3页 - 26
+SCHEDULED: <2021-08-21 Sat>
+**** TODO SSP 3页 - 27
+SCHEDULED: <2021-08-23 Mon>
+*** [2/2] 听力
+**** DONE 英语听力 1
+**** DONE 英语听力 2
+*** [2/2] 口语
+**** DONE 英语口语 1
+**** DONE 英语口语 2
+*** [1/2] 背诵
+**** DONE 英语背诵 1
+SCHEDULED: <2021-07-13 Tue>
+**** TODO 英语背诵 2
+SCHEDULED: <2021-07-24 Sat>
+*** [0/2] 作文
+**** TODO 英语作文 1
+SCHEDULED: <2021-08-15 Sun>
+**** TODO 英语作文 2
+SCHEDULED: <2021-08-24 Tue>
+*** [4/15] 深蓝
+**** DONE 深蓝 1
+**** DONE 深蓝 2
+**** DONE 深蓝 3
+**** DONE 深蓝 4
+**** TODO 深蓝 5
+SCHEDULED: <2021-07-17 Sat>
+**** TODO 深蓝 6
+SCHEDULED: <2021-07-20 Tue>
+**** TODO 深蓝 7
+SCHEDULED: <2021-07-22 Thu>
+**** TODO 深蓝 8
+SCHEDULED: <2021-07-24 Sat>
+**** TODO 深蓝 9
+SCHEDULED: <2021-07-27 Tue>
+**** TODO 深蓝 10
+SCHEDULED: <2021-07-29 Thu>
+**** TODO 深蓝 11
+SCHEDULED: <2021-07-31 Sat>
+**** TODO 深蓝 12
+SCHEDULED: <2021-08-02 Mon>
+**** TODO 深蓝 13
+SCHEDULED: <2021-08-03 Tue>
+**** TODO 深蓝 14
+SCHEDULED: <2021-08-05 Thu>
+**** TODO 深蓝 15
+SCHEDULED: <2021-08-07 Sat>
+** [9/18] 物理
+*** DONE 物理1
+*** DONE 物理2
+*** DONE 物理3
+*** DONE 物理4
+*** DONE 物理5
+*** DONE 物理6
+*** DONE 物理7
+*** DONE 物理8
+*** DONE 物理9
+*** TODO 物理10
+SCHEDULED: <2021-08-09 Mon>
+*** TODO 物理11
+SCHEDULED: <2021-08-10 Tue>
+*** TODO 物理12
+SCHEDULED: <2021-08-11 Wed>
+*** TODO 物理13
+SCHEDULED: <2021-08-12 Thu>
+*** TODO 物理14
+SCHEDULED: <2021-08-13 Fri>
+*** TODO 物理15
+SCHEDULED: <2021-08-14 Sat>
+*** TODO 物理16
+SCHEDULED: <2021-08-15 Sun>
+*** TODO 物理17
+SCHEDULED: <2021-08-16 Mon>
+*** TODO 物理18
+SCHEDULED: <2021-08-17 Tue>
+** [11/32] 化学
+*** DONE 化学1
+*** DONE 化学2
+*** DONE 化学3
+*** DONE 化学4
+*** DONE 化学5
+*** DONE 化学6
+*** DONE 化学7
+*** DONE 化学8
+*** DONE 化学9
+*** DONE 化学10
+*** DONE 化学11
+*** TODO 化学12
+SCHEDULED: <2021-08-02 Mon>
+*** TODO 化学13
+SCHEDULED: <2021-08-03 Tue>
+*** TODO 化学14
+SCHEDULED: <2021-08-05 Thu>
+*** TODO 化学15
+SCHEDULED: <2021-08-07 Sat>
+*** TODO 化学16
+SCHEDULED: <2021-08-09 Mon>
+*** TODO 化学17
+SCHEDULED: <2021-08-10 Tue>
+*** TODO 化学18
+SCHEDULED: <2021-08-11 Wed>
+*** TODO 化学19
+SCHEDULED: <2021-08-12 Thu>
+*** TODO 化学20
+SCHEDULED: <2021-08-13 Fri>
+*** TODO 化学21
+SCHEDULED: <2021-08-14 Sat>
+*** TODO 化学22
+SCHEDULED: <2021-08-15 Sun>
+*** TODO 化学23
+SCHEDULED: <2021-08-16 Mon>
+*** TODO 化学24
+SCHEDULED: <2021-08-17 Tue>
+*** TODO 化学25
+SCHEDULED: <2021-08-18 Wed>
+*** TODO 化学26
+SCHEDULED: <2021-08-19 Thu>
+*** TODO 化学27
+SCHEDULED: <2021-08-20 Fri>
+*** TODO 化学28
+SCHEDULED: <2021-08-21 Sat>
+*** TODO 化学29
+SCHEDULED: <2021-08-22 Sun>
+*** TODO 化学30
+SCHEDULED: <2021-08-23 Mon>
+*** TODO 化学31
+SCHEDULED: <2021-08-24 Tue>
+*** TODO 化学32
+SCHEDULED: <2021-08-25 Wed>
+** [0/18] 暑假生活
+*** TODO 暑假生活 1-1
+SCHEDULED: <2021-08-01 Sun>
+*** TODO 暑假生活 1-2
+SCHEDULED: <2021-08-02 Mon>
+*** TODO 暑假生活 1-3
+SCHEDULED: <2021-08-03 Tue>
+*** TODO 暑假生活 2-1
+SCHEDULED: <2021-08-04 Wed>
+*** TODO 暑假生活 2-2
+SCHEDULED: <2021-08-05 Thu>
+*** TODO 暑假生活 2-3
+SCHEDULED: <2021-08-06 Fri>
+*** TODO 暑假生活 3-1
+SCHEDULED: <2021-08-07 Sat>
+*** TODO 暑假生活 3-2
+SCHEDULED: <2021-08-08 Sun>
+*** TODO 暑假生活 3-3
+SCHEDULED: <2021-08-09 Mon>
+*** TODO 暑假生活 4-1
+SCHEDULED: <2021-08-10 Tue>
+*** TODO 暑假生活 4-2
+SCHEDULED: <2021-08-11 Wed>
+*** TODO 暑假生活 4-3
+SCHEDULED: <2021-08-12 Thu>
+*** TODO 暑假生活 5-1
+SCHEDULED: <2021-08-13 Fri>
+*** TODO 暑假生活 5-2
+SCHEDULED: <2021-08-14 Sat>
+*** TODO 暑假生活 5-3
+SCHEDULED: <2021-08-15 Sun>
+*** TODO 暑假生活 6-1
+SCHEDULED: <2021-08-16 Mon>
+*** TODO 暑假生活 6-2
+SCHEDULED: <2021-08-17 Tue>
+*** TODO 暑假生活 6-3
+SCHEDULED: <2021-08-18 Wed>
